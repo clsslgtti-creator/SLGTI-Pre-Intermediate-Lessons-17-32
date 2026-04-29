@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 17,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Mechanical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "r'ea'rview",
+        "word_text": "tier",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The r'ea'rview mirror must be adjusted properly in order to see what’s behind.",
+        "sentence_text": "The engine shouldn’t be above the required emissions tier before final registration.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "t'ie'r",
+        "word_text": "linear",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The engine shouldn’t be above the required emissions t'ie'r before final registration.",
+        "sentence_text": "The linear guide should allow smooth, precise movement of the machine table during operation.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "lin'ea'r",
+        "word_text": "piercing press",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The lin'ea'r guide should ensure smooth and accurate movement of the injector assembly during calibration.",
+        "sentence_text": "The piercing press mustn’t operate without proper guarding in place during sheet-metal punching.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "p'ie'rburg",
+        "word_text": "shearing",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The P'ie'rburg valve mustn’t leak vacuum during engine idle testing.",
+        "sentence_text": "The blade alignment must be correct for the shearing machine to cut evenly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -267,238 +267,238 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "A trainee tries to check the radiator when the engine is hot.",
+            "sentence": "A trainee tries to touch a rotating shaft.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
-              "You must open the radiator cap slowly.",
-              "You mustn’t open the radiator when the engine is hot.",
-              "You shouldn’t ignore traffic signs."
+              "You must touch it carefully.",
+              "You mustn’t touch rotating machine parts.",
+              "You should stand close to a rotating shaft."
             ],
-            "answer": "You mustn’t open the radiator when the engine is hot."
+            "answer": "You mustn’t touch rotating machine parts."
           }
         ],
         "content": [
           {
             "id": "g_b_2",
-            "sentence": "A vehicle is raised on a hydraulic lift.",
+            "sentence": "The cutting tool starts overheating during machining.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
-              "You must engage the safety locks before working underneath.",
-              "You shouldn’t rush the lifting process at the beginning.",
-              "You mustn’t check the lift balance."
+              "You must reduce the cutting speed immediately.",
+              "You should sometimes wear gloves near the machine.",
+              "You mustn’t overheat the cutting tool at the beginning of the task."
             ],
-            "answer": "You must engage the safety locks before working underneath."
+            "answer": "You must reduce the cutting speed immediately."
           },
           {
             "id": "g_b_3",
-            "sentence": "An oil spill is noticed near the service bay.",
+            "sentence": "Metal swarf is scattered on the workshop floor.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
-              "You must leave it until the service is finished.",
-              "You mustn’t leave oil spills on the workshop floor.",
-              "You shouldn’t walk steadily in this area."
+              "You must leave it until the end of the session.",
+              "You mustn’t leave metal swarf on walkways.",
+              "You shouldn’t sweep the area during working hours."
             ],
-            "answer": "You mustn’t leave oil spills on the workshop floor."
+            "answer": "You mustn’t leave metal swarf on walkways."
           },
           {
             "id": "g_b_4",
-            "sentence": "A trainee wants to start the engine inside a closed workshop.",
+            "sentence": "A chuck key is left in the lathe chuck.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
-              "You must increase the engine speed carefully.",
-              "You shouldn’t forget to open windows after you finish the job.",
-              "You mustn’t run the engine in an enclosed area."
+              "You must leave it there for adjustment.",
+              "You shouldn’t remove it too early.",
+              "You mustn’t leave the chuck key in the machine."
             ],
-            "answer": "You mustn’t run the engine in an enclosed area."
+            "answer": "You mustn’t leave the chuck key in the machine."
           },
           {
             "id": "g_b_5",
-            "sentence": "A spanner is left on top of the battery.",
+            "sentence": "A trainee wants to measure a hot workpiece by hand.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
-              "You must keep tools close during inspection.",
-              "You shouldn’t place tools carefully.",
-              "You mustn’t leave metal tools on battery terminals."
+              "You should allow it to cool before measuring.",
+              "You must grip it firmly.",
+              "You mustn’t wait for cooling."
             ],
-            "answer": "You mustn’t leave metal tools on battery terminals."
+            "answer": "You should allow it to cool before measuring."
           },
           {
             "id": "g_b_6",
-            "sentence": "A mechanic prepares to remove a wheel.",
+            "sentence": "The drill press guard is not in position.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
-              "You must loosen the wheel nuts slightly before lifting the vehicle.",
-              "You shouldn’t skip visual checks every week.",
-              "You mustn’t use approved hand tools."
+              "You must start drilling slowly.",
+              "You shouldn’t adjust the guard during work.",
+              "You mustn’t operate the drill press without the safety guard."
             ],
-            "answer": "You must loosen the wheel nuts slightly before lifting the vehicle."
+            "answer": "You mustn’t operate the drill press without the safety guard."
           },
           {
             "id": "g_b_7",
-            "sentence": "A trainee notices damaged electrical wiring near the engine.",
+            "sentence": "A machine makes an unusual noise during operation.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
-              "You must continue to work carefully.",
-              "You mustn’t replace electrical wiring before reporting it to the supervisor.",
-              "You shouldn’t delay reporting the issue necessarily."
+              "You should stop and report the issue.",
+              "You must continue working normally.",
+              "You mustn’t reduce the load."
             ],
-            "answer": "You mustn’t replace electrical wiring before reporting it to the supervisor."
+            "answer": "You should stop and report the issue."
           },
           {
             "id": "g_b_8",
-            "sentence": "An air hose is stretched across the workshop floor.",
+            "sentence": "Loose clothing hangs near a rotating pulley.",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
-              "You must leave it during working hours.",
-              "You shouldn't leave hoses across walkways.",
-              "You mustn’t stretch air hoses."
+              "You mustn’t secure the clothing carefully.",
+              "You should ignore safety notices.",
+              "You mustn’t hang loose clothing near rotating machinery."
             ],
-            "answer": "You shouldn't leave hoses across walkways."
+            "answer": "You mustn’t hang loose clothing near rotating machinery."
           },
           {
             "id": "g_b_9",
-            "sentence": "A trainee wants to clean parts using petrol.",
+            "sentence": "Cutting tools are placed close to the edge of the bench.",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
-              "You must use petrol for quick cleaning.",
-              "You shouldn’t wear gloves for this task.",
-              "You mustn’t use petrol for cleaning vehicle parts."
+              "You must leave them for easy access.",
+              "You shouldn’t place tools near the edge of the bench.",
+              "You mustn’t return tools after use."
             ],
-            "answer": "You mustn’t use petrol for cleaning vehicle parts."
+            "answer": "You shouldn’t place tools near the edge of the bench."
           },
           {
             "id": "g_b_10",
-            "sentence": "The torque wrench clicks during tightening.",
+            "sentence": "A press reaches the specified pressure limit.",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
-              "You must stop tightening once the wrench clicks.",
-              "You shouldn’t apply sudden force with warning.",
-              "You mustn’t follow torque specifications."
+              "You must stop applying force immediately.",
+              "You shouldn’t monitor the pressure gauge.",
+              "You mustn’t follow operating limits."
             ],
-            "answer": "You must stop tightening once the wrench clicks."
+            "answer": "You must stop applying force immediately."
           },
           {
             "id": "g_b_11",
-            "sentence": "A trainee works under a vehicle without wheel chocks.",
+            "sentence": "A trainee cleans a machine while it is still connected to power.",
             "audio": "assets/audio/g_b_11.mp3",
             "options": [
-              "You must continue if the handbrake is applied.",
-              "You mustn’t work under a vehicle without wheel chocks.",
-              "You shouldn’t inspect the undercarriage."
+              "You must work carefully.",
+              "You shouldn’t rush the cleaning task.",
+              "You mustn’t clean machines without isolating the power supply."
             ],
-            "answer": "You mustn’t work under a vehicle without wheel chocks."
+            "answer": "You mustn’t clean machines without isolating the power supply."
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "A trainee tries to check the radiator when the engine is hot.",
+          "text": "A trainee tries to touch a rotating shaft.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_1_a",
-          "text": "You mustn’t open the radiator when the engine is hot.",
+          "text": "You mustn’t touch rotating machine parts.",
           "audio": "assets/audio/g_b_1_a.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "A vehicle is raised on a hydraulic lift.",
+          "text": "The cutting tool starts overheating during machining.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_2_a",
-          "text": "You must engage the safety locks before working underneath.",
+          "text": "You must reduce the cutting speed immediately.",
           "audio": "assets/audio/g_b_2_a.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "An oil spill is noticed near the service bay.",
+          "text": "Metal swarf is scattered on the workshop floor.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_3_a",
-          "text": "You mustn’t leave oil spills on the workshop floor.",
+          "text": "You mustn’t leave metal swarf on walkways.",
           "audio": "assets/audio/g_b_3_a.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "A trainee wants to start the engine inside a closed workshop.",
+          "text": "A chuck key is left in the lathe chuck.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_4_a",
-          "text": "You mustn’t run the engine in an enclosed area.",
+          "text": "You mustn’t leave the chuck key in the machine.",
           "audio": "assets/audio/g_b_4_a.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "A spanner is left on top of the battery.",
+          "text": "A trainee wants to measure a hot workpiece by hand.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_5_a",
-          "text": "You mustn’t leave metal tools on battery terminals.",
+          "text": "You should allow it to cool before measuring.",
           "audio": "assets/audio/g_b_5_a.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "A mechanic prepares to remove a wheel.",
+          "text": "The drill press guard is not in position.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_6_a",
-          "text": "You must loosen the wheel nuts slightly before lifting the vehicle.",
+          "text": "You mustn’t operate the drill press without the safety guard.",
           "audio": "assets/audio/g_b_6_a.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "A trainee notices damaged electrical wiring near the engine.",
+          "text": "A machine makes an unusual noise during operation.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_7_a",
-          "text": "You mustn’t replace electrical wiring before reporting it to the supervisor.",
+          "text": "You should stop and report the issue.",
           "audio": "assets/audio/g_b_7_a.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "An air hose is stretched across the workshop floor.",
+          "text": "Loose clothing hangs near a rotating pulley.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_8_a",
-          "text": "You shouldn't leave hoses across walkways.",
+          "text": "You mustn’t hang loose clothing near rotating machinery.",
           "audio": "assets/audio/g_b_8_a.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "A trainee wants to clean parts using petrol.",
+          "text": "Cutting tools are placed close to the edge of the bench.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_9_a",
-          "text": "You mustn’t use petrol for cleaning vehicle parts.",
+          "text": "You shouldn’t place tools near the edge of the bench.",
           "audio": "assets/audio/g_b_9_a.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "The torque wrench clicks during tightening.",
+          "text": "A press reaches the specified pressure limit.",
           "audio": "assets/audio/g_b_10.mp3"
         },
         {
           "id": "g_b_10_a",
-          "text": "You must stop tightening once the wrench clicks.",
+          "text": "You must stop applying force immediately.",
           "audio": "assets/audio/g_b_10_a.mp3"
         },
         {
           "id": "g_b_11",
-          "text": "A trainee works under a vehicle without wheel chocks.",
+          "text": "A trainee cleans a machine while it is still connected to power.",
           "audio": "assets/audio/g_b_11.mp3"
         },
         {
           "id": "g_b_11_a",
-          "text": "You mustn’t work under a vehicle without wheel chocks.",
+          "text": "You mustn’t clean machines without isolating the power supply.",
           "audio": "assets/audio/g_b_11_a.mp3"
         }
       ]
