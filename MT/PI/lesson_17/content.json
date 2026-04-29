@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "tier",
+        "word_text": "t'ie'r",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The engine shouldn’t be above the required emissions tier before final registration.",
+        "sentence_text": "The engine shouldn’t be above the required emissions t'ie'r before final registration.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "linear",
+        "word_text": "lin'ea'r",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The linear guide should allow smooth, precise movement of the machine table during operation.",
+        "sentence_text": "The lin'ea'r guide should allow smooth, precise movement of the machine table during operation.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "piercing press",
+        "word_text": "p'ie'rcing press",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The piercing press mustn’t operate without proper guarding in place during sheet-metal punching.",
+        "sentence_text": "The p'ie'rcing press mustn’t operate without proper guarding in place during sheet-metal punching.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "shearing",
+        "word_text": "sh'ea'ring",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The blade alignment must be correct for the shearing machine to cut evenly.",
+        "sentence_text": "The blade alignment must be correct for the sh'ea'ring machine to cut evenly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
