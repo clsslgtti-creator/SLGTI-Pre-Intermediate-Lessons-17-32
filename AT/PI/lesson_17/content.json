@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "Diphthong /əʊ/",
+    "focus": "Diphthong /ɪə/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -33,41 +33,41 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pr'o'be",
+        "word_text": "r'ea'rview",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She uses the pr'o'be accurately when testing sensor signals.",
+        "sentence_text": "The r'ea'rview mirror must be adjusted properly in order to see what’s behind.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "l'oa'd bank",
+        "word_text": "t'ie'r",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to run the l'oa'd bank to test alternator output tomorrow.",
+        "sentence_text": "The engine shouldn’t be above the required emissions t'ie'r before final registration.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sm'o'ke tester",
+        "word_text": "lin'ea'r",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The mechanic is using a sm'o'ke tester to find leaks.",
+        "sentence_text": "The lin'ea'r guide should ensure smooth and accurate movement of the injector assembly during calibration.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'ow' bar",
+        "word_text": "p'ie'rburg",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He drove the disabled vehicle from the roadside, using a t'ow' bar.",
+        "sentence_text": "The P'ie'rburg valve mustn’t leak vacuum during engine idle testing.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
   "activity_2": {
-    "type": "SBS-5",
-    "focus": "Revision of tenses",
+    "type": "SBS-3",
+    "focus": "Modal verb Should",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -108,29 +108,38 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "What do you like to do on the weekend?",
-        "text_b": "I like to cook Pakistani food. I usually cook two new dishes every Saturday, but this Saturday I am going to cook four new Pakistani dishes.",
+        "text_a": "I have a bad headache today.",
+        "text_b": "That doesn’t sound good. Did you sleep well last night?",
+        "text_c": "No, I slept very late and woke up early.",
+        "text_d": "You should take a rest, stay in a quiet place, and drink enough water.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually cook two new dishes every Saturday, but this Saturday I am going to cook four new Pakistani dishes."
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "What do you like to do after work?",
-        "text_b": "I like to play badminton. I usually play with my friends, but today I am going to play with my boss and his children.",
+        "text_a": "My stomach hurts badly this afternoon.",
+        "text_b": "That doesn’t sound good. Did you eat any street food at lunch?",
+        "text_c": "Yes, I ate a spicy fish bun and some oily manioca chips.",
+        "text_d": "You should eat light meals, avoid spicy food, and take a short rest.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually play with my friends, but today I am going to play with my boss and his children."
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "What do you like to do on Sundays?",
-        "text_b": "I like to work in my home garden. I usually work in my home garden in the afternoon, but this Sunday I am going to work in the morning.",
+        "text_a": "I feel very tired and hungry today.",
+        "text_b": "That doesn’t sound good. Did you work overtime yesterday?",
+        "text_c": "Yes, I stayed late and skipped my evening meal.",
+        "text_d": "You should slow down today, take a short rest and eat something as soon as possible.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually work in my home garden in the afternoon, but this Sunday I am going to work in the morning."
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
       }
     ],
     "keywords": [
@@ -169,56 +178,74 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "What do you like to do in the evenings?",
-        "text_b": "I like to play the trumpet. I usually play after dinner, but tonight I am going to play before dinner.",
+        "text_a": "My eyes feel sore and dry today.",
+        "text_b": "That sounds serious. Did you work on the computer all morning?",
+        "text_c": "Yes, I stared at the screen for hours this morning.",
+        "text_d": "You should take short breaks, avoid screens for some time and wash your face with cold water.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually play after dinner, but tonight I am going to play before dinner."
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "What do you like to do after class?",
-        "text_b": "I like to lift weights. I usually lift weights in the gym nearby, but today I am going to lift them in the gym in the city centre.",
+        "text_a": "I feel weak and shaky right now.",
+        "text_b": "That sounds serious. Did you drink enough water today?",
+        "text_c": "No, I forgot to drink water during work.",
+        "text_d": "You should drink some Jeevani, take short breaks and buy a big bottle of water as soon as possible.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually lift weights in the gym nearby, but today I am going to lift them in the gym in the city centre."
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "What do you like to do on Friday nights?",
-        "text_b": "I like to watch documentaries. I usually watch them at home, but this Friday I am going to watch a documentary on the life of Barack Obama at the cinema.",
+        "text_a": "My back hurts a lot after work today.",
+        "text_b": "That sounds serious. Did you lift anything heavy?",
+        "text_c": "Yes, I lifted several boxes by myself.",
+        "text_d": "You should lie down, apply some pain-relieving ointment and ask for help next time.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually watch them at home, but this Friday I am going to watch a documentary on the life of Barack Obama at the cinema."
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "What do you like to do in the morning?",
-        "text_b": "I like to drink tea and check my messages. I usually do this at home, but this morning I am going to do it at the workshop.",
+        "text_a": "I find it difficult to breathe this morning.",
+        "text_b": "That sounds worrying. Did you work in the dusty area this morning?",
+        "text_c": "Yes, the floor in the workshop was very dusty and it wasn’t ventilated properly.",
+        "text_d": "You should get some fresh air, inform the supervisor and wear a mask next time.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually do this at home, but this morning I am going to do it at the workshop."
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "What do you like to do during your lunch break?",
-        "text_b": "I like to chat with my friends. I usually chat with them in the classroom, but today I am going to chat with them in the school canteen.",
+        "text_a": "I have a bad toothache this morning.",
+        "text_b": "That sounds worrying. Did you bite on anything hard?",
+        "text_c": "Yes, I had a beef stew and bit on the bone by accident.",
+        "text_d": "You should take a break, have some panadol and see the dentist as soon as possible.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually chat with them in the classroom, but today I am going to chat with them in the school canteen."
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "What do you like to do on holidays?",
-        "text_b": "I like to be outdoors. I usually go to nearby parks, but this holiday I am going to visit a national park.",
+        "text_a": "I have a bad earache today.",
+        "text_b": "That sounds worrying. Did you listen to loud music last night?",
+        "text_c": "Yes, I went to a party and they played the drums very loudly there.",
+        "text_d": "You should avoid using earphones for the moment, take a pain killer and see an ENT doctor as soon as possible.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
-        "text_b_speaking": "I like to ________________. I usually go to nearby parks, but this holiday I am going to visit a national park."
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3"
       }
     ]
   },
