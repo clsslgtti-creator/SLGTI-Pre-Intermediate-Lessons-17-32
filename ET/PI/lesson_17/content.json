@@ -1,0 +1,1116 @@
+{
+  "meta": {
+    "lesson_no": 17,
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /ɪə/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "r'ea'rview",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The r'ea'rview mirror must be adjusted properly in order to see what’s behind.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "t'ie'r",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The engine shouldn’t be above the required emissions t'ie'r before final registration.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "lin'ea'r",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The lin'ea'r guide should ensure smooth and accurate movement of the injector assembly during calibration.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "p'ie'rburg",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The P'ie'rburg valve mustn’t leak vacuum during engine idle testing.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Modal verb Should",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["You", "should", "eat breakfast"],
+        ["He", null, null],
+        ["She", null, "take medicine"],
+        ["It", null, "cook a meal"],
+        ["I", null, "fix the machine"],
+        ["They", null, null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "I have a bad headache today.",
+        "text_b": "That doesn’t sound good. Did you sleep well last night?",
+        "text_c": "No, I slept very late and woke up early.",
+        "text_d": "You should take a rest, stay in a quiet place, and drink enough water.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "My stomach hurts badly this afternoon.",
+        "text_b": "That doesn’t sound good. Did you eat any street food at lunch?",
+        "text_c": "Yes, I ate a spicy fish bun and some oily manioca chips.",
+        "text_d": "You should eat light meals, avoid spicy food, and take a short rest.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "I feel very tired and hungry today.",
+        "text_b": "That doesn’t sound good. Did you work overtime yesterday?",
+        "text_c": "Yes, I stayed late and skipped my evening meal.",
+        "text_d": "You should slow down today, take a short rest and eat something as soon as possible.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "play the trumpet"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "lift weights"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "watch documentaries"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "drink tea and check my messages"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "chat with my friends"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "be outdoors"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "My eyes feel sore and dry today.",
+        "text_b": "That sounds serious. Did you work on the computer all morning?",
+        "text_c": "Yes, I stared at the screen for hours this morning.",
+        "text_d": "You should take short breaks, avoid screens for some time and wash your face with cold water.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "I feel weak and shaky right now.",
+        "text_b": "That sounds serious. Did you drink enough water today?",
+        "text_c": "No, I forgot to drink water during work.",
+        "text_d": "You should drink some Jeevani, take short breaks and buy a big bottle of water as soon as possible.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "My back hurts a lot after work today.",
+        "text_b": "That sounds serious. Did you lift anything heavy?",
+        "text_c": "Yes, I lifted several boxes by myself.",
+        "text_d": "You should lie down, apply some pain-relieving ointment and ask for help next time.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "I find it difficult to breathe this morning.",
+        "text_b": "That sounds worrying. Did you work in the dusty area this morning?",
+        "text_c": "Yes, the floor in the workshop was very dusty and it wasn’t ventilated properly.",
+        "text_d": "You should get some fresh air, inform the supervisor and wear a mask next time.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "I have a bad toothache this morning.",
+        "text_b": "That sounds worrying. Did you bite on anything hard?",
+        "text_c": "Yes, I had a beef stew and bit on the bone by accident.",
+        "text_d": "You should take a break, have some panadol and see the dentist as soon as possible.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "I have a bad earache today.",
+        "text_b": "That sounds worrying. Did you listen to loud music last night?",
+        "text_c": "Yes, I went to a party and they played the drums very loudly there.",
+        "text_d": "You should avoid using earphones for the moment, take a pain killer and see an ENT doctor as soon as possible.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the most appropriate response.\n වඩාත්ම සුදුසු ප්‍රතිචාරය තෝරන්න.\n மிகவும் பொருத்தமான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_n.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+        "examples": [
+          {
+            "id": "g_b_1",
+            "sentence": "A trainee tries to check the radiator when the engine is hot.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "You must open the radiator cap slowly.",
+              "You mustn’t open the radiator when the engine is hot.",
+              "You shouldn’t ignore traffic signs."
+            ],
+            "answer": "You mustn’t open the radiator when the engine is hot."
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_2",
+            "sentence": "A vehicle is raised on a hydraulic lift.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "You must engage the safety locks before working underneath.",
+              "You shouldn’t rush the lifting process at the beginning.",
+              "You mustn’t check the lift balance."
+            ],
+            "answer": "You must engage the safety locks before working underneath."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "An oil spill is noticed near the service bay.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "You must leave it until the service is finished.",
+              "You mustn’t leave oil spills on the workshop floor.",
+              "You shouldn’t walk steadily in this area."
+            ],
+            "answer": "You mustn’t leave oil spills on the workshop floor."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "A trainee wants to start the engine inside a closed workshop.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "You must increase the engine speed carefully.",
+              "You shouldn’t forget to open windows after you finish the job.",
+              "You mustn’t run the engine in an enclosed area."
+            ],
+            "answer": "You mustn’t run the engine in an enclosed area."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "A spanner is left on top of the battery.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "You must keep tools close during inspection.",
+              "You shouldn’t place tools carefully.",
+              "You mustn’t leave metal tools on battery terminals."
+            ],
+            "answer": "You mustn’t leave metal tools on battery terminals."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "A mechanic prepares to remove a wheel.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "You must loosen the wheel nuts slightly before lifting the vehicle.",
+              "You shouldn’t skip visual checks every week.",
+              "You mustn’t use approved hand tools."
+            ],
+            "answer": "You must loosen the wheel nuts slightly before lifting the vehicle."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "A trainee notices damaged electrical wiring near the engine.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "You must continue to work carefully.",
+              "You mustn’t replace electrical wiring before reporting it to the supervisor.",
+              "You shouldn’t delay reporting the issue necessarily."
+            ],
+            "answer": "You mustn’t replace electrical wiring before reporting it to the supervisor."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "An air hose is stretched across the workshop floor.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "You must leave it during working hours.",
+              "You shouldn't leave hoses across walkways.",
+              "You mustn’t stretch air hoses."
+            ],
+            "answer": "You shouldn't leave hoses across walkways."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "A trainee wants to clean parts using petrol.",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "You must use petrol for quick cleaning.",
+              "You shouldn’t wear gloves for this task.",
+              "You mustn’t use petrol for cleaning vehicle parts."
+            ],
+            "answer": "You mustn’t use petrol for cleaning vehicle parts."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "The torque wrench clicks during tightening.",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "You must stop tightening once the wrench clicks.",
+              "You shouldn’t apply sudden force with warning.",
+              "You mustn’t follow torque specifications."
+            ],
+            "answer": "You must stop tightening once the wrench clicks."
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "A trainee works under a vehicle without wheel chocks.",
+            "audio": "assets/audio/g_b_11.mp3",
+            "options": [
+              "You must continue if the handbrake is applied.",
+              "You mustn’t work under a vehicle without wheel chocks.",
+              "You shouldn’t inspect the undercarriage."
+            ],
+            "answer": "You mustn’t work under a vehicle without wheel chocks."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "A trainee tries to check the radiator when the engine is hot.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "You mustn’t open the radiator when the engine is hot.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "A vehicle is raised on a hydraulic lift.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "You must engage the safety locks before working underneath.",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "An oil spill is noticed near the service bay.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "You mustn’t leave oil spills on the workshop floor.",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "A trainee wants to start the engine inside a closed workshop.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "You mustn’t run the engine in an enclosed area.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "A spanner is left on top of the battery.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "You mustn’t leave metal tools on battery terminals.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "A mechanic prepares to remove a wheel.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "You must loosen the wheel nuts slightly before lifting the vehicle.",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "A trainee notices damaged electrical wiring near the engine.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "You mustn’t replace electrical wiring before reporting it to the supervisor.",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "An air hose is stretched across the workshop floor.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "You shouldn't leave hoses across walkways.",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "A trainee wants to clean parts using petrol.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "You mustn’t use petrol for cleaning vehicle parts.",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "The torque wrench clicks during tightening.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "You must stop tightening once the wrench clicks.",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "A trainee works under a vehicle without wheel chocks.",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_11_a",
+          "text": "You mustn’t work under a vehicle without wheel chocks.",
+          "audio": "assets/audio/g_b_11_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "A trainee feels very sleepy after sleeping only three hours. What should she do according to the speaker?",
+            "answer": "He must inform the instructor before starting practical work.",
+            "options": [
+              "He should continue working carefully to finish the task.",
+              "He must inform the instructor before starting practical work.",
+              "He shouldn’t mention it unless he feels dizzy."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "A student has a mild headache during a long workshop session.",
+            "answer": "She should take a short break and drink some water.",
+            "options": [
+              "She mustn’t stop working unless the pain becomes severe.",
+              "She should take a short break and drink some water.",
+              "She must complete the task before resting."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "A trainee removes his safety gloves because they feel uncomfortable.",
+            "answer": "He mustn’t remove protective equipment during practical work.",
+            "options": [
+              "He should remove them briefly if the machine is switched off.",
+              "He mustn’t remove protective equipment during practical work.",
+              "He shouldn’t wear them if they affect his movement."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "A student skipped breakfast and feels weak during the session.",
+            "answer": "He mustn’t work on an empty stomach during practical tasks.",
+            "options": [
+              "He should wait until the session ends to eat.",
+              "He mustn’t work on an empty stomach during practical tasks.",
+              "He shouldn’t stop unless the instructor notices the problem."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "A trainee feels stressed but does not want to report it.",
+            "answer": "She must report health issues that affect concentration.",
+            "options": [
+              "She must report health issues that affect concentration.",
+              "She shouldn’t speak up unless she feels pain.",
+              "She mustn’t mention stress because it is not a physical problem."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Before we start today’s practical session, I want to talk about health and safety.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Some of you looked tired this morning, and that can affect your work.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "A few trainees mentioned they slept very late or didn’t get enough rest last night.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Lack of sleep can reduce concentration and slow reaction time.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "In a workshop, even small health problems can become serious if we ignore them.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Sir, is it really dangerous to work when we feel a bit tired or unwell?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Yes, it can be.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "If you feel dizzy or weak, you must inform your instructor immediately.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "You mustn’t continue working just to finish a task.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That can lead to accidents, especially when you are using machines or electrical tools.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "What about small problems, like a headache or a cough?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "If you have a mild headache, you should take a short break and drink some water.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "You shouldn’t ignore it and keep working for hours without rest.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Many students think pushing themselves is a good habit, but it often causes more problems later.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Sir, some trainees skip breakfast because they are late.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Is that a problem?",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Yes, it is.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "You must eat something before coming to the workshop, even if it is light food.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You mustn’t work on an empty stomach, especially during long practical sessions.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Low energy can reduce concentration and slow your reactions.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "What about protective equipment?",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Sometimes it feels uncomfortable to wear, especially in this heat!",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "You must wear all required protective equipment at all times.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "You mustn’t remove gloves or masks just because they feel uncomfortable.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "However, if something does not fit properly, you should report it so we can replace it.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "You shouldn’t adjust or modify safety equipment on your own.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "If we feel stressed or tired during the day, what should we do?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "You should tell your supervisor and take a short rest if it is possible.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "You shouldn’t hide health issues out of fear or embarrassment.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Looking after your health is part of being a responsible technician.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Remember, good skills are important, but good health habits are essential.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Follow these rules every day, not only during inspections.",
+          "audio": "assets/audio/t_33.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Before we start today’s practical session, I want to talk about health and safety.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Some of you looked tired this morning, and that can affect your work.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "A few trainees mentioned they slept very late or didn’t get enough rest last night.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Lack of sleep can reduce concentration and slow reaction time.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "In a workshop, even small health problems can become serious if we ignore them.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Sir, is it really dangerous to work when we feel a bit tired or unwell?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Yes, it can be.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "If you feel dizzy or weak, you must inform your instructor immediately.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "You mustn’t continue working just to finish a task.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That can lead to accidents, especially when you are using machines or electrical tools.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "What about small problems, like a headache or a cough?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "If you have a mild headache, you should take a short break and drink some water.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "You shouldn’t ignore it and keep working for hours without rest.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Many students think pushing themselves is a good habit, but it often causes more problems later.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Sir, some trainees skip breakfast because they are late.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Is that a problem?",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Yes, it is.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "You must eat something before coming to the workshop, even if it is light food.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You mustn’t work on an empty stomach, especially during long practical sessions.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Low energy can reduce concentration and slow your reactions.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "What about protective equipment?",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Sometimes it feels uncomfortable to wear, especially in this heat!",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "You must wear all required protective equipment at all times.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "You mustn’t remove gloves or masks just because they feel uncomfortable.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "However, if something does not fit properly, you should report it so we can replace it.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "You shouldn’t adjust or modify safety equipment on your own.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "If we feel stressed or tired during the day, what should we do?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "You should tell your supervisor and take a short rest if it is possible.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "You shouldn’t hide health issues out of fear or embarrassment.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Looking after your health is part of being a responsible technician.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Remember, good skills are important, but good health habits are essential.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Follow these rules every day, not only during inspections.",
+          "audio": "assets/audio/t_33.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Before we start today’s practical session, I want to talk about health and safety.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Some of you looked tired this morning, and that can affect your work.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "A few trainees mentioned they slept very late or didn’t get enough rest last night.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Lack of sleep can reduce concentration and slow reaction time.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "In a workshop, even small health problems can become serious if we ignore them.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Sir, is it really dangerous to work when we feel a bit tired or unwell?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Yes, it can be.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "If you feel dizzy or weak, you must inform your instructor immediately.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "You mustn’t continue working just to finish a task.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That can lead to accidents, especially when you are using machines or electrical tools.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "What about small problems, like a headache or a cough?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "If you have a mild headache, you should take a short break and drink some water.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "You shouldn’t ignore it and keep working for hours without rest.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Many students think pushing themselves is a good habit, but it often causes more problems later.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Sir, some trainees skip breakfast because they are late.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Is that a problem?",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Yes, it is.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "You must eat something before coming to the workshop, even if it is light food.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You mustn’t work on an empty stomach, especially during long practical sessions.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Low energy can reduce concentration and slow your reactions.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "What about protective equipment?",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Sometimes it feels uncomfortable to wear, especially in this heat!",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "You must wear all required protective equipment at all times.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "You mustn’t remove gloves or masks just because they feel uncomfortable.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "However, if something does not fit properly, you should report it so we can replace it.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "You shouldn’t adjust or modify safety equipment on your own.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "If we feel stressed or tired during the day, what should we do?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "You should tell your supervisor and take a short rest if it is possible.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "You shouldn’t hide health issues out of fear or embarrassment.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Looking after your health is part of being a responsible technician.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Remember, good skills are important, but good health habits are essential.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Follow these rules every day, not only during inspections.",
+          "audio": "assets/audio/t_33.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
