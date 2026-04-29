@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 17,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Information Communication Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "r'ea'rview",
+        "word_text": "p'ee'r",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The r'ea'rview mirror must be adjusted properly in order to see what’s behind.",
+        "sentence_text": "The firewall settings must be configured correctly for the p'ee'r to connect to the network.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "t'ie'r",
+        "word_text": "ser'ia'l",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The engine shouldn’t be above the required emissions t'ie'r before final registration.",
+        "sentence_text": "The ser'ia'l port mustn’t transmit data incorrectly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "lin'ea'r",
+        "word_text": "carr'ie'r",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The lin'ea'r guide should ensure smooth and accurate movement of the injector assembly during calibration.",
+        "sentence_text": "The carr'ie'r signal should remain stable to ensure reliable data transfer.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "p'ie'rburg",
+        "word_text": "t'ie'r",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The P'ie'rburg valve mustn’t leak vacuum during engine idle testing.",
+        "sentence_text": "The application t'ie'r shouldn’t access the database directly without proper security controls.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -267,238 +267,238 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "A trainee tries to check the radiator when the engine is hot.",
+            "sentence": "A trainee tries to plug in a device with wet hands.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
-              "You must open the radiator cap slowly.",
-              "You mustn’t open the radiator when the engine is hot.",
-              "You shouldn’t ignore traffic signs."
+              "You must dry your hands quickly.",
+              "You mustn’t handle electrical devices with wet hands.",
+              "You shouldn’t stand too close to the socket."
             ],
-            "answer": "You mustn’t open the radiator when the engine is hot."
+            "answer": "You mustn’t handle electrical devices with wet hands."
           }
         ],
         "content": [
           {
             "id": "g_b_2",
-            "sentence": "A vehicle is raised on a hydraulic lift.",
+            "sentence": "A computer overheats during long use.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
-              "You must engage the safety locks before working underneath.",
-              "You shouldn’t rush the lifting process at the beginning.",
-              "You mustn’t check the lift balance."
+              "You must shut down the system and allow it to cool.",
+              "You shouldn’t check the ventilation slots.",
+              "You mustn’t use the computer again."
             ],
-            "answer": "You must engage the safety locks before working underneath."
+            "answer": "You must shut down the system and allow it to cool."
           },
           {
             "id": "g_b_3",
-            "sentence": "An oil spill is noticed near the service bay.",
+            "sentence": "Network cables are stretched across the lab walkway.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
-              "You must leave it until the service is finished.",
-              "You mustn’t leave oil spills on the workshop floor.",
-              "You shouldn’t walk steadily in this area."
+              "You must leave them until the task is finished.",
+              "You mustn’t leave cables across walkways.",
+              "You shouldn’t tidy the area during testing."
             ],
-            "answer": "You mustn’t leave oil spills on the workshop floor."
+            "answer": "You mustn’t leave cables across walkways."
           },
           {
             "id": "g_b_4",
-            "sentence": "A trainee wants to start the engine inside a closed workshop.",
+            "sentence": "A trainee opens a system unit while it is powered on.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
-              "You must increase the engine speed carefully.",
-              "You shouldn’t forget to open windows after you finish the job.",
-              "You mustn’t run the engine in an enclosed area."
+              "You must check the components carefully.",
+              "You shouldn’t work too slowly.",
+              "You mustn’t open computer hardware while it is powered on."
             ],
-            "answer": "You mustn’t run the engine in an enclosed area."
+            "answer": "You mustn’t open computer hardware while it is powered on."
           },
           {
             "id": "g_b_5",
-            "sentence": "A spanner is left on top of the battery.",
+            "sentence": "A trainee works for long hours at a workstation.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
-              "You must keep tools close during inspection.",
-              "You shouldn’t place tools carefully.",
-              "You mustn’t leave metal tools on battery terminals."
+              "You should take short breaks regularly.",
+              "You must continue without stopping.",
+              "You mustn’t adjust the chair."
             ],
-            "answer": "You mustn’t leave metal tools on battery terminals."
+            "answer": "You should take short breaks regularly."
           },
           {
             "id": "g_b_6",
-            "sentence": "A mechanic prepares to remove a wheel.",
+            "sentence": "A damaged power cable is connected to a computer.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
-              "You must loosen the wheel nuts slightly before lifting the vehicle.",
-              "You shouldn’t skip visual checks every week.",
-              "You mustn’t use approved hand tools."
+              "You must continue using it carefully.",
+              "You shouldn’t bend the cable sharply.",
+              "You mustn’t use damaged power cables."
             ],
-            "answer": "You must loosen the wheel nuts slightly before lifting the vehicle."
+            "answer": "You mustn’t use damaged power cables."
           },
           {
             "id": "g_b_7",
-            "sentence": "A trainee notices damaged electrical wiring near the engine.",
+            "sentence": "A warning message appears during software installation.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
-              "You must continue to work carefully.",
-              "You mustn’t replace electrical wiring before reporting it to the supervisor.",
-              "You shouldn’t delay reporting the issue necessarily."
+              "You should read the message before continuing.",
+              "You must ignore the message.",
+              "You mustn’t cancel the installation."
             ],
-            "answer": "You mustn’t replace electrical wiring before reporting it to the supervisor."
+            "answer": "You should read the message before continuing."
           },
           {
             "id": "g_b_8",
-            "sentence": "An air hose is stretched across the workshop floor.",
+            "sentence": "A trainee wears earphones while configuring network equipment.",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
-              "You must leave it during working hours.",
-              "You shouldn't leave hoses across walkways.",
-              "You mustn’t stretch air hoses."
+              "You must increase the volume.",
+              "You should ignore lab instructions.",
+              "You mustn’t wear earphones during practical lab work."
             ],
-            "answer": "You shouldn't leave hoses across walkways."
+            "answer": "You mustn’t wear earphones during practical lab work."
           },
           {
             "id": "g_b_9",
-            "sentence": "A trainee wants to clean parts using petrol.",
+            "sentence": "External storage devices are left near the edge of the desk.",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
-              "You must use petrol for quick cleaning.",
-              "You shouldn’t wear gloves for this task.",
-              "You mustn’t use petrol for cleaning vehicle parts."
+              "You must leave them for easy access.",
+              "You shouldn’t place devices too close to the edge of the desk.",
+              "You mustn’t store devices safely."
             ],
-            "answer": "You mustn’t use petrol for cleaning vehicle parts."
+            "answer": "You shouldn’t place devices too close to the edge of the desk."
           },
           {
             "id": "g_b_10",
-            "sentence": "The torque wrench clicks during tightening.",
+            "sentence": "Important files are being updated on the server.",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
-              "You must stop tightening once the wrench clicks.",
-              "You shouldn’t apply sudden force with warning.",
-              "You mustn’t follow torque specifications."
+              "You must back up the data before updating.",
+              "You mustn’t check the backup status.",
+              "You shouldn’t follow procedures closely."
             ],
-            "answer": "You must stop tightening once the wrench clicks."
+            "answer": "You must back up the data before updating."
           },
           {
             "id": "g_b_11",
-            "sentence": "A trainee works under a vehicle without wheel chocks.",
+            "sentence": "A trainee cleans a keyboard while the computer is still on.",
             "audio": "assets/audio/g_b_11.mp3",
             "options": [
-              "You must continue if the handbrake is applied.",
-              "You mustn’t work under a vehicle without wheel chocks.",
-              "You shouldn’t inspect the undercarriage."
+              "You must clean it carefully when it is on.",
+              "You shouldn’t rush the cleaning task.",
+              "You mustn’t clean equipment while it is powered on."
             ],
-            "answer": "You mustn’t work under a vehicle without wheel chocks."
+            "answer": "You mustn’t clean equipment while it is powered on."
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "A trainee tries to check the radiator when the engine is hot.",
+          "text": "A trainee tries to plug in a device with wet hands.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_1_a",
-          "text": "You mustn’t open the radiator when the engine is hot.",
+          "text": "You mustn’t handle electrical devices with wet hands.",
           "audio": "assets/audio/g_b_1_a.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "A vehicle is raised on a hydraulic lift.",
+          "text": "A computer overheats during long use.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_2_a",
-          "text": "You must engage the safety locks before working underneath.",
+          "text": "You must shut down the system and allow it to cool.",
           "audio": "assets/audio/g_b_2_a.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "An oil spill is noticed near the service bay.",
+          "text": "Network cables are stretched across the lab walkway.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_3_a",
-          "text": "You mustn’t leave oil spills on the workshop floor.",
+          "text": "You mustn’t leave cables across walkways.",
           "audio": "assets/audio/g_b_3_a.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "A trainee wants to start the engine inside a closed workshop.",
+          "text": "A trainee opens a system unit while it is powered on.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_4_a",
-          "text": "You mustn’t run the engine in an enclosed area.",
+          "text": "You mustn’t open computer hardware while it is powered on.",
           "audio": "assets/audio/g_b_4_a.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "A spanner is left on top of the battery.",
+          "text": "A trainee works for long hours at a workstation.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_5_a",
-          "text": "You mustn’t leave metal tools on battery terminals.",
+          "text": "You should take short breaks regularly.",
           "audio": "assets/audio/g_b_5_a.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "A mechanic prepares to remove a wheel.",
+          "text": "A damaged power cable is connected to a computer.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_6_a",
-          "text": "You must loosen the wheel nuts slightly before lifting the vehicle.",
+          "text": "You mustn’t use damaged power cables.",
           "audio": "assets/audio/g_b_6_a.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "A trainee notices damaged electrical wiring near the engine.",
+          "text": "A warning message appears during software installation.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_7_a",
-          "text": "You mustn’t replace electrical wiring before reporting it to the supervisor.",
+          "text": "You should read the message before continuing.",
           "audio": "assets/audio/g_b_7_a.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "An air hose is stretched across the workshop floor.",
+          "text": "A trainee wears earphones while configuring network equipment.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_8_a",
-          "text": "You shouldn't leave hoses across walkways.",
+          "text": "You mustn’t wear earphones during practical lab work.",
           "audio": "assets/audio/g_b_8_a.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "A trainee wants to clean parts using petrol.",
+          "text": "External storage devices are left near the edge of the desk.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_9_a",
-          "text": "You mustn’t use petrol for cleaning vehicle parts.",
+          "text": "You shouldn’t place devices too close to the edge of the desk.",
           "audio": "assets/audio/g_b_9_a.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "The torque wrench clicks during tightening.",
+          "text": "Important files are being updated on the server.",
           "audio": "assets/audio/g_b_10.mp3"
         },
         {
           "id": "g_b_10_a",
-          "text": "You must stop tightening once the wrench clicks.",
+          "text": "You must back up the data before updating.",
           "audio": "assets/audio/g_b_10_a.mp3"
         },
         {
           "id": "g_b_11",
-          "text": "A trainee works under a vehicle without wheel chocks.",
+          "text": "A trainee cleans a keyboard while the computer is still on.",
           "audio": "assets/audio/g_b_11.mp3"
         },
         {
           "id": "g_b_11_a",
-          "text": "You mustn’t work under a vehicle without wheel chocks.",
+          "text": "You mustn’t clean equipment while it is powered on.",
           "audio": "assets/audio/g_b_11_a.mp3"
         }
       ]
