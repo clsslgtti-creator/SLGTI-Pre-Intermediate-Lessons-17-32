@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 17,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Food Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "r'ea'rview",
+        "word_text": "sh'ea'ring",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The r'ea'rview mirror must be adjusted properly in order to see what’s behind.",
+        "sentence_text": "The blade alignment must be correct for the sh'ea'ring machine to cut the dough evenly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "t'ie'r",
+        "word_text": "carr'ie'r",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The engine shouldn’t be above the required emissions t'ie'r before final registration.",
+        "sentence_text": "The carr'ie'r belt should move smoothly to prevent product spillage during transfer.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "lin'ea'r",
+        "word_text": "t'ie'r",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The lin'ea'r guide should ensure smooth and accurate movement of the injector assembly during calibration.",
+        "sentence_text": "The trainee mustn’t store raw and cooked items on the same t'ie'r of the refrigeration rack.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "p'ie'rburg",
+        "word_text": "lin'ea'r",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The P'ie'rburg valve mustn’t leak vacuum during engine idle testing.",
+        "sentence_text": "The operator shouldn’t change the lin'ea'r conveyor speed during packaging, as it may affect portion control.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -267,238 +267,238 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "A trainee tries to check the radiator when the engine is hot.",
+            "sentence": "A trainee wants to taste soup directly from the ladle.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
-              "You must open the radiator cap slowly.",
-              "You mustn’t open the radiator when the engine is hot.",
-              "You shouldn’t ignore traffic signs."
+              "You must taste it when the gas is on.",
+              "You mustn’t taste food directly from the ladle.",
+              "You shouldn’t wash a spoon first."
             ],
-            "answer": "You mustn’t open the radiator when the engine is hot."
+            "answer": "You mustn’t taste food directly from the ladle."
           }
         ],
         "content": [
           {
             "id": "g_b_2",
-            "sentence": "A vehicle is raised on a hydraulic lift.",
+            "sentence": "The oil in the pan starts smoking.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
-              "You must engage the safety locks before working underneath.",
-              "You shouldn’t rush the lifting process at the beginning.",
-              "You mustn’t check the lift balance."
+              "You must turn off the heat immediately.",
+              "You shouldn’t add water to the oil.",
+              "You mustn’t smoke the oil in the pan."
             ],
-            "answer": "You must engage the safety locks before working underneath."
+            "answer": "You must turn off the heat immediately."
           },
           {
             "id": "g_b_3",
-            "sentence": "An oil spill is noticed near the service bay.",
+            "sentence": "Some raw chicken is placed next to cooked rice.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
-              "You must leave it until the service is finished.",
-              "You mustn’t leave oil spills on the workshop floor.",
-              "You shouldn’t walk steadily in this area."
+              "You must mix them before cooking.",
+              "You mustn’t place raw food near cooked food at any time.",
+              "You shouldn’t place cooked chicken near cooked food at any time."
             ],
-            "answer": "You mustn’t leave oil spills on the workshop floor."
+            "answer": "You mustn’t place raw food near cooked food at any time."
           },
           {
             "id": "g_b_4",
-            "sentence": "A trainee wants to start the engine inside a closed workshop.",
+            "sentence": "A knife is left in a sink full of water.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
-              "You must increase the engine speed carefully.",
-              "You shouldn’t forget to open windows after you finish the job.",
-              "You mustn’t run the engine in an enclosed area."
+              "You must leave it there until later.",
+              "You shouldn’t wash the dishes when the sink is full of water.",
+              "You mustn’t leave sharp tools in the sink at any time."
             ],
-            "answer": "You mustn’t run the engine in an enclosed area."
+            "answer": "You mustn’t leave sharp tools in the sink at any time."
           },
           {
             "id": "g_b_5",
-            "sentence": "A spanner is left on top of the battery.",
+            "sentence": "A trainee has an open cut on the finger.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
-              "You must keep tools close during inspection.",
-              "You shouldn’t place tools carefully.",
-              "You mustn’t leave metal tools on battery terminals."
+              "You should put on disposable gloves and continue.",
+              "You mustn’t handle food with an open cut.",
+              "You must ignore the injury because it is on the finger."
             ],
-            "answer": "You mustn’t leave metal tools on battery terminals."
+            "answer": "You mustn’t handle food with an open cut."
           },
           {
             "id": "g_b_6",
-            "sentence": "A mechanic prepares to remove a wheel.",
+            "sentence": "The refrigerator door is left open.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
-              "You must loosen the wheel nuts slightly before lifting the vehicle.",
-              "You shouldn’t skip visual checks every week.",
-              "You mustn’t use approved hand tools."
+              "You must close the refrigerator door properly.",
+              "You shouldn’t store food inside.",
+              "You mustn’t check the temperature."
             ],
-            "answer": "You must loosen the wheel nuts slightly before lifting the vehicle."
+            "answer": "You must close the refrigerator door properly."
           },
           {
             "id": "g_b_7",
-            "sentence": "A trainee notices damaged electrical wiring near the engine.",
+            "sentence": "A gas smell comes from the cooking area.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
-              "You must continue to work carefully.",
-              "You mustn’t replace electrical wiring before reporting it to the supervisor.",
-              "You shouldn’t delay reporting the issue necessarily."
+              "You should light the burner to check.",
+              "You mustn’t use open flames in this situation.",
+              "You must increase the flame to cook faster."
             ],
-            "answer": "You mustn’t replace electrical wiring before reporting it to the supervisor."
+            "answer": "You mustn’t use open flames in this situation."
           },
           {
             "id": "g_b_8",
-            "sentence": "An air hose is stretched across the workshop floor.",
+            "sentence": "Food is uncovered on the preparation table.",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
-              "You must leave it during working hours.",
-              "You shouldn't leave hoses across walkways.",
-              "You mustn’t stretch air hoses."
+              "You shouldn’t leave food exposed to dust.",
+              "You must leave it uncovered.",
+              "You mustn’t cover prepared food."
             ],
-            "answer": "You shouldn't leave hoses across walkways."
+            "answer": "You shouldn’t leave food exposed to dust."
           },
           {
             "id": "g_b_9",
-            "sentence": "A trainee wants to clean parts using petrol.",
+            "sentence": "A trainee wants to use a dirty apron.",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
-              "You must use petrol for quick cleaning.",
-              "You shouldn’t wear gloves for this task.",
-              "You mustn’t use petrol for cleaning vehicle parts."
+              "You must wear it again.",
+              "You shouldn’t change protective clothing.",
+              "You mustn’t use dirty protective clothing."
             ],
-            "answer": "You mustn’t use petrol for cleaning vehicle parts."
+            "answer": "You mustn’t use dirty protective clothing."
           },
           {
             "id": "g_b_10",
-            "sentence": "The torque wrench clicks during tightening.",
+            "sentence": "The mixer is running without the safety cover.",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
-              "You must stop tightening once the wrench clicks.",
-              "You shouldn’t apply sudden force with warning.",
-              "You mustn’t follow torque specifications."
+              "You must increase the speed gradually.",
+              "You mustn’t operate the mixer without the cover.",
+              "You shouldn’t check the machine too often."
             ],
-            "answer": "You must stop tightening once the wrench clicks."
+            "answer": "You mustn’t operate the mixer without the cover."
           },
           {
             "id": "g_b_11",
-            "sentence": "A trainee works under a vehicle without wheel chocks.",
+            "sentence": "Water is spilled near an electrical socket.",
             "audio": "assets/audio/g_b_11.mp3",
             "options": [
-              "You must continue if the handbrake is applied.",
-              "You mustn’t work under a vehicle without wheel chocks.",
-              "You shouldn’t inspect the undercarriage."
+              "You should ignore the spill.",
+              "You mustn’t have water near an electrical socket.",
+              "You must continue cleaning the equipment."
             ],
-            "answer": "You mustn’t work under a vehicle without wheel chocks."
+            "answer": "You mustn’t have water near an electrical socket."
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "A trainee tries to check the radiator when the engine is hot.",
+          "text": "A trainee wants to taste soup directly from the ladle.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_1_a",
-          "text": "You mustn’t open the radiator when the engine is hot.",
+          "text": "You mustn’t taste food directly from the ladle.",
           "audio": "assets/audio/g_b_1_a.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "A vehicle is raised on a hydraulic lift.",
+          "text": "The oil in the pan starts smoking.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_2_a",
-          "text": "You must engage the safety locks before working underneath.",
+          "text": "You must turn off the heat immediately.",
           "audio": "assets/audio/g_b_2_a.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "An oil spill is noticed near the service bay.",
+          "text": "Some raw chicken is placed next to cooked rice.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_3_a",
-          "text": "You mustn’t leave oil spills on the workshop floor.",
+          "text": "You mustn’t place raw food near cooked food at any time.",
           "audio": "assets/audio/g_b_3_a.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "A trainee wants to start the engine inside a closed workshop.",
+          "text": "A knife is left in a sink full of water.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_4_a",
-          "text": "You mustn’t run the engine in an enclosed area.",
+          "text": "You mustn’t leave sharp tools in the sink at any time.",
           "audio": "assets/audio/g_b_4_a.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "A spanner is left on top of the battery.",
+          "text": "A trainee has an open cut on the finger.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_5_a",
-          "text": "You mustn’t leave metal tools on battery terminals.",
+          "text": "You mustn’t handle food with an open cut.",
           "audio": "assets/audio/g_b_5_a.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "A mechanic prepares to remove a wheel.",
+          "text": "The refrigerator door is left open.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_6_a",
-          "text": "You must loosen the wheel nuts slightly before lifting the vehicle.",
+          "text": "You must close the refrigerator door properly.",
           "audio": "assets/audio/g_b_6_a.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "A trainee notices damaged electrical wiring near the engine.",
+          "text": "A gas smell comes from the cooking area.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_7_a",
-          "text": "You mustn’t replace electrical wiring before reporting it to the supervisor.",
+          "text": "You mustn’t use open flames in this situation.",
           "audio": "assets/audio/g_b_7_a.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "An air hose is stretched across the workshop floor.",
+          "text": "Food is uncovered on the preparation table.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_8_a",
-          "text": "You shouldn't leave hoses across walkways.",
+          "text": "You shouldn’t leave food exposed to dust.",
           "audio": "assets/audio/g_b_8_a.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "A trainee wants to clean parts using petrol.",
+          "text": "A trainee wants to use a dirty apron.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_9_a",
-          "text": "You mustn’t use petrol for cleaning vehicle parts.",
+          "text": "You mustn’t use dirty protective clothing.",
           "audio": "assets/audio/g_b_9_a.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "The torque wrench clicks during tightening.",
+          "text": "The mixer is running without the safety cover.",
           "audio": "assets/audio/g_b_10.mp3"
         },
         {
           "id": "g_b_10_a",
-          "text": "You must stop tightening once the wrench clicks.",
+          "text": "You mustn’t operate the mixer without the cover.",
           "audio": "assets/audio/g_b_10_a.mp3"
         },
         {
           "id": "g_b_11",
-          "text": "A trainee works under a vehicle without wheel chocks.",
+          "text": "Water is spilled near an electrical socket.",
           "audio": "assets/audio/g_b_11.mp3"
         },
         {
           "id": "g_b_11_a",
-          "text": "You mustn’t work under a vehicle without wheel chocks.",
+          "text": "You mustn’t have water near an electrical socket.",
           "audio": "assets/audio/g_b_11_a.mp3"
         }
       ]
