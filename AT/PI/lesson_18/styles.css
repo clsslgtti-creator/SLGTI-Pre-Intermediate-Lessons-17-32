@@ -1105,8 +1105,15 @@ body {
   gap: clamp(0.9rem, 2vw, 1.25rem);
 }
 
+.word-match-categories {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: clamp(0.9rem, 2vw, 1.25rem);
+}
+
 @media (min-width: 720px) {
-  .word-match-sentences {
+  .word-match-sentences,
+  .word-match-categories {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -1156,6 +1163,10 @@ body {
   line-height: 1.45;
 }
 
+.word-match-category h3 {
+  font-size: clamp(1.1rem, 2vw, 1.35rem);
+}
+
 .word-match-dropzone {
   min-height: 64px;
   border: 2px dashed rgba(31, 41, 51, 0.25);
@@ -1167,6 +1178,15 @@ body {
   background: rgba(15, 23, 42, 0.03);
   transition: border-color var(--transition-fast),
     background var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.word-match-dropzone--category {
+  min-height: clamp(190px, 24vw, 260px);
+  align-content: flex-start;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: clamp(0.5rem, 1.5vw, 0.85rem);
 }
 
 .word-match-dropzone.is-hover {

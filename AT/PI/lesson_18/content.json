@@ -257,8 +257,8 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the most appropriate response.\n වඩාත්ම සුදුසු ප්‍රතිචාරය තෝරන්න.\n மிகவும் பொருத்தமான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_3_i_n.mp3"
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
       },
       "activity_b": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
@@ -509,11 +509,11 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-6",
+    "type": "LISTENING-10",
     "instructions": {
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Arrange the following into two categories.\nපහත දැක්වෙන දෑ කාණ්ඩ දෙකකට වෙන් කර සකසන්න.\nபின்வருவனவற்றை இரண்டு வகைகளாகப் பிரிக்கவும்.",
+        "audio": "assets/audio/a_4_i_m.mp3"
       },
       "activity_b": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
