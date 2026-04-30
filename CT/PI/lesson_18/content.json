@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'air'bag",
+        "word_text": "b'ea'ring",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The vehicle has six 'air'bags installed for passenger protection.",
+        "sentence_text": "The house was badly designed and had many b'ea'ring walls which added to the cost.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "fl'a're",
+        "word_text": "w'ea'r",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The mechanic inspected the fl'a're to ensure it formed a tight seal on the brake line.",
-        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "sentence_text": "Excessive w'ea'r on the concrete surface reduced its long-term durability.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "w'ea'r",
+        "word_text": "fl'a're",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "W'ea'r on the brake pads increases rapidly if the vehicle is overloaded.",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "sentence_text": "The site manager installed several fl'a'res so that workers could work till late evening.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
         "word_text": "gl'a're",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Gl'a're from oncoming headlights can reduce the driver’s reaction time at night.",
+        "sentence_text": "Strong gl'a're from the polished tiles made it difficult to see the floor markings clearly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -271,7 +271,7 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "1. Can I get a bottle of brake fluid?\n\n2. The instructor stores brake fluid in the safety cabinet.",
+            "sentence": "1. Can I have a bag of cement?\n\n2. The storekeeper ordered some cement for next week.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -284,18 +284,18 @@
         "content": [
           {
             "id": "g_b_2",
-            "sentence": "1. The mechanic replaced a set of spark plugs.\n\n2. Spark plugs are used to ignite the air-fuel mixture in an engine.",
+            "sentence": "1. There is some sand near the site entrance.\n\n2. We need a load of sand today.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
               "1. non-count\n2. count",
-              "1. count\n2. count",
-              "1. count\n2. non-count"
+              "1. count\n2. non-count",
+              "1. count\n2. count"
             ],
-            "answer": "1. count\n2. count"
+            "answer": "1. non-count\n2. count"
           },
           {
             "id": "g_b_3",
-            "sentence": "1. The trainee poured a container of coolant into the coolant overflow tank.\n\n2. Coolant prevents the engine from overheating.",
+            "sentence": "1. The trainee carried a bucket of water.\n\n2. You need to add water to the mixer slowly.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -306,29 +306,29 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "1. The instructor inspected a roll of wiring.\n\n2. The technician routes electrical wiring carefully.",
+            "sentence": "1. The supervisor checked a bar of steel.\n\n2. Steel is usually stored in the yard.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
-              "1. count\n2. non-count",
+              "1. non-count\n2. non-count",
               "1. count\n2. count",
-              "1. non-count\n2. non-count"
+              "1. count\n2. non-count"
             ],
             "answer": "1. count\n2. non-count"
           },
           {
             "id": "g_b_5",
-            "sentence": "1. We ordered two boxes of air filters.\n\n2. These filters improve engine performance.",
+            "sentence": "1. Softwood timber is used for the formwork.\n\n2. We ordered three planks of timber.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
-              "1. count\n2. non-count",
+              "1. count\n2. count",
               "1. non-count\n2. count",
-              "1. count\n2. count"
+              "1. count\n2. non-count"
             ],
-            "answer": "1. count\n2. count"
+            "answer": "1. non-count\n2. count"
           },
           {
             "id": "g_b_6",
-            "sentence": "1. The technician brought a drum of diesel.\n\n2. Heavy-duty engines use diesel fuel.",
+            "sentence": "1. The technician brought a drum of fuel.\n\n2. Fuel is stored in a secure area.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
               "1. non-count\n2. count",
@@ -339,7 +339,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "1. The trainee checks lubrication before testing.\n\n2. Pass me a tube of lubricant, please.",
+            "sentence": "1. Plywood is kept in the storage room.\n\n2. Can you pass me a piece of plywood?",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -350,18 +350,18 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "1. The workshop received three brake pads.\n\n2. Brake pads wear down over time and need to be replaced.",
+            "sentence": "1. The site received two bags of gravel.\n\n2. Gravel is used for drainage.",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
               "1. count\n2. non-count",
               "1. non-count\n2. count",
               "1. count\n2. count"
             ],
-            "answer": "1. count\n2. count"
+            "answer": "1. count\n2. non-count"
           },
           {
             "id": "g_b_9",
-            "sentence": "1. The trainee cleaned a tray of grease.\n\n2. Grease reduces friction between moving parts.",
+            "sentence": "1. The trainee filled a container of paint.\n\n2. Paint covers the surface evenly.",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -372,18 +372,18 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "1. We need a sheet of gasket material.\n\n2. Gasket material prevents fluid leaks.",
+            "sentence": "1. Insulation reduces heat transfer.\n\n2. We need a roll of insulation.",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
-              "1. count\n2. non-count",
               "1. count\n2. count",
-              "1. non-count\n2. non-count"
+              "1. count\n2. non-count",
+              "1. non-count\n2. count"
             ],
-            "answer": "1. count\n2. non-count"
+            "answer": "1. non-count\n2. count"
           },
           {
             "id": "g_b_11",
-            "sentence": "1. The supervisor ordered four cans of paint.\n\n2. The workers apply paint after surface preparation.",
+            "sentence": "1. The foreman ordered five sacks of lime.\n\n2. Lime is mixed with sand.",
             "audio": "assets/audio/g_b_11.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -397,112 +397,112 @@
       "activity_b": [
         {
           "id": "g_b_1_x",
-          "text": "Can I get a bottle of brake fluid?",
+          "text": "Can I have a bag of cement?",
           "audio": "assets/audio/g_b_1_x.mp3"
         },
         {
           "id": "g_b_1_y",
-          "text": "The instructor stores brake fluid in the safety cabinet.",
+          "text": "The storekeeper ordered some cement for next week.",
           "audio": "assets/audio/g_b_1_y.mp3"
         },
         {
           "id": "g_b_2_x",
-          "text": "The mechanic replaced a set of spark plugs.",
+          "text": "There is some sand near the site entrance.",
           "audio": "assets/audio/g_b_2_x.mp3"
         },
         {
           "id": "g_b_2_y",
-          "text": "Spark plugs are used to ignite the air-fuel mixture in an engine.",
+          "text": "We need a load of sand today.",
           "audio": "assets/audio/g_b_2_y.mp3"
         },
         {
           "id": "g_b_3_x",
-          "text": "The trainee poured a container of coolant into the coolant overflow tank.",
+          "text": "The trainee carried a bucket of water.",
           "audio": "assets/audio/g_b_3_x.mp3"
         },
         {
           "id": "g_b_3_y",
-          "text": "Coolant prevents the engine from overheating.",
+          "text": "You need to add water to the mixer slowly.",
           "audio": "assets/audio/g_b_3_y.mp3"
         },
         {
           "id": "g_b_4_x",
-          "text": "The instructor inspected a roll of wiring.",
+          "text": "The supervisor checked a bar of steel.",
           "audio": "assets/audio/g_b_4_x.mp3"
         },
         {
           "id": "g_b_4_y",
-          "text": "The technician routes electrical wiring carefully.",
+          "text": "Steel is usually stored in the yard.",
           "audio": "assets/audio/g_b_4_y.mp3"
         },
         {
           "id": "g_b_5_x",
-          "text": "We ordered two boxes of air filters.",
+          "text": "Softwood timber is used for the formwork.",
           "audio": "assets/audio/g_b_5_x.mp3"
         },
         {
           "id": "g_b_5_y",
-          "text": "These filters improve engine performance.",
+          "text": "We ordered three planks of timber.",
           "audio": "assets/audio/g_b_5_y.mp3"
         },
         {
           "id": "g_b_6_x",
-          "text": "The technician brought a drum of diesel.",
+          "text": "The technician brought a drum of fuel.",
           "audio": "assets/audio/g_b_6_x.mp3"
         },
         {
           "id": "g_b_6_y",
-          "text": "Heavy-duty engines use diesel fuel.",
+          "text": "Fuel is stored in a secure area.",
           "audio": "assets/audio/g_b_6_y.mp3"
         },
         {
           "id": "g_b_7_x",
-          "text": "The trainee checks lubrication before testing.",
+          "text": "Plywood is kept in the storage room.",
           "audio": "assets/audio/g_b_7_x.mp3"
         },
         {
           "id": "g_b_7_y",
-          "text": "Pass me a tube of lubricant, please.",
+          "text": "Can you pass me a piece of plywood?",
           "audio": "assets/audio/g_b_7_y.mp3"
         },
         {
           "id": "g_b_8_x",
-          "text": "The workshop received three brake pads.",
+          "text": "The site received two bags of gravel.",
           "audio": "assets/audio/g_b_8_x.mp3"
         },
         {
           "id": "g_b_8_y",
-          "text": "Brake pads wear down over time and need to be replaced.",
+          "text": "Gravel is used for drainage.",
           "audio": "assets/audio/g_b_8_y.mp3"
         },
         {
           "id": "g_b_9_x",
-          "text": "The trainee cleaned a tray of grease.",
+          "text": "The trainee filled a container of paint.",
           "audio": "assets/audio/g_b_9_x.mp3"
         },
         {
           "id": "g_b_9_y",
-          "text": "Grease reduces friction between moving parts.",
+          "text": "Paint covers the surface evenly.",
           "audio": "assets/audio/g_b_9_y.mp3"
         },
         {
           "id": "g_b_10_x",
-          "text": "We need a sheet of gasket material.",
+          "text": "Insulation reduces heat transfer.",
           "audio": "assets/audio/g_b_10_x.mp3"
         },
         {
           "id": "g_b_10_y",
-          "text": "Gasket material prevents fluid leaks.",
+          "text": "We need a roll of insulation.",
           "audio": "assets/audio/g_b_10_y.mp3"
         },
         {
           "id": "g_b_11_x",
-          "text": "The supervisor ordered four cans of paint.",
+          "text": "The foreman ordered five sacks of lime.",
           "audio": "assets/audio/g_b_11_x.mp3"
         },
         {
           "id": "g_b_11_y",
-          "text": "The workers apply paint after surface preparation.",
+          "text": "Lime is mixed with sand.",
           "audio": "assets/audio/g_b_11_y.mp3"
         }
       ]
