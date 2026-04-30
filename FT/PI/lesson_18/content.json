@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 18,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Food Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'air'bag",
+        "word_text": "b'ea'ring",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The vehicle has six 'air'bags installed for passenger protection.",
+        "sentence_text": "The technician lubricated several b'ea'rings in the mixer to keep it running smoothly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "fl'a're",
+        "word_text": "gl'a're",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The mechanic inspected the fl'a're to ensure it formed a tight seal on the brake line.",
+        "sentence_text": "Strong gl'a're from the ceiling lights reflected on the stainless-steel surface made it difficult to read the weighing scale.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "w'ea'r",
+        "word_text": "t'a're",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "W'ea'r on the brake pads increases rapidly if the vehicle is overloaded.",
+        "sentence_text": "The operator always subtracts t'a're before recording the final product weight.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "gl'a're",
+        "word_text": "p'a'rer",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Gl'a're from oncoming headlights can reduce the driver’s reaction time at night.",
+        "sentence_text": "Each trainee was issued a p'a'rer to remove the thin skins from vegetables during the food preparation practical.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -271,7 +271,7 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "1. Can I get a bottle of brake fluid?\n\n2. The instructor stores brake fluid in the safety cabinet.",
+            "sentence": "1. Can I have a bag of rice?\n\n2. The storekeeper keeps rice in the dry storage room.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -284,29 +284,29 @@
         "content": [
           {
             "id": "g_b_2",
-            "sentence": "1. The mechanic replaced a set of spark plugs.\n\n2. Spark plugs are used to ignite the air-fuel mixture in an engine.",
+            "sentence": "1. The trainee brought a container of flour.\n\n2. Flour forms the base of many bakery products.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
               "1. non-count\n2. count",
-              "1. count\n2. count",
-              "1. count\n2. non-count"
-            ],
-            "answer": "1. count\n2. count"
-          },
-          {
-            "id": "g_b_3",
-            "sentence": "1. The trainee poured a container of coolant into the coolant overflow tank.\n\n2. Coolant prevents the engine from overheating.",
-            "audio": "assets/audio/g_b_3.mp3",
-            "options": [
               "1. count\n2. non-count",
-              "1. non-count\n2. count",
-              "1. non-count\n2. non-count"
+              "1. count\n2. count"
             ],
             "answer": "1. count\n2. non-count"
           },
           {
+            "id": "g_b_3",
+            "sentence": "1. The assistant carried a crate of eggs.\n\n2. Egg protein improves the texture of baked items.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "1. count\n2. count",
+              "1. non-count\n2. count",
+              "1. non-count\n2. non-count"
+            ],
+            "answer": "1. count\n2. count"
+          },
+          {
             "id": "g_b_4",
-            "sentence": "1. The instructor inspected a roll of wiring.\n\n2. The technician routes electrical wiring carefully.",
+            "sentence": "1. The instructor checked a block of cheese.\n\n2. Cheese adds flavour to sauces.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -317,18 +317,18 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "1. We ordered two boxes of air filters.\n\n2. These filters improve engine performance.",
+            "sentence": "1. We ordered two cartons of milk.\n\n2. Milk affects the consistency of desserts.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
               "1. count\n2. non-count",
               "1. non-count\n2. count",
               "1. count\n2. count"
             ],
-            "answer": "1. count\n2. count"
+            "answer": "1. count\n2. non-count"
           },
           {
             "id": "g_b_6",
-            "sentence": "1. The technician brought a drum of diesel.\n\n2. Heavy-duty engines use diesel fuel.",
+            "sentence": "1. The trainee poured a jar of honey into the bowl.\n\n2. Honey adds natural sweetness to the mixture.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
               "1. non-count\n2. count",
@@ -339,7 +339,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "1. The trainee checks lubrication before testing.\n\n2. Pass me a tube of lubricant, please.",
+            "sentence": "1. The trainee checks seasoning before cooking.\n\n2. Pass me a spoon of seasoning, please.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -350,8 +350,19 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "1. The workshop received three brake pads.\n\n2. Brake pads wear down over time and need to be replaced.",
+            "sentence": "1. The kitchen received three trays of vegetables.\n\n2. Vegetables form an important part of a balanced diet in food preparation.",
             "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "1. count\n2. non-count",
+              "1. non-count\n2. count",
+              "1. count\n2. count"
+            ],
+            "answer": "1. count\n2. non-count"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "1. The assistant brought a tub of yoghurt.\n\n2. The kitchen prepared many cups of yoghurt for dessert service.",
+            "audio": "assets/audio/g_b_9.mp3",
             "options": [
               "1. count\n2. non-count",
               "1. non-count\n2. count",
@@ -360,19 +371,8 @@
             "answer": "1. count\n2. count"
           },
           {
-            "id": "g_b_9",
-            "sentence": "1. The trainee cleaned a tray of grease.\n\n2. Grease reduces friction between moving parts.",
-            "audio": "assets/audio/g_b_9.mp3",
-            "options": [
-              "1. count\n2. non-count",
-              "1. non-count\n2. count",
-              "1. non-count\n2. non-count"
-            ],
-            "answer": "1. count\n2. non-count"
-          },
-          {
             "id": "g_b_10",
-            "sentence": "1. We need a sheet of gasket material.\n\n2. Gasket material prevents fluid leaks.",
+            "sentence": "1. We need a packet of baking powder.\n\n2. Baking powder helps cakes rise evenly.",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -383,126 +383,126 @@
           },
           {
             "id": "g_b_11",
-            "sentence": "1. The supervisor ordered four cans of paint.\n\n2. The workers apply paint after surface preparation.",
+            "sentence": "1. The supervisor ordered four knives.\n\n2. Knives need to stay sharp to ensure safe and efficient cutting during food preparation.",
             "audio": "assets/audio/g_b_11.mp3",
             "options": [
               "1. count\n2. non-count",
               "1. non-count\n2. count",
               "1. count\n2. count"
             ],
-            "answer": "1. count\n2. non-count"
+            "answer": "1. count\n2. count"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1_x",
-          "text": "Can I get a bottle of brake fluid?",
+          "text": "Can I have a bag of rice?",
           "audio": "assets/audio/g_b_1_x.mp3"
         },
         {
           "id": "g_b_1_y",
-          "text": "The instructor stores brake fluid in the safety cabinet.",
+          "text": "The storekeeper keeps rice in the dry storage room.",
           "audio": "assets/audio/g_b_1_y.mp3"
         },
         {
           "id": "g_b_2_x",
-          "text": "The mechanic replaced a set of spark plugs.",
+          "text": "The trainee brought a container of flour.",
           "audio": "assets/audio/g_b_2_x.mp3"
         },
         {
           "id": "g_b_2_y",
-          "text": "Spark plugs are used to ignite the air-fuel mixture in an engine.",
+          "text": "Flour forms the base of many bakery products.",
           "audio": "assets/audio/g_b_2_y.mp3"
         },
         {
           "id": "g_b_3_x",
-          "text": "The trainee poured a container of coolant into the coolant overflow tank.",
+          "text": "The assistant carried a crate of eggs.",
           "audio": "assets/audio/g_b_3_x.mp3"
         },
         {
           "id": "g_b_3_y",
-          "text": "Coolant prevents the engine from overheating.",
+          "text": "Egg protein improves the texture of baked items.",
           "audio": "assets/audio/g_b_3_y.mp3"
         },
         {
           "id": "g_b_4_x",
-          "text": "The instructor inspected a roll of wiring.",
+          "text": "The instructor checked a block of cheese.",
           "audio": "assets/audio/g_b_4_x.mp3"
         },
         {
           "id": "g_b_4_y",
-          "text": "The technician routes electrical wiring carefully.",
+          "text": "Cheese adds flavour to sauces.",
           "audio": "assets/audio/g_b_4_y.mp3"
         },
         {
           "id": "g_b_5_x",
-          "text": "We ordered two boxes of air filters.",
+          "text": "We ordered two cartons of milk.",
           "audio": "assets/audio/g_b_5_x.mp3"
         },
         {
           "id": "g_b_5_y",
-          "text": "These filters improve engine performance.",
+          "text": "Milk affects the consistency of desserts.",
           "audio": "assets/audio/g_b_5_y.mp3"
         },
         {
           "id": "g_b_6_x",
-          "text": "The technician brought a drum of diesel.",
+          "text": "The trainee poured a jar of honey into the bowl.",
           "audio": "assets/audio/g_b_6_x.mp3"
         },
         {
           "id": "g_b_6_y",
-          "text": "Heavy-duty engines use diesel fuel.",
+          "text": "Honey adds natural sweetness to the mixture.",
           "audio": "assets/audio/g_b_6_y.mp3"
         },
         {
           "id": "g_b_7_x",
-          "text": "The trainee checks lubrication before testing.",
+          "text": "The trainee checks seasoning before cooking.",
           "audio": "assets/audio/g_b_7_x.mp3"
         },
         {
           "id": "g_b_7_y",
-          "text": "Pass me a tube of lubricant, please.",
+          "text": "Pass me a spoon of seasoning, please.",
           "audio": "assets/audio/g_b_7_y.mp3"
         },
         {
           "id": "g_b_8_x",
-          "text": "The workshop received three brake pads.",
+          "text": "The kitchen received three trays of vegetables.",
           "audio": "assets/audio/g_b_8_x.mp3"
         },
         {
           "id": "g_b_8_y",
-          "text": "Brake pads wear down over time and need to be replaced.",
+          "text": "Vegetables form an important part of a balanced diet in food preparation.",
           "audio": "assets/audio/g_b_8_y.mp3"
         },
         {
           "id": "g_b_9_x",
-          "text": "The trainee cleaned a tray of grease.",
+          "text": "The assistant brought a tub of yoghurt.",
           "audio": "assets/audio/g_b_9_x.mp3"
         },
         {
           "id": "g_b_9_y",
-          "text": "Grease reduces friction between moving parts.",
+          "text": "The kitchen prepared many cups of yoghurt for dessert service.",
           "audio": "assets/audio/g_b_9_y.mp3"
         },
         {
           "id": "g_b_10_x",
-          "text": "We need a sheet of gasket material.",
+          "text": "We need a packet of baking powder.",
           "audio": "assets/audio/g_b_10_x.mp3"
         },
         {
           "id": "g_b_10_y",
-          "text": "Gasket material prevents fluid leaks.",
+          "text": "Baking powder helps cakes rise evenly.",
           "audio": "assets/audio/g_b_10_y.mp3"
         },
         {
           "id": "g_b_11_x",
-          "text": "The supervisor ordered four cans of paint.",
+          "text": "The supervisor ordered four knives.",
           "audio": "assets/audio/g_b_11_x.mp3"
         },
         {
           "id": "g_b_11_y",
-          "text": "The workers apply paint after surface preparation.",
+          "text": "Knives need to stay sharp to ensure safe and efficient cutting during food preparation.",
           "audio": "assets/audio/g_b_11_y.mp3"
         }
       ]
