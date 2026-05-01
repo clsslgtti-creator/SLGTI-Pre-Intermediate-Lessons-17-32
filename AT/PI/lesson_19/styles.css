@@ -1566,6 +1566,102 @@ body {
   color: #b45309;
 }
 
+.listening-fill-table-wrap {
+  display: grid;
+  gap: clamp(0.75rem, 2vw, 1rem);
+  min-height: 0;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+}
+
+.listening-fill-table-title {
+  margin: 0;
+  color: var(--color-text);
+  font-size: clamp(1.1rem, 2.4vw, 1.35rem);
+  font-weight: 700;
+  text-align: center;
+}
+
+.listening-fill-table {
+  width: 100%;
+  min-width: 720px;
+  border-collapse: collapse;
+  background: #fff;
+  box-shadow: var(--shadow-sm);
+}
+
+.listening-fill-table th,
+.listening-fill-table td {
+  border: 1px solid rgba(31, 41, 51, 0.16);
+  padding: clamp(0.6rem, 1.8vw, 0.9rem);
+  color: var(--color-text);
+  font-size: clamp(0.92rem, 1.8vw, 1rem);
+  line-height: 1.35;
+  vertical-align: middle;
+}
+
+.listening-fill-table th {
+  background: rgba(31, 111, 235, 0.1);
+  color: var(--color-primary);
+  font-weight: 700;
+  text-align: left;
+}
+
+.listening-fill-input {
+  width: min(100%, 13rem);
+  min-width: 7.5rem;
+  border: 2px solid rgba(31, 41, 51, 0.18);
+  border-radius: var(--radius-sm);
+  padding: 0.45rem 0.6rem;
+  color: var(--color-text);
+  font: inherit;
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.96);
+  transition: border-color var(--transition-fast),
+    box-shadow var(--transition-fast), background var(--transition-fast);
+}
+
+.listening-fill-input:focus {
+  outline: none;
+  border-color: rgba(31, 111, 235, 0.65);
+  box-shadow: 0 0 0 3px rgba(31, 111, 235, 0.14);
+}
+
+.listening-fill-input.is-correct {
+  border-color: #16a34a;
+  background: rgba(22, 163, 74, 0.1);
+}
+
+.listening-fill-input.is-incorrect {
+  border-color: #dc2626;
+  background: rgba(220, 38, 38, 0.1);
+}
+
+.listening-fill-table td.is-correct {
+  background: rgba(22, 163, 74, 0.08);
+}
+
+.listening-fill-table td.is-incorrect {
+  background: rgba(220, 38, 38, 0.08);
+}
+
+.listening-fill-cell-feedback {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--color-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.listening-fill-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.85rem;
+  justify-content: center;
+  margin-top: clamp(1rem, 2.5vw, 1.5rem);
+}
+
 .listening-slide--repeat .dialogue-card,
 .listening-slide--read .dialogue-card {
   border: 1px solid rgba(31, 41, 51, 0.08);
