@@ -1,0 +1,1259 @@
+{
+  "meta": {
+    "lesson_no": 18,
+    "level": "Pre-Intermediate",
+    "section": "Construction Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /eə/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "b'ea'ring",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The house was badly designed and had many b'ea'ring walls which added to the cost.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "w'ea'r",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Excessive w'ea'r on the concrete surface reduced its long-term durability.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "fl'a're",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The site manager installed several fl'a'res so that workers could work till late evening.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "gl'a're",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Strong gl'a're from the polished tiles made it difficult to see the floor markings clearly.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Modal verb Should",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["How many", "dogs?", "12 dogs"],
+        [null, "classes?", "5 classes"],
+        [null, "doughnuts?", "6 doughnuts"],
+        [null, "tables?", "30 tables"]
+      ],
+      [
+        ["How much", "water?", "A glass of water"],
+        [null, "rice?", "A portion of rice"],
+        [null, "bread?", "A loaf of bread"],
+        [null, "bread?", "A sheet of metal"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "What would you like for dessert?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our chocolate ice cream. Everybody says it’s delicious.",
+        "text_d": "OK then. Can I have a bowl of chocolate ice cream, please?",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "What would you like for breakfast?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our kiribath. Many customers like it.",
+        "text_d": "OK then. Can I have a portion of kiribath, please?",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "What would you like to drink?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our mixed fruit juice. It is very refreshing.",
+        "text_d": "OK then. Can I have a glass of mixed fruit juice, please?",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_x_4.png",
+        "word": "a serving of fruit salad"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_x_5.png",
+        "word": "a bowl of curd and honey"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_x_6.png",
+        "word": "five hoppers with katta sambol"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_x_7.png",
+        "word": "an order of devilled prawns"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_x_8.png",
+        "word": "10 string hoppers with a portion of mutton curry"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_x_9.png",
+        "word": "a piece of dodol"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "What would you like to order for dessert?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our fruit salad. It’s freshly made.",
+        "text_d": "OK then. Can I have a serving of fruit salad, please?",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Would you like something for dessert now?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our curd and honey. We have just received a new delivery.",
+        "text_d": "OK then. Can I have a bowl of curd and honey, please?",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "What would you like for your main course?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our hoppers. They are the talk of the town.",
+        "text_d": "OK then. Can I have five hoppers with katta sambol, please?",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "What would you like for your appetizer?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our devilled prawns. They are out of this world.",
+        "text_d": "OK then. Can I have an order of devilled prawns, please?",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "What would you like for dinner today?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our string hoppers with mutton curry. Everyone likes it.",
+        "text_d": "OK then. Can I have 10 string hoppers with a portion of mutton curry, please?",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "What would you like for dessert?",
+        "text_b": "I’m not sure what to choose. What do you recommend?",
+        "text_c": "I really recommend our dodol. It is very popular.",
+        "text_d": "OK then. Can I have a piece of dodol, please?",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+        "examples": [
+          {
+            "id": "g_b_1",
+            "sentence": "1. Can I have a bag of cement?\n\n2. The storekeeper ordered some cement for next week.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "1. count\n2. non-count",
+              "1. count\n2. count",
+              "1. non-count\n2. non-count"
+            ],
+            "answer": "1. count\n2. non-count"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_2",
+            "sentence": "1. There is some sand near the site entrance.\n\n2. We need a load of sand today.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "1. non-count\n2. count",
+              "1. count\n2. non-count",
+              "1. count\n2. count"
+            ],
+            "answer": "1. non-count\n2. count"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "1. The trainee carried a bucket of water.\n\n2. You need to add water to the mixer slowly.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "1. count\n2. non-count",
+              "1. non-count\n2. count",
+              "1. non-count\n2. non-count"
+            ],
+            "answer": "1. count\n2. non-count"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "1. The supervisor checked a bar of steel.\n\n2. Steel is usually stored in the yard.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "1. non-count\n2. non-count",
+              "1. count\n2. count",
+              "1. count\n2. non-count"
+            ],
+            "answer": "1. count\n2. non-count"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "1. Softwood timber is used for the formwork.\n\n2. We ordered three planks of timber.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "1. count\n2. count",
+              "1. non-count\n2. count",
+              "1. count\n2. non-count"
+            ],
+            "answer": "1. non-count\n2. count"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "1. The technician brought a drum of fuel.\n\n2. Fuel is stored in a secure area.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "1. non-count\n2. count",
+              "1. count\n2. non-count",
+              "1. non-count\n2. non-count"
+            ],
+            "answer": "1. count\n2. non-count"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "1. Plywood is kept in the storage room.\n\n2. Can you pass me a piece of plywood?",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "1. count\n2. non-count",
+              "1. count\n2. count",
+              "1. non-count\n2. count"
+            ],
+            "answer": "1. non-count\n2. count"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "1. The site received two bags of gravel.\n\n2. Gravel is used for drainage.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "1. count\n2. non-count",
+              "1. non-count\n2. count",
+              "1. count\n2. count"
+            ],
+            "answer": "1. count\n2. non-count"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "1. The trainee filled a container of paint.\n\n2. Paint covers the surface evenly.",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "1. count\n2. non-count",
+              "1. non-count\n2. count",
+              "1. non-count\n2. non-count"
+            ],
+            "answer": "1. count\n2. non-count"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "1. Insulation reduces heat transfer.\n\n2. We need a roll of insulation.",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "1. count\n2. count",
+              "1. count\n2. non-count",
+              "1. non-count\n2. count"
+            ],
+            "answer": "1. non-count\n2. count"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "1. The foreman ordered five sacks of lime.\n\n2. Lime is mixed with sand.",
+            "audio": "assets/audio/g_b_11.mp3",
+            "options": [
+              "1. count\n2. non-count",
+              "1. non-count\n2. count",
+              "1. count\n2. count"
+            ],
+            "answer": "1. count\n2. non-count"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1_x",
+          "text": "Can I have a bag of cement?",
+          "audio": "assets/audio/g_b_1_x.mp3"
+        },
+        {
+          "id": "g_b_1_y",
+          "text": "The storekeeper ordered some cement for next week.",
+          "audio": "assets/audio/g_b_1_y.mp3"
+        },
+        {
+          "id": "g_b_2_x",
+          "text": "There is some sand near the site entrance.",
+          "audio": "assets/audio/g_b_2_x.mp3"
+        },
+        {
+          "id": "g_b_2_y",
+          "text": "We need a load of sand today.",
+          "audio": "assets/audio/g_b_2_y.mp3"
+        },
+        {
+          "id": "g_b_3_x",
+          "text": "The trainee carried a bucket of water.",
+          "audio": "assets/audio/g_b_3_x.mp3"
+        },
+        {
+          "id": "g_b_3_y",
+          "text": "You need to add water to the mixer slowly.",
+          "audio": "assets/audio/g_b_3_y.mp3"
+        },
+        {
+          "id": "g_b_4_x",
+          "text": "The supervisor checked a bar of steel.",
+          "audio": "assets/audio/g_b_4_x.mp3"
+        },
+        {
+          "id": "g_b_4_y",
+          "text": "Steel is usually stored in the yard.",
+          "audio": "assets/audio/g_b_4_y.mp3"
+        },
+        {
+          "id": "g_b_5_x",
+          "text": "Softwood timber is used for the formwork.",
+          "audio": "assets/audio/g_b_5_x.mp3"
+        },
+        {
+          "id": "g_b_5_y",
+          "text": "We ordered three planks of timber.",
+          "audio": "assets/audio/g_b_5_y.mp3"
+        },
+        {
+          "id": "g_b_6_x",
+          "text": "The technician brought a drum of fuel.",
+          "audio": "assets/audio/g_b_6_x.mp3"
+        },
+        {
+          "id": "g_b_6_y",
+          "text": "Fuel is stored in a secure area.",
+          "audio": "assets/audio/g_b_6_y.mp3"
+        },
+        {
+          "id": "g_b_7_x",
+          "text": "Plywood is kept in the storage room.",
+          "audio": "assets/audio/g_b_7_x.mp3"
+        },
+        {
+          "id": "g_b_7_y",
+          "text": "Can you pass me a piece of plywood?",
+          "audio": "assets/audio/g_b_7_y.mp3"
+        },
+        {
+          "id": "g_b_8_x",
+          "text": "The site received two bags of gravel.",
+          "audio": "assets/audio/g_b_8_x.mp3"
+        },
+        {
+          "id": "g_b_8_y",
+          "text": "Gravel is used for drainage.",
+          "audio": "assets/audio/g_b_8_y.mp3"
+        },
+        {
+          "id": "g_b_9_x",
+          "text": "The trainee filled a container of paint.",
+          "audio": "assets/audio/g_b_9_x.mp3"
+        },
+        {
+          "id": "g_b_9_y",
+          "text": "Paint covers the surface evenly.",
+          "audio": "assets/audio/g_b_9_y.mp3"
+        },
+        {
+          "id": "g_b_10_x",
+          "text": "Insulation reduces heat transfer.",
+          "audio": "assets/audio/g_b_10_x.mp3"
+        },
+        {
+          "id": "g_b_10_y",
+          "text": "We need a roll of insulation.",
+          "audio": "assets/audio/g_b_10_y.mp3"
+        },
+        {
+          "id": "g_b_11_x",
+          "text": "The foreman ordered five sacks of lime.",
+          "audio": "assets/audio/g_b_11_x.mp3"
+        },
+        {
+          "id": "g_b_11_y",
+          "text": "Lime is mixed with sand.",
+          "audio": "assets/audio/g_b_11_y.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-10",
+    "instructions": {
+      "activity_a": {
+        "text": "Arrange the following into two categories.\nපහත දැක්වෙන දෑ කාණ්ඩ දෙකකට වෙන් කර සකසන්න.\nபின்வருவனவற்றை இரண்டு வகைகளாகப் பிரிக்கவும்.",
+        "audio": "assets/audio/a_4_i_m.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "category": ["Count nouns", "Non-count nouns"],
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "Transport",
+            "item_b": "Non-count nouns"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "Water",
+            "item_b": "Non-count nouns"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "Snack",
+            "item_b": "Count nouns"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "Lunch packet",
+            "item_b": "Count nouns"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "Rice and curry",
+            "item_b": "Non-count nouns"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "Rice and curry packet",
+            "item_b": "Count nouns"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "Spoon",
+            "item_b": "Count nouns"
+          },
+          {
+            "id": "n_4_a_8",
+            "item_a": "Sand",
+            "item_b": "Non-count nouns"
+          },
+          {
+            "id": "n_4_a_9",
+            "item_a": "Leader",
+            "item_b": "Count nouns"
+          },
+          {
+            "id": "n_4_a_10",
+            "item_a": "Paper (Material)",
+            "item_b": "Non-count nouns"
+          },
+          {
+            "id": "n_4_a_11",
+            "item_a": "Newspaper",
+            "item_b": "Count nouns"
+          },
+          {
+            "id": "n_4_a_12",
+            "item_a": "Stationery",
+            "item_b": "Non-count nouns"
+          },
+          {
+            "id": "n_4_a_13",
+            "item_a": "Sugar",
+            "item_b": "Non-count nouns"
+          },
+          {
+            "id": "n_4_a_14",
+            "item_a": "Plan",
+            "item_b": "Count nouns"
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What problem from the Galle trip do the students want to avoid this time?",
+            "answer": "Poor planning for transport and supplies",
+            "options": [
+              "Students staying on in the bus during visits",
+              "Poor planning for transport and supplies",
+              "Staying in uncomfortable accommodation"
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Why do they plan to leave early in the morning?",
+            "answer": "To arrive before traffic becomes heavy",
+            "options": [
+              "To arrive before traffic becomes heavy",
+              "Because the instructor requested an early start",
+              "To manage the long journey slower and avoid delays"
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why does C think snacks are necessary?",
+            "answer": "Lunch may be delayed and traffic could slow them down",
+            "options": [
+              "Lunch may be delayed and traffic could slow them down",
+              "Students prefer snacks to proper meals",
+              "The bus company does not allow food stops"
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Why do they choose lunch packets instead of a restaurant?",
+            "answer": "Ordering food is cheaper and faster for a large group",
+            "options": [
+              "Restaurants near Kandy are usually crowded",
+              "Ordering food is cheaper and faster for a large group",
+              "Eating outside is more hygienic and easier for a large group."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What is the main reason they will ask Jim for help?",
+            "answer": "He is familiar with the local area and accommodation options",
+            "options": [
+              "He organised the previous trip and knows a lot about accommodation",
+              "He knows people who manage hostels",
+              "He is familiar with the local area and accommodation options"
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "So, we met the instructor yesterday, and he asked us to finalise the plan for the class trip to Kandy next week.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Last year, we went to Galle, but we didn’t organise enough transport.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This time, we need to pay more attention to buses, food, and accommodation.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Yes, I remember that trip.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "We didn’t have enough water, and some students were very tired.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I suggest we book a bus early and also carry some drinking water for everybody.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "We are going to travel early in the morning, so we should all be ready by 5 a.m.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "That sounds like a good idea.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I agree with booking the bus early.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I also think we should arrange a few snacks, like biscuits, because there won’t be any stops on the way.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Last time, we were hungry and got stuck in traffic for more than three hours.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Right.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "About food, do you think we should order lunch packets or eat at a restaurant?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "In the past, ordering food saved time, but there wasn’t enough variety.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "We are going to have around thirty students, so quantity is important.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "I suggest we order rice and curry packets.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "It’s cheaper, and everyone usually eats that.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We will also need some extra plates and spoons.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Eating at a restaurant may take too long.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Yes, that’s decided then.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "We also need to think about accommodation.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "We stayed in a hostel last year, and it was very noisy.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "This time, we are going to stay one night near the city.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We only need a few rooms, not many.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "So why don’t we talk to Jim about it?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "He is from Kandy and might know some suitable places.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "I can handle that this afternoon.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "As for activities, we are going to visit the Temple of the Tooth and the Botanical Gardens.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Last year, we visited a museum, but some students were bored.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "This plan sounds more interesting.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "I agree.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "We should also assign a group leader for each group.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "That helped a lot on our last trip.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "We don’t need much equipment, but some stationery and a printed plan for each participant might be useful.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Alright then.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "I think we have enough information now.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Let’s write the final plan today and submit it to Mr Perera tomorrow.",
+          "audio": "assets/audio/t_37.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "So, we met the instructor yesterday, and he asked us to finalise the plan for the class trip to Kandy next week.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Last year, we went to Galle, but we didn’t organise enough transport.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This time, we need to pay more attention to buses, food, and accommodation.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Yes, I remember that trip.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "We didn’t have enough water, and some students were very tired.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I suggest we book a bus early and also carry some drinking water for everybody.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "We are going to travel early in the morning, so we should all be ready by 5 a.m.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "That sounds like a good idea.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I agree with booking the bus early.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I also think we should arrange a few snacks, like biscuits, because there won’t be any stops on the way.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Last time, we were hungry and got stuck in traffic for more than three hours.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Right.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "About food, do you think we should order lunch packets or eat at a restaurant?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "In the past, ordering food saved time, but there wasn’t enough variety.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "We are going to have around thirty students, so quantity is important.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "I suggest we order rice and curry packets.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "It’s cheaper, and everyone usually eats that.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We will also need some extra plates and spoons.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Eating at a restaurant may take too long.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Yes, that’s decided then.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "We also need to think about accommodation.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "We stayed in a hostel last year, and it was very noisy.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "This time, we are going to stay one night near the city.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We only need a few rooms, not many.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "So why don’t we talk to Jim about it?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "He is from Kandy and might know some suitable places.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "I can handle that this afternoon.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "As for activities, we are going to visit the Temple of the Tooth and the Botanical Gardens.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Last year, we visited a museum, but some students were bored.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "This plan sounds more interesting.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "I agree.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "We should also assign a group leader for each group.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "That helped a lot on our last trip.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "We don’t need much equipment, but some stationery and a printed plan for each participant might be useful.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Alright then.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "I think we have enough information now.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Let’s write the final plan today and submit it to Mr Perera tomorrow.",
+          "audio": "assets/audio/t_37.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1",
+          "text": "So, we met the instructor yesterday, and he asked us to finalise the plan for the class trip to Kandy next week.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Last year, we went to Galle, but we didn’t organise enough transport.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This time, we need to pay more attention to buses, food, and accommodation.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Yes, I remember that trip.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "We didn’t have enough water, and some students were very tired.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I suggest we book a bus early and also carry some drinking water for everybody.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "We are going to travel early in the morning, so we should all be ready by 5 a.m.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "That sounds like a good idea.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I agree with booking the bus early.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I also think we should arrange a few snacks, like biscuits, because there won’t be any stops on the way.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Last time, we were hungry and got stuck in traffic for more than three hours.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Right.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "About food, do you think we should order lunch packets or eat at a restaurant?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "In the past, ordering food saved time, but there wasn’t enough variety.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "We are going to have around thirty students, so quantity is important.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "I suggest we order rice and curry packets.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "It’s cheaper, and everyone usually eats that.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We will also need some extra plates and spoons.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Eating at a restaurant may take too long.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Yes, that’s decided then.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "We also need to think about accommodation.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "We stayed in a hostel last year, and it was very noisy.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "This time, we are going to stay one night near the city.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We only need a few rooms, not many.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "So why don’t we talk to Jim about it?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "He is from Kandy and might know some suitable places.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "I can handle that this afternoon.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "As for activities, we are going to visit the Temple of the Tooth and the Botanical Gardens.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Last year, we visited a museum, but some students were bored.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "This plan sounds more interesting.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "I agree.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "We should also assign a group leader for each group.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "That helped a lot on our last trip.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "We don’t need much equipment, but some stationery and a printed plan for each participant might be useful.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Alright then.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "I think we have enough information now.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Let’s write the final plan today and submit it to Mr Perera tomorrow.",
+          "audio": "assets/audio/t_37.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
