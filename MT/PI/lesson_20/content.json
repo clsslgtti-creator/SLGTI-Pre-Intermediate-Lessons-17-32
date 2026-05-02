@@ -1,0 +1,1053 @@
+{
+  "meta": {
+    "lesson_no": 20,
+    "level": "Pre-Intermediate",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Short /b/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'b'acklash",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Excessive 'b'acklash may disrupt precise positioning in automated control systems.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'b'rake caliper",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The 'b'rake caliper may stabilize robotic arms during emergency shutdowns.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'b'oring bar",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The 'b'oring bar might cause errors if CNC parameters mismatch.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "'b'ucket elevator",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The 'b'ucket elevator might fail when sensor feedback signals drop.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Modal verbs may, might",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Do you know why the machine is vibrating more than usual today?",
+        "text_b": "I’m not sure. It may be an unbalanced rotating part, or it might be loose mounting bolts. We will only know for sure if we inspect the assembly.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Do you know why the hydraulic press stopped suddenly?",
+        "text_b": "I’m not sure. It may be low hydraulic pressure, or it might be a faulty safety switch. We will only know for sure if we check the system.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Do you know why the bearing is overheating?",
+        "text_b": "I’m not sure. It may be insufficient lubrication, or it might be incorrect alignment. We will only know for sure if we examine the bearing.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "conveyor belt is slipping"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "cutting tool is wearing out quickly"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "gearbox is making a grinding noise"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "shaft is not rotating smoothly"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "pressure gauge reading is unstable"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "machine output has reduced"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Do you know why the conveyor belt is slipping?",
+        "text_b": "I’m not sure. It may be low belt tension, or it might be surface contamination. We will only know for sure if we adjust the tension.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Do you know why the cutting tool is wearing out quickly?",
+        "text_b": "I’m not sure. It may be excessive cutting speed, or it might be incorrect tool material. We will only know for sure if we review the machining parameters.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Do you know why the gearbox is making a grinding noise?",
+        "text_b": "I’m not sure. It may be worn gear teeth, or it might be insufficient lubrication. We will only know for sure if we open the gearbox.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Do you know why the shaft is not rotating smoothly?",
+        "text_b": "I’m not sure. It may be misalignment, or it might be bearing damage. We will only know for sure if we measure the alignment.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Do you know why the pressure gauge reading is unstable?",
+        "text_b": "I’m not sure. It may be air trapped in the line, or it might be a faulty gauge. We will only know for sure if we test the instrument.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Do you know why the machine output has reduced?",
+        "text_b": "I’m not sure. It may be internal wear, or it might be improper adjustment. We will only know for sure if we carry out a full inspection.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+        "examples": [
+          {
+            "id": "g_b_1",
+            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
+            "options": ["must", "can’t", "may", "should"],
+            "answer": "may"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_2",
+            "sentence": "It _____ rain this afternoon as dark clouds are forming over Kandy.",
+            "options": ["must", "shouldn’t", "might", "sometimes"],
+            "answer": "might"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "You __________ share your bank password with anyone.",
+            "options": ["mustn’t", "sometimes", "might", "should"],
+            "answer": "mustn’t"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "The power supply _____ go off tonight due to maintenance work in the area.",
+            "options": ["mustn’t", "shouldn’t", "may", "should"],
+            "answer": "may"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "I _______ hear you. There is so much noise in here.",
+            "options": ["must", "can’t", "may", "should"],
+            "answer": "can’t"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "The train to Galle _____ be delayed because of signal problems on the line.",
+            "options": ["sometimes", "shouldn’t", "might", "can’t"],
+            "answer": "might"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Some students _____ miss the first period since the CTB buses are running slowly this morning.",
+            "options": ["must", "sometimes", "may", "can’t"],
+            "answer": "may"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "The price of rice _____ increase next month because of transport issues after the floods.",
+            "options": ["must", "shouldn’t", "might", "can’t"],
+            "answer": "might"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "You ______________ leave important work until the last minute.",
+            "options": ["must", "can’t", "may", "shouldn’t"],
+            "answer": "shouldn’t"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "You _____________ cross the road when the light is red.",
+            "options": ["mustn’t", "can", "might", "should"],
+            "answer": "mustn’t"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "The meeting _____ be cancelled if several staff members are unable to attend.",
+            "options": ["must", "can’t", "may", "sometimes"],
+            "answer": "may"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "The bus from Kurunegala may arrive late because there is heavy traffic near the town.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "It might rain this afternoon as dark clouds are forming over Kandy.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "You mustn’t share your bank password with anyone.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "The power supply may go off tonight due to maintenance work in the area.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "I can’t hear you. There is so much noise in here.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "The train to Galle might be delayed because of signal problems on the line.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "Some students may miss the first period since the CTB buses are running slowly this morning.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "The price of rice might increase next month because of transport issues after the floods.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "You shouldn’t leave important work until the last minute.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "You mustn’t cross the road when the light is red.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "The meeting may be cancelled if several staff members are unable to attend.",
+          "audio": "assets/audio/g_b_11.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What must students do before entering the glass processing unit?",
+            "answer": "Put on safety goggles and gloves",
+            "options": [
+              "Put on safety goggles and gloves",
+              "Check the machines",
+              "Use their phones"
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Where should students keep their bags and personal items?",
+            "answer": "In the storage area provided",
+            "options": [
+              "Inside the processing unit",
+              "In the storage area provided",
+              "In the storage area next to the shower area"
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "When are students allowed to touch machines?",
+            "answer": "When the instructor gives permission",
+            "options": [
+              "When the machines are switched off",
+              "When no one is watching",
+              "When the instructor gives permission"
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "What should students do if they hear an alarm?",
+            "answer": "Stop and wait for instructions",
+            "options": [
+              "Leave the unit immediately",
+              "Stop and wait for instructions",
+              "Call a friend"
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What must students do after the tour is finished?",
+            "answer": "Return the safety equipment and wait",
+            "options": [
+              "Leave the unit quickly",
+              "Return the safety equipment and wait",
+              "Use their phones inside the unit"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Alright, everyone, before we enter the glass processing unit, please listen carefully.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "First, put on your safety goggles and protective gloves.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Make sure your shoes are fully covered.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Open footwear is not allowed.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Keep your bags and personal items in the storage area provided.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Sorry, could you repeat that?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Did you say we have to leave our bags outside?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Yes, that’s right.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "All bags and personal items stay outside.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Once we enter the unit, stay with the group at all times and follow the marked walkways.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Do not touch any glass sheets, tools, or machines unless you are told to do so.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I’m not sure I understood it correctly.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Are we allowed to touch the machines if they are switched off?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "No.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Do not touch anything unless I give you permission.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Be careful near the cutting and grinding areas.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Broken glass may be on the floor, so walk slowly and watch where you step.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "You mustn’t step over safety barriers or warning lines.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Did you say we mustn’t cross the warning lines at all?",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "That’s correct.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Never cross them.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Sharp edges can cause serious cuts, so keep a safe distance from all workstations.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Also remember, hot glass may look cool, but it can still burn you.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Sorry, could you repeat that last part about the glass?",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Yes.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Even if glass looks cool, it may still be hot.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "You can’t use your phone inside the processing area because distractions are dangerous.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "If you hear an alarm, stop immediately and wait for instructions.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Did you say we can’t use our phones at all?",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Not inside the unit.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "You can use them later, after we leave.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "If you don’t understand an instruction, ask before moving forward.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Never guess what to do in this area.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "If you can’t hear clearly because of machine noise, let me know and I will repeat it.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Okay.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "And after the tour?",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "After the tour is finished, return your safety equipment at the collection point.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Then wait in the designated area until everyone is accounted for.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Do not leave the unit until you are told it is safe to do so.",
+          "audio": "assets/audio/t_39.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Alright, everyone, before we enter the glass processing unit, please listen carefully.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "First, put on your safety goggles and protective gloves.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Make sure your shoes are fully covered.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Open footwear is not allowed.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Keep your bags and personal items in the storage area provided.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Sorry, could you repeat that?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Did you say we have to leave our bags outside?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Yes, that’s right.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "All bags and personal items stay outside.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Once we enter the unit, stay with the group at all times and follow the marked walkways.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Do not touch any glass sheets, tools, or machines unless you are told to do so.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I’m not sure I understood it correctly.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Are we allowed to touch the machines if they are switched off?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "No.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Do not touch anything unless I give you permission.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Be careful near the cutting and grinding areas.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Broken glass may be on the floor, so walk slowly and watch where you step.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "You mustn’t step over safety barriers or warning lines.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Did you say we mustn’t cross the warning lines at all?",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "That’s correct.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Never cross them.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Sharp edges can cause serious cuts, so keep a safe distance from all workstations.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Also remember, hot glass may look cool, but it can still burn you.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Sorry, could you repeat that last part about the glass?",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Yes.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Even if glass looks cool, it may still be hot.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "You can’t use your phone inside the processing area because distractions are dangerous.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "If you hear an alarm, stop immediately and wait for instructions.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Did you say we can’t use our phones at all?",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Not inside the unit.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "You can use them later, after we leave.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "If you don’t understand an instruction, ask before moving forward.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Never guess what to do in this area.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "If you can’t hear clearly because of machine noise, let me know and I will repeat it.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Okay.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "And after the tour?",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "After the tour is finished, return your safety equipment at the collection point.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Then wait in the designated area until everyone is accounted for.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Do not leave the unit until you are told it is safe to do so.",
+          "audio": "assets/audio/t_39.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Alright, everyone, before we enter the glass processing unit, please listen carefully.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "First, put on your safety goggles and protective gloves.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Make sure your shoes are fully covered.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Open footwear is not allowed.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Keep your bags and personal items in the storage area provided.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Sorry, could you repeat that?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Did you say we have to leave our bags outside?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Yes, that’s right.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "All bags and personal items stay outside.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Once we enter the unit, stay with the group at all times and follow the marked walkways.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Do not touch any glass sheets, tools, or machines unless you are told to do so.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I’m not sure I understood it correctly.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Are we allowed to touch the machines if they are switched off?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "No.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Do not touch anything unless I give you permission.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Be careful near the cutting and grinding areas.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Broken glass may be on the floor, so walk slowly and watch where you step.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "You mustn’t step over safety barriers or warning lines.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Did you say we mustn’t cross the warning lines at all?",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "That’s correct.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Never cross them.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Sharp edges can cause serious cuts, so keep a safe distance from all workstations.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Also remember, hot glass may look cool, but it can still burn you.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Sorry, could you repeat that last part about the glass?",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Yes.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Even if glass looks cool, it may still be hot.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "You can’t use your phone inside the processing area because distractions are dangerous.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "If you hear an alarm, stop immediately and wait for instructions.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Did you say we can’t use our phones at all?",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Not inside the unit.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "You can use them later, after we leave.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "If you don’t understand an instruction, ask before moving forward.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Never guess what to do in this area.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "If you can’t hear clearly because of machine noise, let me know and I will repeat it.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Okay.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "And after the tour?",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "After the tour is finished, return your safety equipment at the collection point.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Then wait in the designated area until everyone is accounted for.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Do not leave the unit until you are told it is safe to do so.",
+          "audio": "assets/audio/t_39.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
