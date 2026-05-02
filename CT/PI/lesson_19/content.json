@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'p'iston pin",
+        "word_text": "'p'ile cap",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'p'iston pin will fasten the piston to the connecting rod during engine operation.",
+        "sentence_text": "Will the 'p'ile cap distribute structural loads evenly to the foundation piles?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'p'ropeller shaft",
+        "word_text": "'p'recast panel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Will the 'p'ropeller shaft transmit torque from the gearbox to the differential?",
-        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "sentence_text": "The 'p'recast panel will form the external wall structure quickly.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'p'urge valve",
+        "word_text": "'p'urlin",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'p'urge valve won’t control fuel vapour flow into the intake system if it is faulty.",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "sentence_text": "The 'p'urlin won’t support the roof sheets during installation if it is not fixed properly.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'p'anhard rod",
+        "word_text": "'p'ump screed",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'p'anhard rod will limit lateral axle movement when the vehicle turns.",
+        "sentence_text": "The 'p'ump screed will level the floor surface efficiently.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
