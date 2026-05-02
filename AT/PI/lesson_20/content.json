@@ -96,10 +96,7 @@
     },
     "tables": [
       [
-        ["Impossible"],
-        ["Might (less likely)"],
-        ["May (more likely)"],
-        ["Certain"]
+        ["Impossible", "Might (less likely)", "May (more likely)", "Certain"]
       ]
     ],
     "example_dialogues": [
