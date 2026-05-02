@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'p'iston pin",
+        "word_text": "'p'acket loss",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'p'iston pin will fasten the piston to the connecting rod during engine operation.",
+        "sentence_text": "Will 'p'acket loss affect data transmission quality during peak traffic?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'p'ropeller shaft",
+        "word_text": "'p'ort mapping",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Will the 'p'ropeller shaft transmit torque from the gearbox to the differential?",
+        "sentence_text": "'P'ort mapping won’t allow external access to internal services if it is not configured correctly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'p'urge valve",
+        "word_text": "'p'roxy server",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'p'urge valve won’t control fuel vapour flow into the intake system if it is faulty.",
+        "sentence_text": "The 'p'roxy server will route client requests securely.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'p'anhard rod",
+        "word_text": "'p'atch panel",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'p'anhard rod will limit lateral axle movement when the vehicle turns.",
+        "sentence_text": "The 'p'atch panel will organise network cables efficiently.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
