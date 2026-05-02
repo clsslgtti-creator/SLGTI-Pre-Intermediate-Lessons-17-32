@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'p'iston pin",
+        "word_text": "'p'ole pitch",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'p'iston pin will fasten the piston to the connecting rod during engine operation.",
+        "sentence_text": "Will the 'p'ole pitch affect the speed of the rotating machine?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'p'ropeller shaft",
+        "word_text": "'p'ushbutton",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Will the 'p'ropeller shaft transmit torque from the gearbox to the differential?",
+        "sentence_text": "The 'p'ushbutton won’t start the control circuit safely if it is faulty.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'p'urge valve",
+        "word_text": "'p'ilot lamp",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'p'urge valve won’t control fuel vapour flow into the intake system if it is faulty.",
+        "sentence_text": "The 'p'ilot lamp will indicate the operating status clearly.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'p'anhard rod",
+        "word_text": "'p'otential divider",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'p'anhard rod will limit lateral axle movement when the vehicle turns.",
+        "sentence_text": "The 'p'otential divider will reduce the voltage for measurement.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
