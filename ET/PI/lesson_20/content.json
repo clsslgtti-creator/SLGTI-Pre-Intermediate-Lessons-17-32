@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'b'ushing",
+        "word_text": "'b'usbar",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'b'ushing may reduce vibration during suspension movement under load.",
+        "sentence_text": "The 'b'usbar may overheat if connections loosen inside switchboard panels during operation.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'b'alancer",
+        "word_text": "'b'alun",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The wheel 'b'alancer may detect imbalance at higher rotation speeds.",
+        "sentence_text": "The 'b'alun may reduce interference in communication circuits during installation checks.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'b'ackplate",
+        "word_text": "'b'ushing",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'b'ackplate might crack after repeated braking cycles at temperatures.",
+        "sentence_text": "The 'b'ushing might crack when excessive heat builds around conductors slowly.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'b'ead breaker",
+        "word_text": "'b'onding bar",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'b'ead breaker might slip if hydraulic pressure drops suddenly.",
+        "sentence_text": "The 'b'onding bar might improve safety by equalising potential differences onsite.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -95,32 +95,30 @@
       }
     },
     "tables": [
-      [
-        ["Impossible", "Might (less likely)", "May (more likely)", "Certain"]
-      ]
+      [["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
     ],
     "example_dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Do you know why the engine is making an unusual noise today?",
-        "text_b": "I’m not sure. It may be because the oil level is low, or it might be because a component is worn. We will only know for sure if we inspect the engine.",
+        "text_a": "Do you know why the motor is not starting today?",
+        "text_b": "I’m not sure. It may be a supply fault, or it might be a damaged contactor. We will only know for sure if we test the circuit.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Do you know why the vehicle failed to start this morning?",
-        "text_b": "I’m not sure. It may be a weak battery, or it might be a loose terminal connection. We will only know for sure if we check the electrical system.",
+        "text_a": "Do you know why the circuit breaker keeps tripping?",
+        "text_b": "I’m not sure. It may be an overload condition, or it might be a short circuit. We will only know for sure if we check the load.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Do you know why the brake pedal feels soft?",
-        "text_b": "I’m not sure. It may be air in the brake lines, or it might be a fluid leak. We will only know for sure if we bleed the brakes.",
+        "text_a": "Do you know why the control panel is not responding?",
+        "text_b": "I’m not sure. It may be a faulty control relay, or it might be a loose wiring connection. We will only know for sure if we inspect the panel.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -129,80 +127,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "engine temperature is rising"
+        "word": "voltage tester is unstable"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "headlights look dim"
+        "word": "indicator lamp is not lighting up"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "clutch is slipping during acceleration"
+        "word": "transformer is overheating"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "exhaust smoke looks darker than usual"
+        "word": "machine stopped during operation"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "warning light stays on after starting the engine"
+        "word": "cable insulation looks damaged"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "fuel consumption is high"
+        "word": "power consumption is high"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Do you know why the engine temperature is rising quickly?",
-        "text_b": "I’m not sure. It may be a cooling fan problem, or it might be a blocked radiator. We will only know for sure if we inspect the cooling system.",
+        "text_a": "Do you know why the voltage tester is unstable?",
+        "text_b": "I’m not sure. It may be a poor earth connection, or it might be a fluctuating power supply. We will only know for sure if we measure the input voltage.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Do you know why the headlights look dim?",
-        "text_b": "I’m not sure. It may be a low charging voltage, or it might be a poor ground connection. We will only know for sure if we test the circuit.",
+        "text_a": "Do you know why the indicator lamp is not lighting up?",
+        "text_b": "I’m not sure. It may be a blown lamp, or it might be an open circuit. We will only know for sure if we test continuity.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Do you know why the clutch is slipping during acceleration?",
-        "text_b": "I’m not sure. It may be a worn clutch plate, or it might be oil contamination. We will only know for sure if we remove and inspect the clutch.",
+        "text_a": "Do you know why the transformer is overheating?",
+        "text_b": "I’m not sure. It may be excessive load, or it might be insufficient ventilation. We will only know for sure if we check the operating conditions.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Do you know why the exhaust smoke looks darker than usual?",
-        "text_b": "I’m not sure. It may be incomplete combustion, or it might be a clogged air filter. We will only know for sure if we check the intake system.",
+        "text_a": "Do you know why the machine stopped during operation?",
+        "text_b": "I’m not sure. It may be a safety interlock issue, or it might be a control signal failure. We will only know for sure if we review the fault indicators.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Do you know why the warning light stays on after starting the engine?",
-        "text_b": "I’m not sure. It may be a sensor fault, or it might be a stored error code. We will only know for sure if we scan the control unit.",
+        "text_a": "Do you know why the cable insulation looks damaged?",
+        "text_b": "I’m not sure. It may be mechanical stress, or it might be overheating. We will only know for sure if we inspect the cable route.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Do you know why the fuel consumption is high?",
-        "text_b": "I’m not sure. It may be incorrect tyre pressure, or it might be poor engine tuning. We will only know for sure if we carry out a full inspection.",
+        "text_a": "Do you know why the power consumption is high?",
+        "text_b": "I’m not sure. It may be inefficient operation, or it might be faulty equipment. We will only know for sure if we carry out an energy check.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
