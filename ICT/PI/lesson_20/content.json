@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 20,
     "level": "Pre-Intermediate",
-    "section": "Construction Technology",
+    "section": "Information Communication Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'b'ushing",
+        "word_text": "'b'lade server",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'b'ushing may reduce vibration during suspension movement under load.",
+        "sentence_text": "A 'b'lade server may overheat inside densely packed chassis racks.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'b'alancer",
+        "word_text": "'b'ridge chip",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The wheel 'b'alancer may detect imbalance at higher rotation speeds.",
+        "sentence_text": "The 'b'ridge chip might misroute signals under incompatible protocol configurations.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'b'ackplate",
+        "word_text": "'b'oot loader",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'b'ackplate might crack after repeated braking cycles at temperatures.",
+        "sentence_text": "The 'b'oot loader might stall during the corrupted firmware initialization phase.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'b'ead breaker",
+        "word_text": "'b'uffer cache",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'b'ead breaker might slip if hydraulic pressure drops suddenly.",
+        "sentence_text": "The 'b'uffer cache might thrash when memory pressure increases suddenly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -95,32 +95,30 @@
       }
     },
     "tables": [
-      [
-        ["Impossible", "Might (less likely)", "May (more likely)", "Certain"]
-      ]
+      [["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
     ],
     "example_dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Do you know why the engine is making an unusual noise today?",
-        "text_b": "I’m not sure. It may be because the oil level is low, or it might be because a component is worn. We will only know for sure if we inspect the engine.",
+        "text_a": "Do you know why the computer is running very slowly today?",
+        "text_b": "I’m not sure. It may be too many background programmes, or it might be insufficient memory. We will only know for sure if we check the system performance.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Do you know why the vehicle failed to start this morning?",
-        "text_b": "I’m not sure. It may be a weak battery, or it might be a loose terminal connection. We will only know for sure if we check the electrical system.",
+        "text_a": "Do you know why the network connection keeps dropping?",
+        "text_b": "I’m not sure. It may be a faulty network cable, or it might be an unstable router. We will only know for sure if we test the connection.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Do you know why the brake pedal feels soft?",
-        "text_b": "I’m not sure. It may be air in the brake lines, or it might be a fluid leak. We will only know for sure if we bleed the brakes.",
+        "text_a": "Do you know why the printer is not responding?",
+        "text_b": "I’m not sure. It may be an incorrect driver, or it might be a connection issue. We will only know for sure if we reinstall the driver.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -129,80 +127,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "engine temperature is rising"
+        "word": "software installation failed"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "headlights look dim"
+        "word": "monitor display is flickering"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "clutch is slipping during acceleration"
+        "word": "system suddenly restarted"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "exhaust smoke looks darker than usual"
+        "word": "files are not opening correctly"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "warning light stays on after starting the engine"
+        "word": "login process is taking so long"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "fuel consumption is high"
+        "word": "internet speed is slower than usual"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Do you know why the engine temperature is rising quickly?",
-        "text_b": "I’m not sure. It may be a cooling fan problem, or it might be a blocked radiator. We will only know for sure if we inspect the cooling system.",
+        "text_a": "Do you know why the software installation failed?",
+        "text_b": "I’m not sure. It may be insufficient disk space, or it might be an unsupported operating system. We will only know for sure if we review the specifications.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Do you know why the headlights look dim?",
-        "text_b": "I’m not sure. It may be a low charging voltage, or it might be a poor ground connection. We will only know for sure if we test the circuit.",
+        "text_a": "Do you know why the monitor display is flickering?",
+        "text_b": "I’m not sure. It may be a loose display cable, or it might be an incorrect refresh rate. We will only know for sure if we adjust the settings.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Do you know why the clutch is slipping during acceleration?",
-        "text_b": "I’m not sure. It may be a worn clutch plate, or it might be oil contamination. We will only know for sure if we remove and inspect the clutch.",
+        "text_a": "Do you know why the system suddenly restarted?",
+        "text_b": "I’m not sure. It may be overheating, or it might be a power supply issue. We will only know for sure if we check the hardware status.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Do you know why the exhaust smoke looks darker than usual?",
-        "text_b": "I’m not sure. It may be incomplete combustion, or it might be a clogged air filter. We will only know for sure if we check the intake system.",
+        "text_a": "Do you know why the files are not opening correctly?",
+        "text_b": "I’m not sure. It may be file corruption, or it might be incompatible software. We will only know for sure if we open them on another system.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Do you know why the warning light stays on after starting the engine?",
-        "text_b": "I’m not sure. It may be a sensor fault, or it might be a stored error code. We will only know for sure if we scan the control unit.",
+        "text_a": "Do you know why the login process is taking so long?",
+        "text_b": "I’m not sure. It may be server overload, or it might be network delay. We will only know for sure if we monitor the server activity.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Do you know why the fuel consumption is high?",
-        "text_b": "I’m not sure. It may be incorrect tyre pressure, or it might be poor engine tuning. We will only know for sure if we carry out a full inspection.",
+        "text_a": "Do you know why the internet speed is slower than usual?",
+        "text_b": "I’m not sure. It may be high network traffic, or it might be limited bandwidth. We will only know for sure if we run a speed test.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
