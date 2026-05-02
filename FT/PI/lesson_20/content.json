@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'b'ushing",
+        "word_text": "'b'elt drive",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'b'ushing may reduce vibration during suspension movement under load.",
+        "sentence_text": "The 'b'elt drive may slip during continuous mixer operation cycles.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'b'alancer",
+        "word_text": "'b'lancher",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The wheel 'b'alancer may detect imbalance at higher rotation speeds.",
+        "sentence_text": "The 'b'lancher may overheat during extended preheating before freezing processes.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'b'ackplate",
+        "word_text": "'b'reaker mill",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'b'ackplate might crack after repeated braking cycles at temperatures.",
+        "sentence_text": "The 'b'reaker mill might jam when oversized material enters feed.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'b'ead breaker",
+        "word_text": "'b'utter churn",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'b'ead breaker might slip if hydraulic pressure drops suddenly.",
+        "sentence_text": "The 'b'utter churn might vibrate excessively if bearings wear unevenly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -95,32 +95,30 @@
       }
     },
     "tables": [
-      [
-        ["Impossible", "Might (less likely)", "May (more likely)", "Certain"]
-      ]
+      [["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
     ],
     "example_dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Do you know why the engine is making an unusual noise today?",
-        "text_b": "I’m not sure. It may be because the oil level is low, or it might be because a component is worn. We will only know for sure if we inspect the engine.",
+        "text_a": "Do you know why the soup tastes different today?",
+        "text_b": "I’m not sure. It may be because the salt is low, or it might be because the stock was overcooked. We will only know for sure if we check the recipe.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Do you know why the vehicle failed to start this morning?",
-        "text_b": "I’m not sure. It may be a weak battery, or it might be a loose terminal connection. We will only know for sure if we check the electrical system.",
+        "text_a": "Do you know why the mixer stopped suddenly?",
+        "text_b": "I’m not sure. It may be overheating, or it might be a loose power connection. We will only know for sure if we inspect the machine.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Do you know why the brake pedal feels soft?",
-        "text_b": "I’m not sure. It may be air in the brake lines, or it might be a fluid leak. We will only know for sure if we bleed the brakes.",
+        "text_a": "Do you know why the dough is not rising?",
+        "text_b": "I’m not sure. It may be old yeast, or it might be incorrect water temperature. We will only know for sure if we test the yeast.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -129,80 +127,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "engine temperature is rising"
+        "word": "sauce is too thick"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "headlights look dim"
+        "word": "temperature keeps changing"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "clutch is slipping during acceleration"
+        "word": "vegetables look overcooked"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "exhaust smoke looks darker than usual"
+        "word": "milk smells unusual"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "warning light stays on after starting the engine"
+        "word": "packaging machine is making a  noise"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "fuel consumption is high"
+        "word": "curry paste colour is uneven"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Do you know why the engine temperature is rising quickly?",
-        "text_b": "I’m not sure. It may be a cooling fan problem, or it might be a blocked radiator. We will only know for sure if we inspect the cooling system.",
+        "text_a": "Do you know why the sauce is too thick?",
+        "text_b": "I’m not sure. It may be because too much starch was added, or it might be because it cooked for too long. We will only know for sure if we review the process.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Do you know why the headlights look dim?",
-        "text_b": "I’m not sure. It may be a low charging voltage, or it might be a poor ground connection. We will only know for sure if we test the circuit.",
+        "text_a": "Do you know why the oven temperature keeps changing?",
+        "text_b": "I’m not sure. It may be a faulty thermostat, or it might be an unstable power supply. We will only know for sure if we check the control panel.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Do you know why the clutch is slipping during acceleration?",
-        "text_b": "I’m not sure. It may be a worn clutch plate, or it might be oil contamination. We will only know for sure if we remove and inspect the clutch.",
+        "text_a": "Do you know why the vegetables look overcooked?",
+        "text_b": "I’m not sure. It may be because the heat was too high, or it might be because they stayed in the pan too long. We will only know for sure if we check the cooking time.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Do you know why the exhaust smoke looks darker than usual?",
-        "text_b": "I’m not sure. It may be incomplete combustion, or it might be a clogged air filter. We will only know for sure if we check the intake system.",
+        "text_a": "Do you know why the milk smells unusual?",
+        "text_b": "I’m not sure. It may be expired, or it might have been stored incorrectly. We will only know for sure if we check the label.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Do you know why the warning light stays on after starting the engine?",
-        "text_b": "I’m not sure. It may be a sensor fault, or it might be a stored error code. We will only know for sure if we scan the control unit.",
+        "text_a": "Do you know why the packaging machine is making a noise?",
+        "text_b": "I’m not sure. It may be a loose part, or it might be a lack of lubrication. We will only know for sure if we stop the machine and inspect it.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Do you know why the fuel consumption is high?",
-        "text_b": "I’m not sure. It may be incorrect tyre pressure, or it might be poor engine tuning. We will only know for sure if we carry out a full inspection.",
+        "text_a": "Do you know why the curry paste colour is uneven?",
+        "text_b": "I’m not sure. It may be uneven heating, or it might be poor mixing. We will only know for sure if we review the batch records.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
