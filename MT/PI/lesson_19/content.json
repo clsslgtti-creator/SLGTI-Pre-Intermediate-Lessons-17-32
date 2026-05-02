@@ -1,0 +1,1177 @@
+{
+  "meta": {
+    "lesson_no": 19,
+    "level": "Pre-Intermediate",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Short /p/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'p'iston pin",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The 'p'iston pin will fasten the piston to the connecting rod during engine operation.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'p'ropeller shaft",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Will the 'p'ropeller shaft transmit torque from the gearbox to the differential?",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'p'urge valve",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The 'p'urge valve won’t control fuel vapour flow into the intake system if it is faulty.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "'p'anhard rod",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The 'p'anhard rod will limit lateral axle movement when the vehicle turns.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Will … soon? – Active Voice Dialogues",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["Will", "She", "Start", "soon?"],
+        [null, "He", "Cook", null],
+        [null, "They", "Fix the", null],
+        [null, "I", "machine", null],
+        [null, "You", "Set up", null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Will the staff meeting start soon?",
+        "text_b": "Yes, it will. It will start in a few minutes.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "Will the section heads return from the training soon?",
+        "text_b": "Yes, they will. They will return in a few days.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "Will the ICT teacher arrive at the lecture hall soon?",
+        "text_b": "Yes, she will. She will arrive in ten minutes.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "shop selling protective gear"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "express train to Colombo"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "state-of-the-art classroom"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "CTB bus"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "twin brothers"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "pouring rain"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Will the shop selling protective gear open soon?",
+        "text_b": "Yes, it will. It will open in an hour.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Will the express train to Colombo leave the station soon?",
+        "text_b": "Yes, it will. It will leave in half an hour.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "Will the state-of-the-art classroom be ready soon?",
+        "text_b": "Yes, it will. It will be ready in fifteen minutes.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Will the new CTB bus reach the bus stop soon?",
+        "text_b": "Yes, it will. It will reach it in two minutes.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "Will your twin brothers retire soon?",
+        "text_b": "Yes, they will. They will retire in a couple of weeks.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "Will the pouring rain stop soon?",
+        "text_b": "Yes, it will. It will stop in a little while.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-10",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "subtitle": "In this exercise there are two kinds of sentences.",
+        "tables": [
+          [
+            [
+              "We use ‘will’ when...",
+              "the speaker makes a decision at the moment of speaking."
+            ],
+            [null, "it is an offer or a promise."]
+          ],
+          [
+            [
+              "We use ‘going to’ when...",
+              "it is something that has already been planned."
+            ]
+          ]
+        ],
+        "content": [
+          {
+            "id": "g_future_1",
+            "question": "I ______ visit my uncle tomorrow; I already spoke to him this morning.",
+            "options": ["am going to", "will"],
+            "answer": "am going to"
+          },
+          {
+            "id": "g_future_2",
+            "question": "She ______ start her new job next Monday; the contract is signed.",
+            "options": ["is going to", "will"],
+            "answer": "is going to"
+          },
+          {
+            "id": "g_future_3",
+            "question": "We ______ travel to Kandy this weekend; the bus tickets are booked.",
+            "options": ["are going to", "will"],
+            "answer": "are going to"
+          },
+          {
+            "id": "g_future_4",
+            "question": "He ______ meet the technician at 9 a.m.; the appointment is confirmed.",
+            "options": ["is going to", "will"],
+            "answer": "is going to"
+          },
+          {
+            "id": "g_future_5",
+            "question": "They ______ repaint the classroom; the materials were delivered yesterday.",
+            "options": ["are going to", "will"],
+            "answer": "are going to"
+          },
+          {
+            "id": "g_future_6",
+            "question": "I ______ attend the workshop today; my name is on the participant list.",
+            "options": ["am going to", "will"],
+            "answer": "am going to"
+          },
+          {
+            "id": "g_future_7",
+            "question": "She ______ cook dinner tonight; she planned the menu earlier.",
+            "options": ["is going to", "will"],
+            "answer": "is going to"
+          },
+          {
+            "id": "g_future_8",
+            "question": "We ______ submit the assignment on Friday; the deadline is fixed.",
+            "options": ["are going to", "will"],
+            "answer": "are going to"
+          },
+          {
+            "id": "g_future_9",
+            "question": "He ______ repair the computer this evening; he arranged it with the ICT staff.",
+            "options": ["is going to", "will"],
+            "answer": "is going to"
+          },
+          {
+            "id": "g_future_10",
+            "question": "They ______ move to the new office next month; the lease is already signed.",
+            "options": ["are going to", "will"],
+            "answer": "are going to"
+          },
+          {
+            "id": "g_future_11",
+            "question": "It’s very hot in this room. I ______ open the window.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_12",
+            "question": "You look tired. I ______ carry that bag for you.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_13",
+            "question": "The phone is ringing. I ______ answer it.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_14",
+            "question": "Don’t worry, I ______ help you finish the report.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_15",
+            "question": "There’s no milk left. I ______ buy some on my way home.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_16",
+            "question": "You forgot your pen. I ______ lend you mine.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_17",
+            "question": "The bus is late. I ______ call the office and inform them.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_18",
+            "question": "That question is difficult, but I ______ explain it again.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_19",
+            "question": "It’s starting to rain. I ______ close the door.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          },
+          {
+            "id": "g_future_20",
+            "question": "I promise I ______ send you the details this evening.",
+            "options": ["will", "am going to"],
+            "answer": "will"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "The phone is ringing. I will answer it.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "They are going to repaint the classroom; the materials were delivered yesterday.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "You look tired. I will carry that bag for you.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "We are going to travel to Kandy this weekend; the bus tickets are booked.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "Don’t worry, I will help you finish the report.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "He is going to meet the technician at 9 a.m.; the appointment is confirmed.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "It’s very hot in this room. I will open the window.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "She is going to start her new job next Monday; the contract is signed.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "There’s no milk left. I will buy some on my way home.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "I am going to visit my uncle tomorrow; I already spoke to him this morning.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-11",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio, which will be played twice, and fill in the blanks. It is very important that you read the questions before listening to the recording. දෙවරක් වාදනය වන ශ්‍රව්‍ය පටයට සවන් දී හිස්තැන් පුරවන්න. පටිගත කිරීමට සවන් දීමට පෙර ප්‍රශ්න කියවීම ඉතා වැදගත් වේ. இரண்டு முறை ஒலிக்கப்படும் ஒலிப்பதிவைக் கேட்டு, கோடிட்ட இடங்களை நிரப்பவும். ஒலிப்பதிவைக் கேட்பதற்கு முன்னதாகவே கேள்விகளை வாசிப்பது மிகவும் அவசியமாகும்.",
+        "audio": "assets/audio/a_4_i_n.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "title": "Stationery Request Form",
+        "table": [
+          [
+            { "type": "td", "prefix": "Supplier Number" },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["4582"]
+            }
+          ],
+          [
+            { "type": "td", "prefix": "Order Code" },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["ST-0412-MAR"]
+            }
+          ],
+          [
+            { "type": "th", "prefix": "Item" },
+            { "type": "th", "prefix": "Quantity / Amount" },
+            { "type": "th", "prefix": "Comments" }
+          ],
+          [
+            {
+              "type": "td",
+              "prefix": "A4 printer paper (",
+              "isBlank": true,
+              "answers": ["80", "eighty"],
+              "suffix": " gsm)"
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["5 reams", "five reams"]
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["Urgent"]
+            }
+          ],
+          [
+            { "type": "td", "prefix": "Blue ballpoint pens" },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["2 dozen", "two dozen"]
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["Missing"]
+            }
+          ],
+          [
+            {
+              "type": "td",
+              "prefix": "Staples (big)"
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["2 boxes", "two boxes"]
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["Big staples", "big staples"]
+            }
+          ],
+          [
+            {
+              "type": "td",
+              "prefix": "Clear folders – ",
+              "isBlank": true,
+              "answers": ["brown"]
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["14", "fourteen"]
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["For manuals"]
+            }
+          ],
+          [
+            {
+              "type": "td",
+              "prefix": "Clear folders – ",
+              "isBlank": true,
+              "answers": ["grey", "gray"]
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["13", "thirteen"]
+            },
+            {
+              "type": "td",
+              "isBlank": true,
+              "answers": ["For manuals"]
+            }
+          ]
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Alright, let’s sit down and go through our stationery requirements for this month.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two dash capital M A R at the top of the form before you start.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Okay, I’ve written the supplier number and the order code.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Shall we fill in the rest?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Good.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "First, let’s talk about printer paper.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "We are short of A four paper at the moment.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Last month, they delivered seventy gsm reams, but we really need eighty gsm paper.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "How much paper do we need?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Order five reams.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That should last for one month.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Make a note in the comments column that we need it urgently.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Next, we are missing blue ballpoint pens.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Some pens are broken, and others have run out of ink.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "How many pens do you want me to order?",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Order twenty blue ballpoint pens, or why don’t we make it two dozen?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "I think they pack them in one-dozen packs.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "If we add the seven pens we still have in the drawer, we will have thirty-one pens in total.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "There is no need to order the red ones.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "We have not even opened the boxes delivered last time.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Thirty-one blue pens should keep us going for more than a month, don’t you think?",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Yes, it should.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Now, about toner.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We usually order two toners every month, but this time we still have enough in stock.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "So I shouldn’t order any toner, should I?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "That’s right.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "We are also short of staples.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "The boxes in the drawer are almost finished.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "How many boxes of staples should I order?",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Order two boxes of big staples, and write big staples in the comments.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "They usually send medium-sized staples to the main office, so it’s easy for them to make a mistake.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Finally, about clear folders.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Some new machines are coming, so we will need folders for the manuals.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "We still have six brown folders and seven grey ones.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "We need an additional thirteen brown folders and fourteen grey ones.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "No, it’s the other way around: fourteen brown folders and thirteen grey folders.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Once you finish the form, send it to the stores supply desk.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Will do, sir.",
+          "audio": "assets/audio/t_39.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Alright, let’s sit down and go through our stationery requirements for this month.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two dash capital M A R at the top of the form before you start.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Okay, I’ve written the supplier number and the order code.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Shall we fill in the rest?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Good.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "First, let’s talk about printer paper.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "We are short of A four paper at the moment.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Last month, they delivered seventy gsm reams, but we really need eighty gsm paper.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "How much paper do we need?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Order five reams.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That should last for one month.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Make a note in the comments column that we need it urgently.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Next, we are missing blue ballpoint pens.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Some pens are broken, and others have run out of ink.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "How many pens do you want me to order?",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Order twenty blue ballpoint pens, or why don’t we make it two dozen?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "I think they pack them in one-dozen packs.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "If we add the seven pens we still have in the drawer, we will have thirty-one pens in total.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "There is no need to order the red ones.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "We have not even opened the boxes delivered last time.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Thirty-one blue pens should keep us going for more than a month, don’t you think?",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Yes, it should.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Now, about toner.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We usually order two toners every month, but this time we still have enough in stock.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "So I shouldn’t order any toner, should I?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "That’s right.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "We are also short of staples.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "The boxes in the drawer are almost finished.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "How many boxes of staples should I order?",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Order two boxes of big staples, and write big staples in the comments.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "They usually send medium-sized staples to the main office, so it’s easy for them to make a mistake.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Finally, about clear folders.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Some new machines are coming, so we will need folders for the manuals.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "We still have six brown folders and seven grey ones.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "We need an additional thirteen brown folders and fourteen grey ones.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "No, it’s the other way around: fourteen brown folders and thirteen grey folders.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Once you finish the form, send it to the stores supply desk.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Will do, sir.",
+          "audio": "assets/audio/t_39.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Alright, let’s sit down and go through our stationery requirements for this month.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two dash capital M A R at the top of the form before you start.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Okay, I’ve written the supplier number and the order code.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Shall we fill in the rest?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Good.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "First, let’s talk about printer paper.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "We are short of A four paper at the moment.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Last month, they delivered seventy gsm reams, but we really need eighty gsm paper.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "How much paper do we need?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Order five reams.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That should last for one month.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Make a note in the comments column that we need it urgently.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Next, we are missing blue ballpoint pens.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Some pens are broken, and others have run out of ink.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "How many pens do you want me to order?",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Order twenty blue ballpoint pens, or why don’t we make it two dozen?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "I think they pack them in one-dozen packs.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "If we add the seven pens we still have in the drawer, we will have thirty-one pens in total.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "There is no need to order the red ones.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "We have not even opened the boxes delivered last time.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Thirty-one blue pens should keep us going for more than a month, don’t you think?",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Yes, it should.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Now, about toner.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We usually order two toners every month, but this time we still have enough in stock.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "So I shouldn’t order any toner, should I?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "That’s right.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "We are also short of staples.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "The boxes in the drawer are almost finished.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "How many boxes of staples should I order?",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Order two boxes of big staples, and write big staples in the comments.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "They usually send medium-sized staples to the main office, so it’s easy for them to make a mistake.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Finally, about clear folders.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "Some new machines are coming, so we will need folders for the manuals.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "We still have six brown folders and seven grey ones.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "We need an additional thirteen brown folders and fourteen grey ones.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "No, it’s the other way around: fourteen brown folders and thirteen grey folders.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Once you finish the form, send it to the stores supply desk.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Will do, sir.",
+          "audio": "assets/audio/t_39.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}

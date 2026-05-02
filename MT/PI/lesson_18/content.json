@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 18,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Mechanical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -397,112 +397,112 @@
       "activity_b": [
   {
     "id": "g_b_1_x",
-    "text": "Can I have a box of USB drives?",
+    "text": "Can I have a box of bolts?",
     "audio": "assets/audio/g_b_1_x.mp3"
   },
   {
     "id": "g_b_1_y",
-    "text": "The lab assistant keeps USB drives in the storage drawer.",
+    "text": "The storekeeper keeps bolts in the hardware cabinet.",
     "audio": "assets/audio/g_b_1_y.mp3"
   },
   {
     "id": "g_b_2_x",
-    "text": "The technician brought a container of server coolant.",
+    "text": "The technician brought a drum of hydraulic oil.",
     "audio": "assets/audio/g_b_2_x.mp3"
   },
   {
     "id": "g_b_2_y",
-    "text": "Server coolant prevents overheating in the rack.",
+    "text": "Hydraulic oil lubricates the press system.",
     "audio": "assets/audio/g_b_2_y.mp3"
   },
   {
     "id": "g_b_3_x",
-    "text": "The trainee carried a bundle of network cables.",
+    "text": "The trainee carried a bundle of steel rods.",
     "audio": "assets/audio/g_b_3_x.mp3"
   },
   {
     "id": "g_b_3_y",
-    "text": "These cables protect users from electric shock.",
+    "text": "Steel provides strength for machine parts.",
     "audio": "assets/audio/g_b_3_y.mp3"
   },
   {
     "id": "g_b_4_x",
-    "text": "The instructor checked the rack of servers.",
+    "text": "The supervisor inspected a roll of welding wire.",
     "audio": "assets/audio/g_b_4_x.mp3"
   },
   {
     "id": "g_b_4_y",
-    "text": "Servers store and manage data for computers on a network.",
+    "text": "The welder melts welding wire during joining work.",
     "audio": "assets/audio/g_b_4_y.mp3"
   },
   {
     "id": "g_b_5_x",
-    "text": "We ordered two cartons of routers.",
+    "text": "We ordered two boxes of bearings.",
     "audio": "assets/audio/g_b_5_x.mp3"
   },
   {
     "id": "g_b_5_y",
-    "text": "Routers direct data traffic between different networks and devices.",
+    "text": "Bearings help machine parts move smoothly by reducing friction.",
     "audio": "assets/audio/g_b_5_y.mp3"
   },
   {
     "id": "g_b_6_x",
-    "text": "The technician filled a unit with thermal paste.",
+    "text": "The operator filled a tank with coolant.",
     "audio": "assets/audio/g_b_6_x.mp3"
   },
   {
     "id": "g_b_6_y",
-    "text": "Thermal paste improves heat transfer from processors.",
+    "text": "Coolant removes excess heat from the machine.",
     "audio": "assets/audio/g_b_6_y.mp3"
   },
   {
     "id": "g_b_7_x",
-    "text": "The trainee checks grounding before powering the system.",
+    "text": "The trainee checks lubrication before machine start-up.",
     "audio": "assets/audio/g_b_7_x.mp3"
   },
   {
     "id": "g_b_7_y",
-    "text": "The trainee inspected the grounding wires before powering the system.",
+    "text": "Pass me a tube of lubricant, please.",
     "audio": "assets/audio/g_b_7_y.mp3"
   },
   {
     "id": "g_b_8_x",
-    "text": "The lab received three hard drives.",
+    "text": "The workshop received three cutting tools.",
     "audio": "assets/audio/g_b_8_x.mp3"
   },
   {
     "id": "g_b_8_y",
-    "text": "Hard drives store digital data such as files, programs, and operating systems.",
+    "text": "Cutting tools are used to shape and cut metal or wood into different forms.",
     "audio": "assets/audio/g_b_8_y.mp3"
   },
   {
     "id": "g_b_9_x",
-    "text": "The trainee applied a tube of cleaning gel on the device surface.",
+    "text": "The trainee cleaned a tray of grease.",
     "audio": "assets/audio/g_b_9_x.mp3"
   },
   {
     "id": "g_b_9_y",
-    "text": "Cleaning gel removes dust from device surfaces.",
+    "text": "Grease protects moving parts from wear.",
     "audio": "assets/audio/g_b_9_y.mp3"
   },
   {
     "id": "g_b_10_x",
-    "text": "We need a sheet of insulating foam.",
+    "text": "We need a sheet of gasket material.",
     "audio": "assets/audio/g_b_10_x.mp3"
   },
   {
     "id": "g_b_10_y",
-    "text": "Insulating foam reduces vibration inside computer cases.",
+    "text": "Gasket material prevents leakage in joints.",
     "audio": "assets/audio/g_b_10_y.mp3"
   },
   {
     "id": "g_b_11_x",
-    "text": "The supervisor ordered four monitors.",
+    "text": "The foreman ordered four belts.",
     "audio": "assets/audio/g_b_11_x.mp3"
   },
   {
     "id": "g_b_11_y",
-    "text": "The technician connected the monitors to display the computer’s output clearly.",
+    "text": "Belts are used in machines to transfer power between rotating parts.",
     "audio": "assets/audio/g_b_11_y.mp3"
   }
 ]
