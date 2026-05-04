@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'t'appet",
+        "word_text": "'t'erminal block",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The new 't'appet is quieter and smoother than the worn tappet.",
+        "sentence_text": "This 't'erminal block is safer than the old connector design.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'t'ensioner",
+        "word_text": "'t'ape drive",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This 't'ensioner is tighter than the old one under engine load.",
+        "sentence_text": "The 't'ape drive is slower than solid-state storage systems.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'t'iming gear",
+        "word_text": "'t'est rig",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The updated 't'iming gear is better than the previous gear set.",
+        "sentence_text": "The 't'est rig is simpler than the full production setup.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "thro'tt'le body",
+        "word_text": "'t'ransfer switch",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The replacement thro'tt'le body is cleaner than the original unit.",
+        "sentence_text": "The 't'ransfer switch is better than manual power changeover.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -264,95 +264,95 @@
         "content": [
           {
             "id": "g_b_1",
-            "question": "Proper torque control makes the assembly __________ than hand tightening. (safe)",
-            "answer": "safer"
+            "question": "A wired network connection is __________ than a wireless one in busy labs. (fast)",
+            "answer": "faster"
           },
           {
             "id": "g_b_2",
-            "question": "An aluminium body panel is __________ than a steel panel. (light)",
-            "answer": "lighter"
+            "question": "A flat monitor screen is __________ than a curved screen for viewing code lines. (clear)",
+            "answer": "clearer"
           },
           {
             "id": "g_b_3",
-            "question": "A sealed electrical connector is __________ than an open connector in wet conditions. (dry)",
-            "answer": "drier"
-          },
-          {
-            "id": "g_b_4",
-            "question": "New brake pads feel __________ than worn pads during inspection. (firm)",
-            "answer": "firmer"
-          },
-          {
-            "id": "g_b_5",
-            "question": "Synthetic engine oil is __________ than mineral oil in extreme temperatures. (clean)",
-            "answer": "cleaner"
-          },
-          {
-            "id": "g_b_6",
-            "question": "A loose exhaust shield becomes __________ at high engine speed. (loud)",
-            "answer": "louder"
-          },
-          {
-            "id": "g_b_7",
-            "question": "A well-balanced tyre setup is __________ than an uneven one at high speed. (steady)",
-            "answer": "steadier"
-          },
-          {
-            "id": "g_b_8",
-            "question": "A reinforced suspension arm is __________ than a standard one. (strong)",
+            "question": "A metal server rack is __________ than a plastic rack under heavy equipment load. (strong)",
             "answer": "stronger"
           },
           {
+            "id": "g_b_4",
+            "question": "A laptop computer is __________ than a desktop unit for moving between classrooms. (light)",
+            "answer": "lighter"
+          },
+          {
+            "id": "g_b_5",
+            "question": "A secure server room is __________ than an open workspace during system operation. (quiet)",
+            "answer": "quieter"
+          },
+          {
+            "id": "g_b_6",
+            "question": "A thin network cable is __________ than a thick cable in high-traffic areas. (weak)",
+            "answer": "weaker"
+          },
+          {
+            "id": "g_b_7",
+            "question": "A server room without proper ventilation becomes __________ than a well-ventilated one. (hot)",
+            "answer": "hotter"
+          },
+          {
+            "id": "g_b_8",
+            "question": "A fibre-optic cable jacket becomes __________ in cold server rooms. (stiff)",
+            "answer": "stiffer"
+          },
+          {
             "id": "g_b_9",
-            "question": "Tempered glass is __________ than laminated glass during impact tests. (hard)",
-            "answer": "harder"
+            "question": "A workstation with proper grounding is __________ during maintenance checks. (safe)",
+            "answer": "safer"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Proper torque control makes the assembly safer than hand tightening.",
+          "text": "A wired network connection is faster than a wireless one in busy labs.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "An aluminium body panel is lighter than a steel panel.",
+          "text": "A flat monitor screen is clearer than a curved screen for viewing code lines.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "A sealed electrical connector is drier than an open connector in wet conditions.",
+          "text": "A metal server rack is stronger than a plastic rack under heavy equipment load.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "New brake pads feel firmer than worn pads during inspection.",
+          "text": "A laptop computer is lighter than a desktop unit for moving between classrooms.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Synthetic engine oil is cleaner than mineral oil in extreme temperatures.",
+          "text": "A secure server room is quieter than an open workspace during system operation.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "A loose exhaust shield becomes louder at high engine speed.",
+          "text": "A thin network cable is weaker than a thick cable in high-traffic areas.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "A well-balanced tyre setup is steadier than an uneven one at high speed.",
+          "text": "A server room without proper ventilation becomes hotter than a well-ventilated one.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "A reinforced suspension arm is stronger than a standard one.",
+          "text": "A fibre-optic cable jacket becomes stiffer in cold server rooms.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "Tempered glass is harder than laminated glass during impact tests.",
+          "text": "A workstation with proper grounding is safer during maintenance checks.",
           "audio": "assets/audio/g_b_9.mp3"
         }
       ]
