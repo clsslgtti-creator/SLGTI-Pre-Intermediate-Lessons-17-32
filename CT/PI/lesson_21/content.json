@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'t'appet",
+        "word_text": "'t'restle",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The new 't'appet is quieter and smoother than the worn tappet.",
+        "sentence_text": "This 't'restle is better than the old one under heavy formwork.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'t'ensioner",
+        "word_text": "'t'oggle clamp",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This 't'ensioner is tighter than the old one under engine load.",
+        "sentence_text": "The 't'oggle clamp is tighter than standard clamps during steel fabrication.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'t'iming gear",
+        "word_text": "'t'amping rammer",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The updated 't'iming gear is better than the previous gear set.",
+        "sentence_text": "The 't'amping rammer is louder than plate compactors in confined spaces.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "thro'tt'le body",
+        "word_text": "'t'rack roller",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The replacement thro'tt'le body is cleaner than the original unit.",
+        "sentence_text": "The new 't'rack roller is smoother than the worn roller on excavators.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -264,95 +264,95 @@
         "content": [
           {
             "id": "g_b_1",
-            "question": "Proper torque control makes the assembly __________ than hand tightening. (safe)",
-            "answer": "safer"
+            "question": "A thick formwork panel is __________ than a thin panel during concrete casting. (stiff)",
+            "answer": "stiffer"
           },
           {
             "id": "g_b_2",
-            "question": "An aluminium body panel is __________ than a steel panel. (light)",
-            "answer": "lighter"
+            "question": "A reinforced concrete column is __________ than a plain concrete column under load. (hard)",
+            "answer": "harder"
           },
           {
             "id": "g_b_3",
-            "question": "A sealed electrical connector is __________ than an open connector in wet conditions. (dry)",
-            "answer": "drier"
+            "question": "A freshly levelled floor surface becomes __________ after final finishing. (flat)",
+            "answer": "flatter"
           },
           {
             "id": "g_b_4",
-            "question": "New brake pads feel __________ than worn pads during inspection. (firm)",
-            "answer": "firmer"
+            "question": "A heavy-duty wheelbarrow is __________ than a light one on uneven ground. (heavy)",
+            "answer": "heavier"
           },
           {
             "id": "g_b_5",
-            "question": "Synthetic engine oil is __________ than mineral oil in extreme temperatures. (clean)",
-            "answer": "cleaner"
-          },
-          {
-            "id": "g_b_6",
-            "question": "A loose exhaust shield becomes __________ at high engine speed. (loud)",
-            "answer": "louder"
-          },
-          {
-            "id": "g_b_7",
-            "question": "A well-balanced tyre setup is __________ than an uneven one at high speed. (steady)",
-            "answer": "steadier"
-          },
-          {
-            "id": "g_b_8",
-            "question": "A reinforced suspension arm is __________ than a standard one. (strong)",
+            "question": "New construction timber is __________ than timber exposed to weather for years. (strong)",
             "answer": "stronger"
           },
           {
+            "id": "g_b_6",
+            "question": "A properly tightened anchor bolt feels __________ than a loose one. (firm)",
+            "answer": "firmer"
+          },
+          {
+            "id": "g_b_7",
+            "question": "A well-supported scaffold structure is __________ during use than one with poor bracing. (tough)",
+            "answer": "tougher"
+          },
+          {
+            "id": "g_b_8",
+            "question": "A dry scaffold platform is __________ than a wet one during work at height. (safe)",
+            "answer": "safer"
+          },
+          {
             "id": "g_b_9",
-            "question": "Tempered glass is __________ than laminated glass during impact tests. (hard)",
-            "answer": "harder"
+            "question": "A wide access ramp is __________ than a narrow ramp for moving materials. (wide)",
+            "answer": "wider"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Proper torque control makes the assembly safer than hand tightening.",
+          "text": "A thick formwork panel is stiffer than a thin panel during concrete casting.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "An aluminium body panel is lighter than a steel panel.",
+          "text": "A reinforced concrete column is harder than a plain concrete column under load.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "A sealed electrical connector is drier than an open connector in wet conditions.",
+          "text": "A freshly levelled floor surface becomes flatter after final finishing.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "New brake pads feel firmer than worn pads during inspection.",
+          "text": "A heavy-duty wheelbarrow is heavier than a light one on uneven ground.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Synthetic engine oil is cleaner than mineral oil in extreme temperatures.",
+          "text": "New construction timber is stronger than timber exposed to weather for years.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "A loose exhaust shield becomes louder at high engine speed.",
+          "text": "A properly tightened anchor bolt feels firmer than a loose one.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "A well-balanced tyre setup is steadier than an uneven one at high speed.",
+          "text": "A well-supported scaffold structure is tougher during use than one with poor bracing.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "A reinforced suspension arm is stronger than a standard one.",
+          "text": "A dry scaffold platform is safer than a wet one during work at height.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "Tempered glass is harder than laminated glass during impact tests.",
+          "text": "A wide access ramp is wider than a narrow ramp for moving materials.",
           "audio": "assets/audio/g_b_9.mp3"
         }
       ]
