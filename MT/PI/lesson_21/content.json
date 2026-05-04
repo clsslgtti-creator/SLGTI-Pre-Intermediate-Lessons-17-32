@@ -1,0 +1,940 @@
+{
+  "meta": {
+    "lesson_no": 21,
+    "level": "Pre-Intermediate",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "/t/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'t'aper pin",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "This 't'aper pin is tighter than the straight pin.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'t'hrust collar",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The 't'hrust collar is thicker than the previous collar design.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'t'oggle linkage",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The 't'oggle linkage is better than simple lever mechanisms.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "'t'ension rod",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The 't'ension rod is longer than the support rod.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Comparative Adjectives (Short adjectives) /One,ones",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["stiff- stiffer", "heavy- heavier", "flat-flatter"],
+        ["smooth- smoother", "dry- drier", "big-bigger"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Shall I buy these almonds or those almonds?",
+        "text_b": "Which ones are drier?",
+        "text_c": "These ones are drier and bigger.",
+        "text_d": "Then go for these ones.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Shall I buy this mattress or that mattress?",
+        "text_b": "Which one is firmer?",
+        "text_c": "That one is firmer and heavier.",
+        "text_d": "Then go for that one.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Shall I buy this speaker or that speaker?",
+        "text_b": "Which one is louder?",
+        "text_c": "This one is louder and clearer.",
+        "text_d": "Then go for this one.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "stiffer and lighter"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "smoother and harder"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "deeper and flatter"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "tougher and stronger"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "flatter and lighter"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "lighter and cheaper"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Shall I buy this paint brush or that paint brush?",
+        "text_b": "Which one is stiffer?",
+        "text_c": "This one is stiffer and lighter.",
+        "text_d": "Then go for this one.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Shall I buy this piece of wood or that piece of wood?",
+        "text_b": "Which one is smoother?",
+        "text_c": "This one is smoother and harder.",
+        "text_d": "Then go for this one.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Shall I buy this frying pan or that frying pan?",
+        "text_b": "Which one is deeper?",
+        "text_c": "That one is deeper and flatter.",
+        "text_d": "Then go for that one.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Shall I buy these metal bars or those metal bars?",
+        "text_b": "Which ones are tougher?",
+        "text_c": "Those bars are tougher and stronger.",
+        "text_d": "Then go for those ones.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Shall I buy these dress shoes or those dress shoes?",
+        "text_b": "Which ones are flatter?",
+        "text_c": "These ones are flatter and lighter.",
+        "text_d": "Then go for these ones.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Shall I buy this tea or that tea?",
+        "text_b": "Which one is lighter?",
+        "text_c": "This one is lighter and cheaper.",
+        "text_d": "Then go for this one.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-12",
+    "instructions": {
+      "activity_a": {
+        "text": "Fill in the blanks.\n හිස් තැන් පුරවන්න.\n வெற்றிடங்களை நிரப்புக.",
+        "audio": "assets/audio/a_3_i_by.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+        "time_per_question_ms": 30000,
+        "content": [
+          {
+            "id": "g_b_1",
+            "question": "A forged steel shaft is __________ than a cast iron shaft under heavy load. (strong)",
+            "answer": "stronger"
+          },
+          {
+            "id": "g_b_2",
+            "question": "A component with proper heat treatment becomes __________ during impact testing. (tough)",
+            "answer": "tougher"
+          },
+          {
+            "id": "g_b_3",
+            "question": "A thin metal sheet is __________ than a thick plate when pressure is applied. (weak)",
+            "answer": "weaker"
+          },
+          {
+            "id": "g_b_4",
+            "question": "A well-lubricated bearing operates __________ than a dry one. (smooth)",
+            "answer": "smoother"
+          },
+          {
+            "id": "g_b_5",
+            "question": "A rigid machine frame is __________ than a flexible frame during vibration. (firm)",
+            "answer": "firmer"
+          },
+          {
+            "id": "g_b_6",
+            "question": "New cutting tools remain __________ than worn tools during machining. (sharp)",
+            "answer": "sharper"
+          },
+          {
+            "id": "g_b_7",
+            "question": "A heavy flywheel is __________ than a light one during rotation. (slow)",
+            "answer": "slower"
+          },
+          {
+            "id": "g_b_8",
+            "question": "A loose coupling becomes __________ at high operating speed. (loud)",
+            "answer": "louder"
+          },
+          {
+            "id": "g_b_9",
+            "question": "A clean workpiece surface is __________ than a dirty one before assembly. (flat)",
+            "answer": "flatter"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "A forged steel shaft is stronger than a cast iron shaft under heavy load.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "A component with proper heat treatment becomes tougher during impact testing.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "A thin metal sheet is weaker than a thick plate when pressure is applied.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "A well-lubricated bearing operates smoother than a dry one.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "A rigid machine frame is firmer than a flexible frame during vibration.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "New cutting tools remain sharper than worn tools during machining.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "A heavy flywheel is slower than a light one during rotation.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "A loose coupling becomes louder at high operating speed.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "A clean workpiece surface is flatter than a dirty one before assembly.",
+          "audio": "assets/audio/g_b_9.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why does the instructor say the floor must be cleaned before work begins?",
+            "answer": "Because a clean floor is safer than a wet or dirty floor.",
+            "options": [
+              "Because a clean floor looks better than a dirty one.",
+              "Because a clean floor is safer than a wet or dirty floor.",
+              "Because a dry floor looks better than a dirty one."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What health problems can dirty work surfaces cause, according to the instructor?",
+            "answer": "Germs grow faster on dirty surfaces than on clean ones.",
+            "options": [
+              "Germs grow faster on clean surfaces in warm conditions.",
+              "Germs grow slower on smooth surfaces than rough ones.",
+              "Germs grow faster on dirty surfaces than on clean ones."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why are dry tool handles important during practical work?",
+            "answer": "A drier handle is firmer than a wet one, giving better control.",
+            "options": [
+              "A drier handle is firmer than a wet one, giving better control.",
+              "A wet handle is softer than a dry one and easier to hold, giving better control.",
+              "A loose handle is easier to hold than a tight one, giving better control."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "What does the instructor say about lighting in the work area?",
+            "answer": "A brighter area is better lit than a dark one, making hazards easier to see.",
+            "options": [
+              "A dark area is quieter than a bright one, making hazards easier to see.",
+              "A brighter area is better lit than a dark one, making hazards easier to see.",
+              "Poor lighting is more comfortable than bright lighting for the eyes."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Why should waste be removed regularly from the work area?",
+            "answer": "Old waste becomes more harmful than fresh waste.",
+            "options": [
+              "Old waste becomes more harmful than fresh waste.",
+              "Fresh waste is heavier than old waste and more harmful than old waste.",
+              "A lighter load is more harmful than a heavy one to carry."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "That’s the end of our session for today!",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "But before we leave the workshop, we are going to clean and organise our work area so that it will be spotless when we come tomorrow morning.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This is not only about looking neat.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "A clean area is healthier than a dirty one, and it helps you work more safely throughout the day.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "When the work area is organised, you can also move more easily and avoid unnecessary stress.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Sir, do we really need to clean everything before leaving?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Yes, we do.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "A cleaner floor is safer than a wet or dirty floor.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Dust, oil, and small spills can make the surface more slippery, which increases the risk of slipping and falling.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Dry areas are very important for your health especially when many people are working in the same space.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "What about the tables and tools?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Do we need to clean them as well?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Definitely!",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Work surfaces should be wiped properly before use.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "A cleaner table is more hygienic than one covered with oil or dust.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Germs grow faster on dirty surfaces, especially in warm conditions.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Clean tools are also safer than dirty ones because they are easier to handle and less likely to slip from your hands.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Sometimes the tools feel hard to grip.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "That often happens when handles are greasy or wet.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "A drier handle is firmer than a wet one, and a tighter grip gives you better control.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Loose items can fall more easily, and falling tools are more dangerous than tools kept in the correct place.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Does lighting matter during cleaning?",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Very much.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "A brighter area is better lit than a dark one, so you can see dirt, spills, and hazards more clearly.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Poor lighting makes work more difficult and can strain your eyes over time.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "What about rubbish and waste?",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Waste must be removed regularly.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "A lighter load of waste is easier to carry than a heavy one.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Old waste can become more harmful than fresh waste because it attracts pests and produces bad smells.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "So remember, a cleaner, drier, and brighter work area is healthier than a messy one.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Cleaning at the end of the day makes starting work in the morning safer, easier, and more productive.",
+          "audio": "assets/audio/t_31.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "That’s the end of our session for today!",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "But before we leave the workshop, we are going to clean and organise our work area so that it will be spotless when we come tomorrow morning.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This is not only about looking neat.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "A clean area is healthier than a dirty one, and it helps you work more safely throughout the day.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "When the work area is organised, you can also move more easily and avoid unnecessary stress.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Sir, do we really need to clean everything before leaving?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Yes, we do.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "A cleaner floor is safer than a wet or dirty floor.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Dust, oil, and small spills can make the surface more slippery, which increases the risk of slipping and falling.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Dry areas are very important for your health especially when many people are working in the same space.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "What about the tables and tools?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Do we need to clean them as well?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Definitely!",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Work surfaces should be wiped properly before use.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "A cleaner table is more hygienic than one covered with oil or dust.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Germs grow faster on dirty surfaces, especially in warm conditions.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Clean tools are also safer than dirty ones because they are easier to handle and less likely to slip from your hands.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Sometimes the tools feel hard to grip.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "That often happens when handles are greasy or wet.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "A drier handle is firmer than a wet one, and a tighter grip gives you better control.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Loose items can fall more easily, and falling tools are more dangerous than tools kept in the correct place.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Does lighting matter during cleaning?",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Very much.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "A brighter area is better lit than a dark one, so you can see dirt, spills, and hazards more clearly.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Poor lighting makes work more difficult and can strain your eyes over time.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "What about rubbish and waste?",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Waste must be removed regularly.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "A lighter load of waste is easier to carry than a heavy one.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Old waste can become more harmful than fresh waste because it attracts pests and produces bad smells.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "So remember, a cleaner, drier, and brighter work area is healthier than a messy one.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Cleaning at the end of the day makes starting work in the morning safer, easier, and more productive.",
+          "audio": "assets/audio/t_31.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "That’s the end of our session for today!",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "But before we leave the workshop, we are going to clean and organise our work area so that it will be spotless when we come tomorrow morning.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This is not only about looking neat.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "A clean area is healthier than a dirty one, and it helps you work more safely throughout the day.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "When the work area is organised, you can also move more easily and avoid unnecessary stress.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Sir, do we really need to clean everything before leaving?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Yes, we do.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "A cleaner floor is safer than a wet or dirty floor.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Dust, oil, and small spills can make the surface more slippery, which increases the risk of slipping and falling.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Dry areas are very important for your health especially when many people are working in the same space.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "What about the tables and tools?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Do we need to clean them as well?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Definitely!",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Work surfaces should be wiped properly before use.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "A cleaner table is more hygienic than one covered with oil or dust.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Germs grow faster on dirty surfaces, especially in warm conditions.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Clean tools are also safer than dirty ones because they are easier to handle and less likely to slip from your hands.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Sometimes the tools feel hard to grip.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "That often happens when handles are greasy or wet.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "A drier handle is firmer than a wet one, and a tighter grip gives you better control.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Loose items can fall more easily, and falling tools are more dangerous than tools kept in the correct place.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Does lighting matter during cleaning?",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Very much.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "A brighter area is better lit than a dark one, so you can see dirt, spills, and hazards more clearly.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Poor lighting makes work more difficult and can strain your eyes over time.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "What about rubbish and waste?",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Waste must be removed regularly.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "A lighter load of waste is easier to carry than a heavy one.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Old waste can become more harmful than fresh waste because it attracts pests and produces bad smells.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "So remember, a cleaner, drier, and brighter work area is healthier than a messy one.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Cleaning at the end of the day makes starting work in the morning safer, easier, and more productive.",
+          "audio": "assets/audio/t_31.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
