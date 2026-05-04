@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'t'appet",
+        "word_text": "'t'umbler",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The new 't'appet is quieter and smoother than the worn tappet.",
+        "sentence_text": "This 't'umbler is better than the old unit during marination.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'t'ensioner",
+        "word_text": "'t'ray sealer",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This 't'ensioner is tighter than the old one under engine load.",
+        "sentence_text": "The 't'ray sealer is tighter than manual sealing methods.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'t'iming gear",
+        "word_text": "'t'unnel dryer",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The updated 't'iming gear is better than the previous gear set.",
+        "sentence_text": "The 't'unnel dryer is hotter than batch dryers during operation.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "thro'tt'le body",
+        "word_text": "'t'ipping kettle",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The replacement thro'tt'le body is cleaner than the original unit.",
+        "sentence_text": "The 't'ipping kettle is safer than fixed kettles during discharge.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -264,95 +264,95 @@
         "content": [
           {
             "id": "g_b_1",
-            "question": "Proper torque control makes the assembly __________ than hand tightening. (safe)",
-            "answer": "safer"
+            "question": "A knife edge used for long periods becomes __________ during food preparation. (dull)",
+            "answer": "duller"
           },
           {
             "id": "g_b_2",
-            "question": "An aluminium body panel is __________ than a steel panel. (light)",
-            "answer": "lighter"
-          },
-          {
-            "id": "g_b_3",
-            "question": "A sealed electrical connector is __________ than an open connector in wet conditions. (dry)",
+            "question": "Ingredients stored in sealed containers remain __________ than items left exposed overnight. (dry)",
             "answer": "drier"
           },
           {
+            "id": "g_b_3",
+            "question": "A controlled baking process produces a __________ finish across batches. (smooth)",
+            "answer": "smoother"
+          },
+          {
             "id": "g_b_4",
-            "question": "New brake pads feel __________ than worn pads during inspection. (firm)",
-            "answer": "firmer"
+            "question": "A blast freezer is __________ than a standard chiller cabinet. (cold)",
+            "answer": "colder"
           },
           {
             "id": "g_b_5",
-            "question": "Synthetic engine oil is __________ than mineral oil in extreme temperatures. (clean)",
-            "answer": "cleaner"
+            "question": "Biscuits cooled fully after baking become __________ during handling. (hard)",
+            "answer": "harder"
           },
           {
             "id": "g_b_6",
-            "question": "A loose exhaust shield becomes __________ at high engine speed. (loud)",
-            "answer": "louder"
+            "question": "A sauce simmered for a longer time turns __________ than one removed early. (thick)",
+            "answer": "thicker"
           },
           {
             "id": "g_b_7",
-            "question": "A well-balanced tyre setup is __________ than an uneven one at high speed. (steady)",
-            "answer": "steadier"
+            "question": "Dough allowed to rest develops a __________ texture before shaping. (soft)",
+            "answer": "softer"
           },
           {
             "id": "g_b_8",
-            "question": "A reinforced suspension arm is __________ than a standard one. (strong)",
-            "answer": "stronger"
+            "question": "Produce delivered on the same day tastes __________ than items kept in cold storage for several days. (fresh)",
+            "answer": "fresher"
           },
           {
             "id": "g_b_9",
-            "question": "Tempered glass is __________ than laminated glass during impact tests. (hard)",
-            "answer": "harder"
+            "question": "A stainless-steel worktable feels __________ after proper sanitising. (clean)",
+            "answer": "cleaner"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Proper torque control makes the assembly safer than hand tightening.",
+          "text": "A knife edge used for long periods becomes duller during food preparation.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "An aluminium body panel is lighter than a steel panel.",
+          "text": "Ingredients stored in sealed containers remain drier than items left exposed overnight.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "A sealed electrical connector is drier than an open connector in wet conditions.",
+          "text": "A controlled baking process produces a smoother finish across batches.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "New brake pads feel firmer than worn pads during inspection.",
+          "text": "A blast freezer is colder than a standard chiller cabinet.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Synthetic engine oil is cleaner than mineral oil in extreme temperatures.",
+          "text": "Biscuits cooled fully after baking become harder during handling.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "A loose exhaust shield becomes louder at high engine speed.",
+          "text": "A sauce simmered for a longer time turns thicker than one removed early.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "A well-balanced tyre setup is steadier than an uneven one at high speed.",
+          "text": "Dough allowed to rest develops a softer texture before shaping.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "A reinforced suspension arm is stronger than a standard one.",
+          "text": "Produce delivered on the same day tastes fresher than items kept in cold storage for several days.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "Tempered glass is harder than laminated glass during impact tests.",
+          "text": "A stainless-steel worktable feels cleaner after proper sanitising.",
           "audio": "assets/audio/g_b_9.mp3"
         }
       ]
