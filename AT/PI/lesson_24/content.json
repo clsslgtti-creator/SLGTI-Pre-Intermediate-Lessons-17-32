@@ -1,0 +1,662 @@
+{
+  "meta": {
+    "lesson_no": "24 - Assessment No. 3 ",
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "The ceramic brake disc is ______ the cast-iron disc under high temperatures.",
+        "options": [
+          "harder than",
+          "hardly than",
+          "hardest than",
+          "more harder than"
+        ],
+        "answer": "harder than"
+      },
+      {
+        "question": "Synthetic engine oil is ______ mineral oil during cold starts.",
+        "options": [
+          "thin than",
+          "thinnest than",
+          "thinner than",
+          "thinly than"
+        ],
+        "answer": "thinner than"
+      },
+      {
+        "question": "Disc brakes are ______ than drum brakes during sudden braking.",
+        "options": [
+          "most responsive",
+          "more responsive",
+          "responsive",
+          "more responsively"
+        ],
+        "answer": "more responsive"
+      },
+      {
+        "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
+        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
+        "answer": "more rigid"
+      },
+      {
+        "question": "This is ______ exhaust configuration for this engine platform.",
+        "options": ["the quietest", "quietly", "quieter", "quietest"],
+        "answer": "the quietest"
+      },
+      {
+        "question": "The dual-clutch transmission is ______ drivetrain option in this vehicle class.",
+        "options": [
+          "the more than better",
+          "more better",
+          "the best",
+          "the most best"
+        ],
+        "answer": "the best"
+      },
+      {
+        "question": "The engine ______ overheat because the temperature warning light is already on.",
+        "options": ["will goes to", "are going to", "is going to", "will have"],
+        "answer": "is going to"
+      },
+      {
+        "question": "I ______ replace the faulty fuel injector sometime soon.",
+        "options": ["is going to", "will", "will hope to", "will be going to"],
+        "answer": "will"
+      },
+      {
+        "question": "Glass headlamp lenses are ______ components in the front lighting assembly.",
+        "options": ["the weakest", "weak", "weaker", "most weakest"],
+        "answer": "the weakest"
+      },
+      {
+        "question": "The engine ______ stall if the fuel filter is blocked.",
+        "options": ["can’t", "shouldn’t", "may", "might not"],
+        "answer": "may"
+      },
+      {
+        "question": "Mechanics ______ disconnect the battery before working on the starter motor.",
+        "options": ["mustn’t", "can’t", "must", "might"],
+        "answer": "must"
+      },
+      {
+        "question": "Technicians ______ touch the ignition system while the engine is running.",
+        "options": ["mustn’t", "should", "might not", "can"],
+        "answer": "mustn’t"
+      },
+      {
+        "question": "The mechanics ______ replace the timing belt tomorrow, as it is listed on the maintenance schedule.",
+        "options": ["will", "are going to", "will be going", "will not"],
+        "answer": "are going to"
+      },
+      {
+        "question": "The alternator ______ charge the battery if the drive belt is loose.",
+        "options": ["must", "might", "should", "can’t"],
+        "answer": "can’t"
+      },
+      {
+        "question": "The coolant level ______ be checked before a long journey.",
+        "options": ["might", "should", "may", "shouldn’t"],
+        "answer": "should"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Click on the correct answer.\nනිවැරදි පිළිතුර මත ක්ලික් කරන්න.\nசரியான பதிலில் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_i.mp3"
+    },
+    "content": [
+      {
+        "question": "",
+        "options": [
+          "She is staying at home and rest if she has a fever.",
+          "She should stay at home and rest if she has a fever.",
+          "She might be staying at home and rest if she has a fever."
+        ],
+        "answer": "She should stay at home and rest if she has a fever."
+      },
+      {
+        "question": "",
+        "options": [
+          "I mustn’t go beyond the safety barriers in the factory.",
+          "I might not going beyond the safety barriers at the factory.",
+          "I should not going beyond the safety barriers at the factory."
+        ],
+        "answer": "I mustn’t go beyond the safety barriers in the factory."
+      },
+      {
+        "question": "What should the mechanic use to paint the repaired body panel?",
+        "options": ["a can of paint", "a packet of paint", "a box of paint"],
+        "answer": "a can of paint"
+      },
+      {
+        "question": "What should the technician add to seal the small crack in the radiator hose?",
+        "options": [
+          "a tube of sealant",
+          "a box of coolant",
+          "a packet of sealant"
+        ],
+        "answer": "a tube of sealant"
+      },
+      {
+        "question": "",
+        "options": [
+          "I am going to inspect the engine tomorrow as it is on the maintenance schedule.",
+          "I will go to inspect the engine tomorrow as its in the maintenance schedule.",
+          "I will be going to inspect the engine tomorrow as its on maintenance schedule."
+        ],
+        "answer": "I am going to inspect the engine tomorrow as it is on the maintenance schedule."
+      },
+      {
+        "question": "Do you know why the engine temperature keeps changing?",
+        "options": [
+          "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system.",
+          "I’m not sure. It should be a faulty thermostat or it should be an air lock in the cooling system.",
+          "I’m not sure. It can be a faulty thermostat or it mustn’t be an air lock in the cooling system."
+        ],
+        "answer": "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system."
+      },
+      {
+        "question": "What should the mechanic pour into the brake system during bleeding?",
+        "options": [
+          "a bottle of brake fluid",
+          "a box of oil",
+          "a strip of lubricant"
+        ],
+        "answer": "a bottle of brake fluid"
+      },
+      {
+        "question": "Will the mechanic finish the brake inspection soon?",
+        "options": [
+          "Yes, he will finish in half an hour.",
+          "Yes, they are going to finish in few hours.",
+          "Yes, soon he will finish in a few minutes."
+        ],
+        "answer": "Yes, he will finish in half an hour."
+      },
+      {
+        "question": "Will the technician replace the worn timing belt soon?",
+        "options": [
+          "Yes, he will replace it in two days.",
+          "Yes, they are going to replace it on two days.",
+          "Yes, soon they will replace in two days."
+        ],
+        "answer": "Yes, he will replace it in two days."
+      },
+      {
+        "question": "",
+        "options": [
+          "The windshield is more transparent than the tinted side glass.",
+          "The windshield is more than transparent than the tinted side glass.",
+          "The windshield is the more transparent than the tinted side glass."
+        ],
+        "answer": "The windshield is more transparent than the tinted side glass."
+      },
+      {
+        "question": "",
+        "options": [
+          "Plastic headlamp covers are more opaque than clear indicator lenses.",
+          "Plastic headlamp covers are more than opaque than clear indicator lenses.",
+          "Plastic headlamp covers are the more opaque than clear indicator lenses."
+        ],
+        "answer": "Plastic headlamp covers are more opaque than clear indicator lenses."
+      },
+      {
+        "question": "",
+        "options": [
+          "Ceramic exhaust coatings are more heat-resistant than metal finishes.",
+          "Ceramic exhaust coatings are more than heat-resistant than metal finishes.",
+          "Ceramic exhaust coatings are the more heat-resistant than metal finishes."
+        ],
+        "answer": "Ceramic exhaust coatings are more heat-resistant than metal finishes."
+      },
+      {
+        "question": "",
+        "options": [
+          "Forged steel crankshafts are the strongest.",
+          "Forged steel crankshafts are more than stronger.",
+          "Forged steel crankshafts are the more strongest."
+        ],
+        "answer": "Forged steel crankshafts are the strongest."
+      },
+      {
+        "question": "",
+        "options": [
+          "Polished aluminium heat shields are the brightest.",
+          "Polished aluminium heat shields are more than brighter.",
+          "Polished aluminium heat shields are the more brightest."
+        ],
+        "answer": "Polished aluminium heat shields are the brightest."
+      },
+      {
+        "question": "Do you know why the engine is misfiring at idle?",
+        "options": [
+          "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector.",
+          "I’m not sure. It should be dirty spark plug or it should be clogged fuel injector.",
+          "I’m not sure. It can be a dirty spark plug or it mustn’t be a clogged fuel injector."
+        ],
+        "answer": "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector."
+      }
+    ]
+  },
+  "activity_3": {
+    "marks_for_each_q": 1,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "id": "n_3_a_1",
+        "audio": "assets/audio/a_3_1.mp3",
+        "words": [
+          "Workers",
+          "must",
+          "never",
+          "remove",
+          "guards",
+          "during",
+          "machine",
+          "operation",
+          "."
+        ],
+        "sentence": "Workers must never remove guards during machine operation."
+      },
+      {
+        "id": "n_3_a_2",
+        "audio": "assets/audio/a_3_2.mp3",
+        "words": [
+          "Operators",
+          "mustn't",
+          "use",
+          "machines",
+          "without",
+          "proper",
+          "protective",
+          "equipment",
+          "."
+        ],
+        "sentence": "Operators mustn't use machines without proper protective equipment."
+      },
+      {
+        "id": "n_3_a_3",
+        "audio": "assets/audio/a_3_3.mp3",
+        "words": [
+          "Do",
+          "technicians",
+          "check",
+          "tools",
+          "before",
+          "starting",
+          "daily",
+          "work",
+          "?"
+        ],
+        "sentence": "Do technicians check tools before starting daily work?"
+      },
+      {
+        "id": "n_3_a_4",
+        "audio": "assets/audio/a_3_4.mp3",
+        "words": [
+          "Will",
+          "the",
+          "machine",
+          "fail",
+          "during",
+          "heavy",
+          "load",
+          "conditions",
+          "?"
+        ],
+        "sentence": "Will the machine fail during heavy load conditions?"
+      },
+      {
+        "id": "n_3_a_5",
+        "audio": "assets/audio/a_3_5.mp3",
+        "words": [
+          "The",
+          "mechanic",
+          "tightened",
+          "the",
+          "bolts",
+          "and",
+          "checked",
+          "the",
+          "pressure",
+          "yesterday",
+          "."
+        ],
+        "sentence": "The mechanic tightened the bolts and checked the pressure yesterday.",
+        "alternative_answers": [
+          "The mechanic checked the pressure and tightened the bolts yesterday."
+        ]
+      },
+      {
+        "id": "n_3_a_6",
+        "audio": "assets/audio/a_3_6.mp3",
+        "words": [
+          "Students",
+          "are",
+          "wearing",
+          "helmets",
+          "while",
+          "observing",
+          "welding",
+          "operations",
+          "."
+        ],
+        "sentence": "Students are wearing helmets while observing welding operations."
+      },
+      {
+        "id": "n_3_a_7",
+        "audio": "assets/audio/a_3_7.mp3",
+        "words": [
+          "We",
+          "are",
+          "going",
+          "to",
+          "inspect",
+          "pumps",
+          "tomorrow",
+          "morning",
+          "."
+        ],
+        "sentence": "We are going to inspect pumps tomorrow morning."
+      },
+      {
+        "id": "n_3_a_8",
+        "audio": "assets/audio/a_3_8.mp3",
+        "words": [
+          "Bring",
+          "a",
+          "cap",
+          "and",
+          "enough",
+          "water",
+          "for",
+          "the",
+          "trip",
+          "."
+        ],
+        "sentence": "Bring a cap and enough water for the trip.",
+        "alternative_answers": ["Bring enough water and a cap for the trip."]
+      },
+      {
+        "id": "n_3_a_9",
+        "audio": "assets/audio/a_3_9.mp3",
+        "words": [
+          "Everyone",
+          "must",
+          "follow",
+          "all",
+          "rules",
+          "and",
+          "signs",
+          "at",
+          "sites",
+          "."
+        ],
+        "sentence": "Everyone must follow all rules and signs at sites.",
+        "alternative_answers": [
+          "Everyone must follow all signs and rules at sites."
+        ]
+      },
+      {
+        "id": "n_3_a_10",
+        "audio": "assets/audio/a_3_10.mp3",
+        "words": [
+          "The",
+          "factory",
+          "needs",
+          "more",
+          "tools",
+          "and",
+          "equipment",
+          "."
+        ],
+        "sentence": "The factory needs more tools and equipment.",
+        "alternative_answers": ["The factory needs more equipment and tools."]
+      }
+    ]
+  },
+  "activity_4": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "CATEGORIZE-WORDS",
+      "instruction": {
+        "text": "Drag and drop the following adjectives into the appropriate boxes.\nපහත නාම විශේෂණ අදාළ කොටු තුළට ඇද දමන්න.\nபின்வரும் உரிச்சொற்களை உரிய பெட்டிகளுக்குள் இழுத்து விடவும்.",
+        "audio": "assets/audio/a_4_i_d.mp3"
+      },
+      "content": {
+        "category": ["Comparative", "Superlative"],
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "more relevant than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "the best",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "faster than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "the closest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "less crowded",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "the safest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "more formal than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_8",
+            "item_a": "the quickest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_9",
+            "item_a": "easier",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_10",
+            "item_a": "the highest",
+            "item_b": "Superlative"
+          }
+        ]
+      }
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "READING",
+      "instruction": {
+        "text": "Read the following passage and answer the questions given below. \nපහත දැක්වෙන ඡේදය කියවා ඉන්පසු දී ඇති ප්‍රශ්නවලට පිළිතුරු සපයන්න.\nபின்வரும் பத்தியைப் படித்து, அதற்குக் கீழே கொடுக்கப்பட்டுள்ள வினாக்களுக்கு விடையளிக்கவும்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "transcript_dialogue": [
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good morning. Thank you for coming. As student representatives, I want to plan the industrial zone field trip with you properly. First, we need to decide which industrial station to visit."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "Sir, we discussed three options: the fabrication plant, the packaging factory, and the power distribution centre."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. Which one do you think is the best for your current syllabus?"
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "The fabrication plant is more relevant than the packaging factory because we are studying machining and welding now."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "Also, the fabrication plant is the closest site, so travel time will be shorter."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "I agree. It is also the safest option because it has clear walkways and strict safety rules. Now, let’s talk about the route. Which route should we take?"
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "The highway route is faster than the town road, but traffic is sometimes heavier."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "The town road is slower, but it is less crowded in the morning."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "We will take the highway. It is still the quickest route overall. Now, about transportation—we will use two buses. Each bus has 40 seats, so numbers are important."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "Sir, we have 72 students, 3 instructors, and 1 technician."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. Now let’s list items to take."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "We need ID cards, safety helmets, and reflective vests."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "We should also take water, first-aid supplies, and protective gloves."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Correct. Please count the number of helmets and vests we require and make sure there is enough water, not just a few bottles."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "What about food, sir?"
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Light snacks are allowed, but eating inside the plant is prohibited. Behaviour is very important. This visit is more formal than a normal class trip."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "We will remind everyone to follow instructions."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. At the site, no running, no shouting, and no touching machines. Safety is the highest priority. Phones must stay in bags so that no one is distracted."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "Understood, sir."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Finally, discipline during travel matters. Stay seated, keep aisles clear, and respect the driver. If we behave well, future trips will be easier to approve of."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Students",
+          "text": "Thank you, sir. We will inform the batch and prepare properly."
+        }
+      ],
+      "content": [
+        {
+          "question": "Why did the supervisor finally choose the fabrication plant for the visit?",
+          "answer": "Because it matches the students’ current studies and is safer and closer than the other options.",
+          "options": [
+            "Because they are studying packaging now and it is relevant to their studies.",
+            "Because it matches the students’ current studies and is safer and closer than the other options.",
+            "Because it is safer, and the long journey allows them to enjoy the trip."
+          ]
+        },
+        {
+          "question": "What was the main reason for choosing the highway route instead of the town road?",
+          "answer": "Because the highway is still the fastest overall option despite possible traffic.",
+          "options": [
+            "Because the highway has less traffic at all times and is faster.",
+            "Because the town road is dangerous for buses.",
+            "Because the highway is still the fastest overall option despite possible traffic."
+          ]
+        },
+        {
+          "question": "What does the supervisor’s comment about behaviour suggest about future field trips?",
+          "answer": "Good behaviour can make future trips easier to approve.",
+          "options": [
+            "Poor behaviour will only affect this trip.",
+            "Discipline is less important during travel than at the site.",
+            "Good behaviour can make future trips easier to approve."
+          ]
+        },
+        {
+          "question": "Why are phones restricted during the site visit?",
+          "answer": "Because safety and attention are more important at the site.",
+          "options": [
+            "Because phones are not allowed on buses.",
+            "Because students are not trusted to use technology.",
+            "Because safety and attention are more important at the site."
+          ]
+        },
+        {
+          "question": "What does the supervisor’s approach to planning the trip show about his priorities?",
+          "answer": "He balances learning value, safety, logistics, and student behaviour.",
+          "options": [
+            "He is focused on safety and giving the students an enjoyable trip.",
+            "He balances learning value, safety, logistics, and student behaviour.",
+            "He makes decisions with the student representatives so he can blame them if things go wrong."
+          ]
+        }
+      ]
+    }
+  }
+}
