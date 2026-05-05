@@ -485,8 +485,15 @@ body {
   gap: clamp(0.9rem, 2vw, 1.25rem);
 }
 
+.word-match-categories {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: clamp(0.9rem, 2vw, 1.25rem);
+}
+
 @media (min-width: 900px) {
-  .word-match-sentences {
+  .word-match-sentences,
+  .word-match-categories {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -530,6 +537,10 @@ body {
   line-height: 1.45;
 }
 
+.word-match-category h3 {
+  font-size: clamp(1.1rem, 2vw, 1.35rem);
+}
+
 .word-match-dropzone {
   min-height: 64px;
   border: 2px dashed rgba(31, 41, 51, 0.25);
@@ -541,6 +552,17 @@ body {
   background: rgba(15, 23, 42, 0.03);
   transition: border-color var(--transition-fast),
     background var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.slide--categorize-words .word-match-dropzone--category {
+  min-height: 150px;
+  height: auto;
+  align-items: flex-start;
+  align-content: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  padding: 0.85rem;
 }
 
 .word-match-dropzone.is-hover {
@@ -1082,6 +1104,46 @@ body {
 .slide--listening .dialogue-card--listening.is-active::before,
 .slide--speaking .dialogue-card--speaking.is-active::before {
   border-color: rgba(31, 111, 235, 0.4);
+}
+
+.reading-transcript {
+  display: grid;
+  gap: clamp(0.9rem, 2vw, 1.2rem);
+  margin-bottom: clamp(1.25rem, 3vw, 2rem);
+}
+
+.reading-transcript--dialogue {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.reading-passage-card,
+.reading-dialogue-card {
+  background: rgba(255, 255, 255, 0.96);
+}
+
+.reading-passage-card .dialogue-card__line,
+.reading-dialogue-card .dialogue-card__line {
+  margin: 0 0 0.65rem;
+  white-space: normal;
+}
+
+.reading-dialogue-card .reading-dialogue-line {
+  line-height: 1.5;
+  margin-bottom: 0.1rem;
+}
+
+.reading-dialogue-speaker {
+  color: var(--color-primary);
+  font-weight: 800;
+}
+
+.reading-passage-card .dialogue-card__line:last-child,
+.reading-dialogue-card .dialogue-card__line:last-child {
+  margin-bottom: 0;
+}
+
+.reading-question-grid {
+  margin-top: clamp(1rem, 2.5vw, 1.5rem);
 }
 
 .pronunciation-content {

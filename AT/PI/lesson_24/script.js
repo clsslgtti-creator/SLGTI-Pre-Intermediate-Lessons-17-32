@@ -4,6 +4,8 @@ import { buildJumbledSlides } from "./lib/jumbled.js";
 import { buildListeningSlides } from "./lib/listening.js";
 import { buildVideosSlides } from "./lib/videos.js";
 import { buildMatchingWordsSlides } from "./lib/matching-words.js";
+import { buildCategorizeWordsSlides } from "./lib/categorize-words.js";
+import { buildReadingSlides } from "./lib/reading.js";
 
 const slidesContainer = document.getElementById("slides");
 const progressIndicator = document.getElementById("progressIndicator");
@@ -559,8 +561,10 @@ const activityBuilders = {
   MCQ: buildMcqSlides,
   "MCQ-TABLE": buildMcqTableSlides,
   "MATCHING-WORDS": buildMatchingWordsSlides,
+  "CATEGORIZE-WORDS": buildCategorizeWordsSlides,
   JUMBLED: buildJumbledSlides,
   LISTENING: buildListeningSlides,
+  READING: buildReadingSlides,
 };
 
 const extractInstructionEntries = (input, { allowObject = false } = {}) => {
