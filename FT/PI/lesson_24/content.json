@@ -14,97 +14,102 @@
     },
     "content": [
       {
-        "question": "The ceramic brake disc is ______ the cast-iron disc under high temperatures.",
+        "question": "Stainless-steel containers are ______ plastic containers during hot food storage.",
         "options": [
-          "harder than",
-          "hardly than",
-          "hardest than",
-          "more harder than"
+          "strong than",
+          "strongest than",
+          "stronger than",
+          "more strongest than"
         ],
-        "answer": "harder than"
+        "answer": "stronger than"
       },
       {
-        "question": "Synthetic engine oil is ______ mineral oil during cold starts.",
+        "question": "Fresh dough is ______ dry flour during mixing.",
+        "options": ["soft than", "softest than", "softer than", "softly than"],
+        "answer": "softer than"
+      },
+      {
+        "question": "Pasteurised milk is ______ raw milk for consumer safety.",
         "options": [
-          "thin than",
-          "thinnest than",
-          "thinner than",
-          "thinly than"
+          "most safe than",
+          "safer than",
+          "safe than",
+          "more safely than"
         ],
-        "answer": "thinner than"
+        "answer": "safer than"
       },
       {
-        "question": "Disc brakes are ______ than drum brakes during sudden braking.",
+        "question": "Solid cutting boards are ______ thin boards, reducing movement during chopping.",
         "options": [
-          "most responsive",
-          "more responsive",
-          "responsive",
-          "more responsively"
+          "most thick than",
+          "thickly than",
+          "thick than",
+          "thicker than"
         ],
-        "answer": "more responsive"
+        "answer": "thicker than"
       },
       {
-        "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
-        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
-        "answer": "more rigid"
+        "question": "This is ______ cooking method for low-fat food preparation.",
+        "options": ["healthier", "healthily", "the healthiest", "healthy"],
+        "answer": "the healthiest"
       },
       {
-        "question": "This is ______ exhaust configuration for this engine platform.",
-        "options": ["the quietest", "quietly", "quieter", "quietest"],
-        "answer": "the quietest"
-      },
-      {
-        "question": "The dual-clutch transmission is ______ drivetrain option in this vehicle class.",
+        "question": "The blast freezer is ______ option for rapid food preservation in this facility.",
         "options": [
-          "the more than better",
           "more better",
+          "the more better",
           "the best",
           "the most best"
         ],
         "answer": "the best"
       },
       {
-        "question": "The engine ______ overheat because the temperature warning light is already on.",
-        "options": ["will goes to", "are going to", "is going to", "will have"],
+        "question": "The soup ______ spoil because it has been left uncovered for hours.",
+        "options": ["will not", "are going to", "is going to", "will be"],
         "answer": "is going to"
       },
       {
-        "question": "I ______ replace the faulty fuel injector sometime soon.",
+        "question": "I ______ sanitise the work surface before food preparation begins.",
         "options": ["is going to", "will", "will hope to", "will be going to"],
         "answer": "will"
       },
       {
-        "question": "Glass headlamp lenses are ______ components in the front lighting assembly.",
-        "options": ["the weakest", "weak", "weaker", "most weakest"],
+        "question": "Glass storage jars are ______ materials used in dry-food storage areas.",
+        "options": [
+          "more weaker",
+          "the weakest",
+          "the more weaker",
+          "the most weakest"
+        ],
         "answer": "the weakest"
       },
       {
-        "question": "The engine ______ stall if the fuel filter is blocked.",
+        "question": "The sauce ______ burn if the heat is too high.",
         "options": ["can’t", "shouldn’t", "may", "might not"],
         "answer": "may"
       },
       {
-        "question": "Mechanics ______ disconnect the battery before working on the starter motor.",
+        "question": "Food handlers ______ wash their hands before handling ingredients.",
         "options": ["mustn’t", "can’t", "must", "might"],
         "answer": "must"
       },
       {
-        "question": "Technicians ______ touch the ignition system while the engine is running.",
+        "question": "Workers ______ touch ready-to-eat food with bare hands.",
         "options": ["mustn’t", "should", "might not", "can"],
         "answer": "mustn’t"
       },
       {
-        "question": "The mechanics ______ replace the timing belt tomorrow, as it is listed on the maintenance schedule.",
-        "options": ["will", "are going to", "will be going", "will not"],
-        "answer": "are going to"
+        "question": "The kitchen team ______ prepare the lunch packets tomorrow, as it is on the schedule.",
+        "options": ["will be", "is going to", "will be going", "will not"],
+        "answer": "is going to"
       },
       {
-        "question": "The alternator ______ charge the battery if the drive belt is loose.",
-        "options": ["must", "might", "should", "can’t"],
+        "question": "The freezer ______ maintain safe temperatures if the door seal is damaged.",
+        "options": ["mustn’t", "might", "should", "can’t"],
         "answer": "can’t"
       },
       {
-        "question": "The coolant level ______ be checked before a long journey.",
+        "question": "The food thermometer ______ be calibrated before use.",
         "options": ["might", "should", "may", "shouldn’t"],
         "answer": "should"
       }
@@ -119,135 +124,135 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "She is staying at home and rest if she has a fever.",
-          "She should stay at home and rest if she has a fever.",
-          "She might be staying at home and rest if she has a fever."
+          "She can be washing her hands before food preparation.",
+          "She must wash her hands before food preparation.",
+          "She might washes her hands before food preparation."
         ],
-        "answer": "She should stay at home and rest if she has a fever."
+        "answer": "She must wash her hands before food preparation."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I mustn’t go beyond the safety barriers in the factory.",
-          "I might not going beyond the safety barriers at the factory.",
-          "I should not going beyond the safety barriers at the factory."
+          "I shouldn’t storing raw meat with cooked food.",
+          "I might not storing raw meat with cooked food.",
+          "I mustn’t store raw meat with cooked food."
         ],
-        "answer": "I mustn’t go beyond the safety barriers in the factory."
+        "answer": "I mustn’t store raw meat with cooked food."
       },
       {
-        "question": "What should the mechanic use to paint the repaired body panel?",
-        "options": ["a can of paint", "a packet of paint", "a box of paint"],
-        "answer": "a can of paint"
+        "question": "What should the cook use to fry the vegetables?",
+        "options": [
+          "a bottle of cooking oil",
+          "a packet of oil",
+          "a tube of oil"
+        ],
+        "answer": "a bottle of cooking oil"
       },
       {
-        "question": "What should the technician add to seal the small crack in the radiator hose?",
+        "question": "What should the worker add to thicken the sauce?",
         "options": [
-          "a tube of sealant",
-          "a box of coolant",
-          "a packet of sealant"
+          "a spoonful of cornflour",
+          "a tube of water",
+          "a roll of flour"
         ],
-        "answer": "a tube of sealant"
+        "answer": "a spoonful of cornflour"
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I am going to inspect the engine tomorrow as it is on the maintenance schedule.",
-          "I will go to inspect the engine tomorrow as its in the maintenance schedule.",
-          "I will be going to inspect the engine tomorrow as its on maintenance schedule."
+          "I am going to clean the food preparation area tomorrow as it is on the schedule.",
+          "I will go to clean the food preparation area tomorrow as it in the schedule.",
+          "I will be going to clean the food preparation area tomorrow as it on schedule."
         ],
-        "answer": "I am going to inspect the engine tomorrow as it is on the maintenance schedule."
+        "answer": "I am going to clean the food preparation area tomorrow as it is on the schedule."
       },
       {
-        "question": "Do you know why the engine temperature keeps changing?",
+        "question": "Do you know why the soup tastes different today?",
         "options": [
-          "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system.",
-          "I’m not sure. It should be a faulty thermostat or it should be an air lock in the cooling system.",
-          "I’m not sure. It can be a faulty thermostat or it mustn’t be an air lock in the cooling system."
+          "I’m not sure. It may be too much salt or it might be overcooked.",
+          "I’m not sure. It should be too much salt or it should be overcooked.",
+          "I’m not sure. It can be too much salt or it mustn’t be overcooked."
         ],
-        "answer": "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system."
+        "answer": "I’m not sure. It may be too much salt or it might be overcooked."
       },
       {
-        "question": "What should the mechanic pour into the brake system during bleeding?",
-        "options": [
-          "a bottle of brake fluid",
-          "a box of oil",
-          "a strip of lubricant"
-        ],
-        "answer": "a bottle of brake fluid"
+        "question": "What should the cook pour into the mixer to prepare the batter?",
+        "options": ["a cup of milk", "a box of sugar", "a strip of butter"],
+        "answer": "a cup of milk"
       },
       {
-        "question": "Will the mechanic finish the brake inspection soon?",
+        "question": "Will the kitchen staff finish preparing lunch soon?",
         "options": [
-          "Yes, he will finish in half an hour.",
-          "Yes, they are going to finish in few hours.",
-          "Yes, soon he will finish in a few minutes."
+          "Yes, they will finish it in twenty minutes.",
+          "Yes, they are going to finish it for twenty minutes.",
+          "Yes, soon they will finish in twenty minutes."
         ],
-        "answer": "Yes, he will finish in half an hour."
+        "answer": "Yes, they will finish it in twenty minutes."
       },
       {
-        "question": "Will the technician replace the worn timing belt soon?",
+        "question": "Will the assistant bake the bread soon?",
         "options": [
-          "Yes, he will replace it in two days.",
-          "Yes, they are going to replace it on two days.",
-          "Yes, soon they will replace in two days."
+          "Yes, he will bake it this afternoon.",
+          "Yes, they are going to bake it for this afternoon.",
+          "Yes, soon he will bake for this afternoon."
         ],
-        "answer": "Yes, he will replace it in two days."
+        "answer": "Yes, he will bake it this afternoon."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "The windshield is more transparent than the tinted side glass.",
-          "The windshield is more than transparent than the tinted side glass.",
-          "The windshield is the more transparent than the tinted side glass."
+          "Fresh vegetables are more nutritious than canned vegetables.",
+          "Fresh vegetables are more than nutritious than canned vegetables.",
+          "Fresh vegetables are the more nutritious than canned vegetables."
         ],
-        "answer": "The windshield is more transparent than the tinted side glass."
+        "answer": "Fresh vegetables are more nutritious than canned vegetables."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Plastic headlamp covers are more opaque than clear indicator lenses.",
-          "Plastic headlamp covers are more than opaque than clear indicator lenses.",
-          "Plastic headlamp covers are the more opaque than clear indicator lenses."
+          "Glass containers are more fragile than plastic containers.",
+          "Glass containers are more than fragile than plastic containers.",
+          "Glass containers are the more fragile than plastic containers."
         ],
-        "answer": "Plastic headlamp covers are more opaque than clear indicator lenses."
+        "answer": "Glass containers are more fragile than plastic containers."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Ceramic exhaust coatings are more heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are more than heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are the more heat-resistant than metal finishes."
+          "Stainless-steel utensils are more heat-resistant than wooden utensils.",
+          "Stainless-steel utensils are more than heat-resistant than wooden utensils.",
+          "Stainless-steel utensils are the more heat-resistant than wooden utensils."
         ],
-        "answer": "Ceramic exhaust coatings are more heat-resistant than metal finishes."
+        "answer": "Stainless-steel utensils are more heat-resistant than wooden utensils."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Forged steel crankshafts are the strongest.",
-          "Forged steel crankshafts are more than stronger.",
-          "Forged steel crankshafts are the more strongest."
+          "Stainless-steel worktables are the strongest surfaces in the kitchen.",
+          "Stainless-steel worktables are the more than stronger surfaces in the kitchen.",
+          "Stainless-steel worktables are most strongest surfaces in the kitchen."
         ],
-        "answer": "Forged steel crankshafts are the strongest."
+        "answer": "Stainless-steel worktables are the strongest surfaces in the kitchen."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Polished aluminium heat shields are the brightest.",
-          "Polished aluminium heat shields are more than brighter.",
-          "Polished aluminium heat shields are the more brightest."
+          "Polished metal lids are the brightest items under kitchen lighting.",
+          "Polished metal lids are the more than brighter items under kitchen lighting.",
+          "Polished metal lids are most brightest items under kitchen lighting."
         ],
-        "answer": "Polished aluminium heat shields are the brightest."
+        "answer": "Polished metal lids are the brightest items under kitchen lighting."
       },
       {
-        "question": "Do you know why the engine is misfiring at idle?",
+        "question": "Do you know why the dough is not rising properly?",
         "options": [
-          "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector.",
-          "I’m not sure. It should be dirty spark plug or it should be clogged fuel injector.",
-          "I’m not sure. It can be a dirty spark plug or it mustn’t be a clogged fuel injector."
+          "I’m not sure. It may be old yeast or it might be low room temperature.",
+          "I’m not sure. It should be old yeast or it should be low room temperature.",
+          "I’m not sure. It can be old yeast or it mustn’t be low room temperature."
         ],
-        "answer": "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector."
+        "answer": "I’m not sure. It may be old yeast or it might be low room temperature."
       }
     ]
   },
@@ -267,13 +272,13 @@
           "must",
           "never",
           "remove",
-          "guards",
+          "covers",
           "during",
           "machine",
           "operation",
           "."
         ],
-        "sentence": "Workers must never remove guards during machine operation."
+        "sentence": "Workers must never remove covers during machine operation."
       },
       {
         "id": "n_3_a_2",
@@ -282,14 +287,14 @@
           "Operators",
           "mustn't",
           "use",
-          "machines",
+          "mixers",
           "without",
           "proper",
           "protective",
-          "equipment",
+          "clothing",
           "."
         ],
-        "sentence": "Operators mustn't use machines without proper protective equipment."
+        "sentence": "Operators mustn't use mixers without proper protective clothing."
       },
       {
         "id": "n_3_a_3",
@@ -298,14 +303,14 @@
           "Do",
           "technicians",
           "check",
-          "tools",
+          "utensils",
           "before",
           "starting",
           "daily",
-          "work",
+          "production",
           "?"
         ],
-        "sentence": "Do technicians check tools before starting daily work?"
+        "sentence": "Do technicians check utensils before starting daily production?"
       },
       {
         "id": "n_3_a_4",
@@ -313,35 +318,33 @@
         "words": [
           "Will",
           "the",
-          "machine",
+          "cooker",
           "fail",
           "during",
           "heavy",
-          "load",
+          "production",
           "conditions",
           "?"
         ],
-        "sentence": "Will the machine fail during heavy load conditions?"
+        "sentence": "Will the cooker fail during heavy production conditions?"
       },
       {
         "id": "n_3_a_5",
         "audio": "assets/audio/a_3_5.mp3",
         "words": [
           "The",
-          "mechanic",
-          "tightened",
-          "the",
-          "bolts",
+          "technician",
+          "measured",
+          "ingredients",
           "and",
           "checked",
-          "the",
-          "pressure",
+          "stocks",
           "yesterday",
           "."
         ],
-        "sentence": "The mechanic tightened the bolts and checked the pressure yesterday.",
+        "sentence": "The technician measured ingredients and checked stocks yesterday.",
         "alternative_answers": [
-          "The mechanic checked the pressure and tightened the bolts yesterday."
+          "The technician checked stocks and measured ingredients yesterday."
         ]
       },
       {
@@ -351,14 +354,15 @@
           "Students",
           "are",
           "wearing",
-          "helmets",
+          "hairnets",
           "while",
           "observing",
-          "welding",
+          "food",
+          "processing",
           "operations",
           "."
         ],
-        "sentence": "Students are wearing helmets while observing welding operations."
+        "sentence": "Students are wearing hairnets while observing food processing operations."
       },
       {
         "id": "n_3_a_7",
@@ -369,30 +373,28 @@
           "going",
           "to",
           "inspect",
-          "pumps",
+          "ovens",
           "tomorrow",
           "morning",
           "."
         ],
-        "sentence": "We are going to inspect pumps tomorrow morning."
+        "sentence": "We are going to inspect ovens tomorrow morning."
       },
       {
         "id": "n_3_a_8",
         "audio": "assets/audio/a_3_8.mp3",
         "words": [
           "Bring",
-          "a",
-          "cap",
-          "and",
           "enough",
+          "drinking",
           "water",
           "for",
           "the",
-          "trip",
+          "factory",
+          "visit",
           "."
         ],
-        "sentence": "Bring a cap and enough water for the trip.",
-        "alternative_answers": ["Bring enough water and a cap for the trip."]
+        "sentence": "Bring enough drinking water for the factory visit."
       },
       {
         "id": "n_3_a_9",
@@ -401,17 +403,18 @@
           "Everyone",
           "must",
           "follow",
-          "all",
+          "hygiene",
           "rules",
           "and",
+          "safety",
           "signs",
-          "at",
-          "sites",
+          "inside",
+          "factories",
           "."
         ],
-        "sentence": "Everyone must follow all rules and signs at sites.",
+        "sentence": "Everyone must follow hygiene rules and safety signs inside factories.",
         "alternative_answers": [
-          "Everyone must follow all signs and rules at sites."
+          "Everyone must follow safety signs and hygiene rules inside factories."
         ]
       },
       {
@@ -419,16 +422,19 @@
         "audio": "assets/audio/a_3_10.mp3",
         "words": [
           "The",
-          "factory",
+          "processing",
+          "unit",
           "needs",
           "more",
-          "tools",
+          "containers",
           "and",
           "equipment",
           "."
         ],
-        "sentence": "The factory needs more tools and equipment.",
-        "alternative_answers": ["The factory needs more equipment and tools."]
+        "sentence": "The processing unit needs more containers and equipment.",
+        "alternative_answers": [
+          "The processing unit needs more equipment and containers."
+        ]
       }
     ]
   },

@@ -14,97 +14,102 @@
     },
     "content": [
       {
-        "question": "The ceramic brake disc is ______ the cast-iron disc under high temperatures.",
+        "question": "The steel beam is ______ the wooden beam under heavy load.",
         "options": [
-          "harder than",
-          "hardly than",
-          "hardest than",
-          "more harder than"
+          "strong than",
+          "strongest than",
+          "stronger than",
+          "more strongest than"
         ],
-        "answer": "harder than"
+        "answer": "stronger than"
       },
       {
-        "question": "Synthetic engine oil is ______ mineral oil during cold starts.",
+        "question": "Fresh concrete is ______ dry concrete during pouring.",
+        "options": ["wet than", "wettest than", "wetter than", "wetly than"],
+        "answer": "wetter than"
+      },
+      {
+        "question": "Reinforced columns are ______ plain columns during earthquakes.",
         "options": [
-          "thin than",
-          "thinnest than",
-          "thinner than",
-          "thinly than"
+          "most stable than",
+          "more stable than",
+          "stable than",
+          "more stably than"
         ],
-        "answer": "thinner than"
+        "answer": "more stable than"
       },
       {
-        "question": "Disc brakes are ______ than drum brakes during sudden braking.",
+        "question": "Solid brick walls are ______ partition walls, increasing structural strength.",
         "options": [
-          "most responsive",
-          "more responsive",
-          "responsive",
-          "more responsively"
+          "most thick than",
+          "thickly than",
+          "thick than",
+          "thicker than"
         ],
-        "answer": "more responsive"
+        "answer": "thicker than"
       },
       {
-        "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
-        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
-        "answer": "more rigid"
+        "question": "This is ______ foundation design for soft soil conditions.",
+        "options": ["safer", "safely", "the safest", "safe"],
+        "answer": "the safest"
       },
       {
-        "question": "This is ______ exhaust configuration for this engine platform.",
-        "options": ["the quietest", "quietly", "quieter", "quietest"],
-        "answer": "the quietest"
-      },
-      {
-        "question": "The dual-clutch transmission is ______ drivetrain option in this vehicle class.",
+        "question": "The pile foundation is ______ option for high-rise buildings in this area.",
         "options": [
-          "the more than better",
           "more better",
+          "the more better",
           "the best",
           "the most best"
         ],
         "answer": "the best"
       },
       {
-        "question": "The engine ______ overheat because the temperature warning light is already on.",
-        "options": ["will goes to", "are going to", "is going to", "will have"],
+        "question": "The formwork ______ collapse because the supports are already loose.",
+        "options": ["will go to", "are going to", "is going to", "will be"],
         "answer": "is going to"
       },
       {
-        "question": "I ______ replace the faulty fuel injector sometime soon.",
+        "question": "I ______ inspect the scaffolding before work starts tomorrow.",
         "options": ["is going to", "will", "will hope to", "will be going to"],
         "answer": "will"
       },
       {
-        "question": "Glass headlamp lenses are ______ components in the front lighting assembly.",
-        "options": ["the weakest", "weak", "weaker", "most weakest"],
+        "question": "Glass curtain walls are ______ materials used in modern façades.",
+        "options": [
+          "more weak",
+          "the weakest",
+          "the more weaker",
+          "the most weakest"
+        ],
         "answer": "the weakest"
       },
       {
-        "question": "The engine ______ stall if the fuel filter is blocked.",
+        "question": "The slab ______ crack if proper curing is not done.",
         "options": ["can’t", "shouldn’t", "may", "might not"],
         "answer": "may"
       },
       {
-        "question": "Mechanics ______ disconnect the battery before working on the starter motor.",
+        "question": "Workers ______ wear safety helmets on the construction site.",
         "options": ["mustn’t", "can’t", "must", "might"],
         "answer": "must"
       },
       {
-        "question": "Technicians ______ touch the ignition system while the engine is running.",
+        "question": "Workers ______ remove safety barriers during concrete pouring.",
         "options": ["mustn’t", "should", "might not", "can"],
         "answer": "mustn’t"
       },
       {
-        "question": "The mechanics ______ replace the timing belt tomorrow, as it is listed on the maintenance schedule.",
-        "options": ["will", "are going to", "will be going", "will not"],
-        "answer": "are going to"
+        "question": "The site team ______ pour the concrete tomorrow, as it is on the schedule.",
+        "options": ["will be", "is going to", "will be going", "will not"],
+        "answer": "is going to"
       },
       {
-        "question": "The alternator ______ charge the battery if the drive belt is loose.",
+        "question": "The crane ______ lift the load if it exceeds the rated capacity.",
         "options": ["must", "might", "should", "can’t"],
         "answer": "can’t"
       },
       {
-        "question": "The coolant level ______ be checked before a long journey.",
+        "question": "The scaffolding ______ be checked before workers climb onto it.",
         "options": ["might", "should", "may", "shouldn’t"],
         "answer": "should"
       }
@@ -119,135 +124,127 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "She is staying at home and rest if she has a fever.",
-          "She should stay at home and rest if she has a fever.",
-          "She might be staying at home and rest if she has a fever."
+          "He is not wearing a helmet if he is working at height.",
+          "He must wear a helmet if he is working at height.",
+          "He might not wearing a helmet if he is working at height."
         ],
-        "answer": "She should stay at home and rest if she has a fever."
+        "answer": "He must wear a helmet if he is working at height."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I mustn’t go beyond the safety barriers in the factory.",
-          "I might not going beyond the safety barriers at the factory.",
-          "I should not going beyond the safety barriers at the factory."
+          "I shouldn’t entering the restricted area on the construction site.",
+          "I might not entering the restricted area on the construction site.",
+          "I mustn’t enter the restricted area on the construction site."
         ],
-        "answer": "I mustn’t go beyond the safety barriers in the factory."
+        "answer": "I mustn’t enter the restricted area on the construction site."
       },
       {
-        "question": "What should the mechanic use to paint the repaired body panel?",
+        "question": "What should the worker use to paint the steel railing?",
         "options": ["a can of paint", "a packet of paint", "a box of paint"],
         "answer": "a can of paint"
       },
       {
-        "question": "What should the technician add to seal the small crack in the radiator hose?",
-        "options": [
-          "a tube of sealant",
-          "a box of coolant",
-          "a packet of sealant"
-        ],
-        "answer": "a tube of sealant"
+        "question": "What should the mason use to fill small cracks in the wall?",
+        "options": ["a bag of cement", "a bottle of sand", "a roll of mortar"],
+        "answer": "a bag of cement"
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I am going to inspect the engine tomorrow as it is on the maintenance schedule.",
-          "I will go to inspect the engine tomorrow as its in the maintenance schedule.",
-          "I will be going to inspect the engine tomorrow as its on maintenance schedule."
+          "I am going to inspect the scaffolding tomorrow as it is on the safety schedule.",
+          "I will go to inspect the scaffolding tomorrow as it in the safety schedule.",
+          "I will be going to inspect the scaffolding tomorrow as it on safety schedule."
         ],
-        "answer": "I am going to inspect the engine tomorrow as it is on the maintenance schedule."
+        "answer": "I am going to inspect the scaffolding tomorrow as it is on the safety schedule."
       },
       {
-        "question": "Do you know why the engine temperature keeps changing?",
+        "question": "Do you know why the concrete surface is cracking?",
         "options": [
-          "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system.",
-          "I’m not sure. It should be a faulty thermostat or it should be an air lock in the cooling system.",
-          "I’m not sure. It can be a faulty thermostat or it mustn’t be an air lock in the cooling system."
+          "I’m not sure. It may be poor curing or there might be too much water in the mix.",
+          "I’m not sure. It should be poor curing or it should be too much water in the mix.",
+          "I’m not sure. It can be poor curing or it mustn’t be too much water in the mix."
         ],
-        "answer": "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system."
+        "answer": "I’m not sure. It may be poor curing or there might be too much water in the mix."
       },
       {
-        "question": "What should the mechanic pour into the brake system during bleeding?",
-        "options": [
-          "a bottle of brake fluid",
-          "a box of oil",
-          "a strip of lubricant"
-        ],
-        "answer": "a bottle of brake fluid"
+        "question": "What should the worker pour into the concrete mixer first?",
+        "options": ["a bucket of water", "a box of cement", "a sheet of sand"],
+        "answer": "a bucket of water"
       },
       {
-        "question": "Will the mechanic finish the brake inspection soon?",
+        "question": "Will the team complete the slab casting soon?",
         "options": [
-          "Yes, he will finish in half an hour.",
-          "Yes, they are going to finish in few hours.",
-          "Yes, soon he will finish in a few minutes."
+          "Yes, they will complete it in one hour.",
+          "Yes, they are going to complete it for one hour.",
+          "Yes, soon they will complete in one hour."
         ],
-        "answer": "Yes, he will finish in half an hour."
+        "answer": "Yes, they will complete it in one hour."
       },
       {
-        "question": "Will the technician replace the worn timing belt soon?",
+        "question": "Will the technician fix the loose formwork soon?",
         "options": [
-          "Yes, he will replace it in two days.",
-          "Yes, they are going to replace it on two days.",
-          "Yes, soon they will replace in two days."
+          "Yes, he will fix it this afternoon.",
+          "Yes, they are going to fix them for this afternoon.",
+          "Yes, soon he will fix this afternoon."
         ],
-        "answer": "Yes, he will replace it in two days."
+        "answer": "Yes, he will fix it this afternoon."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "The windshield is more transparent than the tinted side glass.",
-          "The windshield is more than transparent than the tinted side glass.",
-          "The windshield is the more transparent than the tinted side glass."
+          "The steel beam is stronger than the wooden beam.",
+          "The steel beam is more than stronger than the wooden beam.",
+          "The steel beam is the stronger than the wooden beam."
         ],
-        "answer": "The windshield is more transparent than the tinted side glass."
+        "answer": "The steel beam is stronger than the wooden beam."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Plastic headlamp covers are more opaque than clear indicator lenses.",
-          "Plastic headlamp covers are more than opaque than clear indicator lenses.",
-          "Plastic headlamp covers are the more opaque than clear indicator lenses."
+          "Glass panels are more fragile than concrete blocks.",
+          "Glass panels are more than fragile than concrete blocks.",
+          "Glass panels are the more fragile than concrete blocks."
         ],
-        "answer": "Plastic headlamp covers are more opaque than clear indicator lenses."
+        "answer": "Glass panels are more fragile than concrete blocks."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Ceramic exhaust coatings are more heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are more than heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are the more heat-resistant than metal finishes."
+          "Concrete columns are more load-bearing than brick walls.",
+          "Concrete columns are more than load-bearing than brick walls.",
+          "Concrete columns are the more load-bearing than brick walls."
         ],
-        "answer": "Ceramic exhaust coatings are more heat-resistant than metal finishes."
+        "answer": "Concrete columns are more load-bearing than brick walls."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Forged steel crankshafts are the strongest.",
-          "Forged steel crankshafts are more than stronger.",
-          "Forged steel crankshafts are the more strongest."
+          "Reinforced foundations are the strongest parts of the structure.",
+          "Reinforced foundations are the more stronger parts of the structure.",
+          "Reinforced foundations are most strongest parts of the structure."
         ],
-        "answer": "Forged steel crankshafts are the strongest."
+        "answer": "Reinforced foundations are the strongest parts of the structure."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Polished aluminium heat shields are the brightest.",
-          "Polished aluminium heat shields are more than brighter.",
-          "Polished aluminium heat shields are the more brightest."
+          "Aluminium roof sheets are the brightest materials used on this building.",
+          "Aluminium roof sheets are the more than brighter materials used on this building.",
+          "Aluminium roof sheets are most brightest materials used on this building."
         ],
-        "answer": "Polished aluminium heat shields are the brightest."
+        "answer": "Aluminium roof sheets are the brightest materials used on this building."
       },
       {
-        "question": "Do you know why the engine is misfiring at idle?",
+        "question": "Do you know why the scaffolding is unstable?",
         "options": [
-          "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector.",
-          "I’m not sure. It should be dirty spark plug or it should be clogged fuel injector.",
-          "I’m not sure. It can be a dirty spark plug or it mustn’t be a clogged fuel injector."
+          "I’m not sure. It may be loose joints or it might be uneven ground.",
+          "I’m not sure. It should be loose joints or it should be uneven ground.",
+          "I’m not sure. It can be loose joints or it must be uneven ground."
         ],
-        "answer": "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector."
+        "answer": "I’m not sure. It may be loose joints or it might be uneven ground."
       }
     ]
   },

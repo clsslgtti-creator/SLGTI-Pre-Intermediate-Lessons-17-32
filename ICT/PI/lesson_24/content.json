@@ -14,97 +14,102 @@
     },
     "content": [
       {
-        "question": "The ceramic brake disc is ______ the cast-iron disc under high temperatures.",
+        "question": "The fibre-optic cable is ______ the copper cable for data transmission speed.",
         "options": [
-          "harder than",
-          "hardly than",
-          "hardest than",
-          "more harder than"
+          "fast than",
+          "fastest than",
+          "faster than",
+          "more fastest than"
         ],
-        "answer": "harder than"
+        "answer": "faster than"
       },
       {
-        "question": "Synthetic engine oil is ______ mineral oil during cold starts.",
+        "question": "Solid-state drives are ______ hard disk drives during system startup.",
         "options": [
-          "thin than",
-          "thinnest than",
-          "thinner than",
-          "thinly than"
+          "quick than",
+          "quickest than",
+          "quicker than",
+          "quickly than"
         ],
-        "answer": "thinner than"
+        "answer": "quicker than"
       },
       {
-        "question": "Disc brakes are ______ than drum brakes during sudden braking.",
+        "question": "Wired networks are ______ wireless networks in secure office environments.",
         "options": [
-          "most responsive",
-          "more responsive",
-          "responsive",
-          "more responsively"
+          "most stable than",
+          "more stable than",
+          "stable than",
+          "more stably than"
         ],
-        "answer": "more responsive"
+        "answer": "more stable than"
       },
       {
-        "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
-        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
-        "answer": "more rigid"
-      },
-      {
-        "question": "This is ______ exhaust configuration for this engine platform.",
-        "options": ["the quietest", "quietly", "quieter", "quietest"],
-        "answer": "the quietest"
-      },
-      {
-        "question": "The dual-clutch transmission is ______ drivetrain option in this vehicle class.",
+        "question": "Desktop computers are ______ laptops, allowing better cooling.",
         "options": [
-          "the more than better",
+          "most large than",
+          "largely than",
+          "large than",
+          "larger than"
+        ],
+        "answer": "larger than"
+      },
+      {
+        "question": "This is ______ password policy for shared user accounts.",
+        "options": ["safer", "safely", "the safest", "safe"],
+        "answer": "the safest"
+      },
+      {
+        "question": "Cloud backup is ______ data protection option for small businesses.",
+        "options": [
           "more better",
+          "the more better",
           "the best",
           "the most best"
         ],
         "answer": "the best"
       },
       {
-        "question": "The engine ______ overheat because the temperature warning light is already on.",
-        "options": ["will goes to", "are going to", "is going to", "will have"],
+        "question": "The server ______ shut down because the temperature alert is already active.",
+        "options": ["will", "are going to", "is going to", "will be"],
         "answer": "is going to"
       },
       {
-        "question": "I ______ replace the faulty fuel injector sometime soon.",
-        "options": ["is going to", "will", "will hope to", "will be going to"],
+        "question": "I ______ update the operating system after working hours.",
+        "options": ["am going", "will", "will hope to", "will be going to"],
         "answer": "will"
       },
       {
-        "question": "Glass headlamp lenses are ______ components in the front lighting assembly.",
-        "options": ["the weakest", "weak", "weaker", "most weakest"],
+        "question": "Glass monitor screens are ______ components used in computer labs.",
+        "options": ["more weak", "the weakest", "the more weaker", "weakest"],
         "answer": "the weakest"
       },
       {
-        "question": "The engine ______ stall if the fuel filter is blocked.",
+        "question": "The network ______ slow down if too many users connect at once.",
         "options": ["can’t", "shouldn’t", "may", "might not"],
         "answer": "may"
       },
       {
-        "question": "Mechanics ______ disconnect the battery before working on the starter motor.",
+        "question": "Technicians ______ back up important files before system maintenance.",
         "options": ["mustn’t", "can’t", "must", "might"],
         "answer": "must"
       },
       {
-        "question": "Technicians ______ touch the ignition system while the engine is running.",
+        "question": "Users ______ install unauthorised software on office computers.",
         "options": ["mustn’t", "should", "might not", "can"],
         "answer": "mustn’t"
       },
       {
-        "question": "The mechanics ______ replace the timing belt tomorrow, as it is listed on the maintenance schedule.",
-        "options": ["will", "are going to", "will be going", "will not"],
-        "answer": "are going to"
+        "question": "The IT team ______ install the new router tomorrow, as it is on the approved schedule.",
+        "options": ["will be", "is going to", "will be going", "will not"],
+        "answer": "is going to"
       },
       {
-        "question": "The alternator ______ charge the battery if the drive belt is loose.",
+        "question": "The printer ______ function properly if the driver is missing.",
         "options": ["must", "might", "should", "can’t"],
         "answer": "can’t"
       },
       {
-        "question": "The coolant level ______ be checked before a long journey.",
+        "question": "The antivirus software ______ be updated regularly to protect the system.",
         "options": ["might", "should", "may", "shouldn’t"],
         "answer": "should"
       }
@@ -119,135 +124,139 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "She is staying at home and rest if she has a fever.",
-          "She should stay at home and rest if she has a fever.",
-          "She might be staying at home and rest if she has a fever."
+          "The user can’t restarts the computer if it freezes.",
+          "The user should restart the computer if it freezes.",
+          "The user might restarting the computer if it freezes."
         ],
-        "answer": "She should stay at home and rest if she has a fever."
+        "answer": "The user should restart the computer if it freezes."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I mustn’t go beyond the safety barriers in the factory.",
-          "I might not going beyond the safety barriers at the factory.",
-          "I should not going beyond the safety barriers at the factory."
+          "You shouldn’t unplug the server while it is running.",
+          "You might not unplugging the server while it is running.",
+          "You mustn’t unplugging the server while it is running."
         ],
-        "answer": "I mustn’t go beyond the safety barriers in the factory."
+        "answer": "You shouldn’t unplug the server while it is running."
       },
       {
-        "question": "What should the mechanic use to paint the repaired body panel?",
-        "options": ["a can of paint", "a packet of paint", "a box of paint"],
-        "answer": "a can of paint"
-      },
-      {
-        "question": "What should the technician add to seal the small crack in the radiator hose?",
+        "question": "What should the technician use to clean the keyboard?",
         "options": [
-          "a tube of sealant",
-          "a box of coolant",
-          "a packet of sealant"
+          "a can of compressed air",
+          "a tube of wipes",
+          "a bottle of oil"
         ],
-        "answer": "a tube of sealant"
+        "answer": "a can of compressed air"
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "What should be applied to protect the cable joint?",
         "options": [
-          "I am going to inspect the engine tomorrow as it is on the maintenance schedule.",
-          "I will go to inspect the engine tomorrow as its in the maintenance schedule.",
-          "I will be going to inspect the engine tomorrow as its on maintenance schedule."
+          "a roll of insulation tape",
+          "a box of wires",
+          "a packet of screws"
         ],
-        "answer": "I am going to inspect the engine tomorrow as it is on the maintenance schedule."
+        "answer": "a roll of insulation tape"
       },
       {
-        "question": "Do you know why the engine temperature keeps changing?",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system.",
-          "I’m not sure. It should be a faulty thermostat or it should be an air lock in the cooling system.",
-          "I’m not sure. It can be a faulty thermostat or it mustn’t be an air lock in the cooling system."
+          "I am going to update the operating system tonight as it is scheduled.",
+          "I will go to update the operating system tonight as it is schedule.",
+          "I will be going to update the operating system tonight as it on schedule."
         ],
-        "answer": "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system."
+        "answer": "I am going to update the operating system tonight as it is scheduled."
       },
       {
-        "question": "What should the mechanic pour into the brake system during bleeding?",
+        "question": "Do you know why the network connection is unstable?",
         "options": [
-          "a bottle of brake fluid",
-          "a box of oil",
-          "a strip of lubricant"
+          "I’m not sure. It may be a loose cable or it might be a router fault.",
+          "I’m not sure. It should be a loose cable or it should be a router fault.",
+          "I’m not sure. It can be a loose cable or it mustn’t be a router fault."
         ],
-        "answer": "a bottle of brake fluid"
+        "answer": "I’m not sure. It may be a loose cable or it might be a router fault."
       },
       {
-        "question": "Will the mechanic finish the brake inspection soon?",
+        "question": "What should the technician insert into the printer?",
         "options": [
-          "Yes, he will finish in half an hour.",
+          "a cartridge of toner",
+          "a box of cables",
+          "a strip of plastic"
+        ],
+        "answer": "a cartridge of toner"
+      },
+      {
+        "question": "Will the technician finish the software installation soon?",
+        "options": [
+          "Yes, he will finish in about thirty minutes.",
           "Yes, they are going to finish in few hours.",
-          "Yes, soon he will finish in a few minutes."
+          "Yes, soon he will finish in a few minute."
         ],
-        "answer": "Yes, he will finish in half an hour."
+        "answer": "Yes, he will finish in about thirty minutes."
       },
       {
-        "question": "Will the technician replace the worn timing belt soon?",
+        "question": "Will the administrator reset the user password soon?",
         "options": [
-          "Yes, he will replace it in two days.",
-          "Yes, they are going to replace it on two days.",
-          "Yes, soon they will replace in two days."
+          "Yes, he will reset it today.",
+          "Yes, they are going to reset  for today.",
+          "Yes, soon they will reset today."
         ],
-        "answer": "Yes, he will replace it in two days."
+        "answer": "Yes, he will reset it today."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "The windshield is more transparent than the tinted side glass.",
-          "The windshield is more than transparent than the tinted side glass.",
-          "The windshield is the more transparent than the tinted side glass."
+          "Fiber-optic cables are faster than copper cables.",
+          "Fiber-optic cables are more than fast than copper cables.",
+          "Fiber-optic cables are the more faster than copper cables."
         ],
-        "answer": "The windshield is more transparent than the tinted side glass."
+        "answer": "Fiber-optic cables are faster than copper cables."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Plastic headlamp covers are more opaque than clear indicator lenses.",
-          "Plastic headlamp covers are more than opaque than clear indicator lenses.",
-          "Plastic headlamp covers are the more opaque than clear indicator lenses."
+          "Solid-state drives are more reliable than mechanical hard drives.",
+          "Solid-state drives are more than reliable than mechanical hard drives.",
+          "Solid-state drives are the more reliable than mechanical hard drives."
         ],
-        "answer": "Plastic headlamp covers are more opaque than clear indicator lenses."
+        "answer": "Solid-state drives are more reliable than mechanical hard drives."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Ceramic exhaust coatings are more heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are more than heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are the more heat-resistant than metal finishes."
+          "A wired connection is more stable than a wireless connection.",
+          "A wired connection is more than stable than a wireless connection.",
+          "A wired connection is the more stable than a wireless connection."
         ],
-        "answer": "Ceramic exhaust coatings are more heat-resistant than metal finishes."
+        "answer": "A wired connection is more stable than a wireless connection."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Forged steel crankshafts are the strongest.",
-          "Forged steel crankshafts are more than stronger.",
-          "Forged steel crankshafts are the more strongest."
+          "Cloud storage has the highest storage capacity.",
+          "Cloud storage is more than higher storage capacity.",
+          "Cloud storage is the more highest storage capacity."
         ],
-        "answer": "Forged steel crankshafts are the strongest."
+        "answer": "Cloud storage has the highest storage capacity."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Polished aluminium heat shields are the brightest.",
-          "Polished aluminium heat shields are more than brighter.",
-          "Polished aluminium heat shields are the more brightest."
+          "A dedicated server is more powerful than a shared server.",
+          "A dedicated server is more than powerful than a shared server.",
+          "A dedicated server is the more powerful than a shared server."
         ],
-        "answer": "Polished aluminium heat shields are the brightest."
+        "answer": "A dedicated server is more powerful than a shared server."
       },
       {
-        "question": "Do you know why the engine is misfiring at idle?",
+        "question": "Do you know why the application keeps crashing?",
         "options": [
-          "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector.",
-          "I’m not sure. It should be dirty spark plug or it should be clogged fuel injector.",
-          "I’m not sure. It can be a dirty spark plug or it mustn’t be a clogged fuel injector."
+          "I’m not sure. It may be a software bug or it might be insufficient memory.",
+          "I’m not sure. It should be a software bug or it should be insufficient memory.",
+          "I’m not sure. It can be a software bug or it mustn’t be insufficient memory."
         ],
-        "answer": "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector."
+        "answer": "I’m not sure. It may be a software bug or it might be insufficient memory."
       }
     ]
   },
@@ -267,13 +276,14 @@
           "must",
           "never",
           "remove",
-          "guards",
+          "covers",
           "during",
-          "machine",
-          "operation",
+          "server",
+          "maintenance",
+          "tasks",
           "."
         ],
-        "sentence": "Workers must never remove guards during machine operation."
+        "sentence": "Workers must never remove covers during server maintenance tasks."
       },
       {
         "id": "n_3_a_2",
@@ -282,14 +292,14 @@
           "Operators",
           "mustn't",
           "use",
-          "machines",
+          "systems",
           "without",
           "proper",
-          "protective",
-          "equipment",
+          "access",
+          "permissions",
           "."
         ],
-        "sentence": "Operators mustn't use machines without proper protective equipment."
+        "sentence": "Operators mustn't use systems without proper access permissions."
       },
       {
         "id": "n_3_a_3",
@@ -298,14 +308,15 @@
           "Do",
           "technicians",
           "check",
-          "tools",
+          "cables",
           "before",
           "starting",
           "daily",
-          "work",
+          "network",
+          "operations",
           "?"
         ],
-        "sentence": "Do technicians check tools before starting daily work?"
+        "sentence": "Do technicians check cables before starting daily network operations?"
       },
       {
         "id": "n_3_a_4",
@@ -313,35 +324,33 @@
         "words": [
           "Will",
           "the",
-          "machine",
+          "system",
           "fail",
           "during",
           "heavy",
-          "load",
+          "processing",
           "conditions",
           "?"
         ],
-        "sentence": "Will the machine fail during heavy load conditions?"
+        "sentence": "Will the system fail during heavy processing conditions?"
       },
       {
         "id": "n_3_a_5",
         "audio": "assets/audio/a_3_5.mp3",
         "words": [
           "The",
-          "mechanic",
-          "tightened",
-          "the",
-          "bolts",
+          "technician",
+          "installed",
+          "updates",
           "and",
           "checked",
-          "the",
-          "pressure",
+          "settings",
           "yesterday",
           "."
         ],
-        "sentence": "The mechanic tightened the bolts and checked the pressure yesterday.",
+        "sentence": "The technician installed updates and checked settings yesterday.",
         "alternative_answers": [
-          "The mechanic checked the pressure and tightened the bolts yesterday."
+          "The technician checked settings and installed updates yesterday."
         ]
       },
       {
@@ -351,14 +360,15 @@
           "Students",
           "are",
           "wearing",
-          "helmets",
+          "badges",
           "while",
           "observing",
-          "welding",
+          "data",
+          "centre",
           "operations",
           "."
         ],
-        "sentence": "Students are wearing helmets while observing welding operations."
+        "sentence": "Students are wearing badges while observing data centre operations."
       },
       {
         "id": "n_3_a_7",
@@ -369,30 +379,28 @@
           "going",
           "to",
           "inspect",
-          "pumps",
+          "servers",
           "tomorrow",
           "morning",
           "."
         ],
-        "sentence": "We are going to inspect pumps tomorrow morning."
+        "sentence": "We are going to inspect servers tomorrow morning."
       },
       {
         "id": "n_3_a_8",
         "audio": "assets/audio/a_3_8.mp3",
         "words": [
-          "Bring",
-          "a",
-          "cap",
-          "and",
+          "Make",
+          "sure",
+          "your",
+          "laptop",
+          "has",
           "enough",
-          "water",
-          "for",
-          "the",
-          "trip",
+          "storage",
+          "space",
           "."
         ],
-        "sentence": "Bring a cap and enough water for the trip.",
-        "alternative_answers": ["Bring enough water and a cap for the trip."]
+        "sentence": "Make sure your laptop has enough storage space."
       },
       {
         "id": "n_3_a_9",
@@ -401,17 +409,17 @@
           "Everyone",
           "must",
           "follow",
-          "all",
+          "security",
           "rules",
           "and",
-          "signs",
-          "at",
-          "sites",
+          "warning",
+          "notices",
+          "onsite",
           "."
         ],
-        "sentence": "Everyone must follow all rules and signs at sites.",
+        "sentence": "Everyone must follow security rules and warning notices onsite.",
         "alternative_answers": [
-          "Everyone must follow all signs and rules at sites."
+          "Everyone must follow warning notices and security rules onsite."
         ]
       },
       {
@@ -419,16 +427,19 @@
         "audio": "assets/audio/a_3_10.mp3",
         "words": [
           "The",
-          "factory",
+          "IT",
+          "department",
           "needs",
           "more",
-          "tools",
+          "cables",
           "and",
           "equipment",
           "."
         ],
-        "sentence": "The factory needs more tools and equipment.",
-        "alternative_answers": ["The factory needs more equipment and tools."]
+        "sentence": "The IT department needs more cables and equipment.",
+        "alternative_answers": [
+          "The IT department needs more equipment and cables."
+        ]
       }
     ]
   },

@@ -14,97 +14,102 @@
     },
     "content": [
       {
-        "question": "The ceramic brake disc is ______ the cast-iron disc under high temperatures.",
+        "question": "The copper conductor is ______ the aluminium conductor under high current load.",
         "options": [
-          "harder than",
-          "hardly than",
-          "hardest than",
-          "more harder than"
+          "strong than",
+          "strongest than",
+          "stronger than",
+          "more strongest than"
         ],
-        "answer": "harder than"
+        "answer": "stronger than"
       },
       {
-        "question": "Synthetic engine oil is ______ mineral oil during cold starts.",
+        "question": "Insulated cables are ______ bare wires during normal operation.",
+        "options": ["safe than", "safest than", "safer than", "safely than"],
+        "answer": "safer than"
+      },
+      {
+        "question": "Circuit breakers are ______ fuses during fault conditions.",
         "options": [
-          "thin than",
-          "thinnest than",
-          "thinner than",
-          "thinly than"
+          "most reliable than",
+          "more reliable than",
+          "liable than",
+          "more reliably than"
         ],
-        "answer": "thinner than"
+        "answer": "more reliable than"
       },
       {
-        "question": "Disc brakes are ______ than drum brakes during sudden braking.",
+        "question": "Solid busbars are ______ flexible wires, reducing voltage drop.",
         "options": [
-          "most responsive",
-          "more responsive",
-          "responsive",
-          "more responsively"
+          "most thick than",
+          "thickly than",
+          "thick than",
+          "thicker than"
         ],
-        "answer": "more responsive"
+        "answer": "thicker than"
       },
       {
-        "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
-        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
-        "answer": "more rigid"
+        "question": "This is ______ earthing method for residential installations.",
+        "options": ["safer", "safely", "the safest", "safe"],
+        "answer": "the safest"
       },
       {
-        "question": "This is ______ exhaust configuration for this engine platform.",
-        "options": ["the quietest", "quietly", "quieter", "quietest"],
-        "answer": "the quietest"
-      },
-      {
-        "question": "The dual-clutch transmission is ______ drivetrain option in this vehicle class.",
+        "question": "The RCCB is ______ protection device in this distribution board.",
         "options": [
-          "the more than better",
           "more better",
+          "the more better",
           "the best",
           "the most best"
         ],
         "answer": "the best"
       },
       {
-        "question": "The engine ______ overheat because the temperature warning light is already on.",
-        "options": ["will goes to", "are going to", "is going to", "will have"],
+        "question": "The motor ______ overheat because the cooling fan is already damaged.",
+        "options": ["will go", "are going to", "is going to", "will be"],
         "answer": "is going to"
       },
       {
-        "question": "I ______ replace the faulty fuel injector sometime soon.",
+        "question": "I ______ replace the faulty contactor before the next shift starts.",
         "options": ["is going to", "will", "will hope to", "will be going to"],
         "answer": "will"
       },
       {
-        "question": "Glass headlamp lenses are ______ components in the front lighting assembly.",
-        "options": ["the weakest", "weak", "weaker", "most weakest"],
+        "question": "Glass fuse cartridges are ______ components used in low-voltage circuits.",
+        "options": [
+          "more weak",
+          "the weakest",
+          "the more weaker",
+          "the most weakest"
+        ],
         "answer": "the weakest"
       },
       {
-        "question": "The engine ______ stall if the fuel filter is blocked.",
+        "question": "The circuit ______ trip if the load exceeds the rated current.",
         "options": ["can’t", "shouldn’t", "may", "might not"],
         "answer": "may"
       },
       {
-        "question": "Mechanics ______ disconnect the battery before working on the starter motor.",
+        "question": "Electricians ______ isolate the power supply before maintenance work.",
         "options": ["mustn’t", "can’t", "must", "might"],
         "answer": "must"
       },
       {
-        "question": "Technicians ______ touch the ignition system while the engine is running.",
+        "question": "Technicians ______ touch live terminals during testing.",
         "options": ["mustn’t", "should", "might not", "can"],
         "answer": "mustn’t"
       },
       {
-        "question": "The mechanics ______ replace the timing belt tomorrow, as it is listed on the maintenance schedule.",
-        "options": ["will", "are going to", "will be going", "will not"],
-        "answer": "are going to"
+        "question": "The maintenance team ______ test the generator tomorrow, as it is on the schedule.",
+        "options": ["will", "is going to", "will be going", "will not"],
+        "answer": "is going to"
       },
       {
-        "question": "The alternator ______ charge the battery if the drive belt is loose.",
+        "question": "The transformer ______ operate safely if the insulation is damaged.",
         "options": ["must", "might", "should", "can’t"],
         "answer": "can’t"
       },
       {
-        "question": "The coolant level ______ be checked before a long journey.",
+        "question": "The earthing resistance ______ be checked before energising the system.",
         "options": ["might", "should", "may", "shouldn’t"],
         "answer": "should"
       }
@@ -119,135 +124,139 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "She is staying at home and rest if she has a fever.",
-          "She should stay at home and rest if she has a fever.",
-          "She might be staying at home and rest if she has a fever."
+          "He can’t switching off the power before repair work.",
+          "He must switch off the power before repair work.",
+          "He might switches off the power before repair work."
         ],
-        "answer": "She should stay at home and rest if she has a fever."
+        "answer": "He must switch off the power before repair work."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I mustn’t go beyond the safety barriers in the factory.",
-          "I might not going beyond the safety barriers at the factory.",
-          "I should not going beyond the safety barriers at the factory."
+          "I shouldn’t touching live terminals during testing.",
+          "I might not touching live terminals during testing.",
+          "I mustn’t touch live terminals during testing."
         ],
-        "answer": "I mustn’t go beyond the safety barriers in the factory."
+        "answer": "I mustn’t touch live terminals during testing."
       },
       {
-        "question": "What should the mechanic use to paint the repaired body panel?",
-        "options": ["a can of paint", "a packet of paint", "a box of paint"],
-        "answer": "a can of paint"
+        "question": "What should the electrician use to protect an exposed cable joint?",
+        "options": [
+          "a roll of insulation tape",
+          "a packet of wire",
+          "a bottle of voltage"
+        ],
+        "answer": "a roll of insulation tape"
       },
       {
-        "question": "What should the technician add to seal the small crack in the radiator hose?",
+        "question": "What should the technician install to control the circuit safely?",
         "options": [
-          "a tube of sealant",
-          "a box of coolant",
-          "a packet of sealant"
+          "a circuit breaker",
+          "a cable of current",
+          "a coil of electricity"
         ],
-        "answer": "a tube of sealant"
+        "answer": "a circuit breaker"
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I am going to inspect the engine tomorrow as it is on the maintenance schedule.",
-          "I will go to inspect the engine tomorrow as its in the maintenance schedule.",
-          "I will be going to inspect the engine tomorrow as its on maintenance schedule."
+          "I am going to test the distribution board tomorrow as it is on the inspection schedule.",
+          "I will go to test the distribution board tomorrow as it in the inspection schedule.",
+          "I will be going to test the distribution board tomorrow as it on inspection schedule."
         ],
-        "answer": "I am going to inspect the engine tomorrow as it is on the maintenance schedule."
+        "answer": "I am going to test the distribution board tomorrow as it is on the inspection schedule."
       },
       {
-        "question": "Do you know why the engine temperature keeps changing?",
+        "question": "Do you know why the circuit keeps tripping?",
         "options": [
-          "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system.",
-          "I’m not sure. It should be a faulty thermostat or it should be an air lock in the cooling system.",
-          "I’m not sure. It can be a faulty thermostat or it mustn’t be an air lock in the cooling system."
+          "I’m not sure. It may be an overload or it might be a short circuit.",
+          "I’m not sure. It should be an overload or it should be a short circuit.",
+          "I’m not sure. It can be an overload or it mustn’t be a short circuit."
         ],
-        "answer": "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system."
+        "answer": "I’m not sure. It may be an overload or it might be a short circuit."
       },
       {
-        "question": "What should the mechanic pour into the brake system during bleeding?",
+        "question": "What should the electrician pour into the battery during maintenance?",
         "options": [
-          "a bottle of brake fluid",
-          "a box of oil",
-          "a strip of lubricant"
+          "a bottle of distilled water",
+          "a box of electrolyte",
+          "a strip of acid"
         ],
-        "answer": "a bottle of brake fluid"
+        "answer": "a bottle of distilled water"
       },
       {
-        "question": "Will the mechanic finish the brake inspection soon?",
+        "question": "Will the electrician finish wiring the panel soon?",
         "options": [
-          "Yes, he will finish in half an hour.",
-          "Yes, they are going to finish in few hours.",
-          "Yes, soon he will finish in a few minutes."
+          "Yes, he will finish it in thirty minutes.",
+          "Yes, they are going to finish it for thirty minutes.",
+          "Yes, soon he will finish in thirty minutes."
         ],
-        "answer": "Yes, he will finish in half an hour."
+        "answer": "Yes, he will finish it in thirty minutes."
       },
       {
-        "question": "Will the technician replace the worn timing belt soon?",
+        "question": "Will the technician replace the faulty fuse soon?",
         "options": [
-          "Yes, he will replace it in two days.",
-          "Yes, they are going to replace it on two days.",
-          "Yes, soon they will replace in two days."
+          "Yes, he will replace it sometime today.",
+          "Yes, they are going to replace it for sometimes today.",
+          "Yes, soon he will replace sometimes today."
         ],
-        "answer": "Yes, he will replace it in two days."
+        "answer": "Yes, he will replace it sometime today."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "The windshield is more transparent than the tinted side glass.",
-          "The windshield is more than transparent than the tinted side glass.",
-          "The windshield is the more transparent than the tinted side glass."
+          "Copper conductors are more conductive than aluminium conductors.",
+          "Copper conductors are more than conductive than aluminium conductors.",
+          "Copper conductors are the more conductive than aluminium conductors."
         ],
-        "answer": "The windshield is more transparent than the tinted side glass."
+        "answer": "Copper conductors are more conductive than aluminium conductors."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Plastic headlamp covers are more opaque than clear indicator lenses.",
-          "Plastic headlamp covers are more than opaque than clear indicator lenses.",
-          "Plastic headlamp covers are the more opaque than clear indicator lenses."
+          "Glass fuse cartridges are more fragile than ceramic fuses.",
+          "Glass fuse cartridges are more than fragile than ceramic fuses.",
+          "Glass fuse cartridges are the more fragile than ceramic fuses."
         ],
-        "answer": "Plastic headlamp covers are more opaque than clear indicator lenses."
+        "answer": "Glass fuse cartridges are more fragile than ceramic fuses."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Ceramic exhaust coatings are more heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are more than heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are the more heat-resistant than metal finishes."
+          "Insulated cables are more heat-resistant than bare wires.",
+          "Insulated cables are more than heat-resistant than bare wires.",
+          "Insulated cables are the more heat-resistant than bare wires."
         ],
-        "answer": "Ceramic exhaust coatings are more heat-resistant than metal finishes."
+        "answer": "Insulated cables are more heat-resistant than bare wires."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Forged steel crankshafts are the strongest.",
-          "Forged steel crankshafts are more than stronger.",
-          "Forged steel crankshafts are the more strongest."
+          "Copper busbars are the strongest components in the distribution panel.",
+          "Copper busbars are the more than stronger components in the distribution panel.",
+          "Copper busbars are most strongest components in the distribution panel."
         ],
-        "answer": "Forged steel crankshafts are the strongest."
+        "answer": "Copper busbars are the strongest components in the distribution panel."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Polished aluminium heat shields are the brightest.",
-          "Polished aluminium heat shields are more than brighter.",
-          "Polished aluminium heat shields are the more brightest."
+          "Polished aluminium reflectors are the brightest parts of the lighting system.",
+          "Polished aluminium reflectors are the more than brighter parts of the lighting system.",
+          "Polished aluminium reflectors are most brightest parts of the lighting system."
         ],
-        "answer": "Polished aluminium heat shields are the brightest."
+        "answer": "Polished aluminium reflectors are the brightest parts of the lighting system."
       },
       {
-        "question": "Do you know why the engine is misfiring at idle?",
+        "question": "Do you know why the motor is overheating?",
         "options": [
-          "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector.",
-          "I’m not sure. It should be dirty spark plug or it should be clogged fuel injector.",
-          "I’m not sure. It can be a dirty spark plug or it mustn’t be a clogged fuel injector."
+          "I’m not sure. It may be poor ventilation or it might be an overloaded circuit.",
+          "I’m not sure. It should be poor ventilation or it should be an overloaded circuit.",
+          "I’m not sure. It can be poor ventilation or it mustn’t  be an overloaded circuit."
         ],
-        "answer": "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector."
+        "answer": "I’m not sure. It may be poor ventilation or it might be an overloaded circuit."
       }
     ]
   },

@@ -14,97 +14,97 @@
     },
     "content": [
       {
-        "question": "The ceramic brake disc is ______ the cast-iron disc under high temperatures.",
+        "question": "The forged shaft is ______ the cast shaft under high torque.",
         "options": [
-          "harder than",
-          "hardly than",
-          "hardest than",
-          "more harder than"
+          "strong than",
+          "strongest than",
+          "stronger than",
+          "more strongest than"
         ],
-        "answer": "harder than"
+        "answer": "stronger than"
       },
       {
-        "question": "Synthetic engine oil is ______ mineral oil during cold starts.",
+        "question": "Lubricated bearings are ______ dry bearings during continuous operation.",
         "options": [
-          "thin than",
-          "thinnest than",
-          "thinner than",
-          "thinly than"
+          "smooth than",
+          "smoothest than",
+          "smoother than",
+          "smoothly than"
         ],
-        "answer": "thinner than"
+        "answer": "smoother than"
       },
       {
-        "question": "Disc brakes are ______ than drum brakes during sudden braking.",
+        "question": "Gear-driven systems are ______ belt-driven systems for heavy loads.",
         "options": [
-          "most responsive",
-          "more responsive",
-          "responsive",
-          "more responsively"
+          "most reliable than",
+          "more reliable than",
+          "reliable than",
+          "more reliably than"
         ],
-        "answer": "more responsive"
+        "answer": "more reliable than"
       },
       {
-        "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
-        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
+        "question": "Solid steel frames are ______ than hollow frames, reducing vibration.",
+        "options": [
+          "most rigid than",
+          "rigidly than",
+          "rigid than",
+          "more rigid"
+        ],
         "answer": "more rigid"
       },
       {
-        "question": "This is ______ exhaust configuration for this engine platform.",
-        "options": ["the quietest", "quietly", "quieter", "quietest"],
-        "answer": "the quietest"
+        "question": "This is ______ cutting method for precision machining.",
+        "options": ["fast", "faster", "the fastest", "more faster"],
+        "answer": "the fastest"
       },
       {
-        "question": "The dual-clutch transmission is ______ drivetrain option in this vehicle class.",
-        "options": [
-          "the more than better",
-          "more better",
-          "the best",
-          "the most best"
-        ],
+        "question": "CNC milling is ______ machining option for complex components.",
+        "options": ["best", "better", "the best", "more better"],
         "answer": "the best"
       },
       {
-        "question": "The engine ______ overheat because the temperature warning light is already on.",
-        "options": ["will goes to", "are going to", "is going to", "will have"],
+        "question": "The bearing ______ fail because the lubrication system is already blocked.",
+        "options": ["will not", "are going to", "is going to", "will be"],
         "answer": "is going to"
       },
       {
-        "question": "I ______ replace the faulty fuel injector sometime soon.",
-        "options": ["is going to", "will", "will hope to", "will be going to"],
+        "question": "I ______ replace the worn coupling before the machine is restarted.",
+        "options": ["am going", "will", "will hope to", "will be going to"],
         "answer": "will"
       },
       {
-        "question": "Glass headlamp lenses are ______ components in the front lighting assembly.",
-        "options": ["the weakest", "weak", "weaker", "most weakest"],
+        "question": "Cast-iron housings are ______ components used in heavy machinery.",
+        "options": ["more weak", "the weakest", "the more weaker", "weakest"],
         "answer": "the weakest"
       },
       {
-        "question": "The engine ______ stall if the fuel filter is blocked.",
+        "question": "The shaft ______ bend if the load exceeds the design limit.",
         "options": ["can’t", "shouldn’t", "may", "might not"],
         "answer": "may"
       },
       {
-        "question": "Mechanics ______ disconnect the battery before working on the starter motor.",
-        "options": ["mustn’t", "can’t", "must", "might"],
+        "question": "Operators ______ stop the machine before changing the tool.",
+        "options": ["mustn’t", "can’t", "must", "shouldn’t"],
         "answer": "must"
       },
       {
-        "question": "Technicians ______ touch the ignition system while the engine is running.",
+        "question": "Workers ______ remove guards while the machine is running.",
         "options": ["mustn’t", "should", "might not", "can"],
         "answer": "mustn’t"
       },
       {
-        "question": "The mechanics ______ replace the timing belt tomorrow, as it is listed on the maintenance schedule.",
-        "options": ["will", "are going to", "will be going", "will not"],
-        "answer": "are going to"
+        "question": "The maintenance team ______ align the gearbox tomorrow, as it is on the approved schedule.",
+        "options": ["will be", "is going to", "will be going", "will not"],
+        "answer": "is going to"
       },
       {
-        "question": "The alternator ______ charge the battery if the drive belt is loose.",
+        "question": "The hydraulic press ______ operate safely if the pressure valve is faulty.",
         "options": ["must", "might", "should", "can’t"],
         "answer": "can’t"
       },
       {
-        "question": "The coolant level ______ be checked before a long journey.",
+        "question": "The machine lubrication system ______ be inspected before long-term operation.",
         "options": ["might", "should", "may", "shouldn’t"],
         "answer": "should"
       }
@@ -119,135 +119,135 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "She is staying at home and rest if she has a fever.",
-          "She should stay at home and rest if she has a fever.",
-          "She might be staying at home and rest if she has a fever."
+          "The operator can stops the machine if it overheats.",
+          "The operator must stop the machine if it overheats.",
+          "The operator might not stopping the machine if it overheats."
         ],
-        "answer": "She should stay at home and rest if she has a fever."
+        "answer": "The operator must stop the machine if it overheats."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I mustn’t go beyond the safety barriers in the factory.",
-          "I might not going beyond the safety barriers at the factory.",
-          "I should not going beyond the safety barriers at the factory."
+          "You shouldn’t remove the safety guard during operation.",
+          "You might not removing the safety guard during operation.",
+          "You mustn’t be able to removing the safety guard during operation."
         ],
-        "answer": "I mustn’t go beyond the safety barriers in the factory."
+        "answer": "You shouldn’t remove the safety guard during operation."
       },
       {
-        "question": "What should the mechanic use to paint the repaired body panel?",
-        "options": ["a can of paint", "a packet of paint", "a box of paint"],
-        "answer": "a can of paint"
+        "question": "What should the mechanic use to tighten the loose bolt?",
+        "options": ["a spanner", "a clamp", "a brush"],
+        "answer": "a spanner"
       },
       {
-        "question": "What should the technician add to seal the small crack in the radiator hose?",
+        "question": "What should the technician add to reduce friction in the bearing?",
         "options": [
-          "a tube of sealant",
-          "a box of coolant",
-          "a packet of sealant"
+          "a tube of grease",
+          "a box of bolts",
+          "a packet of washers"
         ],
-        "answer": "a tube of sealant"
+        "answer": "a tube of grease"
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "I am going to inspect the engine tomorrow as it is on the maintenance schedule.",
-          "I will go to inspect the engine tomorrow as its in the maintenance schedule.",
-          "I will be going to inspect the engine tomorrow as its on maintenance schedule."
+          "I am going to inspect the gearbox tomorrow as it is on the service plan.",
+          "I will go to inspect the gearbox tomorrow as it in service plan.",
+          "I will be going to inspect the gearbox tomorrow as it on servicing plan."
         ],
-        "answer": "I am going to inspect the engine tomorrow as it is on the maintenance schedule."
+        "answer": "I am going to inspect the gearbox tomorrow as it is on the service plan."
       },
       {
-        "question": "Do you know why the engine temperature keeps changing?",
+        "question": "Do you know why the motor is making a loud noise?",
         "options": [
-          "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system.",
-          "I’m not sure. It should be a faulty thermostat or it should be an air lock in the cooling system.",
-          "I’m not sure. It can be a faulty thermostat or it mustn’t be an air lock in the cooling system."
+          "I’m not sure. It may be a worn bearing or it might be shaft misalignment.",
+          "I’m not sure. It should be a worn bearing or it should be shaft misalignment.",
+          "I’m not sure. It can be a worn bearing or it mustn’t be shaft misalignment."
         ],
-        "answer": "I’m not sure. It may be a faulty thermostat or there might be an air lock in the cooling system."
+        "answer": "I’m not sure. It may be a worn bearing or it might be shaft misalignment."
       },
       {
-        "question": "What should the mechanic pour into the brake system during bleeding?",
+        "question": "What should the technician pour into the hydraulic system?",
         "options": [
-          "a bottle of brake fluid",
-          "a box of oil",
-          "a strip of lubricant"
+          "a container of hydraulic oil",
+          "a box of grease",
+          "a strip of rubber"
         ],
-        "answer": "a bottle of brake fluid"
+        "answer": "a container of hydraulic oil"
       },
       {
-        "question": "Will the mechanic finish the brake inspection soon?",
+        "question": "Will the mechanic complete the shaft alignment soon?",
         "options": [
-          "Yes, he will finish in half an hour.",
-          "Yes, they are going to finish in few hours.",
-          "Yes, soon he will finish in a few minutes."
+          "Yes, he will finish in about twenty minutes.",
+          "Yes, they are going to finish in few minutes.",
+          "Yes, soon he will finish about minutes."
         ],
-        "answer": "Yes, he will finish in half an hour."
+        "answer": "Yes, he will finish in about twenty minutes."
       },
       {
-        "question": "Will the technician replace the worn timing belt soon?",
+        "question": "Will the technician replace the damaged coupling soon?",
         "options": [
-          "Yes, he will replace it in two days.",
-          "Yes, they are going to replace it on two days.",
-          "Yes, soon they will replace in two days."
+          "Yes, he will replace it tomorrow.",
+          "Yes, they are going to replace it for tomorrow.",
+          "Yes, soon they will replace tomorrow."
         ],
-        "answer": "Yes, he will replace it in two days."
+        "answer": "Yes, he will replace it tomorrow."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "The windshield is more transparent than the tinted side glass.",
-          "The windshield is more than transparent than the tinted side glass.",
-          "The windshield is the more transparent than the tinted side glass."
+          "Steel gears are stronger than plastic gears.",
+          "Steel gears are more than strong than plastic gears.",
+          "Steel gears are the more stronger than plastic gears."
         ],
-        "answer": "The windshield is more transparent than the tinted side glass."
+        "answer": "Steel gears are stronger than plastic gears."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Plastic headlamp covers are more opaque than clear indicator lenses.",
-          "Plastic headlamp covers are more than opaque than clear indicator lenses.",
-          "Plastic headlamp covers are the more opaque than clear indicator lenses."
+          "Ball bearings are smoother than plain bearings.",
+          "Ball bearings are more than smooth than plain bearings.",
+          "Ball bearings are the more smooth than plain bearings."
         ],
-        "answer": "Plastic headlamp covers are more opaque than clear indicator lenses."
+        "answer": "Ball bearings are smoother than plain bearings."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Ceramic exhaust coatings are more heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are more than heat-resistant than metal finishes.",
-          "Ceramic exhaust coatings are the more heat-resistant than metal finishes."
+          "A forged shaft is more durable than a cast shaft.",
+          "A forged shaft is more than durable than a cast shaft.",
+          "A forged shaft is the more durable than a cast shaft."
         ],
-        "answer": "Ceramic exhaust coatings are more heat-resistant than metal finishes."
+        "answer": "A forged shaft is more durable than a cast shaft."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Forged steel crankshafts are the strongest.",
-          "Forged steel crankshafts are more than stronger.",
-          "Forged steel crankshafts are the more strongest."
+          "A belt drive is the quietest drive.",
+          "A belt drive is more than quiet drive.",
+          "A belt drive is the more quiet drive."
         ],
-        "answer": "Forged steel crankshafts are the strongest."
+        "answer": "A belt drive is the quietest drive."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence/ answer.",
         "options": [
-          "Polished aluminium heat shields are the brightest.",
-          "Polished aluminium heat shields are more than brighter.",
-          "Polished aluminium heat shields are the more brightest."
+          "A lathe machine is the sharpest for drilling operations.",
+          "A lathe machine is more than sharp for drilling operations.",
+          "A lathe machine is the more sharpest for drilling operations."
         ],
-        "answer": "Polished aluminium heat shields are the brightest."
+        "answer": "A lathe machine is the sharpest for drilling operations."
       },
       {
-        "question": "Do you know why the engine is misfiring at idle?",
+        "question": "Do you know why the pump pressure is unstable?",
         "options": [
-          "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector.",
-          "I’m not sure. It should be dirty spark plug or it should be clogged fuel injector.",
-          "I’m not sure. It can be a dirty spark plug or it mustn’t be a clogged fuel injector."
+          "I’m not sure. It may be a blocked filter or it might be air in the line.",
+          "I’m not sure. It should be a blocked filter or it should be air in the line.",
+          "I’m not sure. It can be a blocked filter or it mustn’t be air in the line."
         ],
-        "answer": "I’m not sure. It may be a dirty spark plug or it might be a clogged fuel injector."
+        "answer": "I’m not sure. It may be a blocked filter or it might be air in the line."
       }
     ]
   },
