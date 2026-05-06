@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'d'ynamo",
+        "word_text": "'d'ie set",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'd'ynamo in this older vehicle is more efficient than the auxiliary charging unit fitted to earlier models.",
+        "sentence_text": "A hardened steel 'd'ie set is more durable than a standard die set in high-volume pressing operations.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'d'ifferential",
+        "word_text": "'d'owel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "A limited-slip 'd'ifferential is more effective than a standard differential when driving on wet or uneven road surfaces.",
+        "sentence_text": "A precision-ground 'd'owel is more accurate than a loosely fitted pin for aligning machine components.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "man'd'rel",
+        "word_text": "'d'etent",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A hardened steel man'd'rel is more durable than an aluminium mandrel during high-pressure forming operations.",
+        "sentence_text": "A spring-loaded 'd'etent is more reliable than a friction stop in repetitive indexing mechanisms.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "ski'd'",
+        "word_text": "i'd'ler",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Vehicles with electronic stability control are more stable than older models, so a ski'd' is less likely during sudden braking.",
+        "sentence_text": "A sealed-bearing i'd'ler is more efficient than a plain idler at high rotational speeds.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -421,53 +421,67 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_15_1",
-            "question": "Why does the instructor check the oil level before draining it?",
-            "answer": "Because it helps check the oil condition and quantity.",
+            "id": "l_18_1",
+            "question": "What should you check first when preparing the area?",
+            "answer": "Workbench is strong and stable",
             "options": [
-              "Because it helps check the draining and quantity.",
-              "Because it helps check the oil condition and quantity.",
-              "Because it helps check the oil condition and engine."
+              "Colour of the grinder",
+              "Workbench is strong and stable",
+              "Size of the wheels"
             ]
           },
           {
-            "id": "l_15_2",
-            "question": "Why is the used oil allowed to drain completely?",
-            "answer": "To avoid problems caused by old oil remaining inside.",
+            "id": "l_18_2",
+            "question": "What part performs the grinding action?",
+            "answer": "Grinding wheel",
+            "options": ["Motor", "Switch", "Grinding wheel"]
+          },
+          {
+            "id": "l_18_3",
+            "question": "What will the spark guard help prevent?",
+            "answer": "It will help prevent injury",
             "options": [
-              "To avoid problems during servicing by old oil remaining inside.",
-              "To avoid problems caused by old oil remaining inside.",
-              "To avoid problems caused by old oil under the engine."
+              "It will keep the grinder in a stable position.",
+              "It will help prevent injury",
+              "It will keep away dust and metal particles"
             ]
           },
           {
-            "id": "l_15_3",
-            "question": "Why is the new oil filter tightened by hand?",
-            "answer": "Because too much force can damage the seal.",
+            "id": "l_18_4",
+            "question": "When should you attach the tool rests?",
+            "answer": "After installing the wheels",
             "options": [
-              "Because too many tools can damage the seal.",
-              "Because too much force can damage the seal.",
-              "Because too many filters can damage the seal."
+              "Before fixing the grinder",
+              "After switching on",
+              "After installing the wheels"
             ]
           },
           {
-            "id": "l_15_4",
-            "question": "Why is the engine run briefly after refilling oil?",
-            "answer": "To check for leaks after servicing.",
-            "options": [
-              "To refill the engine oil after servicing.",
-              "To check for leaks after servicing.",
-              "To increase engine speed after servicing."
-            ]
+            "id": "l_18_5",
+            "question": "What should you test the grinder with first?",
+            "answer": "Without load",
+            "options": ["A metal tool", "A heavy load", "Without load"]
           },
           {
-            "id": "l_15_5",
-            "question": "Why does the instructor stress the correct order of brake inspection steps?",
-            "answer": "Because missing steps can cause safety problems.",
+            "id": "l_18_6",
+            "question": "How often should you check the grinding wheels?",
+            "answer": "Before use",
+            "options": ["Never", "Once a year", "Before use"]
+          },
+          {
+            "id": "l_18_7",
+            "question": "What safety equipment should you wear?",
+            "answer": "Safety goggles and gloves",
+            "options": ["Sunglasses", "Safety goggles and gloves", "Sandals"]
+          },
+          {
+            "id": "l_18_8",
+            "question": "When should the grinder be switched off?",
+            "answer": "Before adjustments or cleaning",
             "options": [
-              "Because missing inspections can cause problems.",
-              "Because missing steps can cause safety problems.",
-              "Because missing brakes are safe."
+              "During grinding only",
+              "After storing tools",
+              "Before adjustments or cleaning"
             ]
           }
         ]
@@ -477,32 +491,32 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+            "item_a": "First, place the bench grinder on a strong, stable workbench. Ensure the surface is clean and all tools are ready.",
             "item_b": "1."
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+            "item_a": "Next, fix the grinder to the bench using bolts and nuts. Tighten them securely to prevent vibration during operation.",
             "item_b": "2."
           },
           {
             "id": "n_4_a_3",
-            "item_a": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+            "item_a": "Then, install the grinding wheels on both sides of the machine and tighten the locking nuts properly.",
             "item_b": "3."
           },
           {
             "id": "n_4_a_4",
-            "item_a": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+            "item_a": "After that, attach the tool rests and spark guards, and adjust them to the correct position close to the wheels. This will prevent injury.",
             "item_b": "4."
           },
           {
             "id": "n_4_a_5",
-            "item_a": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+            "item_a": "Before the final step, connect the power cable and check that the switch is in the off position.",
             "item_b": "5."
           },
           {
             "id": "n_4_a_6",
-            "item_a": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+            "item_a": "Finally, switch on the grinder and test it without load to ensure smooth and balanced rotation.",
             "item_b": "6."
           }
         ]
@@ -510,99 +524,99 @@
       "activity_c": [
         {
           "id": "t_1",
-          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "text": "First, place the bench grinder on a strong, stable workbench. Ensure the surface is clean and all tools are ready.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "text": "Next, fix the grinder to the bench using bolts and nuts. Tighten them securely to prevent vibration during operation.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "text": "Then, install the grinding wheels on both sides of the machine and tighten the locking nuts properly.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "text": "After that, attach the tool rests and spark guards, and adjust them to the correct position close to the wheels. This will prevent injury.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "text": "Before the final step, connect the power cable and check that the switch is in the off position.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "text": "Finally, switch on the grinder and test it without load to ensure smooth and balanced rotation.",
           "audio": "assets/audio/t_6.mp3"
         }
-      ],
+      ] ,
       "activity_d": [
         {
           "id": "t_1",
-          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "text": "First, place the bench grinder on a strong, stable workbench. Ensure the surface is clean and all tools are ready.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "text": "Next, fix the grinder to the bench using bolts and nuts. Tighten them securely to prevent vibration during operation.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "text": "Then, install the grinding wheels on both sides of the machine and tighten the locking nuts properly.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "text": "After that, attach the tool rests and spark guards, and adjust them to the correct position close to the wheels. This will prevent injury.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "text": "Before the final step, connect the power cable and check that the switch is in the off position.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "text": "Finally, switch on the grinder and test it without load to ensure smooth and balanced rotation.",
           "audio": "assets/audio/t_6.mp3"
         }
-      ],
+      ] ,
       "activity_e": [
         {
           "id": "t_1",
-          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "text": "First, place the bench grinder on a strong, stable workbench. Ensure the surface is clean and all tools are ready.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "text": "Next, fix the grinder to the bench using bolts and nuts. Tighten them securely to prevent vibration during operation.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "text": "Then, install the grinding wheels on both sides of the machine and tighten the locking nuts properly.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "text": "After that, attach the tool rests and spark guards, and adjust them to the correct position close to the wheels. This will prevent injury.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "text": "Before the final step, connect the power cable and check that the switch is in the off position.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "text": "Finally, switch on the grinder and test it without load to ensure smooth and balanced rotation.",
           "audio": "assets/audio/t_6.mp3"
         }
-      ]
+      ] 
     }
   },
   "activity_5": {
