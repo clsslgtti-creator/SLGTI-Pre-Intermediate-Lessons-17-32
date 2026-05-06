@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 22,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Food Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'d'ynamo",
+        "word_text": "'d'icer",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'd'ynamo in this older vehicle is more efficient than the auxiliary charging unit fitted to earlier models.",
+        "sentence_text": "An automated 'd'icer is more consistent than manual cutting when processing large volumes of vegetables.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'d'ifferential",
+        "word_text": "'d'osing pump",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "A limited-slip 'd'ifferential is more effective than a standard differential when driving on wet or uneven road surfaces.",
+        "sentence_text": "A calibrated 'd'osing pump is more accurate than gravity feeding for adding liquid flavourings.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "man'd'rel",
+        "word_text": "blen'd'er",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A hardened steel man'd'rel is more durable than an aluminium mandrel during high-pressure forming operations.",
+        "sentence_text": "An industrial blen'd'er is more efficient than a domestic blender for continuous sauce production.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "ski'd'",
+        "word_text": "grin'd'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Vehicles with electronic stability control are more stable than older models, so a ski'd' is less likely during sudden braking.",
+        "sentence_text": "A controlled grin'd' is more uniform than coarse crushing in spice processing operations.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -421,53 +421,79 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_15_1",
-            "question": "Why does the instructor check the oil level before draining it?",
-            "answer": "Because it helps check the oil condition and quantity.",
+            "id": "l_18_1",
+            "question": "What should you check first when preparing the area?",
+            "answer": "Table is stable and clean",
             "options": [
-              "Because it helps check the draining and quantity.",
-              "Because it helps check the oil condition and quantity.",
-              "Because it helps check the oil condition and engine."
+              "Colour of the mixer",
+              "Table is stable and clean",
+              "Size of the bowl"
             ]
           },
           {
-            "id": "l_15_2",
-            "question": "Why is the used oil allowed to drain completely?",
-            "answer": "To avoid problems caused by old oil remaining inside.",
+            "id": "l_18_2",
+            "question": "Which part mixes the dough?",
+            "answer": "Dough hook",
+            "options": ["Motor", "Bowl", "Dough hook"]
+          },
+          {
+            "id": "l_18_3",
+            "question": "When should you connect the power cable?",
+            "answer": "Before the final step",
             "options": [
-              "To avoid problems during servicing by old oil remaining inside.",
-              "To avoid problems caused by old oil remaining inside.",
-              "To avoid problems caused by old oil under the engine."
+              "Before fixing the bowl",
+              "After switching on",
+              "Before the final step"
             ]
           },
           {
-            "id": "l_15_3",
-            "question": "Why is the new oil filter tightened by hand?",
-            "answer": "Because too much force can damage the seal.",
+            "id": "l_18_4",
+            "question": "How fast should you test the mixer?",
+            "answer": "Start at a low speed",
             "options": [
-              "Because too many tools can damage the seal.",
-              "Because too much force can damage the seal.",
-              "Because too many filters can damage the seal."
+              "Start at a low speed",
+              "Start fast and gradually decrease",
+              "If the mixer is stable, you can use any speed"
             ]
           },
           {
-            "id": "l_15_4",
-            "question": "Why is the engine run briefly after refilling oil?",
-            "answer": "To check for leaks after servicing.",
+            "id": "l_18_5",
+            "question": "What should you test the mixer with first?",
+            "answer": "A small amount of flour and water",
             "options": [
-              "To refill the engine oil after servicing.",
-              "To check for leaks after servicing.",
-              "To increase engine speed after servicing."
+              "A full batch of dough",
+              "No ingredients",
+              "A small amount of flour and water"
             ]
           },
           {
-            "id": "l_15_5",
-            "question": "Why does the instructor stress the correct order of brake inspection steps?",
-            "answer": "Because missing steps can cause safety problems.",
+            "id": "l_18_6",
+            "question": "How often should you clean the mixer?",
+            "answer": "Every time you use it",
             "options": [
-              "Because missing inspections can cause problems.",
-              "Because missing steps can cause safety problems.",
-              "Because missing brakes are safe."
+              "Once a week on the day you use it",
+              "Every day",
+              "Every time you use it"
+            ]
+          },
+          {
+            "id": "l_18_7",
+            "question": "What should you avoid during operation?",
+            "answer": "Putting hands into the bowl",
+            "options": [
+              "Wearing gloves",
+              "Putting hands into the bowl",
+              "Inserting a spatula into the bowl"
+            ]
+          },
+          {
+            "id": "l_18_8",
+            "question": "When should the mixer be switched off?",
+            "answer": "Before cleaning or adjusting parts",
+            "options": [
+              "During mixing only",
+              "After storing ingredients",
+              "Before cleaning or adjusting parts"
             ]
           }
         ]
@@ -477,32 +503,32 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+            "item_a": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
             "item_b": "1."
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+            "item_a": "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
             "item_b": "2."
           },
           {
             "id": "n_4_a_3",
-            "item_a": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+            "item_a": "Then, attach the dough hook (which mixes the dough smoothly) to the mixer head and tighten it properly.",
             "item_b": "3."
           },
           {
             "id": "n_4_a_4",
-            "item_a": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+            "item_a": "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
             "item_b": "4."
           },
           {
             "id": "n_4_a_5",
-            "item_a": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+            "item_a": "Before the final step, connect the power cable and check that the control switch is in the off position.",
             "item_b": "5."
           },
           {
             "id": "n_4_a_6",
-            "item_a": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+            "item_a": "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation.",
             "item_b": "6."
           }
         ]
@@ -510,96 +536,96 @@
       "activity_c": [
         {
           "id": "t_1",
-          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "text": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "text": "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "text": "Then, attach the dough hook, which mixes the dough smoothly, to the mixer head and tighten it properly.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "text": "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "text": "Before the final step, connect the power cable and check that the control switch is in the off position.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "text": "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation.",
           "audio": "assets/audio/t_6.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "text": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "text": "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "text": "Then, attach the dough hook, which mixes the dough smoothly, to the mixer head and tighten it properly.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "text": "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "text": "Before the final step, connect the power cable and check that the control switch is in the off position.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "text": "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation.",
           "audio": "assets/audio/t_6.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_1",
-          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "text": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "text": "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "text": "Then, attach the dough hook, which mixes the dough smoothly, to the mixer head and tighten it properly.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "text": "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "text": "Before the final step, connect the power cable and check that the control switch is in the off position.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "text": "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation.",
           "audio": "assets/audio/t_6.mp3"
         }
       ]
