@@ -1,0 +1,668 @@
+{
+  "meta": {
+    "lesson_no": "24 - Assessment No. 3 ",
+    "level": "Pre-Intermediate",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "Stainless-steel containers are ______ plastic containers during hot food storage.",
+        "options": [
+          "strong than",
+          "strongest than",
+          "stronger than",
+          "more strongest than"
+        ],
+        "answer": "stronger than"
+      },
+      {
+        "question": "Fresh dough is ______ dry flour during mixing.",
+        "options": ["soft than", "softest than", "softer than", "softly than"],
+        "answer": "softer than"
+      },
+      {
+        "question": "Pasteurised milk is ______ raw milk for consumer safety.",
+        "options": [
+          "most safe than",
+          "safer than",
+          "safe than",
+          "more safely than"
+        ],
+        "answer": "safer than"
+      },
+      {
+        "question": "Solid cutting boards are ______ thin boards, reducing movement during chopping.",
+        "options": [
+          "most thick than",
+          "thickly than",
+          "thick than",
+          "thicker than"
+        ],
+        "answer": "thicker than"
+      },
+      {
+        "question": "This is ______ cooking method for low-fat food preparation.",
+        "options": ["healthier", "healthily", "the healthiest", "healthy"],
+        "answer": "the healthiest"
+      },
+      {
+        "question": "The blast freezer is ______ option for rapid food preservation in this facility.",
+        "options": [
+          "more better",
+          "the more better",
+          "the best",
+          "the most best"
+        ],
+        "answer": "the best"
+      },
+      {
+        "question": "The soup ______ spoil because it has been left uncovered for hours.",
+        "options": ["will not", "are going to", "is going to", "will be"],
+        "answer": "is going to"
+      },
+      {
+        "question": "I ______ sanitise the work surface before food preparation begins.",
+        "options": ["is going to", "will", "will hope to", "will be going to"],
+        "answer": "will"
+      },
+      {
+        "question": "Glass storage jars are ______ materials used in dry-food storage areas.",
+        "options": [
+          "more weaker",
+          "the weakest",
+          "the more weaker",
+          "the most weakest"
+        ],
+        "answer": "the weakest"
+      },
+      {
+        "question": "The sauce ______ burn if the heat is too high.",
+        "options": ["can’t", "shouldn’t", "may", "might not"],
+        "answer": "may"
+      },
+      {
+        "question": "Food handlers ______ wash their hands before handling ingredients.",
+        "options": ["mustn’t", "can’t", "must", "might"],
+        "answer": "must"
+      },
+      {
+        "question": "Workers ______ touch ready-to-eat food with bare hands.",
+        "options": ["mustn’t", "should", "might not", "can"],
+        "answer": "mustn’t"
+      },
+      {
+        "question": "The kitchen team ______ prepare the lunch packets tomorrow, as it is on the schedule.",
+        "options": ["will be", "is going to", "will be going", "will not"],
+        "answer": "is going to"
+      },
+      {
+        "question": "The freezer ______ maintain safe temperatures if the door seal is damaged.",
+        "options": ["mustn’t", "might", "should", "can’t"],
+        "answer": "can’t"
+      },
+      {
+        "question": "The food thermometer ______ be calibrated before use.",
+        "options": ["might", "should", "may", "shouldn’t"],
+        "answer": "should"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Click on the correct answer.\nනිවැරදි පිළිතුර මත ක්ලික් කරන්න.\nசரியான பதிலில் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_i.mp3"
+    },
+    "content": [
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "She can be washing her hands before food preparation.",
+          "She must wash her hands before food preparation.",
+          "She might washes her hands before food preparation."
+        ],
+        "answer": "She must wash her hands before food preparation."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "I shouldn’t storing raw meat with cooked food.",
+          "I might not storing raw meat with cooked food.",
+          "I mustn’t store raw meat with cooked food."
+        ],
+        "answer": "I mustn’t store raw meat with cooked food."
+      },
+      {
+        "question": "What should the cook use to fry the vegetables?",
+        "options": [
+          "a bottle of cooking oil",
+          "a packet of oil",
+          "a tube of oil"
+        ],
+        "answer": "a bottle of cooking oil"
+      },
+      {
+        "question": "What should the worker add to thicken the sauce?",
+        "options": [
+          "a spoonful of cornflour",
+          "a tube of water",
+          "a roll of flour"
+        ],
+        "answer": "a spoonful of cornflour"
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "I am going to clean the food preparation area tomorrow as it is on the schedule.",
+          "I will go to clean the food preparation area tomorrow as it in the schedule.",
+          "I will be going to clean the food preparation area tomorrow as it on schedule."
+        ],
+        "answer": "I am going to clean the food preparation area tomorrow as it is on the schedule."
+      },
+      {
+        "question": "Do you know why the soup tastes different today?",
+        "options": [
+          "I’m not sure. It may be too much salt or it might be overcooked.",
+          "I’m not sure. It should be too much salt or it should be overcooked.",
+          "I’m not sure. It can be too much salt or it mustn’t be overcooked."
+        ],
+        "answer": "I’m not sure. It may be too much salt or it might be overcooked."
+      },
+      {
+        "question": "What should the cook pour into the mixer to prepare the batter?",
+        "options": ["a cup of milk", "a box of sugar", "a strip of butter"],
+        "answer": "a cup of milk"
+      },
+      {
+        "question": "Will the kitchen staff finish preparing lunch soon?",
+        "options": [
+          "Yes, they will finish it in twenty minutes.",
+          "Yes, they are going to finish it for twenty minutes.",
+          "Yes, soon they will finish in twenty minutes."
+        ],
+        "answer": "Yes, they will finish it in twenty minutes."
+      },
+      {
+        "question": "Will the assistant bake the bread soon?",
+        "options": [
+          "Yes, he will bake it this afternoon.",
+          "Yes, they are going to bake it for this afternoon.",
+          "Yes, soon he will bake for this afternoon."
+        ],
+        "answer": "Yes, he will bake it this afternoon."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "Fresh vegetables are more nutritious than canned vegetables.",
+          "Fresh vegetables are more than nutritious than canned vegetables.",
+          "Fresh vegetables are the more nutritious than canned vegetables."
+        ],
+        "answer": "Fresh vegetables are more nutritious than canned vegetables."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "Glass containers are more fragile than plastic containers.",
+          "Glass containers are more than fragile than plastic containers.",
+          "Glass containers are the more fragile than plastic containers."
+        ],
+        "answer": "Glass containers are more fragile than plastic containers."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "Stainless-steel utensils are more heat-resistant than wooden utensils.",
+          "Stainless-steel utensils are more than heat-resistant than wooden utensils.",
+          "Stainless-steel utensils are the more heat-resistant than wooden utensils."
+        ],
+        "answer": "Stainless-steel utensils are more heat-resistant than wooden utensils."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "Stainless-steel worktables are the strongest surfaces in the kitchen.",
+          "Stainless-steel worktables are the more than stronger surfaces in the kitchen.",
+          "Stainless-steel worktables are most strongest surfaces in the kitchen."
+        ],
+        "answer": "Stainless-steel worktables are the strongest surfaces in the kitchen."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "Polished metal lids are the brightest items under kitchen lighting.",
+          "Polished metal lids are the more than brighter items under kitchen lighting.",
+          "Polished metal lids are most brightest items under kitchen lighting."
+        ],
+        "answer": "Polished metal lids are the brightest items under kitchen lighting."
+      },
+      {
+        "question": "Do you know why the dough is not rising properly?",
+        "options": [
+          "I’m not sure. It may be old yeast or it might be low room temperature.",
+          "I’m not sure. It should be old yeast or it should be low room temperature.",
+          "I’m not sure. It can be old yeast or it mustn’t be low room temperature."
+        ],
+        "answer": "I’m not sure. It may be old yeast or it might be low room temperature."
+      }
+    ]
+  },
+  "activity_3": {
+    "marks_for_each_q": 1,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "id": "n_3_a_1",
+        "audio": "assets/audio/a_3_1.mp3",
+        "words": [
+          "Workers",
+          "must",
+          "never",
+          "remove",
+          "covers",
+          "during",
+          "machine",
+          "operation",
+          "."
+        ],
+        "sentence": "Workers must never remove covers during machine operation."
+      },
+      {
+        "id": "n_3_a_2",
+        "audio": "assets/audio/a_3_2.mp3",
+        "words": [
+          "Operators",
+          "mustn't",
+          "use",
+          "mixers",
+          "without",
+          "proper",
+          "protective",
+          "clothing",
+          "."
+        ],
+        "sentence": "Operators mustn't use mixers without proper protective clothing."
+      },
+      {
+        "id": "n_3_a_3",
+        "audio": "assets/audio/a_3_3.mp3",
+        "words": [
+          "Do",
+          "technicians",
+          "check",
+          "utensils",
+          "before",
+          "starting",
+          "daily",
+          "production",
+          "?"
+        ],
+        "sentence": "Do technicians check utensils before starting daily production?"
+      },
+      {
+        "id": "n_3_a_4",
+        "audio": "assets/audio/a_3_4.mp3",
+        "words": [
+          "Will",
+          "the",
+          "cooker",
+          "fail",
+          "during",
+          "heavy",
+          "production",
+          "conditions",
+          "?"
+        ],
+        "sentence": "Will the cooker fail during heavy production conditions?"
+      },
+      {
+        "id": "n_3_a_5",
+        "audio": "assets/audio/a_3_5.mp3",
+        "words": [
+          "The",
+          "technician",
+          "measured",
+          "ingredients",
+          "and",
+          "checked",
+          "stocks",
+          "yesterday",
+          "."
+        ],
+        "sentence": "The technician measured ingredients and checked stocks yesterday.",
+        "alternative_answers": [
+          "The technician checked stocks and measured ingredients yesterday."
+        ]
+      },
+      {
+        "id": "n_3_a_6",
+        "audio": "assets/audio/a_3_6.mp3",
+        "words": [
+          "Students",
+          "are",
+          "wearing",
+          "hairnets",
+          "while",
+          "observing",
+          "food",
+          "processing",
+          "operations",
+          "."
+        ],
+        "sentence": "Students are wearing hairnets while observing food processing operations."
+      },
+      {
+        "id": "n_3_a_7",
+        "audio": "assets/audio/a_3_7.mp3",
+        "words": [
+          "We",
+          "are",
+          "going",
+          "to",
+          "inspect",
+          "ovens",
+          "tomorrow",
+          "morning",
+          "."
+        ],
+        "sentence": "We are going to inspect ovens tomorrow morning."
+      },
+      {
+        "id": "n_3_a_8",
+        "audio": "assets/audio/a_3_8.mp3",
+        "words": [
+          "Bring",
+          "enough",
+          "drinking",
+          "water",
+          "for",
+          "the",
+          "factory",
+          "visit",
+          "."
+        ],
+        "sentence": "Bring enough drinking water for the factory visit."
+      },
+      {
+        "id": "n_3_a_9",
+        "audio": "assets/audio/a_3_9.mp3",
+        "words": [
+          "Everyone",
+          "must",
+          "follow",
+          "hygiene",
+          "rules",
+          "and",
+          "safety",
+          "signs",
+          "inside",
+          "factories",
+          "."
+        ],
+        "sentence": "Everyone must follow hygiene rules and safety signs inside factories.",
+        "alternative_answers": [
+          "Everyone must follow safety signs and hygiene rules inside factories."
+        ]
+      },
+      {
+        "id": "n_3_a_10",
+        "audio": "assets/audio/a_3_10.mp3",
+        "words": [
+          "The",
+          "processing",
+          "unit",
+          "needs",
+          "more",
+          "containers",
+          "and",
+          "equipment",
+          "."
+        ],
+        "sentence": "The processing unit needs more containers and equipment.",
+        "alternative_answers": [
+          "The processing unit needs more equipment and containers."
+        ]
+      }
+    ]
+  },
+  "activity_4": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "CATEGORIZE-WORDS",
+      "instruction": {
+        "text": "Drag and drop the following adjectives into the appropriate boxes.\nපහත නාම විශේෂණ අදාළ කොටු තුළට ඇද දමන්න.\nபின்வரும் உரிச்சொற்களை உரிய பெட்டிகளுக்குள் இழுத்து விடவும்.",
+        "audio": "assets/audio/a_4_i_d.mp3"
+      },
+      "content": {
+        "category": ["Comparative", "Superlative"],
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "more relevant than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "the best",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "faster than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "the closest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "less crowded",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "the safest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "more formal than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_8",
+            "item_a": "the quickest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_9",
+            "item_a": "easier",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_10",
+            "item_a": "the highest",
+            "item_b": "Superlative"
+          }
+        ]
+      }
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "READING",
+      "instruction": {
+        "text": "Read the following passage and answer the questions given below. \nපහත දැක්වෙන ඡේදය කියවා ඉන්පසු දී ඇති ප්‍රශ්නවලට පිළිතුරු සපයන්න.\nபின்வரும் பத்தியைப் படித்து, அதற்குக் கீழே கொடுக்கப்பட்டுள்ள வினாக்களுக்கு விடையளிக்கவும்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "transcript_dialogue": [
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good morning. Thank you for coming. As student representatives, I want to plan the industrial zone field trip with you properly. First, we need to decide which industrial station to visit."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "Sir, we discussed three options: the fabrication plant, the packaging factory, and the power distribution centre."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. Which one do you think is the best for your current syllabus?"
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "The fabrication plant is more relevant than the packaging factory because we are studying machining and welding now."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "Also, the fabrication plant is the closest site, so travel time will be shorter."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "I agree. It is also the safest option because it has clear walkways and strict safety rules. Now, let’s talk about the route. Which route should we take?"
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "The highway route is faster than the town road, but traffic is sometimes heavier."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "The town road is slower, but it is less crowded in the morning."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "We will take the highway. It is still the quickest route overall. Now, about transportation—we will use two buses. Each bus has 40 seats, so numbers are important."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "Sir, we have 72 students, 3 instructors, and 1 technician."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. Now let’s list items to take."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "We need ID cards, safety helmets, and reflective vests."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "We should also take water, first-aid supplies, and protective gloves."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Correct. Please count the number of helmets and vests we require and make sure there is enough water, not just a few bottles."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "What about food, sir?"
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Light snacks are allowed, but eating inside the plant is prohibited. Behaviour is very important. This visit is more formal than a normal class trip."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "We will remind everyone to follow instructions."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. At the site, no running, no shouting, and no touching machines. Safety is the highest priority. Phones must stay in bags so that no one is distracted."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "Understood, sir."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Finally, discipline during travel matters. Stay seated, keep aisles clear, and respect the driver. If we behave well, future trips will be easier to approve of."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Students",
+          "text": "Thank you, sir. We will inform the batch and prepare properly."
+        }
+      ],
+      "content": [
+        {
+          "question": "Why did the supervisor finally choose the fabrication plant for the visit?",
+          "answer": "Because it matches the students’ current studies and is safer and closer than the other options.",
+          "options": [
+            "Because they are studying packaging now and it is relevant to their studies.",
+            "Because it matches the students’ current studies and is safer and closer than the other options.",
+            "Because it is safer, and the long journey allows them to enjoy the trip."
+          ]
+        },
+        {
+          "question": "What was the main reason for choosing the highway route instead of the town road?",
+          "answer": "Because the highway is still the fastest overall option despite possible traffic.",
+          "options": [
+            "Because the highway has less traffic at all times and is faster.",
+            "Because the town road is dangerous for buses.",
+            "Because the highway is still the fastest overall option despite possible traffic."
+          ]
+        },
+        {
+          "question": "What does the supervisor’s comment about behaviour suggest about future field trips?",
+          "answer": "Good behaviour can make future trips easier to approve.",
+          "options": [
+            "Poor behaviour will only affect this trip.",
+            "Discipline is less important during travel than at the site.",
+            "Good behaviour can make future trips easier to approve."
+          ]
+        },
+        {
+          "question": "Why are phones restricted during the site visit?",
+          "answer": "Because safety and attention are more important at the site.",
+          "options": [
+            "Because phones are not allowed on buses.",
+            "Because students are not trusted to use technology.",
+            "Because safety and attention are more important at the site."
+          ]
+        },
+        {
+          "question": "What does the supervisor’s approach to planning the trip show about his priorities?",
+          "answer": "He balances learning value, safety, logistics, and student behaviour.",
+          "options": [
+            "He is focused on safety and giving the students an enjoyable trip.",
+            "He balances learning value, safety, logistics, and student behaviour.",
+            "He makes decisions with the student representatives so he can blame them if things go wrong."
+          ]
+        }
+      ]
+    }
+  }
+}

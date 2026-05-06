@@ -1,0 +1,662 @@
+{
+  "meta": {
+    "lesson_no": "24 - Assessment No. 3 ",
+    "level": "Pre-Intermediate",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "The forged shaft is ______ the cast shaft under high torque.",
+        "options": [
+          "strong than",
+          "strongest than",
+          "stronger than",
+          "more strongest than"
+        ],
+        "answer": "stronger than"
+      },
+      {
+        "question": "Lubricated bearings are ______ dry bearings during continuous operation.",
+        "options": [
+          "smooth than",
+          "smoothest than",
+          "smoother than",
+          "smoothly than"
+        ],
+        "answer": "smoother than"
+      },
+      {
+        "question": "Gear-driven systems are ______ belt-driven systems for heavy loads.",
+        "options": [
+          "most reliable than",
+          "more reliable than",
+          "reliable than",
+          "more reliably than"
+        ],
+        "answer": "more reliable than"
+      },
+      {
+        "question": "Solid steel frames are ______ than hollow frames, reducing vibration.",
+        "options": [
+          "most rigid than",
+          "rigidly than",
+          "rigid than",
+          "more rigid"
+        ],
+        "answer": "more rigid"
+      },
+      {
+        "question": "This is ______ cutting method for precision machining.",
+        "options": ["fast", "faster", "the fastest", "more faster"],
+        "answer": "the fastest"
+      },
+      {
+        "question": "CNC milling is ______ machining option for complex components.",
+        "options": ["best", "better", "the best", "more better"],
+        "answer": "the best"
+      },
+      {
+        "question": "The bearing ______ fail because the lubrication system is already blocked.",
+        "options": ["will not", "are going to", "is going to", "will be"],
+        "answer": "is going to"
+      },
+      {
+        "question": "I ______ replace the worn coupling before the machine is restarted.",
+        "options": ["am going", "will", "will hope to", "will be going to"],
+        "answer": "will"
+      },
+      {
+        "question": "Cast-iron housings are ______ components used in heavy machinery.",
+        "options": ["more weak", "the weakest", "the more weaker", "weakest"],
+        "answer": "the weakest"
+      },
+      {
+        "question": "The shaft ______ bend if the load exceeds the design limit.",
+        "options": ["can’t", "shouldn’t", "may", "might not"],
+        "answer": "may"
+      },
+      {
+        "question": "Operators ______ stop the machine before changing the tool.",
+        "options": ["mustn’t", "can’t", "must", "shouldn’t"],
+        "answer": "must"
+      },
+      {
+        "question": "Workers ______ remove guards while the machine is running.",
+        "options": ["mustn’t", "should", "might not", "can"],
+        "answer": "mustn’t"
+      },
+      {
+        "question": "The maintenance team ______ align the gearbox tomorrow, as it is on the approved schedule.",
+        "options": ["will be", "is going to", "will be going", "will not"],
+        "answer": "is going to"
+      },
+      {
+        "question": "The hydraulic press ______ operate safely if the pressure valve is faulty.",
+        "options": ["must", "might", "should", "can’t"],
+        "answer": "can’t"
+      },
+      {
+        "question": "The machine lubrication system ______ be inspected before long-term operation.",
+        "options": ["might", "should", "may", "shouldn’t"],
+        "answer": "should"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Click on the correct answer.\nනිවැරදි පිළිතුර මත ක්ලික් කරන්න.\nசரியான பதிலில் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_i.mp3"
+    },
+    "content": [
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "The operator can stops the machine if it overheats.",
+          "The operator must stop the machine if it overheats.",
+          "The operator might not stopping the machine if it overheats."
+        ],
+        "answer": "The operator must stop the machine if it overheats."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "You shouldn’t remove the safety guard during operation.",
+          "You might not removing the safety guard during operation.",
+          "You mustn’t be able to removing the safety guard during operation."
+        ],
+        "answer": "You shouldn’t remove the safety guard during operation."
+      },
+      {
+        "question": "What should the mechanic use to tighten the loose bolt?",
+        "options": ["a spanner", "a clamp", "a brush"],
+        "answer": "a spanner"
+      },
+      {
+        "question": "What should the technician add to reduce friction in the bearing?",
+        "options": [
+          "a tube of grease",
+          "a box of bolts",
+          "a packet of washers"
+        ],
+        "answer": "a tube of grease"
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "I am going to inspect the gearbox tomorrow as it is on the service plan.",
+          "I will go to inspect the gearbox tomorrow as it in service plan.",
+          "I will be going to inspect the gearbox tomorrow as it on servicing plan."
+        ],
+        "answer": "I am going to inspect the gearbox tomorrow as it is on the service plan."
+      },
+      {
+        "question": "Do you know why the motor is making a loud noise?",
+        "options": [
+          "I’m not sure. It may be a worn bearing or it might be shaft misalignment.",
+          "I’m not sure. It should be a worn bearing or it should be shaft misalignment.",
+          "I’m not sure. It can be a worn bearing or it mustn’t be shaft misalignment."
+        ],
+        "answer": "I’m not sure. It may be a worn bearing or it might be shaft misalignment."
+      },
+      {
+        "question": "What should the technician pour into the hydraulic system?",
+        "options": [
+          "a container of hydraulic oil",
+          "a box of grease",
+          "a strip of rubber"
+        ],
+        "answer": "a container of hydraulic oil"
+      },
+      {
+        "question": "Will the mechanic complete the shaft alignment soon?",
+        "options": [
+          "Yes, he will finish in about twenty minutes.",
+          "Yes, they are going to finish in few minutes.",
+          "Yes, soon he will finish about minutes."
+        ],
+        "answer": "Yes, he will finish in about twenty minutes."
+      },
+      {
+        "question": "Will the technician replace the damaged coupling soon?",
+        "options": [
+          "Yes, he will replace it tomorrow.",
+          "Yes, they are going to replace it for tomorrow.",
+          "Yes, soon they will replace tomorrow."
+        ],
+        "answer": "Yes, he will replace it tomorrow."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "Steel gears are stronger than plastic gears.",
+          "Steel gears are more than strong than plastic gears.",
+          "Steel gears are the more stronger than plastic gears."
+        ],
+        "answer": "Steel gears are stronger than plastic gears."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "Ball bearings are smoother than plain bearings.",
+          "Ball bearings are more than smooth than plain bearings.",
+          "Ball bearings are the more smooth than plain bearings."
+        ],
+        "answer": "Ball bearings are smoother than plain bearings."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "A forged shaft is more durable than a cast shaft.",
+          "A forged shaft is more than durable than a cast shaft.",
+          "A forged shaft is the more durable than a cast shaft."
+        ],
+        "answer": "A forged shaft is more durable than a cast shaft."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "A belt drive is the quietest drive.",
+          "A belt drive is more than quiet drive.",
+          "A belt drive is the more quiet drive."
+        ],
+        "answer": "A belt drive is the quietest drive."
+      },
+      {
+        "question": "Click on the correct sentence/ answer.",
+        "options": [
+          "A lathe machine is the sharpest for drilling operations.",
+          "A lathe machine is more than sharp for drilling operations.",
+          "A lathe machine is the more sharpest for drilling operations."
+        ],
+        "answer": "A lathe machine is the sharpest for drilling operations."
+      },
+      {
+        "question": "Do you know why the pump pressure is unstable?",
+        "options": [
+          "I’m not sure. It may be a blocked filter or it might be air in the line.",
+          "I’m not sure. It should be a blocked filter or it should be air in the line.",
+          "I’m not sure. It can be a blocked filter or it mustn’t be air in the line."
+        ],
+        "answer": "I’m not sure. It may be a blocked filter or it might be air in the line."
+      }
+    ]
+  },
+  "activity_3": {
+    "marks_for_each_q": 1,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "id": "n_3_a_1",
+        "audio": "assets/audio/a_3_1.mp3",
+        "words": [
+          "Workers",
+          "must",
+          "never",
+          "remove",
+          "guards",
+          "during",
+          "machine",
+          "operation",
+          "."
+        ],
+        "sentence": "Workers must never remove guards during machine operation."
+      },
+      {
+        "id": "n_3_a_2",
+        "audio": "assets/audio/a_3_2.mp3",
+        "words": [
+          "Operators",
+          "mustn't",
+          "use",
+          "machines",
+          "without",
+          "proper",
+          "protective",
+          "equipment",
+          "."
+        ],
+        "sentence": "Operators mustn't use machines without proper protective equipment."
+      },
+      {
+        "id": "n_3_a_3",
+        "audio": "assets/audio/a_3_3.mp3",
+        "words": [
+          "Do",
+          "technicians",
+          "check",
+          "tools",
+          "before",
+          "starting",
+          "daily",
+          "work",
+          "?"
+        ],
+        "sentence": "Do technicians check tools before starting daily work?"
+      },
+      {
+        "id": "n_3_a_4",
+        "audio": "assets/audio/a_3_4.mp3",
+        "words": [
+          "Will",
+          "the",
+          "machine",
+          "fail",
+          "during",
+          "heavy",
+          "load",
+          "conditions",
+          "?"
+        ],
+        "sentence": "Will the machine fail during heavy load conditions?"
+      },
+      {
+        "id": "n_3_a_5",
+        "audio": "assets/audio/a_3_5.mp3",
+        "words": [
+          "The",
+          "mechanic",
+          "tightened",
+          "the",
+          "bolts",
+          "and",
+          "checked",
+          "the",
+          "pressure",
+          "yesterday",
+          "."
+        ],
+        "sentence": "The mechanic tightened the bolts and checked the pressure yesterday.",
+        "alternative_answers": [
+          "The mechanic checked the pressure and tightened the bolts yesterday."
+        ]
+      },
+      {
+        "id": "n_3_a_6",
+        "audio": "assets/audio/a_3_6.mp3",
+        "words": [
+          "Students",
+          "are",
+          "wearing",
+          "helmets",
+          "while",
+          "observing",
+          "welding",
+          "operations",
+          "."
+        ],
+        "sentence": "Students are wearing helmets while observing welding operations."
+      },
+      {
+        "id": "n_3_a_7",
+        "audio": "assets/audio/a_3_7.mp3",
+        "words": [
+          "We",
+          "are",
+          "going",
+          "to",
+          "inspect",
+          "pumps",
+          "tomorrow",
+          "morning",
+          "."
+        ],
+        "sentence": "We are going to inspect pumps tomorrow morning."
+      },
+      {
+        "id": "n_3_a_8",
+        "audio": "assets/audio/a_3_8.mp3",
+        "words": [
+          "Bring",
+          "a",
+          "cap",
+          "and",
+          "enough",
+          "water",
+          "for",
+          "the",
+          "trip",
+          "."
+        ],
+        "sentence": "Bring a cap and enough water for the trip.",
+        "alternative_answers": ["Bring enough water and a cap for the trip."]
+      },
+      {
+        "id": "n_3_a_9",
+        "audio": "assets/audio/a_3_9.mp3",
+        "words": [
+          "Everyone",
+          "must",
+          "follow",
+          "all",
+          "rules",
+          "and",
+          "signs",
+          "at",
+          "sites",
+          "."
+        ],
+        "sentence": "Everyone must follow all rules and signs at sites.",
+        "alternative_answers": [
+          "Everyone must follow all signs and rules at sites."
+        ]
+      },
+      {
+        "id": "n_3_a_10",
+        "audio": "assets/audio/a_3_10.mp3",
+        "words": [
+          "The",
+          "factory",
+          "needs",
+          "more",
+          "tools",
+          "and",
+          "equipment",
+          "."
+        ],
+        "sentence": "The factory needs more tools and equipment.",
+        "alternative_answers": ["The factory needs more equipment and tools."]
+      }
+    ]
+  },
+  "activity_4": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "CATEGORIZE-WORDS",
+      "instruction": {
+        "text": "Drag and drop the following adjectives into the appropriate boxes.\nපහත නාම විශේෂණ අදාළ කොටු තුළට ඇද දමන්න.\nபின்வரும் உரிச்சொற்களை உரிய பெட்டிகளுக்குள் இழுத்து விடவும்.",
+        "audio": "assets/audio/a_4_i_d.mp3"
+      },
+      "content": {
+        "category": ["Comparative", "Superlative"],
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "more relevant than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "the best",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "faster than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "the closest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "less crowded",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "the safest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_7",
+            "item_a": "more formal than",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_8",
+            "item_a": "the quickest",
+            "item_b": "Superlative"
+          },
+          {
+            "id": "n_4_a_9",
+            "item_a": "easier",
+            "item_b": "Comparative"
+          },
+          {
+            "id": "n_4_a_10",
+            "item_a": "the highest",
+            "item_b": "Superlative"
+          }
+        ]
+      }
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "READING",
+      "instruction": {
+        "text": "Read the following passage and answer the questions given below. \nපහත දැක්වෙන ඡේදය කියවා ඉන්පසු දී ඇති ප්‍රශ්නවලට පිළිතුරු සපයන්න.\nபின்வரும் பத்தியைப் படித்து, அதற்குக் கீழே கொடுக்கப்பட்டுள்ள வினாக்களுக்கு விடையளிக்கவும்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "transcript_dialogue": [
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good morning. Thank you for coming. As student representatives, I want to plan the industrial zone field trip with you properly. First, we need to decide which industrial station to visit."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "Sir, we discussed three options: the fabrication plant, the packaging factory, and the power distribution centre."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. Which one do you think is the best for your current syllabus?"
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "The fabrication plant is more relevant than the packaging factory because we are studying machining and welding now."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "Also, the fabrication plant is the closest site, so travel time will be shorter."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "I agree. It is also the safest option because it has clear walkways and strict safety rules. Now, let’s talk about the route. Which route should we take?"
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "The highway route is faster than the town road, but traffic is sometimes heavier."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "The town road is slower, but it is less crowded in the morning."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "We will take the highway. It is still the quickest route overall. Now, about transportation—we will use two buses. Each bus has 40 seats, so numbers are important."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "Sir, we have 72 students, 3 instructors, and 1 technician."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. Now let’s list items to take."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "We need ID cards, safety helmets, and reflective vests."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "We should also take water, first-aid supplies, and protective gloves."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Correct. Please count the number of helmets and vests we require and make sure there is enough water, not just a few bottles."
+        },
+        {
+          "speaker": "speaker_4",
+          "name": "Student 3",
+          "text": "What about food, sir?"
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Light snacks are allowed, but eating inside the plant is prohibited. Behaviour is very important. This visit is more formal than a normal class trip."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Student 1",
+          "text": "We will remind everyone to follow instructions."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Good. At the site, no running, no shouting, and no touching machines. Safety is the highest priority. Phones must stay in bags so that no one is distracted."
+        },
+        {
+          "speaker": "speaker_3",
+          "name": "Student 2",
+          "text": "Understood, sir."
+        },
+        {
+          "speaker": "speaker_1",
+          "name": "Supervisor",
+          "text": "Finally, discipline during travel matters. Stay seated, keep aisles clear, and respect the driver. If we behave well, future trips will be easier to approve of."
+        },
+        {
+          "speaker": "speaker_2",
+          "name": "Students",
+          "text": "Thank you, sir. We will inform the batch and prepare properly."
+        }
+      ],
+      "content": [
+        {
+          "question": "Why did the supervisor finally choose the fabrication plant for the visit?",
+          "answer": "Because it matches the students’ current studies and is safer and closer than the other options.",
+          "options": [
+            "Because they are studying packaging now and it is relevant to their studies.",
+            "Because it matches the students’ current studies and is safer and closer than the other options.",
+            "Because it is safer, and the long journey allows them to enjoy the trip."
+          ]
+        },
+        {
+          "question": "What was the main reason for choosing the highway route instead of the town road?",
+          "answer": "Because the highway is still the fastest overall option despite possible traffic.",
+          "options": [
+            "Because the highway has less traffic at all times and is faster.",
+            "Because the town road is dangerous for buses.",
+            "Because the highway is still the fastest overall option despite possible traffic."
+          ]
+        },
+        {
+          "question": "What does the supervisor’s comment about behaviour suggest about future field trips?",
+          "answer": "Good behaviour can make future trips easier to approve.",
+          "options": [
+            "Poor behaviour will only affect this trip.",
+            "Discipline is less important during travel than at the site.",
+            "Good behaviour can make future trips easier to approve."
+          ]
+        },
+        {
+          "question": "Why are phones restricted during the site visit?",
+          "answer": "Because safety and attention are more important at the site.",
+          "options": [
+            "Because phones are not allowed on buses.",
+            "Because students are not trusted to use technology.",
+            "Because safety and attention are more important at the site."
+          ]
+        },
+        {
+          "question": "What does the supervisor’s approach to planning the trip show about his priorities?",
+          "answer": "He balances learning value, safety, logistics, and student behaviour.",
+          "options": [
+            "He is focused on safety and giving the students an enjoyable trip.",
+            "He balances learning value, safety, logistics, and student behaviour.",
+            "He makes decisions with the student representatives so he can blame them if things go wrong."
+          ]
+        }
+      ]
+    }
+  }
+}
