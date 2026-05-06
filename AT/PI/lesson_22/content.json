@@ -104,7 +104,7 @@
         "audio_a": "assets/audio/d_1_a.mp3",
         "audio_b": "assets/audio/d_1_b.mp3",
         "audio_c": "assets/audio/d_1_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_2",
@@ -115,7 +115,7 @@
         "audio_a": "assets/audio/d_2_a.mp3",
         "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_2_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_3",
@@ -126,7 +126,7 @@
         "audio_a": "assets/audio/d_3_a.mp3",
         "audio_b": "assets/audio/d_3_b.mp3",
         "audio_c": "assets/audio/d_3_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       }
     ],
     "keywords": [
@@ -171,7 +171,7 @@
         "audio_a": "assets/audio/d_4_a.mp3",
         "audio_b": "assets/audio/d_4_b.mp3",
         "audio_c": "assets/audio/d_4_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_5",
@@ -182,7 +182,7 @@
         "audio_a": "assets/audio/d_5_a.mp3",
         "audio_b": "assets/audio/d_5_b.mp3",
         "audio_c": "assets/audio/d_5_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_6",
@@ -193,7 +193,7 @@
         "audio_a": "assets/audio/d_6_a.mp3",
         "audio_b": "assets/audio/d_6_b.mp3",
         "audio_c": "assets/audio/d_6_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_7",
@@ -204,7 +204,7 @@
         "audio_a": "assets/audio/d_7_a.mp3",
         "audio_b": "assets/audio/d_7_b.mp3",
         "audio_c": "assets/audio/d_7_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_8",
@@ -215,7 +215,7 @@
         "audio_a": "assets/audio/d_8_a.mp3",
         "audio_b": "assets/audio/d_8_b.mp3",
         "audio_c": "assets/audio/d_8_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_9",
@@ -226,7 +226,7 @@
         "audio_a": "assets/audio/d_9_a.mp3",
         "audio_b": "assets/audio/d_9_b.mp3",
         "audio_c": "assets/audio/d_9_c.mp3",
-        "text_c_speaking": "________________________________________________"
+        "text_c_speaking": "_______________________"
       }
     ]
   },
