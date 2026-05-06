@@ -1,0 +1,638 @@
+{
+  "meta": {
+    "lesson_no": 22,
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "/d/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'d'ynamo",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The 'd'ynamo in this older vehicle is more efficient than the auxiliary charging unit fitted to earlier models.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'d'ifferential",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "A limited-slip 'd'ifferential is more effective than a standard differential when driving on wet or uneven road surfaces.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "man'd'rel",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "A hardened steel man'd'rel is more durable than an aluminium mandrel during high-pressure forming operations.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "ski'd'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Vehicles with electronic stability control are more stable than older models, so a ski'd' is less likely during sudden braking.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-5",
+    "focus": "...",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words to their definition.\nවචන ඒවායේ අර්ථ දැක්වීම් සමඟ යා කරන්න.\nசொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_2_i_k.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
+      }
+    },
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/d_1.png",
+        "text_a": "I checked the new layout of the MT workshop yesterday.",
+        "text_b": "Good. I thought the old layout was complicated.",
+        "text_c": "That’s true—but do you know what? The new layout is even more complicated.",
+        "audio_a": "assets/audio/d_1_a.mp3",
+        "audio_b": "assets/audio/d_1_b.mp3",
+        "audio_c": "assets/audio/d_1_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/d_2.png",
+        "text_a": "I examined the new delivery schedule yesterday.",
+        "text_b": "Good. I thought the old schedule was problematic.",
+        "text_c": "That’s true—but do you know what? The new schedule is even more problematic.",
+        "audio_a": "assets/audio/d_2_a.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
+        "audio_c": "assets/audio/d_2_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/d_3.png",
+        "text_a": "I reviewed the new handover arrangement yesterday.",
+        "text_b": "Good. I thought the old arrangement was chaotic.",
+        "text_c": "That’s true—but do you know what? The new arrangement is even more chaotic.",
+        "audio_a": "assets/audio/d_3_a.mp3",
+        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_c": "assets/audio/d_3_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "word_1": "Not organised; things happen in a confused and messy way.",
+        "word_2": "Chaotic"
+      },
+      {
+        "id": "k_2",
+        "word_1": "Dangerous and likely to cause injury or damage.",
+        "word_2": "Hazardous"
+      },
+      {
+        "id": "k_3",
+        "word_1": "Made dirty or unsafe by harmful substances.",
+        "word_2": "Contaminated"
+      },
+      {
+        "id": "k_4",
+        "word_1": "Damaged so that it does not work properly or cannot be used.",
+        "word_2": "Corrupted"
+      },
+      {
+        "id": "k_5",
+        "word_1": "Needing a lot of human work and effort.",
+        "word_2": "Labour-intensive"
+      },
+      {
+        "id": "k_6",
+        "word_1": "Taking a long time to complete.",
+        "word_2": "Time-consuming"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/d_4.png",
+        "text_a": "I inspected the new scaffolding yesterday.",
+        "text_b": "Good. I thought the old scaffolding was hazardous.",
+        "text_c": "That’s true—but do you know what? The new scaffolding is even more hazardous.",
+        "audio_a": "assets/audio/d_4_a.mp3",
+        "audio_b": "assets/audio/d_4_b.mp3",
+        "audio_c": "assets/audio/d_4_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/d_5.png",
+        "text_a": "I checked the new water supply yesterday.",
+        "text_b": "Good. I thought the old supply was contaminated.",
+        "text_c": "That’s true—but do you know what? The new supply is even more contaminated.",
+        "audio_a": "assets/audio/d_5_a.mp3",
+        "audio_b": "assets/audio/d_5_b.mp3",
+        "audio_c": "assets/audio/d_5_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/d_6.png",
+        "text_a": "I reviewed the new data file yesterday.",
+        "text_b": "Good. I thought the old file was corrupted.",
+        "text_c": "That’s true—but do you know what? The new file is even more corrupted.",
+        "audio_a": "assets/audio/d_6_a.mp3",
+        "audio_b": "assets/audio/d_6_b.mp3",
+        "audio_c": "assets/audio/d_6_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/d_7.png",
+        "text_a": "I analysed the new inspection process yesterday.",
+        "text_b": "Good. I thought the old process was time-consuming.",
+        "text_c": "That’s true—but do you know what? The new process is even more time-consuming.",
+        "audio_a": "assets/audio/d_7_a.mp3",
+        "audio_b": "assets/audio/d_7_b.mp3",
+        "audio_c": "assets/audio/d_7_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/d_8.png",
+        "text_a": "I evaluated the new heating system yesterday.",
+        "text_b": "Good. I thought the old system was energy-intensive.",
+        "text_c": "That’s true—but do you know what? The new system is even more energy-intensive.",
+        "audio_a": "assets/audio/d_8_a.mp3",
+        "audio_b": "assets/audio/d_8_b.mp3",
+        "audio_c": "assets/audio/d_8_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/d_9.png",
+        "text_a": "I assessed the new bricklaying method yesterday.",
+        "text_b": "Good. I thought the old method was labour-intensive.",
+        "text_c": "That’s true—but do you know what? The new method is even more labour-intensive.",
+        "audio_a": "assets/audio/d_9_a.mp3",
+        "audio_b": "assets/audio/d_9_b.mp3",
+        "audio_c": "assets/audio/d_9_c.mp3",
+        "text_c_speaking": "________________________________________________"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Read the sentences appearing on the screen and press the button to indicate which sentence has the same meaning.\n තිරයේ දිස්වන වාක්‍යයන් කියවා, එකම අර්ථය ඇති වාක්‍යය කුමක්දැයි දැක්වීමට අදාළ බොත්තම ඔබන්න.\n ஒரே மாதிரியான கருத்தைக் கொண்ட வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_o.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-10.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "Polymer casing is more durable than PVC because it resists cracking.",
+            "options": [
+              "PVC resists cracking more than polymer casing.",
+              "Polymer casing resists cracking more than PVC."
+            ],
+            "answer": "Polymer casing resists cracking more than PVC."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Flexible conduits are better than rigid pipes because they bend easily.",
+            "options": [
+              "Rigid pipes are better and bend easily.",
+              "Flexible conduits bend easily and so are better."
+            ],
+            "answer": "Flexible conduits bend easily and so are better."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Ceramic insulation is better than plastic insulation at preventing melting because it is more heat-resistant.",
+            "options": [
+              "Plastic doesn’t melt easily.",
+              "Ceramic insulation is better because it prevents melting."
+            ],
+            "answer": "Ceramic insulation is better because it prevents melting."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "This glass sheet is more transparent than that plastic sheet because light passes through it easily.",
+            "options": [
+              "Light passes easily through this glass sheet.",
+              "Light passes more easily through this plastic sheet than glass sheet."
+            ],
+            "answer": "Light passes easily through this glass sheet."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "The analogue meter is simpler than digital meters because it uses a pointer.",
+            "options": [
+              "The analogue meter is a simpler device.",
+              "A digital meter uses a pointer."
+            ],
+            "answer": "The analogue meter is a simpler device."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "A manual machine is slower than an automatic one at controlling the process safely.",
+            "options": [
+              "A manual machine controls the process safely.",
+              "An automatic machine is faster at controlling the process safely."
+            ],
+            "answer": "A manual machine controls the process safely."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "This cover blocks light better than a clear plastic cover because it is more opaque.",
+            "options": [
+              "Opaque covers block light better.",
+              "Clear plastic cover blocks light better than this cover."
+            ],
+            "answer": "Opaque covers block light better."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Fresh milk is more perishable than dry food because it spoils quickly.",
+            "options": [
+              "Dry food spoils faster than perishables.",
+              "Perishables spoil quickly."
+            ],
+            "answer": "Perishables spoil quickly."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Disposable containers are cheaper than reusable ones because they are single-use.",
+            "options": [
+              "Reusable containers are cheap.",
+              "Disposable containers are single-use."
+            ],
+            "answer": "Disposable containers are single-use."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Biodegradable packaging is better than plastic packaging because it reduces waste.",
+            "options": [
+              "Biodegradable packaging reduces waste.",
+              "Plastic packaging is better at reducing waste."
+            ],
+            "answer": "Biodegradable packaging reduces waste."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "Polymer casing is more durable than PVC because it resists cracking.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "Flexible conduits are better than rigid pipes because they bend easily.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "Ceramic insulation is better than plastic insulation at preventing melting because it is more heat-resistant.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "This glass sheet is more transparent than that plastic sheet because light passes through it easily.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "The analogue meter is simpler than digital meters because it uses a pointer.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "A manual machine is slower than an automatic one at controlling the process safely.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "This cover blocks light better than a clear plastic cover because it is more opaque.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "Fresh milk is more perishable than dry food because it spoils quickly.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "Disposable containers are cheaper than reusable ones because they are single-use.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "Biodegradable packaging is better than plastic packaging because it reduces waste.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-12",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Drag and drop the sentences according to the sequence.\nවාක්‍යයන් නිවැරදි අනුපිළිවෙලට අනුව ඇද දමන්න.\nவாக்கியங்களைச் சரியான வரிசையில் வரிசைப்படுத்தவும்.",
+        "audio": "assets/audio/a_4_i_o.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_15_1",
+            "question": "Why does the instructor check the oil level before draining it?",
+            "answer": "Because it helps check the oil condition and quantity.",
+            "options": [
+              "Because it helps check the draining and quantity.",
+              "Because it helps check the oil condition and quantity.",
+              "Because it helps check the oil condition and engine."
+            ]
+          },
+          {
+            "id": "l_15_2",
+            "question": "Why is the used oil allowed to drain completely?",
+            "answer": "To avoid problems caused by old oil remaining inside.",
+            "options": [
+              "To avoid problems during servicing by old oil remaining inside.",
+              "To avoid problems caused by old oil remaining inside.",
+              "To avoid problems caused by old oil under the engine."
+            ]
+          },
+          {
+            "id": "l_15_3",
+            "question": "Why is the new oil filter tightened by hand?",
+            "answer": "Because too much force can damage the seal.",
+            "options": [
+              "Because too many tools can damage the seal.",
+              "Because too much force can damage the seal.",
+              "Because too many filters can damage the seal."
+            ]
+          },
+          {
+            "id": "l_15_4",
+            "question": "Why is the engine run briefly after refilling oil?",
+            "answer": "To check for leaks after servicing.",
+            "options": [
+              "To refill the engine oil after servicing.",
+              "To check for leaks after servicing.",
+              "To increase engine speed after servicing."
+            ]
+          },
+          {
+            "id": "l_15_5",
+            "question": "Why does the instructor stress the correct order of brake inspection steps?",
+            "answer": "Because missing steps can cause safety problems.",
+            "options": [
+              "Because missing inspections can cause problems.",
+              "Because missing steps can cause safety problems.",
+              "Because missing brakes are safe."
+            ]
+          }
+        ]
+      },
+      "activity_b": {
+        "type": "long_text",
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+            "item_b": "1."
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+            "item_b": "2."
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+            "item_b": "3."
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+            "item_b": "4."
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+            "item_b": "5."
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+            "item_b": "6."
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "audio": "assets/audio/t_6.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "audio": "assets/audio/t_6.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1",
+          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "audio": "assets/audio/t_6.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1A.mp4",
+        "instrction": "instrction_a"
+      }
+    ]
+  }
+}
