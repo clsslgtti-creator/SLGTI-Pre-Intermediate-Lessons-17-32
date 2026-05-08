@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 23,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Mechanical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'c'amshaft",
+        "word_text": "'c'oupling",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The high-lift 'c'amshaft is the best option for improving valve operation at high engine speeds.",
+        "sentence_text": "Flexible 'c'oupling is the best option for reducing vibration between aligned shafts.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'c'ompressor",
+        "word_text": "'c'rankcase",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This twin-scroll 'c'ompressor is the strongest unit available for maintaining stable boost pressure.",
+        "sentence_text": "The reinforced 'c'rankcase is the strongest part of the engine housing under load.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "roc'k'er",
+        "word_text": "sproc'k'et",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The forged steel roc'k'er arm is the lightest component in the valve train, reducing inertia.",
+        "sentence_text": "The hardened steel sproc'k'et is the toughest component in the chain drive system.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cran'k'",
+        "word_text": "Chuc'k'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The balanced cran'k' is the smoothest design for minimizing engine vibration at high RPM.",
+        "sentence_text": "The self-centering chuc'k' is the tightest holder for securing round workpieces on the lathe.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -257,7 +257,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "What do you think of this new hydraulic vehicle lift?",
+            "sentence": "What do you think of this new hydraulic press?",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "I think it doesn’t meet our safety requirements.",
@@ -271,21 +271,21 @@
           },
           {
             "id": "g_b_2",
-            "sentence": "What do you think of this heavy-duty tyre changer?",
+            "sentence": "What do you think of this heavy-duty milling machine?",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
               "I think it doesn’t meet our safety requirements.",
-              "I think it is very easy to operate.",
+              "I think it is not too difficult to operate.",
               "I think it fine."
             ],
             "answers": [
               "I think it doesn’t meet our safety requirements.",
-              "I think it is very easy to operate."
+              "I think it is not too difficult to operate."
             ]
           },
           {
             "id": "g_b_3",
-            "sentence": "What do you think of the new engine cooling system installed in the training vehicle?",
+            "sentence": "What do you think of the new lubrication system installed on the training lathe?",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
               "I think it needs some adjustments.",
@@ -299,7 +299,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "What do you think of the new brake bleeding procedure used in the workshop?",
+            "sentence": "What do you think of the new bearing replacement procedure used in the workshop?",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "I think it needs some adjustments.",
@@ -313,7 +313,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "How do you feel about this new vehicle inspection checklist before road testing?",
+            "sentence": "How do you feel about this new machine inspection checklist?",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
               "I am quite positive about it.",
@@ -327,7 +327,7 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "How do you feel about this updated safety briefing before workshop practice?",
+            "sentence": "How do you feel about this updated safety briefing before machine operation?",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
               "I am quite positive about it.",
@@ -341,7 +341,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "What’s your opinion about the price of these genuine brake pads?",
+            "sentence": "What’s your opinion about the price of these precision bearings?",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "In my opinion, it’s fair.",
@@ -355,7 +355,7 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "What’s your opinion about the price of this diagnostic scan tool?",
+            "sentence": "What’s your opinion about the price of this industrial air compressor?",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
               "In my opinion, it’s fair.",
@@ -369,7 +369,7 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "In your opinion, is this high-capacity air compressor good?",
+            "sentence": "In your opinion, is this high-capacity coolant pump good?",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
               "No, it isn’t powerful enough.",
@@ -383,7 +383,7 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "In your opinion, is this engine hoist good?",
+            "sentence": "In your opinion, is this chain hoist good?",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
               "No, it isn’t strong enough.",
@@ -400,52 +400,52 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "What do you think of this new hydraulic vehicle lift?",
+          "text": "What do you think of this new hydraulic press?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "What do you think of this heavy-duty tyre changer?",
+          "text": "What do you think of this heavy-duty milling machine?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "What do you think of the new engine cooling system installed in the training vehicle?",
+          "text": "What do you think of the new lubrication system installed on the training lathe?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "What do you think of the new brake bleeding procedure used in the workshop?",
+          "text": "What do you think of the new bearing replacement procedure used in the workshop?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "How do you feel about this new vehicle inspection checklist before road testing?",
+          "text": "How do you feel about this new machine inspection checklist?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "How do you feel about this updated safety briefing before workshop practice?",
+          "text": "How do you feel about this updated safety briefing before machine operation?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "What’s your opinion about the price of these genuine brake pads?",
+          "text": "What’s your opinion about the price of these precision bearings?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "What’s your opinion about the price of this diagnostic scan tool?",
+          "text": "What’s your opinion about the price of this industrial air compressor?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "In your opinion, is this high-capacity air compressor good?",
+          "text": "In your opinion, is this high-capacity coolant pump good?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "In your opinion, is this engine hoist good?",
+          "text": "In your opinion, is this chain hoist good?",
           "audio": "assets/audio/g_b_10.mp3"
         }
       ]
