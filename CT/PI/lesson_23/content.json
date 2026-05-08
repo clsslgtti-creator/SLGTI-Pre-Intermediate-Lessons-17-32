@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "lesson_no": 23,
+    "level": "Pre-Intermediate",
+    "section": "Construction Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "/k/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'c'ompactor",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The vibratory 'c'ompactor is the strongest machine for densifying gravel on the foundation layer.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'c'ore drill",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "This diamond 'c'ore drill is the best tool for cutting precise openings in reinforced concrete.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "buc'k'et",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The reinforced buc'k'et is the largest attachment available for moving bulk soil efficiently.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "jac'k'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The hydraulic jac'k' is the safest option for lifting heavy structural components during installation.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-5",
+    "focus": "...",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the adjectives with the most suitable nouns.\nවිශේෂණ පද, වඩාත් ගැළපෙන නාම පද සමඟ යා කරන්න.\nஉரிச்சொற்களை மிகவும் பொருத்தமான பெயர்ச்சொற்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_2_i_m.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["small", "the smallest"],
+        ["tough", "the toughest"],
+        ["rich", "the richest"],
+        ["narrow", "the narrowest"],
+        ["bad", "the worst"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/d_1.jpeg",
+        "text_a": "What do you think of this maths problem?",
+        "text_b": "I think it is very tough.",
+        "text_c": "I agree. Actually, I think it is the toughest maths problem we have ever had.",
+        "audio_a": "assets/audio/d_1_a.mp3",
+        "audio_b": "assets/audio/d_1_b.mp3",
+        "audio_c": "assets/audio/d_1_c.mp3",
+        "text_c_speaking": "_______________________ we have ever had."
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/d_2.jpeg",
+        "text_a": "What do you think of this house structure?",
+        "text_b": "I think it is very sound.",
+        "text_c": "I agree. Actually, I think it is the soundest house structure we have ever designed.",
+        "audio_a": "assets/audio/d_2_a.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
+        "audio_c": "assets/audio/d_2_c.mp3",
+        "text_c_speaking": "_______________________ we have ever designed."
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/d_3.jpeg",
+        "text_a": "What do you think of this fruit batch?",
+        "text_b": "I think it is very ripe.",
+        "text_c": "I agree. Actually, I think it is the ripest batch we have ever handled.",
+        "audio_a": "assets/audio/d_3_a.mp3",
+        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_c": "assets/audio/d_3_c.mp3",
+        "text_c_speaking": "_______________________ we have ever handled."
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "word_1": "maths problem",
+        "word_2": "Tough"
+      },
+      {
+        "id": "k_2",
+        "word_1": "house structure",
+        "word_2": "Sound"
+      },
+      {
+        "id": "k_3",
+        "word_1": "road",
+        "word_2": "Narrow"
+      },
+      {
+        "id": "k_4",
+        "word_1": "ladder",
+        "word_2": "Steady"
+      },
+      {
+        "id": "k_5",
+        "word_1": "fruit",
+        "word_2": "Ripe"
+      },
+      {
+        "id": "k_6",
+        "word_1": "price",
+        "word_2": "Fair"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/d_4.jpeg",
+        "text_a": "What do you think of this road?",
+        "text_b": "I think it is very narrow.",
+        "text_c": "I agree. Actually, I think it is the narrowest road we have ever used.",
+        "audio_a": "assets/audio/d_4_a.mp3",
+        "audio_b": "assets/audio/d_4_b.mp3",
+        "audio_c": "assets/audio/d_4_c.mp3",
+        "text_c_speaking": "_______________________ we have ever used."
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/d_5.jpeg",
+        "text_a": "What do you think of this kitchen counter?",
+        "text_b": "I think it is very smooth.",
+        "text_c": "I agree. Actually, I think it is the smoothest kitchen counter we have ever had.",
+        "audio_a": "assets/audio/d_5_a.mp3",
+        "audio_b": "assets/audio/d_5_b.mp3",
+        "audio_c": "assets/audio/d_5_c.mp3",
+        "text_c_speaking": "_______________________ we have ever had."
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/d_6.jpeg",
+        "text_a": "What do you think of the price of this car?",
+        "text_b": "I think it is very fair.",
+        "text_c": "I agree. Actually, I think it is the fairest price we have ever received.",
+        "audio_a": "assets/audio/d_6_a.mp3",
+        "audio_b": "assets/audio/d_6_b.mp3",
+        "audio_c": "assets/audio/d_6_c.mp3",
+        "text_c_speaking": "_______________________ we have ever received."
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/d_7.jpeg",
+        "text_a": "What do you think of this new ladder?",
+        "text_b": "I think it is very steady.",
+        "text_c": "I agree. Actually, I think it is the steadiest ladder we have ever got.",
+        "audio_a": "assets/audio/d_7_a.mp3",
+        "audio_b": "assets/audio/d_7_b.mp3",
+        "audio_c": "assets/audio/d_7_c.mp3",
+        "text_c_speaking": "_______________________ we have ever got."
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/d_8.jpeg",
+        "text_a": "What do you think of the new timetable?",
+        "text_b": "I think it is very bad.",
+        "text_c": "I agree. Actually, I think it is the worst timetable we have ever had.",
+        "audio_a": "assets/audio/d_8_a.mp3",
+        "audio_b": "assets/audio/d_8_b.mp3",
+        "audio_c": "assets/audio/d_8_c.mp3",
+        "text_c_speaking": "_______________________ we have ever had."
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/d_9.jpeg",
+        "text_a": "What do you think of the new smartboard?",
+        "text_b": "I think it is very good.",
+        "text_c": "I agree. Actually, I think it is the best smartboard we have ever purchased.",
+        "audio_a": "assets/audio/d_9_a.mp3",
+        "audio_b": "assets/audio/d_9_b.mp3",
+        "audio_c": "assets/audio/d_9_c.mp3",
+        "text_c_speaking": "_______________________ we have ever purchased."
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "For each question, please mark two correct answers.\n සෑම ප්‍රශ්නයක් සඳහාම නිවැරදි පිළිතුරු දෙකක් බැගින් සලකුණු කරන්න.\n ஒவ்வொரு வினாவிற்கும் இரண்டு சரியான விடைகளைக் குறிக்கவும்.",
+        "audio": "assets/audio/a_3_i_p.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-9.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "What do you think of this new mobile scaffolding tower?",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "I think it doesn’t meet our safety requirements.",
+              "I think it is very easy to operate.",
+              "I think it OK."
+            ],
+            "answers": [
+              "I think it doesn’t meet our safety requirements.",
+              "I think it is very easy to operate."
+            ]
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "What do you think of the new concrete mixer on site?",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "I think it doesn’t meet our safety requirements.",
+              "I think it is very easy to operate.",
+              "I think it fine."
+            ],
+            "answers": [
+              "I think it doesn’t meet our safety requirements.",
+              "I think it is very easy to operate."
+            ]
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "What do you think of the new foundation layout used for the training project?",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "I think it needs some adjustments.",
+              "I think there are some issues with it.",
+              "I think there is some problems with it."
+            ],
+            "answers": [
+              "I think it needs some adjustments.",
+              "I think there are some issues with it."
+            ]
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "What do you think of the bricklaying procedure used on site?",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "I think it needs some adjustments.",
+              "I think there are some issues with it.",
+              "I think there have some problems with it."
+            ],
+            "answers": [
+              "I think it needs some adjustments.",
+              "I think there are some issues with it."
+            ]
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "How do you feel about this new site inspection checklist before starting work?",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "I am quite positive about it.",
+              "I feel there are some issues with it.",
+              "I am not familiar with any of them."
+            ],
+            "answers": [
+              "I am quite positive about it.",
+              "I feel there are some issues with it."
+            ]
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "How do you feel about this updated safety briefing before construction work?",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "I am quite positive about it.",
+              "I feel there are some issues with it.",
+              "I am upset about them."
+            ],
+            "answers": [
+              "I am quite positive about it.",
+              "I feel there are some issues with it."
+            ]
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "What’s your opinion about the price of these cement bags?",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive.",
+              "In my opinion, it ok."
+            ],
+            "answers": [
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive."
+            ]
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "What’s your opinion about the price of this power drill used on site?",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive.",
+              "In my opinion, it not bad."
+            ],
+            "answers": [
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive."
+            ]
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "In your opinion, is this reinforced concrete beam good?",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "No, it isn’t strong enough.",
+              "It’s good in some ways.",
+              "Yes, it is rather bad."
+            ],
+            "answers": [
+              "No, it isn’t strong enough.",
+              "It’s good in some ways."
+            ]
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "In your opinion, is this aluminium ladder good?",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "No, it isn’t strong enough.",
+              "It’s good in some ways.",
+              "Yes, it is rather bad."
+            ],
+            "answers": [
+              "No, it isn’t strong enough.",
+              "It’s good in some ways."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "What do you think of this new mobile scaffolding tower?",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "What do you think of the new concrete mixer on site?",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "What do you think of the new foundation layout used for the training project?",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "What do you think of the bricklaying procedure used on site?",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "How do you feel about this new site inspection checklist before starting work?",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "How do you feel about this updated safety briefing before construction work?",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "What’s your opinion about the price of these cement bags?",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "What’s your opinion about the price of this power drill used on site?",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "In your opinion, is this reinforced concrete beam good?",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "In your opinion, is this aluminium ladder good?",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why does the coordinator call the meeting?",
+            "answer": "To organise a farewell for students who are leaving",
+            "options": [
+              "To organize a farewell for a students who is leaving",
+              "To organise a farewell for students who are leaving",
+              "To plan a new academic programme"
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What kind of help is offered first?",
+            "answer": "To organise the programme for the farewell",
+            "options": [
+              "To contact the catering company",
+              "To organise the programme for the farewell",
+              "To book the equipment for the programme"
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why does the coordinator want to confirm the hall quickly?",
+            "answer": "Because it is the biggest space and gets booked quickly",
+            "options": [
+              "Because it is the biggest and the cheapest space",
+              "Because it is close to the office",
+              "Because it is the biggest space and gets booked quickly"
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "How does one of the instructors suggest contacting the administration office?",
+            "answer": "By making a phone call",
+            "options": [
+              "By sending a written request",
+              "By visiting the office in person",
+              "By making a phone call"
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What is the main purpose of the farewell speech?",
+            "answer": "To inspire students and prepare them for future challenges",
+            "options": [
+              "To inspire students and allow them to reflect on the past",
+              "To inspire students and prepare them for future challenges",
+              "To thank the administration staff"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Could you help me plan a few things?",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Sure, I’d be happy to. If you need support with the programme, I can take care of that.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "That would help a lot, thank you. Could you also check the hall availability when you have time?",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I can take care of that. Would you like me to call the administration office, or should I send them an email?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "A call would be great, thanks.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Could you help me with that? Maybe you could give me a hand with the catering options?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Would anyone be willing to prepare it?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I can do that.",
+          "audio": "assets/audio/t_8.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Could you help me plan a few things?",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Sure, I’d be happy to. If you need support with the programme, I can take care of that.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "That would help a lot, thank you. Could you also check the hall availability when you have time?",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I can take care of that. Would you like me to call the administration office, or should I send them an email?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "A call would be great, thanks.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Could you help me with that? Maybe you could give me a hand with the catering options?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Would anyone be willing to prepare it?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I can do that.",
+          "audio": "assets/audio/t_8.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Could you help me plan a few things?",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Sure, I’d be happy to. If you need support with the programme, I can take care of that.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "That would help a lot, thank you. Could you also check the hall availability when you have time?",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I can take care of that. Would you like me to call the administration office, or should I send them an email?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "A call would be great, thanks.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Could you help me with that? Maybe you could give me a hand with the catering options?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Would anyone be willing to prepare it?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I can do that.",
+          "audio": "assets/audio/t_8.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1A.mp4",
+        "instrction": "instrction_a"
+      }
+    ]
+  }
+}
