@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 23,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Food Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'c'amshaft",
+        "word_text": "'c'ooling rack",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The high-lift 'c'amshaft is the best option for improving valve operation at high engine speeds.",
+        "sentence_text": "The stainless-steel 'c'ooling rack is the cleanest option for handling baked products after oven processing.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'c'ompressor",
+        "word_text": "'c'utting machine",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This twin-scroll 'c'ompressor is the strongest unit available for maintaining stable boost pressure.",
+        "sentence_text": "This automated 'c'utting machine is the fastest unit for portioning meat and vegetables consistently.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "roc'k'er",
+        "word_text": "pac'k'aging",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The forged steel roc'k'er arm is the lightest component in the valve train, reducing inertia.",
+        "sentence_text": "Vacuum pac'k'aging is the best method for keeping processed food fresh for longer storage.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cran'k'",
+        "word_text": "tan'k'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The balanced cran'k' is the smoothest design for minimizing engine vibration at high RPM.",
+        "sentence_text": "The insulated mixing tan'k' is the largest vessel used for blending liquid ingredients safely.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -257,40 +257,34 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "What do you think of this new hydraulic vehicle lift?",
+            "sentence": "What do you think of this new vacuum tumbler?",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
-              "I think it doesn’t meet our safety requirements.",
-              "I think it is very easy to operate.",
-              "I think it OK."
+              "I think it don’t meet our requirements.",
+              "I think it is very easy to use.",
+              "I think it is OK."
             ],
-            "answers": [
-              "I think it doesn’t meet our safety requirements.",
-              "I think it is very easy to operate."
-            ]
+            "answers": ["I think it is very easy to use.", "I think it is OK."]
           },
           {
             "id": "g_b_2",
-            "sentence": "What do you think of this heavy-duty tyre changer?",
+            "sentence": "What do you think of this stainless-steel worktable?",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
-              "I think it doesn’t meet our safety requirements.",
-              "I think it is very easy to operate.",
-              "I think it fine."
+              "I think it is super bader all the time.",
+              "I think it needs improvement.",
+              "I think it is fine."
             ],
-            "answers": [
-              "I think it doesn’t meet our safety requirements.",
-              "I think it is very easy to operate."
-            ]
+            "answers": ["I think it needs improvement.", "I think it is fine."]
           },
           {
             "id": "g_b_3",
-            "sentence": "What do you think of the new engine cooling system installed in the training vehicle?",
+            "sentence": "What do you think of the new temperature control system in the cold room?",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
               "I think it needs some adjustments.",
               "I think there are some issues with it.",
-              "I think they are some problems with it."
+              "I think it isn’t fine as it."
             ],
             "answers": [
               "I think it needs some adjustments.",
@@ -299,154 +293,167 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "What do you think of the new brake bleeding procedure used in the workshop?",
+            "sentence": "How do you feel about this new hand-washing procedure before food preparation?",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
-              "I think it needs some adjustments.",
-              "I think there are some issues with it.",
-              "I think it have some problems."
+              "I am quite positive about it.",
+              "I am not familiar with any of them.",
+              "I feel there are some issues with it."
             ],
             "answers": [
-              "I think it needs some adjustments.",
-              "I think there are some issues with it."
+              "I am quite positive about it.",
+              "I feel there are some issues with it."
             ]
           },
           {
             "id": "g_b_5",
-            "sentence": "How do you feel about this new vehicle inspection checklist before road testing?",
+            "sentence": "How do you feel about this batch of fresh vegetables delivered today?",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
-              "I am quite positive about it.",
-              "I feel there are some issues with it.",
-              "I am not familiar with any of them."
+              "I am very pleased with it.",
+              "I am upset about her.",
+              "I feel very disappointed with it."
             ],
             "answers": [
-              "I am quite positive about it.",
-              "I feel there are some issues with it."
+              "I am very pleased with it.",
+              "I feel very disappointed with it."
             ]
           },
           {
             "id": "g_b_6",
-            "sentence": "How do you feel about this updated safety briefing before workshop practice?",
+            "sentence": "What’s your opinion about the price of these ceramic serving platters?",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
-              "I am quite positive about it.",
-              "I feel there are some issues with it.",
-              "I am upset about them."
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive.",
+              "In my opinion, it’s too equal."
             ],
             "answers": [
-              "I am quite positive about it.",
-              "I feel there are some issues with it."
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive."
             ]
           },
           {
             "id": "g_b_7",
-            "sentence": "What’s your opinion about the price of these genuine brake pads?",
+            "sentence": "What’s your opinion about the price of this commercial dough mixer?",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "In my opinion, it’s fair.",
-              "In my opinion, it’s too expensive.",
-              "In my opinion, it not bad."
+              "In my opinion, it’s unbelievably cheap.",
+              "In my opinion, it common."
             ],
             "answers": [
               "In my opinion, it’s fair.",
-              "In my opinion, it’s too expensive."
+              "In my opinion, it’s unbelievably cheap."
             ]
           },
           {
             "id": "g_b_8",
-            "sentence": "What’s your opinion about the price of this diagnostic scan tool?",
+            "sentence": "Do you like this deep-frying method used for fish cutlets?",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
-              "In my opinion, it’s fair.",
-              "In my opinion, it’s too expensive.",
-              "In my opinion, it ok."
+              "Yes, I always likes it.",
+              "No, I don’t like it at all.",
+              "No, I’m not sure if I like it."
             ],
             "answers": [
-              "In my opinion, it’s fair.",
-              "In my opinion, it’s too expensive."
+              "No, I don’t like it at all.",
+              "No, I’m not sure if I like it."
             ]
           },
           {
             "id": "g_b_9",
-            "sentence": "In your opinion, is this high-capacity air compressor good?",
+            "sentence": "Do you like this food-labelling method on the finished packages?",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
-              "No, it isn’t powerful enough.",
-              "It’s good in some ways.",
-              "Yes, it is rather bad."
+              "Yes, I always likes it.",
+              "No, I am not sure if I like it.",
+              "I like some parts of it."
             ],
             "answers": [
-              "No, it isn’t powerful enough.",
-              "It’s good in some ways."
+              "No, I am not sure if I like it.",
+              "I like some parts of it."
             ]
           },
           {
             "id": "g_b_10",
-            "sentence": "In your opinion, is this engine hoist good?",
+            "sentence": "In your opinion, is this extra-large food storage container good?",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
-              "No, it isn’t strong enough.",
-              "It’s good in some ways.",
-              "Yes, it is rather bad."
-            ],
-            "answers": [
-              "No, it isn’t strong enough.",
+              "Yes, it is rather bad.",
+              "No, it isn’t big enough.",
               "It’s good in some ways."
-            ]
+            ],
+            "answers": ["No, it isn’t big enough.", "It’s good in some ways."]
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "In your opinion, is this yoghurt maker good?",
+            "audio": "assets/audio/g_b_11.mp3",
+            "options": [
+              "Yes, it is excellent.",
+              "No, it isn’t bad enough.",
+              "It’s good in some ways."
+            ],
+            "answers": ["Yes, it is excellent.", "It’s good in some ways."]
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "What do you think of this new hydraulic vehicle lift?",
+          "text": "What do you think of this new vacuum tumbler?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "What do you think of this heavy-duty tyre changer?",
+          "text": "What do you think of this stainless-steel worktable?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "What do you think of the new engine cooling system installed in the training vehicle?",
+          "text": "What do you think of the new temperature control system in the cold room?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "What do you think of the new brake bleeding procedure used in the workshop?",
+          "text": "How do you feel about this new hand-washing procedure before food preparation?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "How do you feel about this new vehicle inspection checklist before road testing?",
+          "text": "How do you feel about this batch of fresh vegetables delivered today?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "How do you feel about this updated safety briefing before workshop practice?",
+          "text": "What’s your opinion about the price of these ceramic serving platters?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "What’s your opinion about the price of these genuine brake pads?",
+          "text": "What’s your opinion about the price of this commercial dough mixer?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "What’s your opinion about the price of this diagnostic scan tool?",
+          "text": "Do you like this deep-frying method used for fish cutlets?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "In your opinion, is this high-capacity air compressor good?",
+          "text": "Do you like this food-labelling method on the finished packages?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "In your opinion, is this engine hoist good?",
+          "text": "In your opinion, is this extra-large food storage container good?",
           "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "In your opinion, is this yoghurt maker good?",
+          "audio": "assets/audio/g_b_11.mp3"
         }
       ]
     }
