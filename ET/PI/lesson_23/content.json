@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 23,
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Electrical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'c'amshaft",
+        "word_text": "'c'ontactor",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The high-lift 'c'amshaft is the best option for improving valve operation at high engine speeds.",
+        "sentence_text": "This heavy-duty 'c'ontactor is the strongest option for switching high-current motor circuits.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'c'ompressor",
+        "word_text": "'c'apacitor",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This twin-scroll 'c'ompressor is the strongest unit available for maintaining stable boost pressure.",
+        "sentence_text": "The polypropylene 'c'apacitor is the best choice for improving power factor in the panel.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "roc'k'er",
+        "word_text": "'c'ontrol key",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The forged steel roc'k'er arm is the lightest component in the valve train, reducing inertia.",
+        "sentence_text": "The coded 'c'ontrol key is the safest way to prevent unauthorised access to the control system.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cran'k'",
+        "word_text": "lin'k'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The balanced cran'k' is the smoothest design for minimizing engine vibration at high RPM.",
+        "sentence_text": "The copper busbar lin'k' is the shortest connection for reducing resistance in the distribution board.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -257,7 +257,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "What do you think of this new hydraulic vehicle lift?",
+            "sentence": "What do you think of this new distribution board installed in the workshop?",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "I think it doesn’t meet our safety requirements.",
@@ -271,7 +271,7 @@
           },
           {
             "id": "g_b_2",
-            "sentence": "What do you think of this heavy-duty tyre changer?",
+            "sentence": "What do you think of this three-phase isolator switch?",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
               "I think it doesn’t meet our safety requirements.",
@@ -285,12 +285,12 @@
           },
           {
             "id": "g_b_3",
-            "sentence": "What do you think of the new engine cooling system installed in the training vehicle?",
+            "sentence": "What do you think of the new earthing system installed in the training lab?",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
               "I think it needs some adjustments.",
               "I think there are some issues with it.",
-              "I think they are some problems with it."
+              "I think it have some problems."
             ],
             "answers": [
               "I think it needs some adjustments.",
@@ -299,7 +299,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "What do you think of the new brake bleeding procedure used in the workshop?",
+            "sentence": "What do you think of the cable termination procedure used in the workshop?",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "I think it needs some adjustments.",
@@ -313,7 +313,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "How do you feel about this new vehicle inspection checklist before road testing?",
+            "sentence": "How do you feel about this new electrical safety checklist before practical work?",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
               "I am quite positive about it.",
@@ -327,7 +327,7 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "How do you feel about this updated safety briefing before workshop practice?",
+            "sentence": "How do you feel about this updated lockout–tagout briefing before maintenance work?",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
               "I am quite positive about it.",
@@ -341,22 +341,8 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "What’s your opinion about the price of these genuine brake pads?",
+            "sentence": "What’s your opinion about the price of these copper power cables?",
             "audio": "assets/audio/g_b_7.mp3",
-            "options": [
-              "In my opinion, it’s fair.",
-              "In my opinion, it’s too expensive.",
-              "In my opinion, it not bad."
-            ],
-            "answers": [
-              "In my opinion, it’s fair.",
-              "In my opinion, it’s too expensive."
-            ]
-          },
-          {
-            "id": "g_b_8",
-            "sentence": "What’s your opinion about the price of this diagnostic scan tool?",
-            "audio": "assets/audio/g_b_8.mp3",
             "options": [
               "In my opinion, it’s fair.",
               "In my opinion, it’s too expensive.",
@@ -368,8 +354,22 @@
             ]
           },
           {
+            "id": "g_b_8",
+            "sentence": "What’s your opinion about the price of this digital multimeter?",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive.",
+              "In my opinion, it not bad."
+            ],
+            "answers": [
+              "In my opinion, it’s fair.",
+              "In my opinion, it’s too expensive."
+            ]
+          },
+          {
             "id": "g_b_9",
-            "sentence": "In your opinion, is this high-capacity air compressor good?",
+            "sentence": "In your opinion, is this portable generator good?",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
               "No, it isn’t powerful enough.",
@@ -383,7 +383,7 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "In your opinion, is this engine hoist good?",
+            "sentence": "In your opinion, is this step-down transformer good?",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
               "No, it isn’t strong enough.",
@@ -400,52 +400,52 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "What do you think of this new hydraulic vehicle lift?",
+          "text": "What do you think of this new distribution board installed in the workshop?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "What do you think of this heavy-duty tyre changer?",
+          "text": "What do you think of this three-phase isolator switch?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "What do you think of the new engine cooling system installed in the training vehicle?",
+          "text": "What do you think of the new earthing system installed in the training lab?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "What do you think of the new brake bleeding procedure used in the workshop?",
+          "text": "What do you think of the cable termination procedure used in the workshop?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "How do you feel about this new vehicle inspection checklist before road testing?",
+          "text": "How do you feel about this new electrical safety checklist before practical work?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "How do you feel about this updated safety briefing before workshop practice?",
+          "text": "How do you feel about this updated lockout–tagout briefing before maintenance work?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "What’s your opinion about the price of these genuine brake pads?",
+          "text": "What’s your opinion about the price of these copper power cables?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "What’s your opinion about the price of this diagnostic scan tool?",
+          "text": "What’s your opinion about the price of this digital multimeter?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "In your opinion, is this high-capacity air compressor good?",
+          "text": "In your opinion, is this portable generator good?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "In your opinion, is this engine hoist good?",
+          "text": "In your opinion, is this step-down transformer good?",
           "audio": "assets/audio/g_b_10.mp3"
         }
       ]
