@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'g'overnor",
+        "word_text": "in'g'redient",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Adjusting the 'g'overnor needs the most careful working style to keep the engine speed stable.",
+        "sentence_text": "Measuring each in'g'redient correctly needs the most careful worker.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'g'udgeon pin",
+        "word_text": "segre'g'ation",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Fitting the 'g'udgeon pin correctly requires the most accurate work during piston assembly.",
+        "sentence_text": "Proper segre'g'ation of raw foods requires the most disciplined staff.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'g'rinding wheel",
+        "word_text": "ba'g'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Using a 'g'rinding wheel safely demands the most responsible behaviour in the workshop.",
+        "sentence_text": "The most organised helper needs to pack a food ba'g'.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "i'g'nition",
+        "word_text": "'g'lucose",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Testing the i'g'nition involves the most basic technical skill in the system.",
+        "sentence_text": "Handling 'g'lucose safely needs the most attentive technician.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -74,7 +74,7 @@
         "audio": "assets/audio/a_2_i_ex.mp3"
       },
       "activity_2_a": {
-         "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
         "audio": "assets/audio/a_4_i_c.mp3"
       },
       "activity_2_b": {
@@ -344,48 +344,46 @@
     "content": {
       "activity_a": {
         "content": {
-          "title": "Digital Alternator Tester – Instruction Manual",
+          "title": "Food Processor – Instruction Manual",
           "sections": [
             {
               "heading": "Installation",
               "steps": [
-                "Place the tester on a flat, dry surface near the vehicle.",
-                "Check that the cables and clamps are clean and not damaged.",
-                "Connect the red clamp to the battery’s positive terminal (+).",
-                "Connect the black clamp to the negative terminal (–).",
-                "Switch on the power button and wait for the display to light up.",
-                "Select the correct vehicle battery type on the menu (12V or 24V)."
+                "Place the food processor on a clean, flat surface.",
+                "Check that the power cord and plug are not damaged.",
+                "Insert the bowl onto the base and turn it clockwise until it locks.",
+                "Attach the blade carefully and fit the lid securely.",
+                "Plug the machine into a 230V outlet before use."
+              ]
+            },
+            {
+              "heading": "Operations",
+              "steps": [
+                "Add the ingredients into the bowl.",
+                "Choose the correct blade for slicing, grating, or mixing.",
+                "Turn the control knob to select the desired speed.",
+                "Press “ON” to start and “OFF” to stop.",
+                "Use the “Pulse” button for short bursts."
               ]
             },
             {
               "heading": "Safety Tips",
               "steps": [
-                "Always wear safety gloves and eye protection when working near batteries.",
-                "Never connect the clamps to the wrong terminals.",
-                "Do not use the tester on a damaged or leaking battery.",
-                "Keep the tester away from water, oil, and direct sunlight.",
-                "Do not touch metal parts while the engine is running."
-              ]
-            },
-            {
-              "heading": "Operation",
-              "steps": [
-                "Start the vehicle’s engine.",
-                "Wait a few seconds for the voltage reading to stabilize.",
-                "Read the alternator output shown on the digital display.",
-                "Compare the voltage with the standard range (13.5V – 14.5V).",
-                "Use the “Load Test” button to check alternator performance under load.",
-                "Press “Save” to record the reading or “Reset” to start a new test."
+                "Do not operate the processor without the lid locked in place.",
+                "Always switch off and unplug before cleaning or changing blades.",
+                "Keep fingers and utensils away from the moving blades.",
+                "Do not fill the bowl above the maximum line.",
+                "Keep the machine away from water and heat sources."
               ]
             },
             {
               "heading": "Maintenance",
               "steps": [
-                "Turn off and disconnect the tester after each use.",
-                "Wipe the surface with a dry or slightly damp cloth.",
-                "Keep the clamps and cables clean and dry.",
-                "Check the display screen for cracks or loose connections.",
-                "Store the tester in its case in a cool, dust-free place."
+                "Always unplug the machine before cleaning.",
+                "Wash removable parts with warm, soapy water.",
+                "Wipe the motor base with a damp cloth—do not immerse in water.",
+                "Dry all parts completely before reassembling.",
+                "Store in a cool, dry place away from sunlight."
               ]
             }
           ]
@@ -393,57 +391,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What should you never do while using the tester?",
-            "answer": "Handle metal parts while the engine is running",
+            "question": "What should you check before plugging in the food processor?",
+            "answer": "The condition of the power cord and plug",
             "options": [
-              "Handle metal parts while the engine is running",
-              "Look at the display",
-              "Wear gloves",
-              "Check the battery label"
+              "The depth of the plug",
+              "The amount of food inside",
+              "The condition of the power cord and plug",
+              "The length of the power cord"
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why is it important to match the correct battery type (12V or 24V)?",
-            "answer": "It ensures accurate readings and prevents damage",
+            "question": "What should you do before cleaning the processor?",
+            "answer": "Turn it off and unplug it",
             "options": [
-              "It looks more professional",
-              "It saves electricity",
-              "It ensures accurate readings and prevents damage",
-              "It makes the tester faster"
+              "Remove the bowl only",
+              "Turn it off and unplug it",
+              "Turn on the pulse mode",
+              "Add warm water"
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What does the “Load Test” button do?",
-            "answer": "Checks alternator performance under load",
-            "options": [
-              "Checks alternator performance under load",
-              "Turns the engine off",
-              "Starts the fan motor",
-              "Cleans the clamps"
-            ]
+            "question": "Which part should not be put in water?",
+            "answer": "The motor base",
+            "options": ["The blades", "The motor base", "The bowl", "The lid"]
           },
           {
             "id": "l_18_4",
-            "question": "How should the tester be cleaned?",
-            "answer": "With a dry or slightly damp cloth",
+            "question": "When can you use the “Pulse” button?",
+            "answer": "For short bursts",
             "options": [
-              "With soap and water",
-              "With a wire brush",
-              "With a dry or slightly damp cloth",
-              "By blowing air"
+              "For long mixing",
+              "For heating food",
+              "For short bursts",
+              "For storing food"
             ]
           },
           {
             "id": "l_18_5",
-            "question": "When should you disconnect the tester?",
-            "answer": "After using it and turning off the engine",
+            "question": "What should you do to lock the bowl in place?",
+            "answer": "Turn it clockwise",
             "options": [
-              "Before turning it on",
-              "After using it and turning off the engine",
-              "When the voltage drops",
-              "When the cables heat up"
+              "Push down firmly",
+              "Turn it clockwise",
+              "Press the ON button",
+              "Hold it with both hands"
             ]
           }
         ]
@@ -451,172 +444,157 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the food processor on a clean, flat surface.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that the power cord and plug are not damaged.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Insert the bowl onto the base and turn it clockwise until it locks.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Attach the blade carefully and fit the lid securely.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Plug the machine into a 230V outlet before use.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Add the ingredients into the bowl.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Choose the correct blade for slicing, grating, or mixing.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Turn the control knob to select the desired speed.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Press “ON” to start and “OFF” to stop.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Use the “Pulse” button for short bursts.",
           "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
-          "audio": "assets/audio/t_11.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the food processor on a clean, flat surface.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that the power cord and plug are not damaged.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Insert the bowl onto the base and turn it clockwise until it locks.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Attach the blade carefully and fit the lid securely.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Plug the machine into a 230V outlet before use.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Add the ingredients into the bowl.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Choose the correct blade for slicing, grating, or mixing.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Turn the control knob to select the desired speed.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Press “ON” to start and “OFF” to stop.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Use the “Pulse” button for short bursts.",
           "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
-          "audio": "assets/audio/t_11.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the food processor on a clean, flat surface.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that the power cord and plug are not damaged.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Insert the bowl onto the base and turn it clockwise until it locks.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Attach the blade carefully and fit the lid securely.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Plug the machine into a 230V outlet before use.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Add the ingredients into the bowl.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Choose the correct blade for slicing, grating, or mixing.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Turn the control knob to select the desired speed.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Press “ON” to start and “OFF” to stop.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Use the “Pulse” button for short bursts.",
           "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
-          "audio": "assets/audio/t_11.mp3"
         }
       ]
     }
