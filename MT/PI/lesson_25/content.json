@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'g'overnor",
+        "word_text": "'g'alvanic isolator",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Adjusting the 'g'overnor needs the most careful working style to keep the engine speed stable.",
+        "sentence_text": "The most careful technician needs to install the 'g'alvanic isolator.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'g'udgeon pin",
+        "word_text": "'g'round resistance tester",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Fitting the 'g'udgeon pin correctly requires the most accurate work during piston assembly.",
+        "sentence_text": "A 'g'round resistance tester should be used by the most responsible mechanic.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'g'rinding wheel",
+        "word_text": "re'g'ulator",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Using a 'g'rinding wheel safely demands the most responsible behaviour in the workshop.",
+        "sentence_text": "The most skilled worker needs to adjust the re'g'ulator.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "i'g'nition",
+        "word_text": "se'g'mented",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Testing the i'g'nition involves the most basic technical skill in the system.",
+        "sentence_text": "Assembling se'g'mented parts needs the most precise fitter.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -74,7 +74,7 @@
         "audio": "assets/audio/a_2_i_ex.mp3"
       },
       "activity_2_a": {
-         "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
         "audio": "assets/audio/a_4_i_c.mp3"
       },
       "activity_2_b": {
@@ -344,48 +344,51 @@
     "content": {
       "activity_a": {
         "content": {
-          "title": "Digital Alternator Tester – Instruction Manual",
+          "title": "Medium Range Generator – Instruction Manual",
           "sections": [
             {
               "heading": "Installation",
               "steps": [
-                "Place the tester on a flat, dry surface near the vehicle.",
-                "Check that the cables and clamps are clean and not damaged.",
-                "Connect the red clamp to the battery’s positive terminal (+).",
-                "Connect the black clamp to the negative terminal (–).",
-                "Switch on the power button and wait for the display to light up.",
-                "Select the correct vehicle battery type on the menu (12V or 24V)."
+                "Place the generator on a flat, firm surface in a well-ventilated area.",
+                "Check that the fuel tank and oil levels are filled to the recommended marks.",
+                "Make sure all cables and terminals are dry and properly connected.",
+                "Keep the generator at least two metres away from walls or other equipment.",
+                "Connect the output cable securely to the main switch or machine input.",
+                "Ensure the circuit breaker is in the OFF position before starting the engine."
               ]
             },
             {
               "heading": "Safety Tips",
               "steps": [
-                "Always wear safety gloves and eye protection when working near batteries.",
-                "Never connect the clamps to the wrong terminals.",
-                "Do not use the tester on a damaged or leaking battery.",
-                "Keep the tester away from water, oil, and direct sunlight.",
-                "Do not touch metal parts while the engine is running."
+                "Do not operate the generator indoors or in closed spaces—carbon monoxide is dangerous.",
+                "Always wear ear protection and gloves.",
+                "Keep children and untrained people away from the generator.",
+                "Never refuel while the engine is running or hot.",
+                "Turn off the generator immediately if you smell fuel or see smoke."
               ]
             },
             {
               "heading": "Operation",
               "steps": [
-                "Start the vehicle’s engine.",
-                "Wait a few seconds for the voltage reading to stabilize.",
-                "Read the alternator output shown on the digital display.",
-                "Compare the voltage with the standard range (13.5V – 14.5V).",
-                "Use the “Load Test” button to check alternator performance under load.",
-                "Press “Save” to record the reading or “Reset” to start a new test."
+                "Check that all connections are tight and secure.",
+                "Turn the fuel valve to the ON position.",
+                "Switch the choke lever to “CLOSE” for a cold start.",
+                "Pull the recoil starter or press the start button until the engine runs.",
+                "Move the choke lever to “OPEN” after a few seconds.",
+                "Switch the circuit breaker to ON to supply power to connected equipment.",
+                "Do not overload the generator—stay within the rated wattage.",
+                "When finished, turn the circuit breaker OFF, then switch off the engine."
               ]
             },
             {
               "heading": "Maintenance",
               "steps": [
-                "Turn off and disconnect the tester after each use.",
-                "Wipe the surface with a dry or slightly damp cloth.",
-                "Keep the clamps and cables clean and dry.",
-                "Check the display screen for cracks or loose connections.",
-                "Store the tester in its case in a cool, dust-free place."
+                "Switch off and cool the generator before maintenance.",
+                "Check and change the engine oil regularly (every 100 hours of operation).",
+                "Clean or replace the air filter every month for airflow efficiency.",
+                "Drain old fuel if the generator is unused for long periods.",
+                "Keep the unit clean and free from dust, mud, and oil stains.",
+                "Store the generator in a dry, sheltered place."
               ]
             }
           ]
@@ -393,57 +396,57 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What should you never do while using the tester?",
-            "answer": "Handle metal parts while the engine is running",
+            "question": "What must you check before starting the generator?",
+            "answer": "Fuel and oil levels",
             "options": [
-              "Handle metal parts while the engine is running",
-              "Look at the display",
-              "Wear gloves",
-              "Check the battery label"
+              "The choke position only",
+              "The weather",
+              "Fuel and oil levels",
+              "The load connector"
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why is it important to match the correct battery type (12V or 24V)?",
-            "answer": "It ensures accurate readings and prevents damage",
+            "question": "When should you move the choke lever to “OPEN”?",
+            "answer": "After the engine starts",
             "options": [
-              "It looks more professional",
-              "It saves electricity",
-              "It ensures accurate readings and prevents damage",
-              "It makes the tester faster"
+              "Before starting",
+              "When refuelling",
+              "After the engine starts",
+              "During maintenance"
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What does the “Load Test” button do?",
-            "answer": "Checks alternator performance under load",
+            "question": "What should you never do while the engine is running?",
+            "answer": "Refuel the generator",
             "options": [
-              "Checks alternator performance under load",
-              "Turns the engine off",
-              "Starts the fan motor",
-              "Cleans the clamps"
+              "Adjust voltage",
+              "Refuel the generator",
+              "Use ear protection",
+              "Monitor the load"
             ]
           },
           {
             "id": "l_18_4",
-            "question": "How should the tester be cleaned?",
-            "answer": "With a dry or slightly damp cloth",
+            "question": "How can you prevent overloading the generator?",
+            "answer": "Stay within rated wattage",
             "options": [
-              "With soap and water",
-              "With a wire brush",
-              "With a dry or slightly damp cloth",
-              "By blowing air"
+              "Use thinner wires",
+              "Run it for fewer hours",
+              "Stay within rated wattage",
+              "Add more fuel"
             ]
           },
           {
             "id": "l_18_5",
-            "question": "When should you disconnect the tester?",
-            "answer": "After using it and turning off the engine",
+            "question": "Why should the air filter be cleaned regularly?",
+            "answer": "To maintain airflow and efficiency",
             "options": [
-              "Before turning it on",
-              "After using it and turning off the engine",
-              "When the voltage drops",
-              "When the cables heat up"
+              "To reduce vibration",
+              "To make it heavier",
+              "To maintain airflow and efficiency",
+              "To cool the exhaust"
             ]
           }
         ]
@@ -451,171 +454,171 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the generator on a flat, firm surface in a well-ventilated area.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that the fuel tank and oil levels are filled to the recommended marks.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Make sure all cables and terminals are dry and properly connected.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Keep the generator at least two metres away from walls or other equipment.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Connect the output cable securely to the main switch or machine input.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Ensure the circuit breaker is in the OFF position before starting the engine.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Do not operate the generator indoors or in closed spaces—carbon monoxide is dangerous.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Always wear ear protection and gloves.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Keep children and untrained people away from the generator.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Never refuel while the engine is running or hot.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
+          "text": "Turn off the generator immediately if you smell fuel or see smoke.",
           "audio": "assets/audio/t_11.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the generator on a flat, firm surface in a well-ventilated area.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that the fuel tank and oil levels are filled to the recommended marks.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Make sure all cables and terminals are dry and properly connected.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Keep the generator at least two metres away from walls or other equipment.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Connect the output cable securely to the main switch or machine input.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Ensure the circuit breaker is in the OFF position before starting the engine.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Do not operate the generator indoors or in closed spaces—carbon monoxide is dangerous.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Always wear ear protection and gloves.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Keep children and untrained people away from the generator.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Never refuel while the engine is running or hot.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
+          "text": "Turn off the generator immediately if you smell fuel or see smoke.",
           "audio": "assets/audio/t_11.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the generator on a flat, firm surface in a well-ventilated area.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that the fuel tank and oil levels are filled to the recommended marks.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Make sure all cables and terminals are dry and properly connected.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Keep the generator at least two metres away from walls or other equipment.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Connect the output cable securely to the main switch or machine input.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Ensure the circuit breaker is in the OFF position before starting the engine.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Do not operate the generator indoors or in closed spaces—carbon monoxide is dangerous.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Always wear ear protection and gloves.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Keep children and untrained people away from the generator.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Never refuel while the engine is running or hot.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
+          "text": "Turn off the generator immediately if you smell fuel or see smoke.",
           "audio": "assets/audio/t_11.mp3"
         }
       ]
