@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "abra's'ion",
+        "word_text": "fu's'ion",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Abra's'ion on metal surfaces becomes worse when lubrication is insufficient.",
+        "sentence_text": "Fu's'ion cooking creates the richest flavours compared to traditional recipes.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "colli's'ion",
+        "word_text": "mea's'ure",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Improper spacing is going to cause the worst colli's'ion between moving parts.",
+        "sentence_text": "The chef achieved the most precise mea's'ure of ingredient quality.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "mea's'ure",
+        "word_text": "expo's'ure",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This sensor provides the most accurate mea's'ure of engine performance.",
+        "sentence_text": "This facility achieves the most efficient quality expo's'ure control.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "expo's'ure",
+        "word_text": "revi's'ion",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This camera ensures the best expo's'ure for accurate road detection.",
+        "sentence_text": "This recipe undergoes the most thorough revi's'ion for consistency.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -264,126 +264,118 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
-        "examples": [
-          {
-            "id": "g_b_1",
-            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
-            "options": ["must", "can’t", "may", "should"],
-            "answer": "may"
-          }
-        ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Should I __________ the starter again before checking the battery connections?",
-            "options": ["testing", "tests", "test"],
-            "answer": "test"
+            "sentence": "Should I __________ the vacuum tumbler again before starting the marination process?",
+            "options": ["calibrates", "calibrate", "calibrating"],
+            "answer": "calibrate"
           },
           {
             "id": "g_b_2",
-            "sentence": "Why does this suspension system feel __________ stable than the older setup?",
-            "options": ["most", "more", "very"],
+            "sentence": "Is this pasteurisation unit __________ efficient than the older system?",
+            "options": ["most", "more", "much"],
             "answer": "more"
           },
           {
             "id": "g_b_3",
-            "sentence": "Are we going to __________ the damaged silencer with a reinforced aftermarket model?",
-            "options": ["replacing", "replaces", "replace"],
+            "sentence": "Are we going to __________ the manual slicer with an automated model?",
+            "options": ["replaces", "replacing", "replace"],
             "answer": "replace"
           },
           {
             "id": "g_b_4",
-            "sentence": "Why did the speedometer show the __________ inaccurate reading during yesterday’s road test?",
+            "sentence": "Why did we identify this batch of pastry filling as the __________ contaminated during inspection?",
             "options": ["more", "very", "most"],
             "answer": "most"
           },
           {
             "id": "g_b_5",
-            "sentence": "Can I __________ the wheel alignment to improve handling on uneven rural roads?",
-            "options": ["adjusts", "adjusting", "adjust"],
-            "answer": "adjust"
+            "sentence": "Can I __________ the speed to prevent overheating in the dough mixer?",
+            "options": ["reducing", "reduces", "reduce"],
+            "answer": "reduce"
           },
           {
             "id": "g_b_6",
-            "sentence": "Is this diagnostic scanner __________ accurate in measuring engine faults than manual testing?",
-            "options": ["most", "more", "very"],
-            "answer": "more"
+            "sentence": "Does the blast freezer maintain __________ temperature than the cold room?",
+            "options": ["most cold", "colder", "coldest"],
+            "answer": "colder"
           },
           {
             "id": "g_b_7",
-            "sentence": "Will the upgraded brake system provide the __________ reliable stopping performance under heavy load?",
+            "sentence": "Will this conveyor system provide the __________ hygienic transfer during packaging?",
             "options": ["more", "very", "most"],
             "answer": "most"
           },
           {
             "id": "g_b_8",
-            "sentence": "Should I __________ the torque wrench before tightening the suspension mounting bolts?",
+            "sentence": "Should I __________ the digital moisture analyser for quality control this morning?",
             "options": ["uses", "using", "use"],
             "answer": "use"
           },
           {
             "id": "g_b_9",
-            "sentence": "Why did the engine __________ while we tested fuel delivery this morning?",
+            "sentence": "Why did the automated filling machine __________ during yesterday’s production run?",
             "options": ["stopping", "stops", "stop"],
             "answer": "stop"
           },
           {
             "id": "g_b_10",
-            "sentence": "May I __________ the exhaust clearance before installing the new silencer assembly?",
-            "options": ["checking", "checks", "check"],
-            "answer": "check"
+            "sentence": "May I __________ the delicate equipment using this sanitising process?",
+            "options": ["cleans", "cleaning", "clean"],
+            "answer": "clean"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Should I test the starter again before checking the battery connections?",
+          "text": "Should I calibrate the vacuum tumbler again before starting the marination process?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "Why does this suspension system feel more stable than the older setup?",
+          "text": "Is this pasteurisation unit more efficient than the older system?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "Are we going to replace the damaged silencer with a reinforced aftermarket model?",
+          "text": "Are we going to replace the manual slicer with an automated model?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "Why did the speedometer show the most inaccurate reading during yesterday’s road test?",
+          "text": "Why did we identify this batch of pastry filling as the most contaminated during inspection?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Can I adjust the wheel alignment to improve handling on uneven rural roads?",
+          "text": "Can I reduce the speed to prevent overheating in the dough mixer?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "Is this diagnostic scanner more accurate in measuring engine faults than manual testing?",
+          "text": "Does the blast freezer maintain a colder temperature than the cold room?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "Will the upgraded brake system provide the most reliable stopping performance under heavy load?",
+          "text": "Will this conveyor system provide the most hygienic transfer during packaging?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "Should I use the torque wrench before tightening the suspension mounting bolts?",
+          "text": "Should I use the digital moisture analyser for quality control this morning?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "Why did the engine stop while we tested fuel delivery this morning?",
+          "text": "Why did the automated filling machine stop during yesterday’s production run?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "May I check the exhaust clearance before installing the new silencer assembly?",
+          "text": "May I clean the delicate equipment using this sanitising process?",
           "audio": "assets/audio/g_b_10.mp3"
         }
       ]
