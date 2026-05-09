@@ -1,0 +1,654 @@
+{
+  "meta": {
+    "lesson_no": 25,
+    "level": "Pre-Intermediate",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "/g/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'g'overnor",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Adjusting the 'g'overnor needs the most careful working style to keep the engine speed stable.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'g'udgeon pin",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Fitting the 'g'udgeon pin correctly requires the most accurate work during piston assembly.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'g'rinding wheel",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Using a 'g'rinding wheel safely demands the most responsible behaviour in the workshop.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "i'g'nition",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Testing the i'g'nition involves the most basic technical skill in the system.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-5",
+    "focus": "...",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+         "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["modern", "more modern", "the most modern"],
+        ["intelligent", "more intelligent", "the most intelligent"],
+        ["durable", "more durable", "the most durable"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/d_1.jpeg",
+        "text_a": "This workbench feels sturdier than other workbenches; it must be quite durable.",
+        "text_b": "Yes, it is. In fact, it is the most durable workbench here, and it can handle very heavy loads.",
+        "audio_a": "assets/audio/d_1_a.mp3",
+        "audio_b": "assets/audio/d_1_b.mp3",
+        "text_b_speaking": "________________________________, and it can handle very heavy loads."
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/d_2.jpeg",
+        "text_a": "This training module looks harder than the others; it must be quite intensive.",
+        "text_b": "Yes, it is. In fact, it is the most intensive module here, and it prepares trainees for complex practical tasks.",
+        "audio_a": "assets/audio/d_2_a.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
+        "text_b_speaking": "________________________________, and it prepares trainees for complex practical tasks."
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/d_3.jpeg",
+        "text_a": "This schedule seems harder than last year’s schedule; it must be quite demanding.",
+        "text_b": "Yes, it is. In fact, it is the most demanding schedule here, and it requires careful planning.",
+        "audio_a": "assets/audio/d_3_a.mp3",
+        "audio_b": "assets/audio/d_3_b.mp3",
+        "text_b_speaking": "________________________________, and it requires careful planning."
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "word_2": "Durable",
+        "word_1": "able to last a long time without breaking or wearing out."
+      },
+      {
+        "id": "k_2",
+        "word_2": "Demanding",
+        "word_1": "needing a lot of effort, skill, or attention."
+      },
+      {
+        "id": "k_3",
+        "word_2": "Detailed",
+        "word_1": "done very carefully, with attention to every aspect."
+      },
+      {
+        "id": "k_4",
+        "word_2": "Time-consuming",
+        "word_1": "taking a long time to complete."
+      },
+      {
+        "id": "k_5",
+        "word_2": "Stable",
+        "word_1": "not likely to move, change, or fall over."
+      },
+      {
+        "id": "k_6",
+        "word_2": "Modern",
+        "word_1": "using new ideas, designs, or technology."
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/d_4.jpeg",
+        "text_a": "This grinder’s manual looks more detailed than the last one; it must be quite thorough.",
+        "text_b": "Yes, it is. In fact, it is the most thorough manual here, and it covers every procedure.",
+        "audio_a": "assets/audio/d_4_a.mp3",
+        "audio_b": "assets/audio/d_4_b.mp3",
+        "text_b_speaking": "________________________________, and it covers every procedure."
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/d_5.jpeg",
+        "text_a": "This delivery plan seems harder to manage than the one we had before; it must be quite time-consuming.",
+        "text_b": "Yes, it is. In fact, it is the most time-consuming plan here, and it requires careful coordination.",
+        "audio_a": "assets/audio/d_5_a.mp3",
+        "audio_b": "assets/audio/d_5_b.mp3",
+        "text_b_speaking": "________________________________, and it requires careful coordination."
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/d_6.jpeg",
+        "text_a": "This software interface looks harder to use than the last one; it must be quite complicated.",
+        "text_b": "Yes, it is. In fact, it is the most complicated interface here, and only advanced users access it.",
+        "audio_a": "assets/audio/d_6_a.mp3",
+        "audio_b": "assets/audio/d_6_b.mp3",
+        "text_b_speaking": "________________________________, and only advanced users access it."
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/d_7.jpeg",
+        "text_a": "This ladder looks stronger than the others; it must be quite stable.",
+        "text_b": "Yes, it is. In fact, it is the most stable ladder here, and we use it for high-level work.",
+        "audio_a": "assets/audio/d_7_a.mp3",
+        "audio_b": "assets/audio/d_7_b.mp3",
+        "text_b_speaking": "________________________________, and we use it for high-level work."
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/d_8.jpeg",
+        "text_a": "This plotter looks newer than the others; it must be quite modern.",
+        "text_b": "Yes, it is. In fact, it is the most modern plotter here, and we use it for high-volume projects.",
+        "audio_a": "assets/audio/d_8_a.mp3",
+        "audio_b": "assets/audio/d_8_b.mp3",
+        "text_b_speaking": "________________________________, and we use it for high-volume projects."
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/d_9.jpeg",
+        "text_a": "This pneumatic drill sounds stronger than the others; it must be quite powerful.",
+        "text_b": "Yes, it is. In fact, it is the most powerful drill here, and it can handle tough materials.",
+        "audio_a": "assets/audio/d_9_a.mp3",
+        "audio_b": "assets/audio/d_9_b.mp3",
+        "text_b_speaking": "________________________________, and it can handle tough materials."
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-13",
+    "instructions": {
+      "activity_a": {
+        "text": "Match column A to column B. \n A තීරුව B තීරුවට ගළපන්න. \n A நெடுவரிசையை B நெடுவரிசையுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_j.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-3.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "colunm_a": "feeling sure about your abilities and decisions",
+            "colunm_b": "confident"
+          },
+          {
+            "id": "g_a_2",
+            "colunm_a": "able to change easily when situations or tasks change",
+            "colunm_b": "adaptable"
+          },
+          {
+            "id": "g_a_3",
+            "colunm_a": "someone you can trust to do tasks correctly and on time",
+            "colunm_b": "reliable"
+          },
+          {
+            "id": "g_a_4",
+            "colunm_a": "willing to work well with others and help the team",
+            "colunm_b": "cooperative"
+          },
+          {
+            "id": "g_a_5",
+            "colunm_a": "having knowledge or skill gained from doing a job many times",
+            "colunm_b": "experienced"
+          },
+          {
+            "id": "g_a_6",
+            "colunm_a": "eager and willing to work hard and achieve goals",
+            "colunm_b": "motivated"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "I am the most organised automobile trainee here today.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "We are the most motivated students in this class.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "She is the most reliable technician on duty today.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "They are the most cooperative team during practical sessions.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "He is the most experienced supervisor in this department.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "We remain the most adaptable workers under sudden pressure.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "I was the most confident speaker in meetings yesterday.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "She is the most communicative instructor in our centre.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "They are the most responsible staff members for ensuring safety.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "I was the most detail-oriented trainee during final inspection.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "READING-1",
+    "instructions": {
+      "activity_a": {
+        "text": "Read the following passage and answer the questions given below. \nපහත දැක්වෙන ඡේදය කියවා ඉන්පසු දී ඇති ප්‍රශ්නවලට පිළිතුරු සපයන්න.\nபின்வரும் பத்தியைப் படித்து, அதற்குக் கீழே கொடுக்கப்பட்டுள்ள வினாக்களுக்கு விடையளிக்கவும்.",
+        "audio": "assets/audio/a_4_i_p.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": {
+          "title": "Digital Alternator Tester – Instruction Manual",
+          "sections": [
+            {
+              "heading": "Installation",
+              "steps": [
+                "Place the tester on a flat, dry surface near the vehicle.",
+                "Check that the cables and clamps are clean and not damaged.",
+                "Connect the red clamp to the battery’s positive terminal (+).",
+                "Connect the black clamp to the negative terminal (–).",
+                "Switch on the power button and wait for the display to light up.",
+                "Select the correct vehicle battery type on the menu (12V or 24V)."
+              ]
+            },
+            {
+              "heading": "Safety Tips",
+              "steps": [
+                "Always wear safety gloves and eye protection when working near batteries.",
+                "Never connect the clamps to the wrong terminals.",
+                "Do not use the tester on a damaged or leaking battery.",
+                "Keep the tester away from water, oil, and direct sunlight.",
+                "Do not touch metal parts while the engine is running."
+              ]
+            },
+            {
+              "heading": "Operation",
+              "steps": [
+                "Start the vehicle’s engine.",
+                "Wait a few seconds for the voltage reading to stabilize.",
+                "Read the alternator output shown on the digital display.",
+                "Compare the voltage with the standard range (13.5V – 14.5V).",
+                "Use the “Load Test” button to check alternator performance under load.",
+                "Press “Save” to record the reading or “Reset” to start a new test."
+              ]
+            },
+            {
+              "heading": "Maintenance",
+              "steps": [
+                "Turn off and disconnect the tester after each use.",
+                "Wipe the surface with a dry or slightly damp cloth.",
+                "Keep the clamps and cables clean and dry.",
+                "Check the display screen for cracks or loose connections.",
+                "Store the tester in its case in a cool, dust-free place."
+              ]
+            }
+          ]
+        },
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What should you never do while using the tester?",
+            "answer": "Handle metal parts while the engine is running",
+            "options": [
+              "Handle metal parts while the engine is running",
+              "Look at the display",
+              "Wear gloves",
+              "Check the battery label"
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Why is it important to match the correct battery type (12V or 24V)?",
+            "answer": "It ensures accurate readings and prevents damage",
+            "options": [
+              "It looks more professional",
+              "It saves electricity",
+              "It ensures accurate readings and prevents damage",
+              "It makes the tester faster"
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "What does the “Load Test” button do?",
+            "answer": "Checks alternator performance under load",
+            "options": [
+              "Checks alternator performance under load",
+              "Turns the engine off",
+              "Starts the fan motor",
+              "Cleans the clamps"
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "How should the tester be cleaned?",
+            "answer": "With a dry or slightly damp cloth",
+            "options": [
+              "With soap and water",
+              "With a wire brush",
+              "With a dry or slightly damp cloth",
+              "By blowing air"
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "When should you disconnect the tester?",
+            "answer": "After using it and turning off the engine",
+            "options": [
+              "Before turning it on",
+              "After using it and turning off the engine",
+              "When the voltage drops",
+              "When the cables heat up"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Check that the cables and clamps are clean and not damaged.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Connect the black clamp to the negative terminal (–).",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Switch on the power button and wait for the display to light up.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Never connect the clamps to the wrong terminals.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Do not use the tester on a damaged or leaking battery.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Do not touch metal parts while the engine is running.",
+          "audio": "assets/audio/t_11.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Check that the cables and clamps are clean and not damaged.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Connect the black clamp to the negative terminal (–).",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Switch on the power button and wait for the display to light up.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Never connect the clamps to the wrong terminals.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Do not use the tester on a damaged or leaking battery.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Do not touch metal parts while the engine is running.",
+          "audio": "assets/audio/t_11.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Check that the cables and clamps are clean and not damaged.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Connect the black clamp to the negative terminal (–).",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Switch on the power button and wait for the display to light up.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Never connect the clamps to the wrong terminals.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Do not use the tester on a damaged or leaking battery.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Do not touch metal parts while the engine is running.",
+          "audio": "assets/audio/t_11.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
