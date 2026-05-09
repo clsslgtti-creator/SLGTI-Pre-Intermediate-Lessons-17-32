@@ -33,9 +33,9 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "abra's'ion",
+        "word_text": "ver's'ion",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Abra's'ion on metal surfaces becomes worse when lubrication is insufficient.",
+        "sentence_text": "The latest ver's'ion is faster than the previous release.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -49,17 +49,17 @@
       },
       {
         "id": "p_3",
-        "word_text": "mea's'ure",
+        "word_text": "vi's'ual",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This sensor provides the most accurate mea's'ure of engine performance.",
+        "sentence_text": "This software provides the most advanced vi's'ual data analytics tool.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "expo's'ure",
+        "word_text": "deci's'ion",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This camera ensures the best expo's'ure for accurate road detection.",
+        "sentence_text": "This AI system provides the most reliable deci's'ion framework.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -264,72 +264,64 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
-        "examples": [
-          {
-            "id": "g_b_1",
-            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
-            "options": ["must", "can’t", "may", "should"],
-            "answer": "may"
-          }
-        ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Should I __________ the starter again before checking the battery connections?",
-            "options": ["testing", "tests", "test"],
-            "answer": "test"
+            "sentence": "Should I __________ the scanner again before digitising these technical drawings?",
+            "options": ["scanning", "scans", "operate"],
+            "answer": "operate"
           },
           {
             "id": "g_b_2",
-            "sentence": "Why does this suspension system feel __________ stable than the older setup?",
+            "sentence": "Why does this device casing feel __________ durable than the older unit?",
             "options": ["most", "more", "very"],
             "answer": "more"
           },
           {
             "id": "g_b_3",
-            "sentence": "Are we going to __________ the damaged silencer with a reinforced aftermarket model?",
+            "sentence": "Are we going to __________ the faulty signal repeater during today’s network upgrade?",
             "options": ["replacing", "replaces", "replace"],
             "answer": "replace"
           },
           {
             "id": "g_b_4",
-            "sentence": "Why did the speedometer show the __________ inaccurate reading during yesterday’s road test?",
+            "sentence": "Why did the system log show the __________ frequent connection error yesterday afternoon?",
             "options": ["more", "very", "most"],
             "answer": "most"
           },
           {
             "id": "g_b_5",
-            "sentence": "Can I __________ the wheel alignment to improve handling on uneven rural roads?",
-            "options": ["adjusts", "adjusting", "adjust"],
-            "answer": "adjust"
+            "sentence": "Can I __________ the server load to prevent overheating during peak usage hours?",
+            "options": ["reducing", "reduces", "reduce"],
+            "answer": "reduce"
           },
           {
             "id": "g_b_6",
-            "sentence": "Is this diagnostic scanner __________ accurate in measuring engine faults than manual testing?",
+            "sentence": "Is this monitoring software __________ accurate in detecting faults than manual checking?",
             "options": ["most", "more", "very"],
             "answer": "more"
           },
           {
             "id": "g_b_7",
-            "sentence": "Will the upgraded brake system provide the __________ reliable stopping performance under heavy load?",
+            "sentence": "Will the safety isolator provide the __________ reliable protection during hardware maintenance work?",
             "options": ["more", "very", "most"],
             "answer": "most"
           },
           {
             "id": "g_b_8",
-            "sentence": "Should I __________ the torque wrench before tightening the suspension mounting bolts?",
+            "sentence": "Should I __________ the antivirus tool before connecting external storage devices?",
             "options": ["uses", "using", "use"],
             "answer": "use"
           },
           {
             "id": "g_b_9",
-            "sentence": "Why did the engine __________ while we tested fuel delivery this morning?",
+            "sentence": "Why did the network service __________ while we tested the backup connection yesterday?",
             "options": ["stopping", "stops", "stop"],
             "answer": "stop"
           },
           {
             "id": "g_b_10",
-            "sentence": "May I __________ the exhaust clearance before installing the new silencer assembly?",
+            "sentence": "May I __________ the cable routing before closing the equipment casing panels?",
             "options": ["checking", "checks", "check"],
             "answer": "check"
           }
@@ -338,52 +330,52 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Should I test the starter again before checking the battery connections?",
+          "text": "Should I operate the scanner again before digitising these technical drawings?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "Why does this suspension system feel more stable than the older setup?",
+          "text": "Why does this device casing feel more durable than the older unit?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "Are we going to replace the damaged silencer with a reinforced aftermarket model?",
+          "text": "Are we going to replace the faulty signal repeater during today’s network upgrade?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "Why did the speedometer show the most inaccurate reading during yesterday’s road test?",
+          "text": "Why did the system log show the most frequent connection error yesterday afternoon?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Can I adjust the wheel alignment to improve handling on uneven rural roads?",
+          "text": "Can I reduce the server load to prevent overheating during peak usage hours?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "Is this diagnostic scanner more accurate in measuring engine faults than manual testing?",
+          "text": "Is this monitoring software more accurate in detecting faults than manual checking?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "Will the upgraded brake system provide the most reliable stopping performance under heavy load?",
+          "text": "Will the safety isolator provide the most reliable protection during hardware maintenance work?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "Should I use the torque wrench before tightening the suspension mounting bolts?",
+          "text": "Should I use the antivirus tool before connecting external storage devices?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "Why did the engine stop while we tested fuel delivery this morning?",
+          "text": "Why did the network service stop while we tested the backup connection yesterday?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "May I check the exhaust clearance before installing the new silencer assembly?",
+          "text": "May I check the cable routing before closing the equipment casing panels?",
           "audio": "assets/audio/g_b_10.mp3"
         }
       ]
