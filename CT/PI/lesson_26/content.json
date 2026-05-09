@@ -33,25 +33,25 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "abra's'ion",
+        "word_text": "ero's'ion",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Abra's'ion on metal surfaces becomes worse when lubrication is insufficient.",
+        "sentence_text": "Ero's'ion becomes worse when surface drainage is poorly designed.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "colli's'ion",
+        "word_text": "mea's'ure",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Improper spacing is going to cause the worst colli's'ion between moving parts.",
+        "sentence_text": "The worker achieved the most accurate mea's'ure of beam length.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "mea's'ure",
+        "word_text": "preci's'ion",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This sensor provides the most accurate mea's'ure of engine performance.",
+        "sentence_text": "The technician achieved the most accurate preci's'ion during the final measurement.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "expo's'ure",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This camera ensures the best expo's'ure for accurate road detection.",
+        "sentence_text": "This material shows the most durable expo's'ure to harsh weather.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -264,72 +264,64 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
-        "examples": [
-          {
-            "id": "g_b_1",
-            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
-            "options": ["must", "can’t", "may", "should"],
-            "answer": "may"
-          }
-        ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Should I __________ the starter again before checking the battery connections?",
-            "options": ["testing", "tests", "test"],
-            "answer": "test"
+            "sentence": "Should I __________ the surveyor again before marking levels for the foundation layout?",
+            "options": ["checking", "checks", "check"],
+            "answer": "check"
           },
           {
             "id": "g_b_2",
-            "sentence": "Why does this suspension system feel __________ stable than the older setup?",
-            "options": ["most", "more", "very"],
-            "answer": "more"
+            "sentence": "Why does this masonry saw cut __________ than the older machine?",
+            "options": ["smoothest", "more smooth", "smoother"],
+            "answer": "smoother"
           },
           {
             "id": "g_b_3",
-            "sentence": "Are we going to __________ the damaged silencer with a reinforced aftermarket model?",
+            "sentence": "Are we going to __________ the damaged casing before pouring the concrete slab?",
             "options": ["replacing", "replaces", "replace"],
             "answer": "replace"
           },
           {
             "id": "g_b_4",
-            "sentence": "Why did the speedometer show the __________ inaccurate reading during yesterday’s road test?",
+            "sentence": "Why did the site inspection identify this column alignment as the __________ inaccurate?",
             "options": ["more", "very", "most"],
             "answer": "most"
           },
           {
             "id": "g_b_5",
-            "sentence": "Can I __________ the wheel alignment to improve handling on uneven rural roads?",
-            "options": ["adjusts", "adjusting", "adjust"],
+            "sentence": "Can I __________ the scaffold height to improve access near the beam edge?",
+            "options": ["adjusting", "adjusts", "adjust"],
             "answer": "adjust"
           },
           {
             "id": "g_b_6",
-            "sentence": "Is this diagnostic scanner __________ accurate in measuring engine faults than manual testing?",
+            "sentence": "Is the laser level __________ accurate in measuring site elevations than the manual method?",
             "options": ["most", "more", "very"],
             "answer": "more"
           },
           {
             "id": "g_b_7",
-            "sentence": "Will the upgraded brake system provide the __________ reliable stopping performance under heavy load?",
+            "sentence": "Will the new safety harness provide the __________ reliable fall protection during high-level work?",
             "options": ["more", "very", "most"],
             "answer": "most"
           },
           {
             "id": "g_b_8",
-            "sentence": "Should I __________ the torque wrench before tightening the suspension mounting bolts?",
+            "sentence": "Should I __________ the concrete mixer before starting continuous batch operations?",
             "options": ["uses", "using", "use"],
             "answer": "use"
           },
           {
             "id": "g_b_9",
-            "sentence": "Why did the engine __________ while we tested fuel delivery this morning?",
+            "sentence": "Why did the vibration compactor __________ while we consolidated the footing area yesterday?",
             "options": ["stopping", "stops", "stop"],
             "answer": "stop"
           },
           {
             "id": "g_b_10",
-            "sentence": "May I __________ the exhaust clearance before installing the new silencer assembly?",
+            "sentence": "May I __________ the formwork alignment before fixing the final casing panels?",
             "options": ["checking", "checks", "check"],
             "answer": "check"
           }
@@ -338,52 +330,52 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Should I test the starter again before checking the battery connections?",
+          "text": "Should I check the surveyor again before marking levels for the foundation layout?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "Why does this suspension system feel more stable than the older setup?",
+          "text": "Why does this masonry saw cut smoother than the older machine?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "Are we going to replace the damaged silencer with a reinforced aftermarket model?",
+          "text": "Are we going to replace the damaged casing before pouring the concrete slab?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "Why did the speedometer show the most inaccurate reading during yesterday’s road test?",
+          "text": "Why did the site inspection identify this column alignment as the most inaccurate?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Can I adjust the wheel alignment to improve handling on uneven rural roads?",
+          "text": "Can I adjust the scaffold height to improve access near the beam edge?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "Is this diagnostic scanner more accurate in measuring engine faults than manual testing?",
+          "text": "Is the laser level more accurate in measuring site elevations than the manual method?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "Will the upgraded brake system provide the most reliable stopping performance under heavy load?",
+          "text": "Will the new safety harness provide the most reliable fall protection during high-level work?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "Should I use the torque wrench before tightening the suspension mounting bolts?",
+          "text": "Should I use the concrete mixer before starting continuous batch operations?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "Why did the engine stop while we tested fuel delivery this morning?",
+          "text": "Why did the vibration compactor stop while we consolidated the footing area yesterday?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "May I check the exhaust clearance before installing the new silencer assembly?",
+          "text": "May I check the formwork alignment before fixing the final casing panels?",
           "audio": "assets/audio/g_b_10.mp3"
         }
       ]

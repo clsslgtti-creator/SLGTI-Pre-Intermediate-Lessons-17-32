@@ -264,14 +264,6 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
-        "examples": [
-          {
-            "id": "g_b_1",
-            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
-            "options": ["must", "can’t", "may", "should"],
-            "answer": "may"
-          }
-        ],
         "content": [
           {
             "id": "g_b_1",
