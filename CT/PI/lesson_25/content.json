@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'g'overnor",
+        "word_text": "'g'antry crane",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Adjusting the 'g'overnor needs the most careful working style to keep the engine speed stable.",
+        "sentence_text": "Operating the 'g'antry crane needs the most responsible behaviour on the construction site.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'g'udgeon pin",
+        "word_text": "'g'rader",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Fitting the 'g'udgeon pin correctly requires the most accurate work during piston assembly.",
+        "sentence_text": "Using the 'g'rader correctly requires the most careful driving skill during road work.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'g'rinding wheel",
+        "word_text": "'g'routing pump",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Using a 'g'rinding wheel safely demands the most responsible behaviour in the workshop.",
+        "sentence_text": "Handling the 'g'routing pump demands the most organised working method when sealing cracks.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "i'g'nition",
+        "word_text": "aggre'g'ate",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Testing the i'g'nition involves the most basic technical skill in the system.",
+        "sentence_text": "Testing aggre'g'ate size involves the most basic technical skill on site.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -344,48 +344,49 @@
     "content": {
       "activity_a": {
         "content": {
-          "title": "Digital Alternator Tester – Instruction Manual",
+          "title": "Compressor Machine – Instruction Manual",
           "sections": [
             {
               "heading": "Installation",
               "steps": [
-                "Place the tester on a flat, dry surface near the vehicle.",
-                "Check that the cables and clamps are clean and not damaged.",
-                "Connect the red clamp to the battery’s positive terminal (+).",
-                "Connect the black clamp to the negative terminal (–).",
-                "Switch on the power button and wait for the display to light up.",
-                "Select the correct vehicle battery type on the menu (12V or 24V)."
+                "Place the compressor on a firm, level surface near the work area.",
+                "Check that all hoses, valves, and fittings are secure.",
+                "Make sure the power supply matches the compressor’s voltage (230V or 400V).",
+                "Connect the air hose to the outlet valve and tighten it properly.",
+                "Ensure the air filter and oil level are in good condition before starting.",
+                "Switch on the power and allow the pressure gauge to reach the required level before using tools."
               ]
             },
             {
               "heading": "Safety Tips",
               "steps": [
-                "Always wear safety gloves and eye protection when working near batteries.",
-                "Never connect the clamps to the wrong terminals.",
-                "Do not use the tester on a damaged or leaking battery.",
-                "Keep the tester away from water, oil, and direct sunlight.",
-                "Do not touch metal parts while the engine is running."
+                "Always wear ear protection and safety goggles.",
+                "Do not point the air hose at yourself or others.",
+                "Never operate the compressor in a closed or wet area.",
+                "Keep hands, clothes, and tools away from moving parts.",
+                "Disconnect the power before servicing or adjusting any part."
               ]
             },
             {
               "heading": "Operation",
               "steps": [
-                "Start the vehicle’s engine.",
-                "Wait a few seconds for the voltage reading to stabilize.",
-                "Read the alternator output shown on the digital display.",
-                "Compare the voltage with the standard range (13.5V – 14.5V).",
-                "Use the “Load Test” button to check alternator performance under load.",
-                "Press “Save” to record the reading or “Reset” to start a new test."
+                "Turn on the main power switch.",
+                "Allow the compressor to build up pressure automatically.",
+                "Watch the pressure gauge until it reaches the desired pressure (usually 6–8 bar).",
+                "Attach the air tool securely before opening the valve.",
+                "Use the pressure regulator to control the air flow.",
+                "After use, turn off the compressor and release the air pressure slowly."
               ]
             },
             {
               "heading": "Maintenance",
               "steps": [
-                "Turn off and disconnect the tester after each use.",
-                "Wipe the surface with a dry or slightly damp cloth.",
-                "Keep the clamps and cables clean and dry.",
-                "Check the display screen for cracks or loose connections.",
-                "Store the tester in its case in a cool, dust-free place."
+                "Switch off and unplug the compressor before maintenance.",
+                "Drain the air tank daily to remove moisture.",
+                "Check and replace the air filter regularly.",
+                "Inspect hoses for leaks or cracks.",
+                "Change compressor oil according to the manufacturer’s schedule.",
+                "Store the compressor in a clean, dry place after use."
               ]
             }
           ]
@@ -393,57 +394,57 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What should you never do while using the tester?",
-            "answer": "Handle metal parts while the engine is running",
+            "question": "What must be checked before switching on the compressor?",
+            "answer": "The air filter and oil level",
             "options": [
-              "Handle metal parts while the engine is running",
-              "Look at the display",
-              "Wear gloves",
-              "Check the battery label"
+              "The pressure gauge reading",
+              "The air hose color",
+              "The air filter and oil level",
+              "The tool connection"
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why is it important to match the correct battery type (12V or 24V)?",
-            "answer": "It ensures accurate readings and prevents damage",
+            "question": "What should you do before servicing the compressor?",
+            "answer": "Disconnect the power",
             "options": [
-              "It looks more professional",
-              "It saves electricity",
-              "It ensures accurate readings and prevents damage",
-              "It makes the tester faster"
+              "Disconnect the power",
+              "Increase pressure",
+              "Add water",
+              "Adjust the hose"
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What does the “Load Test” button do?",
-            "answer": "Checks alternator performance under load",
+            "question": "What should you never do with the air hose?",
+            "answer": "Point it at others or yourself",
             "options": [
-              "Checks alternator performance under load",
-              "Turns the engine off",
-              "Starts the fan motor",
-              "Cleans the clamps"
+              "Use it for cleaning",
+              "Point it at others or yourself",
+              "Keep it coiled",
+              "Store it dry"
             ]
           },
           {
             "id": "l_18_4",
-            "question": "How should the tester be cleaned?",
-            "answer": "With a dry or slightly damp cloth",
+            "question": "What does the pressure regulator control?",
+            "answer": "The air flow",
             "options": [
-              "With soap and water",
-              "With a wire brush",
-              "With a dry or slightly damp cloth",
-              "By blowing air"
+              "The fuel level",
+              "The temperature",
+              "The air flow",
+              "The oil filter"
             ]
           },
           {
             "id": "l_18_5",
-            "question": "When should you disconnect the tester?",
-            "answer": "After using it and turning off the engine",
+            "question": "Why should the tank be drained daily?",
+            "answer": "To remove moisture and prevent rust",
             "options": [
-              "Before turning it on",
-              "After using it and turning off the engine",
-              "When the voltage drops",
-              "When the cables heat up"
+              "To remove moisture and prevent rust",
+              "To save electricity",
+              "To clean the motor",
+              "To fill with air faster"
             ]
           }
         ]
@@ -451,171 +452,171 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the compressor on a firm, level surface near the work area.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that all hoses, valves, and fittings are secure.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Make sure the power supply matches the compressor’s voltage (230V or 400V).",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Connect the air hose to the outlet valve and tighten it properly.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Ensure the air filter and oil level are in good condition before starting.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Switch on the power and allow the pressure gauge to reach the required level before using tools.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Always wear ear protection and safety goggles.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Do not point the air hose at yourself or others.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Never operate the compressor in a closed or wet area.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Keep hands, clothes, and tools away from moving parts.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
+          "text": "Disconnect the power before servicing or adjusting any part.",
           "audio": "assets/audio/t_11.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the compressor on a firm, level surface near the work area.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that all hoses, valves, and fittings are secure.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Make sure the power supply matches the compressor’s voltage (230V or 400V).",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Connect the air hose to the outlet valve and tighten it properly.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Ensure the air filter and oil level are in good condition before starting.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Switch on the power and allow the pressure gauge to reach the required level before using tools.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Always wear ear protection and safety goggles.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Do not point the air hose at yourself or others.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Never operate the compressor in a closed or wet area.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Keep hands, clothes, and tools away from moving parts.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
+          "text": "Disconnect the power before servicing or adjusting any part.",
           "audio": "assets/audio/t_11.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "Place the tester on a flat, dry surface near the vehicle.",
+          "text": "Place the compressor on a firm, level surface near the work area.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Check that the cables and clamps are clean and not damaged.",
+          "text": "Check that all hoses, valves, and fittings are secure.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Connect the red clamp to the battery’s positive terminal (+).",
+          "text": "Make sure the power supply matches the compressor’s voltage (230V or 400V).",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "Connect the black clamp to the negative terminal (–).",
+          "text": "Connect the air hose to the outlet valve and tighten it properly.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Switch on the power button and wait for the display to light up.",
+          "text": "Ensure the air filter and oil level are in good condition before starting.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Select the correct vehicle battery type on the menu (12V or 24V).",
+          "text": "Switch on the power and allow the pressure gauge to reach the required level before using tools.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Always wear safety gloves and eye protection when working near batteries.",
+          "text": "Always wear ear protection and safety goggles.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "Never connect the clamps to the wrong terminals.",
+          "text": "Do not point the air hose at yourself or others.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Do not use the tester on a damaged or leaking battery.",
+          "text": "Never operate the compressor in a closed or wet area.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Keep the tester away from water, oil, and direct sunlight.",
+          "text": "Keep hands, clothes, and tools away from moving parts.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Do not touch metal parts while the engine is running.",
+          "text": "Disconnect the power before servicing or adjusting any part.",
           "audio": "assets/audio/t_11.mp3"
         }
       ]
