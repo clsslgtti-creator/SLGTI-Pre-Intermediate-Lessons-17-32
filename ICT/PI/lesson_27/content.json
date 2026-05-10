@@ -1,0 +1,722 @@
+{
+  "meta": {
+    "lesson_no": 27,
+    "level": "Pre-Intermediate",
+    "section": "Information Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "sound /tʃ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'ch'arger",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The 'ch'arger delivered stable output consistently during routine performance tests.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'ch'assis",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "They inspected the 'ch'assis carefully and it showed minimal vibration under load.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "clut'ch'ing",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The operator performed clut'ch'ing smoothly, indicating good control and coordination.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "headlamp swit'ch'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The headlamp swit'ch' responds reliably during repeated functional checks.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-5",
+    "focus": "Adverbs of Manner",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["Wait patiently."],
+        ["Walk in quietly."],
+        ["Complete the task quickly."],
+        ["Explain it slowly once again."],
+        ["Handle the situation calmly."]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/d_1.png",
+        "text_a": "Did I operate the winch correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You pulled the vehicle too quickly.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_1_a.mp3",
+        "audio_b": "assets/audio/d_1_b.mp3",
+        "audio_c": "assets/audio/d_1_c.mp3",
+        "audio_d": "assets/audio/d_1_d.mp3",
+        "audio_e": "assets/audio/d_1_e.mp3",
+        "audio_f": "assets/audio/d_1_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/d_2.png",
+        "text_a": "Did I use the ratchet correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You tightened the bolts unevenly.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_2_a.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
+        "audio_c": "assets/audio/d_2_c.mp3",
+        "audio_d": "assets/audio/d_2_d.mp3",
+        "audio_e": "assets/audio/d_2_e.mp3",
+        "audio_f": "assets/audio/d_2_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/d_3.png",
+        "text_a": "Did I release the clutch correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You released it too suddenly.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_3_a.mp3",
+        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_c": "assets/audio/d_3_c.mp3",
+        "audio_d": "assets/audio/d_3_d.mp3",
+        "audio_e": "assets/audio/d_3_e.mp3",
+        "audio_f": "assets/audio/d_3_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/d_4.png",
+        "word": "handle the wrench"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/d_5.png",
+        "word": "connect the charger"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/d_6.png",
+        "word": "mount the chassis"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/d_7.png",
+        "word": "set the wheel balancer"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/d_8.png",
+        "word": "install the battery"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/d_9.png",
+        "word": "move the gear lever"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/d_4.png",
+        "text_a": "Did I handle the wrench correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You applied force too roughly.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_4_a.mp3",
+        "audio_b": "assets/audio/d_4_b.mp3",
+        "audio_c": "assets/audio/d_4_c.mp3",
+        "audio_d": "assets/audio/d_4_d.mp3",
+        "audio_e": "assets/audio/d_4_e.mp3",
+        "audio_f": "assets/audio/d_4_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/d_5.png",
+        "text_a": "Did I connect the charger correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You connected it too loosely.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_5_a.mp3",
+        "audio_b": "assets/audio/d_5_b.mp3",
+        "audio_c": "assets/audio/d_5_c.mp3",
+        "audio_d": "assets/audio/d_5_d.mp3",
+        "audio_e": "assets/audio/d_5_e.mp3",
+        "audio_f": "assets/audio/d_5_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/d_6.png",
+        "text_a": "Did I mount the chassis correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You secured it unevenly.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_6_a.mp3",
+        "audio_b": "assets/audio/d_6_b.mp3",
+        "audio_c": "assets/audio/d_6_c.mp3",
+        "audio_d": "assets/audio/d_6_d.mp3",
+        "audio_e": "assets/audio/d_6_e.mp3",
+        "audio_f": "assets/audio/d_6_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/d_7.png",
+        "text_a": "Did I set the wheel balancer correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You calibrated it incorrectly.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_7_a.mp3",
+        "audio_b": "assets/audio/d_7_b.mp3",
+        "audio_c": "assets/audio/d_7_c.mp3",
+        "audio_d": "assets/audio/d_7_d.mp3",
+        "audio_e": "assets/audio/d_7_e.mp3",
+        "audio_f": "assets/audio/d_7_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/d_8.png",
+        "text_a": "Did I install the battery correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You connected the terminals carelessly.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_8_a.mp3",
+        "audio_b": "assets/audio/d_8_b.mp3",
+        "audio_c": "assets/audio/d_8_c.mp3",
+        "audio_d": "assets/audio/d_8_d.mp3",
+        "audio_e": "assets/audio/d_8_e.mp3",
+        "audio_f": "assets/audio/d_8_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/d_9.png",
+        "text_a": "Did I move the gear lever correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You shifted it too forcefully.",
+        "text_e": "I’m sorry about that.",
+        "text_f": "Don’t worry—this is your first day on the job.",
+        "audio_a": "assets/audio/d_9_a.mp3",
+        "audio_b": "assets/audio/d_9_b.mp3",
+        "audio_c": "assets/audio/d_9_c.mp3",
+        "audio_d": "assets/audio/d_9_d.mp3",
+        "audio_e": "assets/audio/d_9_e.mp3",
+        "audio_f": "assets/audio/d_9_f.mp3",
+        "text_c_speaking": "_________________",
+        "text_e_speaking": "_________________"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-13",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the problems to the proposed solutions. \n පහත සඳහන් ගැටළු, යෝජිත විසඳුම් සමඟ ගලපන්න. \n பிரச்சினைகளை அவற்றுக்காக முன்மொழியப்பட்டுள்ள தீர்வுகளுடன் பொருத்துக.",
+        "audio": "assets/audio/a_3_i_q.mp3"
+      },
+      "activity_b": {
+        "text": "Match the problems to the proposed solutions. \n පහත සඳහන් ගැටළු, යෝජිත විසඳුම් සමඟ ගලපන්න. \n பிரச்சினைகளை அவற்றுக்காக முன்மொழியப்பட்டுள்ள தீர்வுகளுடன் பொருத்துக.",
+        "audio": "assets/audio/a_3_i_q.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-4.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "colunm_a": "This email contains several mistakes.",
+            "colunm_b": "Rewrite it carefully."
+          },
+          {
+            "id": "g_a_2",
+            "colunm_a": "The instructions are confusing.",
+            "colunm_b": "Explain them clearly."
+          },
+          {
+            "id": "g_a_3",
+            "colunm_a": "The form has many errors.",
+            "colunm_b": "Fill it in accurately."
+          },
+          {
+            "id": "g_a_4",
+            "colunm_a": "The customer is unhappy with the service.",
+            "colunm_b": "Respond to him politely."
+          },
+          {
+            "id": "g_a_5",
+            "colunm_a": "The announcement is difficult to hear.",
+            "colunm_b": "Listen attentively."
+          }
+        ]
+      },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "colunm_a": "We arrived before the office opened.",
+            "colunm_b": "Wait patiently."
+          },
+          {
+            "id": "g_a_2",
+            "colunm_a": "The baby is asleep.",
+            "colunm_b": "Walk in quietly."
+          },
+          {
+            "id": "g_a_3",
+            "colunm_a": "The deadline to submit this report is this evening.",
+            "colunm_b": "Complete the task quickly."
+          },
+          {
+            "id": "g_a_4",
+            "colunm_a": "The rule is still unclear.",
+            "colunm_b": "Explain it slowly once again."
+          },
+          {
+            "id": "g_a_5",
+            "colunm_a": "The client has been waiting a long time.",
+            "colunm_b": "Handle the situation calmly."
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "g_b_1",
+          "text": "This email contains several mistakes.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "Rewrite it carefully.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "The instructions are confusing.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "Explain them clearly.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "The form has many errors.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "Fill it in accurately.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "The customer is unhappy with the service.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "Respond to him politely.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "The announcement is difficult to hear.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "Listen attentively.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "How does Ravi say he tried to speak during the presentation?",
+            "answer": "calmly",
+            "options": ["nervously", "calmly", "cautiously"]
+          },
+          {
+            "id": "l_18_2",
+            "question": "How does the supervisor describe Ravi’s explanation of the main process?",
+            "answer": "clearly",
+            "options": ["briefly", "clearly", "clear"]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why does the supervisor suggest changes to some sections?",
+            "answer": "They were explained too quickly.",
+            "options": [
+              "They were explained too slowly.",
+              "They were missing slides.",
+              "They were explained too quickly."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "How does the supervisor advise Ravi to improve the middle section?",
+            "answer": "Speak more slowly and pause briefly.",
+            "options": [
+              "Speak more confidently and loudly.",
+              "Skip the procedures.",
+              "Speak more slowly and pause briefly."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "How does Ravi plan to prepare for his next presentation?",
+            "answer": "He will practise more carefully and prepare more thoroughly.",
+            "options": [
+              "He will avoid presenting again.",
+              "He will practise casually.",
+              "He will practise more carefully and prepare more thoroughly."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "I wanted to talk briefly about your presentation this morning and hear your thoughts on it.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I’d really appreciate some feedback so I can improve my future presentations.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "You explained the main process very clearly and answered questions confidently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "You also moved smoothly between points, which helped the audience follow you easily without getting lost.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I was worried I might be speaking too quickly, so I tried to slow down deliberately.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Did that work, or did it still feel rushed in some places?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Some ideas were presented briefly when they needed more detail.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "If you explain those parts more carefully, your message will come across more effectively.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Could you please tell me which slides were handled poorly?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "The procedures were described quickly and a little unevenly and sloppily.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "If you speak more slowly, pause briefly, and structure the points more logically, the audience will understand everything better.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I’ll practise more carefully, adjust the slides methodically, and prepare more thoroughly before my next presentation.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "I wanted to talk briefly about your presentation this morning and hear your thoughts on it.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I’d really appreciate some feedback so I can improve my future presentations.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "You explained the main process very clearly and answered questions confidently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "You also moved smoothly between points, which helped the audience follow you easily without getting lost.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I was worried I might be speaking too quickly, so I tried to slow down deliberately.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Did that work, or did it still feel rushed in some places?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Some ideas were presented briefly when they needed more detail.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "If you explain those parts more carefully, your message will come across more effectively.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Could you please tell me which slides were handled poorly?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "The procedures were described quickly and a little unevenly and sloppily.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "If you speak more slowly, pause briefly, and structure the points more logically, the audience will understand everything better.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I’ll practise more carefully, adjust the slides methodically, and prepare more thoroughly before my next presentation.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "I wanted to talk briefly about your presentation this morning and hear your thoughts on it.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I’d really appreciate some feedback so I can improve my future presentations.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "You explained the main process very clearly and answered questions confidently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "You also moved smoothly between points, which helped the audience follow you easily without getting lost.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I was worried I might be speaking too quickly, so I tried to slow down deliberately.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Did that work, or did it still feel rushed in some places?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Some ideas were presented briefly when they needed more detail.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "If you explain those parts more carefully, your message will come across more effectively.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Could you please tell me which slides were handled poorly?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "The procedures were described quickly and a little unevenly and sloppily.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "If you speak more slowly, pause briefly, and structure the points more logically, the audience will understand everything better.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I’ll practise more carefully, adjust the slides methodically, and prepare more thoroughly before my next presentation.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
