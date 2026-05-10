@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'ch'arger",
+        "word_text": "chip",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'ch'arger delivered stable output consistently during routine performance tests.",
+        "sentence_text": "The processing chip handled data efficiently during the stress test.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'ch'assis",
+        "word_text": "channel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They inspected the 'ch'assis carefully and it showed minimal vibration under load.",
+        "sentence_text": "The communication channel operated reliably throughout the data transfer.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "clut'ch'ing",
+        "word_text": "architecture",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The operator performed clut'ch'ing smoothly, indicating good control and coordination.",
+        "sentence_text": "The architecture supports future scaling effectively.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "headlamp swit'ch'",
+        "word_text": "branch",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The headlamp swit'ch' responds reliably during repeated functional checks.",
+        "sentence_text": "The branch merged smoothly without errors.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -107,10 +107,10 @@
       {
         "id": "d_1",
         "img": "assets/img/d_1.png",
-        "text_a": "Did I operate the winch correctly?",
+        "text_a": "Did I configure the network router correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You pulled the vehicle too quickly.",
+        "text_d": "You set the parameters incorrectly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_1_a.mp3",
@@ -125,10 +125,10 @@
       {
         "id": "d_2",
         "img": "assets/img/d_2.png",
-        "text_a": "Did I use the ratchet correctly?",
+        "text_a": "Did I install the chip correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You tightened the bolts unevenly.",
+        "text_d": "You placed it incorrectly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_2_a.mp3",
@@ -143,10 +143,10 @@
       {
         "id": "d_3",
         "img": "assets/img/d_3.png",
-        "text_a": "Did I release the clutch correctly?",
+        "text_a": "Did I mount the server rack correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You released it too suddenly.",
+        "text_d": "You secured it unevenly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_3_a.mp3",
@@ -163,42 +163,42 @@
       {
         "id": "k_1",
         "image": "assets/img/d_4.png",
-        "word": "handle the wrench"
+        "word": "select the channel"
       },
       {
         "id": "k_2",
         "image": "assets/img/d_5.png",
-        "word": "connect the charger"
+        "word": "run the database backup"
       },
       {
         "id": "k_3",
         "image": "assets/img/d_6.png",
-        "word": "mount the chassis"
+        "word": "review the system architecture"
       },
       {
         "id": "k_4",
         "image": "assets/img/d_7.png",
-        "word": "set the wheel balancer"
+        "word": "create the branch"
       },
       {
         "id": "k_5",
         "image": "assets/img/d_8.png",
-        "word": "install the battery"
+        "word": "set up the user account"
       },
       {
         "id": "k_6",
         "image": "assets/img/d_9.png",
-        "word": "move the gear lever"
+        "word": "install the software update"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/d_4.png",
-        "text_a": "Did I handle the wrench correctly?",
+        "text_a": "Did I select the channel correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You applied force too roughly.",
+        "text_d": "You chose it too randomly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_4_a.mp3",
@@ -213,10 +213,10 @@
       {
         "id": "d_5",
         "img": "assets/img/d_5.png",
-        "text_a": "Did I connect the charger correctly?",
+        "text_a": "Did I run the database backup correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You connected it too loosely.",
+        "text_d": "You executed it prematurely.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_5_a.mp3",
@@ -231,10 +231,10 @@
       {
         "id": "d_6",
         "img": "assets/img/d_6.png",
-        "text_a": "Did I mount the chassis correctly?",
+        "text_a": "Did I review the system architecture correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You secured it unevenly.",
+        "text_d": "You analysed it too superficially.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_6_a.mp3",
@@ -249,10 +249,10 @@
       {
         "id": "d_7",
         "img": "assets/img/d_7.png",
-        "text_a": "Did I set the wheel balancer correctly?",
+        "text_a": "Did I create the branch correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You calibrated it incorrectly.",
+        "text_d": "You named it inconsistently.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_7_a.mp3",
@@ -267,10 +267,10 @@
       {
         "id": "d_8",
         "img": "assets/img/d_8.png",
-        "text_a": "Did I install the battery correctly?",
+        "text_a": "Did I set up the user account correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You connected the terminals carelessly.",
+        "text_d": "You assigned the permissions too broadly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_8_a.mp3",
@@ -285,10 +285,10 @@
       {
         "id": "d_9",
         "img": "assets/img/d_9.png",
-        "text_a": "Did I move the gear lever correctly?",
+        "text_a": "Did I install the software update correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You shifted it too forcefully.",
+        "text_d": "You applied it too hastily.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_9_a.mp3",
