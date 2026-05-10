@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'ch'arger",
+        "word_text": "'ch'eese",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'ch'arger delivered stable output consistently during routine performance tests.",
+        "sentence_text": "The 'ch'eese melted evenly, showing good temperature control.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'ch'assis",
+        "word_text": "'ch'illi",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They inspected the 'ch'assis carefully and it showed minimal vibration under load.",
+        "sentence_text": "They added the 'ch'illi carefully to avoid the dish being too spicy.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "clut'ch'ing",
+        "word_text": "blan'ch'ing",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The operator performed clut'ch'ing smoothly, indicating good control and coordination.",
+        "sentence_text": "The trainees are blan'ch'ing the vegetables correctly at the moment, to preserve colour and texture.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "headlamp swit'ch'",
+        "word_text": "sandwi'ch'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The headlamp swit'ch' responds reliably during repeated functional checks.",
+        "sentence_text": "The triple decker sandwi'ch' at the bakery met professional standards consistently.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -107,10 +107,10 @@
       {
         "id": "d_1",
         "img": "assets/img/d_1.png",
-        "text_a": "Did I operate the winch correctly?",
+        "text_a": "Did I sanitise the work surface correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You pulled the vehicle too quickly.",
+        "text_d": "You wiped it too quickly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_1_a.mp3",
@@ -125,10 +125,10 @@
       {
         "id": "d_2",
         "img": "assets/img/d_2.png",
-        "text_a": "Did I use the ratchet correctly?",
+        "text_a": "Did I portion the cheese correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You tightened the bolts unevenly.",
+        "text_d": "You sliced it unevenly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_2_a.mp3",
@@ -143,10 +143,10 @@
       {
         "id": "d_3",
         "img": "assets/img/d_3.png",
-        "text_a": "Did I release the clutch correctly?",
+        "text_a": "Did I deseed the chilli correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You released it too suddenly.",
+        "text_d": "You removed the seeds carelessly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_3_a.mp3",
@@ -163,42 +163,42 @@
       {
         "id": "k_1",
         "image": "assets/img/d_4.png",
-        "word": "handle the wrench"
+        "word": "heat the stockpot"
       },
       {
         "id": "k_2",
         "image": "assets/img/d_5.png",
-        "word": "connect the charger"
+        "word": "carry out the blanching"
       },
       {
         "id": "k_3",
         "image": "assets/img/d_6.png",
-        "word": "mount the chassis"
+        "word": "use the temperature probe"
       },
       {
         "id": "k_4",
         "image": "assets/img/d_7.png",
-        "word": "set the wheel balancer"
+        "word": "assemble the sandwich"
       },
       {
         "id": "k_5",
         "image": "assets/img/d_8.png",
-        "word": "install the battery"
+        "word": "combine the ingredients in the mixing vessel"
       },
       {
         "id": "k_6",
         "image": "assets/img/d_9.png",
-        "word": "move the gear lever"
+        "word": "arrange the dishes at the plating station"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/d_4.png",
-        "text_a": "Did I handle the wrench correctly?",
+        "text_a": "Did I heat the stockpot correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You applied force too roughly.",
+        "text_d": "You increased the heat too rapidly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_4_a.mp3",
@@ -213,10 +213,10 @@
       {
         "id": "d_5",
         "img": "assets/img/d_5.png",
-        "text_a": "Did I connect the charger correctly?",
+        "text_a": "Did I carry out the blanching correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You connected it too loosely.",
+        "text_d": "You transferred the vegetables too slowly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_5_a.mp3",
@@ -231,10 +231,10 @@
       {
         "id": "d_6",
         "img": "assets/img/d_6.png",
-        "text_a": "Did I mount the chassis correctly?",
+        "text_a": "Did I use the temperature probe correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You secured it unevenly.",
+        "text_d": "You positioned the probe inaccurately.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_6_a.mp3",
@@ -249,10 +249,10 @@
       {
         "id": "d_7",
         "img": "assets/img/d_7.png",
-        "text_a": "Did I set the wheel balancer correctly?",
+        "text_a": "Did I assemble the sandwich correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You calibrated it incorrectly.",
+        "text_d": "You distributed the filling unevenly.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_7_a.mp3",
@@ -267,10 +267,10 @@
       {
         "id": "d_8",
         "img": "assets/img/d_8.png",
-        "text_a": "Did I install the battery correctly?",
+        "text_a": "Did I combine the ingredients in the mixing vessel correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You connected the terminals carelessly.",
+        "text_d": "You blended the mixture too aggressively.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_8_a.mp3",
@@ -285,10 +285,10 @@
       {
         "id": "d_9",
         "img": "assets/img/d_9.png",
-        "text_a": "Did I move the gear lever correctly?",
+        "text_a": "Did I arrange the dishes at the plating station correctly?",
         "text_b": "Actually, you didn’t.",
         "text_c": "Oh? What did I do wrong?",
-        "text_d": "You shifted it too forcefully.",
+        "text_d": "You presented them inconsistently.",
         "text_e": "I’m sorry about that.",
         "text_f": "Don’t worry—this is your first day on the job.",
         "audio_a": "assets/audio/d_9_a.mp3",
