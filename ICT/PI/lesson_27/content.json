@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "chip",
+        "word_text": "'ch'ip",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The processing chip handled data efficiently during the stress test.",
+        "sentence_text": "The processing 'ch'ip handled data efficiently during the stress test.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "channel",
+        "word_text": "'ch'annel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The communication channel operated reliably throughout the data transfer.",
+        "sentence_text": "The communication 'ch'annel operated reliably throughout the data transfer.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "architecture",
+        "word_text": "ar'ch'itecture",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The architecture supports future scaling effectively.",
+        "sentence_text": "The ar'ch'itecture supports future scaling effectively.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "branch",
+        "word_text": "bran'ch'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The branch merged smoothly without errors.",
+        "sentence_text": "The bran'ch' merged smoothly without errors.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
