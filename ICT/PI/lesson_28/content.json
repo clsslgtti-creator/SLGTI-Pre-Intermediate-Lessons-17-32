@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'th'rottle",
+        "word_text": "'th'ermal",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The technician was able to adjust the 'th'rottle accurately during the test run.",
+        "sentence_text": "We were able to monitor 'th'ermal behaviour throughout the operating cycle.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'th'ermal",
+        "word_text": "'th'read",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "We were able to monitor 'th'ermal behaviour throughout the operating cycle.",
+        "sentence_text": "The system could manage each 'th'read efficiently during the load test.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "pa'th'way",
+        "word_text": "au'th'entication",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The team could trace the airflow pa'th'way after completing the inspection.",
+        "sentence_text": "The server could complete au'th'entication without delays after the update.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "dep'th'",
+        "word_text": "bandwid'th'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The inspector could measure the groove dep'th' without dismantling the unit.",
+        "sentence_text": "After optimisation, the network was able to increase available bandwid'th' for users.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -470,52 +470,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for a trainee technician to use diagnostic tools carefully?",
-            "answer": "To find vehicle faults correctly and quickly.",
+            "question": "Why is it important for an ICT trainee to follow security procedures carefully?",
+            "answer": "To protect systems and data from risks and misuse.",
             "options": [
-              "To finish work faster than senior technicians.",
-              "To find vehicle faults correctly and quickly.",
-              "To avoid talking with customers."
+              "To complete tasks faster than senior technicians.",
+              "To protect systems and data from risks and misuse.",
+              "To reduce communication with users."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to workplace pressure usually include?",
+            "question": "What does a good response to pressure in ICT support usually include?",
             "answer": "Staying calm and communicating clearly with the team.",
             "options": [
-              "Working alone without asking questions.",
-              "Communicating clearly with the team about their mistakes.",
+              "Working independently without informing others.",
+              "Ignoring minor system issues.",
               "Staying calm and communicating clearly with the team."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good safety practice in a workshop?",
-            "answer": "Wearing protective equipment, calibrating tools, and keeping the work area clean.",
+            "question": "Which actions show good ICT security practice?",
+            "answer": "Using strong passwords, backing up data, and limiting access.",
             "options": [
-              "Wearing protective equipment, cleaning tools, and keeping power on.",
-              "Wearing protective equipment, calibrating tools, and keeping the work area clean.",
-              "Wearing some protective equipment and keeping all tools close."
+              "Using simple passwords and sharing access details.",
+              "Using strong passwords, backing up data, and limiting access.",
+              "Installing software without approval."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why may a technician need more training after basic certification?",
-            "answer": "Modern vehicles use new systems that need updated knowledge.",
+            "question": "Why may an ICT technician need further training after basic certification?",
+            "answer": "Modern ICT systems require updated knowledge and skills.",
             "options": [
-              "Modern vehicle designs do not change much.",
-              "Experience replaces the need for learning.",
-              "Modern vehicles use new systems that need updated knowledge."
+              "Computer systems rarely change.",
+              "Practical experience replaces technical learning.",
+              "Modern ICT systems require updated knowledge and skills."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in a workshop show?",
+            "question": "What does a positive learning attitude in ICT work usually show?",
             "answer": "The technician accepts guidance and improves skills over time.",
             "options": [
-              "The technician avoids difficult tasks.",
+              "The technician avoids complex technical tasks.",
               "The technician accepts guidance and improves skills over time.",
-              "The technician works only on familiar jobs."
+              "The technician prefers only routine computer work."
             ]
           }
         ]
@@ -523,186 +523,186 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "I assisted senior mechanics with oil and filter changes, brake checks, clutch adjustments, and battery testing.",
+          "text": "I also helped with network cable connections, peripheral device setup, and routine system maintenance to protect systems and data from risks and misuse.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I also helped with tyre replacement, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I always follow security procedures.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I always follow safety rules carefully.",
+          "text": "I use strong passwords, restrict system access, and scan devices for malware before use.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and use jack stands correctly.",
+          "text": "I also back up data regularly and ensure confidential information is handled responsibly.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I also ensure that tools are calibrated and the work area is kept clean to prevent accidents.",
+          "text": "I am comfortable using operating systems, basic networking tools, and common office software.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I can use basic diagnostic scanners and read fault codes.",
+          "text": "I understand the importance of system updates, antivirus protection, and user account management.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I understand the role of electronic systems and sensors in finding faults accurately and quickly.",
+          "text": "I know ICT changes quickly, so I am willing to keep learning and update my skills.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I am still learning advanced diagnostics, but I am willing to improve and learn new vehicle technologies.",
+          "text": "I try to remain calm and communicate clearly with colleagues.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I try to stay calm and communicate clearly with my team.",
+          "text": "If a problem is complex, I ask for guidance.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I believe good teamwork helps us work efficiently and maintain quality.",
+          "text": "I believe teamwork helps resolve issues faster and reduces system downtime.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I need more practice with complex engine repairs, timing belt replacement, and fuel system work.",
+          "text": "I would like to gain more experience in network administration, server management, and cybersecurity practices.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "However, I am keen to learn new skills and ask for guidance when needed.",
+          "text": "However, I am motivated to improve and always ask for support when needed.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "I assisted senior mechanics with oil and filter changes, brake checks, clutch adjustments, and battery testing.",
+          "text": "I also helped with network cable connections, peripheral device setup, and routine system maintenance to protect systems and data from risks and misuse.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I also helped with tyre replacement, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I always follow security procedures.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I always follow safety rules carefully.",
+          "text": "I use strong passwords, restrict system access, and scan devices for malware before use.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and use jack stands correctly.",
+          "text": "I also back up data regularly and ensure confidential information is handled responsibly.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I also ensure that tools are calibrated and the work area is kept clean to prevent accidents.",
+          "text": "I am comfortable using operating systems, basic networking tools, and common office software.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I can use basic diagnostic scanners and read fault codes.",
+          "text": "I understand the importance of system updates, antivirus protection, and user account management.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I understand the role of electronic systems and sensors in finding faults accurately and quickly.",
+          "text": "I know ICT changes quickly, so I am willing to keep learning and update my skills.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I am still learning advanced diagnostics, but I am willing to improve and learn new vehicle technologies.",
+          "text": "I try to remain calm and communicate clearly with colleagues.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I try to stay calm and communicate clearly with my team.",
+          "text": "If a problem is complex, I ask for guidance.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I believe good teamwork helps us work efficiently and maintain quality.",
+          "text": "I believe teamwork helps resolve issues faster and reduces system downtime.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I need more practice with complex engine repairs, timing belt replacement, and fuel system work.",
+          "text": "I would like to gain more experience in network administration, server management, and cybersecurity practices.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "However, I am keen to learn new skills and ask for guidance when needed.",
+          "text": "However, I am motivated to improve and always ask for support when needed.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "I assisted senior mechanics with oil and filter changes, brake checks, clutch adjustments, and battery testing.",
+          "text": "I also helped with network cable connections, peripheral device setup, and routine system maintenance to protect systems and data from risks and misuse.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I also helped with tyre replacement, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I always follow security procedures.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I always follow safety rules carefully.",
+          "text": "I use strong passwords, restrict system access, and scan devices for malware before use.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and use jack stands correctly.",
+          "text": "I also back up data regularly and ensure confidential information is handled responsibly.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I also ensure that tools are calibrated and the work area is kept clean to prevent accidents.",
+          "text": "I am comfortable using operating systems, basic networking tools, and common office software.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I can use basic diagnostic scanners and read fault codes.",
+          "text": "I understand the importance of system updates, antivirus protection, and user account management.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I understand the role of electronic systems and sensors in finding faults accurately and quickly.",
+          "text": "I know ICT changes quickly, so I am willing to keep learning and update my skills.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I am still learning advanced diagnostics, but I am willing to improve and learn new vehicle technologies.",
+          "text": "I try to remain calm and communicate clearly with colleagues.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I try to stay calm and communicate clearly with my team.",
+          "text": "If a problem is complex, I ask for guidance.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I believe good teamwork helps us work efficiently and maintain quality.",
+          "text": "I believe teamwork helps resolve issues faster and reduces system downtime.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I need more practice with complex engine repairs, timing belt replacement, and fuel system work.",
+          "text": "I would like to gain more experience in network administration, server management, and cybersecurity practices.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "However, I am keen to learn new skills and ask for guidance when needed.",
+          "text": "However, I am motivated to improve and always ask for support when needed.",
           "audio": "assets/audio/t_12.mp3"
         }
       ]
