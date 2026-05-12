@@ -1,0 +1,741 @@
+{
+  "meta": {
+    "lesson_no": 28,
+    "level": "Pre-Intermediate",
+    "section": "Electrical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "sound /θ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'th'ermal",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "We were able to monitor 'th'ermal behaviour throughout the operating cycle.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'th'reshold",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The technician was able to confirm the protection 'th'reshold during system testing.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "ear'th'ing",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The technician could verify correct ear'th'ing before energising the circuit.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "dep'th'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The inspector could measure the trench dep'th' accurately using a level rod.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Structure ‘Be able to’",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["He", "wasn’t able to", "swim"],
+        ["She", null, "work"],
+        ["I", null, "sleep"],
+        ["They", "weren’t able to", "build"],
+        [null, null, "cook"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Was Ravi able to lift the principal’s desk this morning?",
+        "text_b": "No, he wasn’t able to. It was too heavy.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "Were the trainees able to eat the food at the canteen this afternoon?",
+        "text_b": "No, they weren’t able to. It was too spicy.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "Was the instructor able to find the warranty cards for the new printers last night?",
+        "text_b": "No, he wasn’t able to. It was too dark.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "finish the maintenance report"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "give a presentation in the welding workshop"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "inspect the distribution board"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "sit down on the school bus"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": " see the registrar in the office"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "solve the ignition problem with the industrial oven"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Was Meena able to finish the maintenance report this afternoon?",
+        "text_b": "No, she wasn’t able to. It was too complicated.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Were the trainees able to give a presentation in the welding workshop this morning?",
+        "text_b": "No, they weren’t able to. It was too noisy.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "Was the supervisor able to inspect the distribution board yesterday?",
+        "text_b": "No, he wasn’t able to. It was too risky.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Were Mary and Anisha able to sit down on the school bus this morning?",
+        "text_b": "No, they weren’t able to. It was too crowded.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "Were your parents able to see the registrar in the office yesterday morning?",
+        "text_b": "No, they weren’t able to. She was too busy.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "Was the instructor able to solve the ignition problem with the industrial oven last week?",
+        "text_b": "No, he wasn’t able to. It was too difficult.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the most appropriate response.\n වඩාත්ම සුදුසු ප්‍රතිචාරය තෝරන්න.\n மிகவும் பொருத்தமான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_n.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "Are you able to work under pressure during busy periods?",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "No, I am. I need more time to adjust.",
+              "Yes, I am. I stay calm and organised.",
+              "Yes, I will. I can manage tasks efficiently."
+            ],
+            "answer": "Yes, I am. I stay calm and organised."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Will you be able to travel if the company requires it?",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "Yes, I am. I am flexible with my schedule.",
+              "No, I will. I have personal commitments at home.",
+              "Yes, I will. I am willing to travel whenever necessary."
+            ],
+            "answer": "Yes, I will. I am willing to travel whenever necessary."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Were you able to meet deadlines in your previous job?",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "Yes, I am. I always try to stay organised.",
+              "Yes, I was. I consistently completed my tasks on time.",
+              "Yes, I were. I worked hard to finish all projects."
+            ],
+            "answer": "Yes, I was. I consistently completed my tasks on time."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Would you be able to manage a small team if needed?",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "No, I would. I prefer to work independently.",
+              "Yes, I would. I can lead a team effectively.",
+              "Yes, I was. I supported my colleagues when necessary."
+            ],
+            "answer": "Yes, I would. I can lead a team effectively."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "Are you able to operate technical equipment safely?",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "Yes, I am. I always follow safety procedures carefully.",
+              "Yes, I was. I worked safely in my previous role.",
+              "Yes, I will. I plan to follow all safety guidelines."
+            ],
+            "answer": "Yes, I am. I always follow safety procedures carefully."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "When will you be able to start?",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Not sure, maybe this week, maybe next month.",
+              "In two weeks, as I am obliged to give two weeks’ notice in my current job.",
+              "Tomorrow. My current boss is not nice so I can start immediately."
+            ],
+            "answer": "In two weeks, as I am obliged to give two weeks’ notice in my current job."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Were you able to solve problems independently in your last role?",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Yes, I will. I am confident about future challenges.",
+              "Yes, I am. I handle issues calmly and logically.",
+              "Yes, I was. I often resolved technical issues on my own."
+            ],
+            "answer": "Yes, I was. I often resolved technical issues on my own."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Would you be able to work overtime during peak seasons?",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Yes, I was. I worked extra hours in my previous job.",
+              "Yes, I would. I understand that peak seasons require flexibility.",
+              "Yes, I am. I manage my time carefully."
+            ],
+            "answer": "Yes, I would. I understand that peak seasons require flexibility."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Are you able to communicate clearly with clients?",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "Yes, I will. I will improve my communication skills.",
+              "Yes, I am. I speak clearly and listen carefully.",
+              "Yes, I was. I communicated well in my previous job."
+            ],
+            "answer": "Yes, I am. I speak clearly and listen carefully."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Are you able to solve technical problems independently?",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "Yes, I will. I will work independently in the future.",
+              "Yes, I am. I work independently and efficiently.",
+              "Yes, I was. I solved problems independently in my previous job."
+            ],
+            "answer": "Yes, I am. I work independently and efficiently."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "Are you able to work under pressure during busy periods?",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "Yes, I am. I stay calm and organised.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "Will you be able to travel if the company requires it?",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "Yes, I will. I am willing to travel whenever necessary.",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "Were you able to meet deadlines in your previous job?",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "Yes, I was. I consistently completed my tasks on time.",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "Would you be able to manage a small team if needed?",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "Yes, I would. I can lead a team effectively.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "Are you able to operate technical equipment safely?",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "Yes, I am. I always follow safety procedures carefully.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "When will you be able to start?",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "In two weeks, as I am obliged to give two weeks’ notice in my current job.",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "Were you able to solve problems independently in your last role?",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Yes, I was. I often resolved technical issues on my own.",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "Would you be able to work overtime during peak seasons?",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Yes, I would. I understand that peak seasons require flexibility.",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "Are you able to communicate clearly with clients?",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "Yes, I am. I speak clearly and listen carefully.",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "Are you able to solve technical problems independently?",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "Yes, I am. I work independently and efficiently.",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why is it important for an electrical trainee to use testing instruments carefully?",
+            "answer": "To confirm circuits are safe and avoid electrical faults.",
+            "options": [
+              "To complete tasks faster than senior electricians.",
+              "To confirm circuits are safe and avoid electrical faults.",
+              "To reduce the need for supervision."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What does a good response to pressure in electrical work usually include?",
+            "answer": "Staying calm and communicating clearly with the team.",
+            "options": [
+              "Working independently without informing others.",
+              "Reporting problems only after finishing the task.",
+              "Staying calm and communicating clearly with the team."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Which actions show good electrical safety practice?",
+            "answer": "Isolating the power supply, using insulated tools, and keeping the area organised.",
+            "options": [
+              "Wearing protective equipment and working quickly.",
+              "Isolating the power supply, using insulated tools, and keeping the area organised.",
+              "Using test instruments only after installation is complete."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Why may an electrical technician need further training after basic certification?",
+            "answer": "Modern electrical systems require updated skills and knowledge.",
+            "options": [
+              "Electrical systems rarely change.",
+              "Practical experience replaces technical learning.",
+              "Modern electrical systems require updated skills and knowledge."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What does a positive learning attitude in electrical work usually show?",
+            "answer": "The technician accepts guidance and improves skills over time.",
+            "options": [
+              "The technician avoids complex electrical tasks.",
+              "The technician accepts guidance and improves skills over time.",
+              "The technician prefers only simple wiring jobs."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "I assisted senior electricians with wiring installations, socket and lighting point fitting, and basic distribution board work.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I also helped with cable routing, conduit installation, and used testing instruments to ensure safe circuits and avoid electrical faults.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "When the workplace was busy, I followed work instructions carefully and supported the team to complete tasks safely and on time.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I strictly follow electrical safety procedures.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I always wear personal protective equipment, isolate power supplies before starting work, and use insulated tools correctly.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I also check circuits with testing devices before touching conductors and keep the work area organised to reduce risks.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I can use basic testing instruments such as multimetres and insulation testers.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I know electrical systems are becoming more advanced, so I am willing to keep learning and improve my technical knowledge.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I try to remain calm and communicate clearly with supervisors and co-workers.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I believe good teamwork helps prevent errors and ensures work is completed safely.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I would like more experience with fault finding, control circuits, and industrial electrical systems.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "However, I am motivated to learn new skills and always ask for guidance when needed.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "I assisted senior electricians with wiring installations, socket and lighting point fitting, and basic distribution board work.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I also helped with cable routing, conduit installation, and used testing instruments to ensure safe circuits and avoid electrical faults.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "When the workplace was busy, I followed work instructions carefully and supported the team to complete tasks safely and on time.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I strictly follow electrical safety procedures.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I always wear personal protective equipment, isolate power supplies before starting work, and use insulated tools correctly.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I also check circuits with testing devices before touching conductors and keep the work area organised to reduce risks.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I can use basic testing instruments such as multimetres and insulation testers.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I know electrical systems are becoming more advanced, so I am willing to keep learning and improve my technical knowledge.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I try to remain calm and communicate clearly with supervisors and co-workers.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I believe good teamwork helps prevent errors and ensures work is completed safely.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I would like more experience with fault finding, control circuits, and industrial electrical systems.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "However, I am motivated to learn new skills and always ask for guidance when needed.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "I assisted senior electricians with wiring installations, socket and lighting point fitting, and basic distribution board work.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I also helped with cable routing, conduit installation, and used testing instruments to ensure safe circuits and avoid electrical faults.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "When the workplace was busy, I followed work instructions carefully and supported the team to complete tasks safely and on time.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I strictly follow electrical safety procedures.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I always wear personal protective equipment, isolate power supplies before starting work, and use insulated tools correctly.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I also check circuits with testing devices before touching conductors and keep the work area organised to reduce risks.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I can use basic testing instruments such as multimetres and insulation testers.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I know electrical systems are becoming more advanced, so I am willing to keep learning and improve my technical knowledge.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I try to remain calm and communicate clearly with supervisors and co-workers.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I believe good teamwork helps prevent errors and ensures work is completed safely.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I would like more experience with fault finding, control circuits, and industrial electrical systems.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "However, I am motivated to learn new skills and always ask for guidance when needed.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1A.mp4",
+        "instrction": "instrction_a"
+      }
+    ]
+  }
+}
