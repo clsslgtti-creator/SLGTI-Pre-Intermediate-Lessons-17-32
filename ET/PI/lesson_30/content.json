@@ -1,0 +1,708 @@
+{
+  "meta": {
+    "lesson_no": 30,
+    "level": "Pre-Intermediate",
+    "section": "Electrical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "sound /ŋ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "load-sheddi'ng'",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Load-sheddi'ng' was implemented to prevent grid instability during periods of excessive power demand.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "windi'ng'",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The transformer windi'ng' was carefully insulated to minimise energy losses.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "bushi'ng'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "A high-voltage bushi'ng' was installed to ensure safe current transfer.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "si'ng'le-phase",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "A si'ng'le-phase supply was connected to the distribution board for residential applications.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "...",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
+        "audio": "assets/audio/a_2_i_f.mp3"
+      }
+    },
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Where should I leave the safety checklist?",
+        "text_b": "Leave it on the supervisor’s desk, next to the inspection file.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Is there a calibrated measuring device anywhere in the workshop?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated measuring devices in the workshop at the moment.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Do you complete maintenance reports on Monday mornings?",
+        "text_b": "No, I don’t. But I complete maintenance reports on Monday evenings. I have more time to focus on documentation in the evenings than in the mornings.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "inspect the equipment"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "testing the backup system"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "final inspection"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "review new technical manuals"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "severe back pain"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "operate the digital monitoring system"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Does she usually inspect the equipment on Friday afternoons?",
+        "text_b": "No, she rarely inspects the equipment on Friday afternoons. She usually inspects it on Tuesday mornings.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you testing the backup system manually?",
+        "text_b": "I am testing it manually because the automated system is offline. I always test it manually when the automated system is unavailable.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Can he assist us with the final inspection tomorrow afternoon?",
+        "text_b": "I’m afraid he can’t. He has to attend a compliance meeting tomorrow afternoon, and no replacement has been assigned.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "What do you usually do during the weekend?",
+        "text_b": "I like to review new technical manuals. I normally analyse one manual every Saturday, but this weekend I am going to review three updated manuals.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Sir, may I leave thirty minutes earlier today? I have severe back pain.",
+        "text_b": "What happened?",
+        "text_c": "I strained it while lifting a freezer.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Can you operate the digital monitoring system independently?",
+        "text_b": "Yes, I can. I regularly operate the digital monitoring system in my current role. In fact, this is my primary responsibility on Wednesdays.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "The distribution panel _____ fully operational today.",
+            "options": ["has", "were", "is"],
+            "answer": "is"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "The technician _____ a fault in the control circuit yesterday afternoon.",
+            "options": ["finds", "found", "is finding"],
+            "answer": "found"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "The insulation tester is placed _____ the multimeter and the cable reel on the bench.",
+            "options": ["on", "at", "between"],
+            "answer": "between"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "He usually _____ the circuit connections, but he _____ them right now.",
+            "options": [
+              "inspected / repaired",
+              "is inspecting / is repairing",
+              "inspects / is repairing"
+            ],
+            "answer": "inspects / is repairing"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "There _____ always a warning indicator on the panel during overload.",
+            "options": ["is", "are", "were"],
+            "answer": "is"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "There _____ four circuit breakers installed in the main board.",
+            "options": ["is", "was", "are"],
+            "answer": "are"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "The electrician _____ checks the voltage level before energising the system.",
+            "options": ["must", "usually", "should"],
+            "answer": "usually"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "You _____ test the grounding system using this device.",
+            "options": ["do", "mustn’t", "can"],
+            "answer": "can"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "I _____ isolate the power supply before replacing the fuse.",
+            "options": ["have to", "has to", "am"],
+            "answer": "have to"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "We _____ install the new transformer tomorrow.",
+            "options": ["will be", "goes to", "are going to"],
+            "answer": "are going to"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "_____ the electricians _____ all the wiring work yesterday?",
+            "options": ["Do / completed", "Did / completes", "Did / complete"],
+            "answer": "Did / complete"
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "The technician _____ a clamp meter now to measure the current flow.",
+            "options": ["is use", "is using", "uses"],
+            "answer": "is using"
+          },
+          {
+            "id": "g_b_13",
+            "sentence": "_____ any loose cables inside the switchboard?",
+            "options": ["Is there", "Are their", "Are there"],
+            "answer": "Are there"
+          },
+          {
+            "id": "g_b_14",
+            "sentence": "_____ he _____ the maintenance log every evening?",
+            "options": ["Is / writes", "Does / write", "Do / written"],
+            "answer": "Does / write"
+          },
+          {
+            "id": "g_b_15",
+            "sentence": "He _____ his insulated gloves before working on live equipment every day.",
+            "options": ["wore", "is wearing", "wears"],
+            "answer": "wears"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "The distribution panel is fully operational today.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "The technician found a fault in the control circuit yesterday afternoon.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "The insulation tester is placed between the multimeter and the cable reel on the bench.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "He usually inspects the circuit connections, but he is repairing them right now.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "There is always a warning indicator on the panel during overload.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "There are four circuit breakers installed in the main board.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "The electrician usually checks the voltage level before energising the system.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "You can test the grounding system using this device.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "I have to isolate the power supply before replacing the fuse.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "We are going to install the new transformer tomorrow.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "Did the electricians complete all the wiring work yesterday?",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_12",
+          "text": "The technician is using a clamp meter now to measure the current flow.",
+          "audio": "assets/audio/g_b_12.mp3"
+        },
+        {
+          "id": "g_b_13",
+          "text": "Are there any loose cables inside the switchboard?",
+          "audio": "assets/audio/g_b_13.mp3"
+        },
+        {
+          "id": "g_b_14",
+          "text": "Does he write the maintenance log every evening?",
+          "audio": "assets/audio/g_b_14.mp3"
+        },
+        {
+          "id": "g_b_15",
+          "text": "He wears his insulated gloves before working on live equipment every day.",
+          "audio": "assets/audio/g_b_15.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What does Deva’s research about the company suggest?",
+            "answer": "He prepares in advance and shows genuine interest.",
+            "options": [
+              "He is mainly interested in salary details.",
+              "He prepares in advance and shows genuine interest.",
+              "He expects full guidance without personal effort."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Why does Deva find electrical work interesting?",
+            "answer": "He enjoys solving different technical problems.",
+            "options": [
+              "He prefers repeating the same wiring tasks.",
+              "He enjoys solving different technical problems.",
+              "He mainly likes working alone."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "What can be inferred about Deva’s approach to safety?",
+            "answer": "He treats safety as part of everyday electrical work.",
+            "options": [
+              "He follows safety rules only when supervised.",
+              "He depends on others to control electrical risks.",
+              "He treats safety as part of everyday electrical work."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "How does Deva respond to changes in electrical technology?",
+            "answer": "He accepts the need for continuous learning.",
+            "options": [
+              "He avoids unfamiliar systems.",
+              "He accepts the need for continuous learning.",
+              "He believes basic skills are always sufficient."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What does Deva’s attitude toward feedback show?",
+            "answer": "He uses feedback to improve and cooperate better.",
+            "options": [
+              "He prefers working independently.",
+              "He feels uncomfortable when corrected.",
+              "He uses feedback to improve and cooperate better."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "I enjoy working with electrical systems and solving technical problems.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Each installation or fault is different, so the work is always interesting.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "I like identifying issues and ensuring systems operate safely and efficiently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I also enjoy working as part of a team on site.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I am confident with basic wiring work, installing sockets and lighting points, and assisting with distribution board connections.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I have also helped with conduit installation, cable termination, and basic continuity and insulation testing using test instruments.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I always follow electrical safety procedures.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I wear personal protective equipment, isolate the power supply before starting work, and use insulated tools correctly.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I also test circuits before touching conductors and keep the work area organised to reduce risks.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I can read wiring diagrams and use basic instruments such as multimetres.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I understand the importance of protective devices like circuit breakers and isolators.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I know electrical technology is developing, so I try to learn by reading manuals and observing experienced technicians.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I communicate well with supervisors and co-workers, and I am comfortable following instructions from others.",
+          "audio": "assets/audio/t_13.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "I enjoy working with electrical systems and solving technical problems.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Each installation or fault is different, so the work is always interesting.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "I like identifying issues and ensuring systems operate safely and efficiently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I also enjoy working as part of a team on site.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I am confident with basic wiring work, installing sockets and lighting points, and assisting with distribution board connections.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I have also helped with conduit installation, cable termination, and basic continuity and insulation testing using test instruments.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I always follow electrical safety procedures.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I wear personal protective equipment, isolate the power supply before starting work, and use insulated tools correctly.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I also test circuits before touching conductors and keep the work area organised to reduce risks.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I can read wiring diagrams and use basic instruments such as multimetres.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I understand the importance of protective devices like circuit breakers and isolators.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I know electrical technology is developing, so I try to learn by reading manuals and observing experienced technicians.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I communicate well with supervisors and co-workers, and I am comfortable following instructions from others.",
+          "audio": "assets/audio/t_13.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "I enjoy working with electrical systems and solving technical problems.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Each installation or fault is different, so the work is always interesting.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "I like identifying issues and ensuring systems operate safely and efficiently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I also enjoy working as part of a team on site.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I am confident with basic wiring work, installing sockets and lighting points, and assisting with distribution board connections.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I have also helped with conduit installation, cable termination, and basic continuity and insulation testing using test instruments.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I always follow electrical safety procedures.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I wear personal protective equipment, isolate the power supply before starting work, and use insulated tools correctly.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I also test circuits before touching conductors and keep the work area organised to reduce risks.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I can read wiring diagrams and use basic instruments such as multimetres.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I understand the importance of protective devices like circuit breakers and isolators.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I know electrical technology is developing, so I try to learn by reading manuals and observing experienced technicians.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I communicate well with supervisors and co-workers, and I am comfortable following instructions from others.",
+          "audio": "assets/audio/t_13.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
