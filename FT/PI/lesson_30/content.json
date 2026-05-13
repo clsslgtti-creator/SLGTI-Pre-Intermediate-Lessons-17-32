@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "bushi'ng'",
+        "word_text": "conchi'ng'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The worn suspension bushi'ng' was replaced during the scheduled maintenance inspection.",
+        "sentence_text": "During chocolate production, conchi'ng' is carried out to refine texture.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "honi'ng'",
+        "word_text": "homogenisi'ng'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He was carefully honi'ng' the engine cylinder walls to improve performance.",
+        "sentence_text": "They were homogenisi'ng' the milk mixture to ensure a consistent fat distribution.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "a'ng'le",
+        "word_text": "ma'ng'o slicer",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The camshaft a'ng'le was adjusted to ensure accurate valve timing.",
+        "sentence_text": "The ma'ng'o slicer was sanitised before use to prevent cross-contamination.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "si'ng'le-cylinder",
+        "word_text": "fi'ng'er food",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The si'ng'le-cylinder engine was tested under load conditions to evaluate fuel efficiency.",
+        "sentence_text": "The fi'ng'er food items were packaged in sealed containers for retail distribution.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -223,174 +223,174 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The hydraulic lift _____ fully operational today.",
+            "sentence": "The blast chiller _____ fully operational today.",
             "options": ["has", "were", "is"],
             "answer": "is"
           },
           {
             "id": "g_b_2",
-            "sentence": "The mechanic _____ a crack in the cylinder head yesterday afternoon.",
+            "sentence": "The quality inspector _____ contamination in the sample yesterday afternoon.",
             "options": ["finds", "found", "is finding"],
             "answer": "found"
           },
           {
             "id": "g_b_3",
-            "sentence": "The torque wrench is lying _____ the multimeter and the crimp wire on the tool bench.",
-            "options": ["in", "at", "between"],
+            "sentence": "The thermometer is placed _____ the weighing scale and the mixing bowl on the counter.",
+            "options": ["on", "at", "between"],
             "answer": "between"
           },
           {
             "id": "g_b_4",
-            "sentence": "He usually _____ the brake pads, but he _____ them right now.",
+            "sentence": "She usually _____ the ingredients carefully, but she _____ them right now.",
             "options": [
-              "repaired/ replaced",
-              "is repairing/ is replacing",
-              "repairs/ is replacing"
+              "measured / packed",
+              "is measuring / is packing",
+              "measures / is packing"
             ],
-            "answer": "repairs/ is replacing"
+            "answer": "measures / is packing"
           },
           {
             "id": "g_b_5",
-            "sentence": "There _____ always a warning light on the dashboard when the fuel tank is low.",
-            "options": ["is", "are", "was"],
+            "sentence": "There _____ always a hygiene notice near the processing area.",
+            "options": ["is", "are", "were"],
             "answer": "is"
           },
           {
             "id": "g_b_6",
-            "sentence": "There _____ six fire extinguishers placed all around the workshop.",
+            "sentence": "There _____ six stainless steel trays inside the oven rack.",
             "options": ["is", "was", "are"],
             "answer": "are"
           },
           {
             "id": "g_b_7",
-            "sentence": "The technician _____ inspects tyres before road testing.",
+            "sentence": "The supervisor _____ checks the storage temperature before production.",
             "options": ["must", "usually", "should"],
             "answer": "usually"
           },
           {
             "id": "g_b_8",
-            "sentence": "You _____ diagnose faults easily using the scan tool.",
-            "options": ["do", "mustn’t", "can"],
+            "sentence": "You _____ monitor the cooking time using the digital timer.",
+            "options": ["do", "has to", "can"],
             "answer": "can"
           },
           {
             "id": "g_b_9",
-            "sentence": "I _____ replace the fuel injector.",
+            "sentence": "I _____ sanitise the work surface before starting preparation.",
             "options": ["have to", "has to", "am"],
             "answer": "have to"
           },
           {
             "id": "g_b_10",
-            "sentence": "We _____ service the transmission tomorrow.",
+            "sentence": "We _____ prepare the marinade for the chicken tomorrow morning.",
             "options": ["will be", "goes to", "are going to"],
             "answer": "are going to"
           },
           {
             "id": "g_b_11",
-            "sentence": "_____ the workmen _____ all the scheduled work in the maintenance bay yesterday?",
-            "options": ["Do/ completed", "Did/ completes", "Did / complete"],
+            "sentence": "_____ the technicians _____ all the production records yesterday?",
+            "options": ["Do / completed", "Did / completes", "Did / complete"],
             "answer": "Did / complete"
           },
           {
             "id": "g_b_12",
-            "sentence": "The technician _____ a vernier caliper now to measure the inner diameter of the pipes.",
-            "options": ["is use", "is using", "uses"],
-            "answer": "is using"
+            "sentence": "The operator _____ the core temperature now to ensure safe cooking.",
+            "options": ["is check", "is checking", "checks"],
+            "answer": "is checking"
           },
           {
             "id": "g_b_13",
-            "sentence": "_____ any hydraulic lifts in your service centre?",
+            "sentence": "_____ any sealed containers in the cold storage room?",
             "options": ["Is there", "Are their", "Are there"],
             "answer": "Are there"
           },
           {
             "id": "g_b_14",
-            "sentence": "_____ he _____ to his family once a week?",
-            "options": ["Is / writes", "Does/ write", "Do / written"],
-            "answer": "Does/ write"
+            "sentence": "_____ she _____ the quality report every evening?",
+            "options": ["Is / writes", "Does / write", "Do / written"],
+            "answer": "Does / write"
           },
           {
             "id": "g_b_15",
-            "sentence": "He _____ all his personal protection equipment before going into the service bay this morning.",
+            "sentence": "She _____ her hairnet and gloves before entering the processing area every day.",
             "options": ["wore", "is wearing", "wears"],
-            "answer": "wore"
+            "answer": "wears"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "The hydraulic lift is fully operational today.",
+          "text": "The blast chiller is fully operational today.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "The mechanic found a crack in the cylinder head yesterday afternoon.",
+          "text": "The quality inspector found contamination in the sample yesterday afternoon.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "The torque wrench is lying between the multimeter and the crimp wire on the tool bench.",
+          "text": "The thermometer is placed between the weighing scale and the mixing bowl on the counter.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "He usually repairs the brake pads, but he is replacing them right now.",
+          "text": "She usually measures the ingredients carefully, but she is packing them right now.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "There is always a warning light on the dashboard when the fuel tank is low.",
+          "text": "There is always a hygiene notice near the processing area.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "There are six fire extinguishers placed all around the workshop.",
+          "text": "There are six stainless steel trays inside the oven rack.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "The technician usually inspects tyres before road testing.",
+          "text": "The supervisor usually checks the storage temperature before production.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "You can diagnose faults easily using the scan tool.",
+          "text": "You can monitor the cooking time using the digital timer.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "I have to replace the fuel injector.",
+          "text": "I have to sanitise the work surface before starting preparation.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "We are going to service the transmission tomorrow.",
+          "text": "We are going to prepare the marinade for the chicken tomorrow morning.",
           "audio": "assets/audio/g_b_10.mp3"
         },
         {
           "id": "g_b_11",
-          "text": "Did the workmen complete all the scheduled work in the maintenance bay yesterday?",
+          "text": "Did the technicians complete all the production records yesterday?",
           "audio": "assets/audio/g_b_11.mp3"
         },
         {
           "id": "g_b_12",
-          "text": "The technician is using a vernier caliper now to measure the inner diameter of the pipes.",
+          "text": "The operator is checking the core temperature now to ensure safe cooking.",
           "audio": "assets/audio/g_b_12.mp3"
         },
         {
           "id": "g_b_13",
-          "text": "Are there any hydraulic lifts in your service centre?",
+          "text": "Are there any sealed containers in the cold storage room?",
           "audio": "assets/audio/g_b_13.mp3"
         },
         {
           "id": "g_b_14",
-          "text": "Does he write to his family once a week?",
+          "text": "Does she write the quality report every evening?",
           "audio": "assets/audio/g_b_14.mp3"
         },
         {
           "id": "g_b_15",
-          "text": "He wore all his personal protection equipment before going into the service bay this morning.",
+          "text": "She wears her hairnet and gloves before entering the processing area every day.",
           "audio": "assets/audio/g_b_15.mp3"
         }
       ]
@@ -422,51 +422,51 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What does Amani’s research about the company suggest?",
+            "question": "What does Meena’s research about the company suggest?",
             "answer": "She prepares in advance and shows genuine interest.",
             "options": [
-              "She is mainly interested in pay and benefits.",
+              "She is mainly interested in wages and working hours.",
               "She prepares in advance and shows genuine interest.",
               "She expects full guidance without personal effort."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why does Amani find automotive work satisfying?",
-            "answer": "She enjoys problem-solving and practical results.",
+            "question": "Why does Meena find food technology work satisfying?",
+            "answer": "She enjoys varied processes and practical results.",
             "options": [
-              "She prefers repetitive workshop tasks.",
-              "She enjoys problem-solving and practical results.",
-              "She mainly likes customer interaction."
+              "She prefers repeating the same production tasks.",
+              "She enjoys varied processes and practical results.",
+              "She mainly likes working independently."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What can be understood about Amani’s approach to safety?",
-            "answer": "She treats safety as part of everyday work.",
+            "question": "What can be inferred about Meena’s approach to food safety?",
+            "answer": "She treats food safety as part of everyday work.",
             "options": [
-              "She follows rules only under supervision.",
-              "She relies on others to manage risks.",
-              "She treats safety as part of everyday work."
+              "She follows rules only during inspections.",
+              "She relies on others to control food risks.",
+              "She treats food safety as part of everyday work."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "How does Amani respond to changes in vehicle technology?",
-            "answer": "She accepts the need for continuous learning.",
+            "question": "How does Meena respond to changes in food production methods?",
+            "answer": "She accepts the need to keep learning at work.",
             "options": [
-              "She avoids unfamiliar systems.",
-              "She accepts the need for continuous learning.",
-              "She believes traditional skills are sufficient."
+              "She avoids new equipment and processes.",
+              "She accepts the need to keep learning at work.",
+              "She believes traditional methods are always enough."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does Amani’s attitude toward feedback show?",
+            "question": "What does Meena’s attitude toward feedback show?",
             "answer": "She uses feedback to improve and cooperate better.",
             "options": [
-              "She prefers working independently.",
-              "She feels uneasy when corrected.",
+              "She prefers working alone without guidance.",
+              "She feels uncomfortable when corrected.",
               "She uses feedback to improve and cooperate better."
             ]
           }
@@ -475,186 +475,186 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "I enjoy working with vehicles and solving technical problems.",
+          "text": "I enjoy working with food processes and seeing how raw ingredients are turned into safe, high-quality products.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "text": "Each production task is different, whether it involves preparation, processing, or packaging, which makes the work interesting.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I also enjoy working as part of a team in a production environment.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I always follow safety procedures.",
+          "text": "I am confident with basic food preparation, weighing and measuring ingredients, mixing processes, and cleaning equipment.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "text": "I have also assisted with packaging, labelling, and basic quality checks during production.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "text": "I always follow food safety and hygiene procedures.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "text": "I wear protective clothing, wash and sanitise my hands and equipment, and prevent cross-contamination during processing.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I understand the importance of sensors and electronic systems.",
+          "text": "I also make sure work areas are kept clean to reduce food safety risks.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "text": "I can operate basic food processing machines and follow standard operating procedures.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I accept feedback positively and try to improve my work.",
+          "text": "I understand the importance of temperature control and proper storage.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "text": "As food technology continues to develop, I try to learn by following instructions and observing experienced staff.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I am comfortable following instructions from others.",
+          "text": "I communicate well with supervisors and co-workers and am comfortable following instructions.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "I enjoy working with vehicles and solving technical problems.",
+          "text": "I enjoy working with food processes and seeing how raw ingredients are turned into safe, high-quality products.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "text": "Each production task is different, whether it involves preparation, processing, or packaging, which makes the work interesting.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I also enjoy working as part of a team in a production environment.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I always follow safety procedures.",
+          "text": "I am confident with basic food preparation, weighing and measuring ingredients, mixing processes, and cleaning equipment.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "text": "I have also assisted with packaging, labelling, and basic quality checks during production.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "text": "I always follow food safety and hygiene procedures.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "text": "I wear protective clothing, wash and sanitise my hands and equipment, and prevent cross-contamination during processing.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I understand the importance of sensors and electronic systems.",
+          "text": "I also make sure work areas are kept clean to reduce food safety risks.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "text": "I can operate basic food processing machines and follow standard operating procedures.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I accept feedback positively and try to improve my work.",
+          "text": "I understand the importance of temperature control and proper storage.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "text": "As food technology continues to develop, I try to learn by following instructions and observing experienced staff.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I am comfortable following instructions from others.",
+          "text": "I communicate well with supervisors and co-workers and am comfortable following instructions.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "I enjoy working with vehicles and solving technical problems.",
+          "text": "I enjoy working with food processes and seeing how raw ingredients are turned into safe, high-quality products.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "text": "Each production task is different, whether it involves preparation, processing, or packaging, which makes the work interesting.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I also enjoy working as part of a team in a production environment.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I always follow safety procedures.",
+          "text": "I am confident with basic food preparation, weighing and measuring ingredients, mixing processes, and cleaning equipment.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "text": "I have also assisted with packaging, labelling, and basic quality checks during production.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "text": "I always follow food safety and hygiene procedures.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "text": "I wear protective clothing, wash and sanitise my hands and equipment, and prevent cross-contamination during processing.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I understand the importance of sensors and electronic systems.",
+          "text": "I also make sure work areas are kept clean to reduce food safety risks.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "text": "I can operate basic food processing machines and follow standard operating procedures.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I accept feedback positively and try to improve my work.",
+          "text": "I understand the importance of temperature control and proper storage.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "text": "As food technology continues to develop, I try to learn by following instructions and observing experienced staff.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I am comfortable following instructions from others.",
+          "text": "I communicate well with supervisors and co-workers and am comfortable following instructions.",
           "audio": "assets/audio/t_12.mp3"
         }
       ]
