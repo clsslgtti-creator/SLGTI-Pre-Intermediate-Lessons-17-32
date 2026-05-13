@@ -1,0 +1,800 @@
+{
+  "meta": {
+    "lesson_no": 29,
+    "level": "Pre-Intermediate",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "sound /ð/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "smoo'th'ness",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The smoo'th'ness of the batter resulted in a creamy soufflé.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "algori'th'm",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The algori'th'm was designed to improve data processing speed.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "lea'th'er",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Heat resistant protective lea'th'er gloves were issued to all those operating the ovens.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "toge'th'er",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The ingredients were mixed toge'th'er to ensure uniform consistency in the final product.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-5",
+    "focus": "Structure ‘Be able to’",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["Active Voice", "Passive Voice"],
+        [
+          "He delivered the letters yesterday.",
+          "The letters were delivered yesterday."
+        ],
+        [
+          "The trainees rearranged the kitchen cupboards last week.",
+          "The kitchen cupboards  were rearranged last week."
+        ],
+        [
+          "They painted the building last year.",
+          "The building was painted last year."
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/d_1.jpeg",
+        "text_a": "This is a very modern oven.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it delivered?",
+        "text_d": "I am not sure. I think it was delivered last year.",
+        "audio_a": "assets/audio/d_1_a.mp3",
+        "audio_b": "assets/audio/d_1_b.mp3",
+        "audio_c": "assets/audio/d_1_c.mp3",
+        "audio_d": "assets/audio/d_1_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/d_2.jpeg",
+        "text_a": "This is a very large cold room.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it built?",
+        "text_d": "I am not sure. I think it was built in 2018.",
+        "audio_a": "assets/audio/d_2_a.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
+        "audio_c": "assets/audio/d_2_c.mp3",
+        "audio_d": "assets/audio/d_2_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/d_3.jpeg",
+        "text_a": "This is a very expensive mixer.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it purchased?",
+        "text_d": "I am not sure. I think it was purchased two years ago.",
+        "audio_a": "assets/audio/d_3_a.mp3",
+        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_c": "assets/audio/d_3_c.mp3",
+        "audio_d": "assets/audio/d_3_d.mp3",
+        "text_d_speaking": "_________________"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/d_4.jpeg",
+        "word": "efficient blast freezer"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/d_5.jpeg",
+        "word": "advanced vacuum sealer"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/d_6.jpeg",
+        "word": "powerful dough mixer"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/d_7.jpeg",
+        "word": "reliable packaging machine"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/d_8.jpeg",
+        "word": "clean stainless-steel worktable"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/d_9.jpeg",
+        "word": "innovative food processor"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/d_4.jpeg",
+        "text_a": "This is a very efficient blast freezer.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it commissioned?",
+        "text_d": "I am not sure. I think it was commissioned in 2021.",
+        "audio_a": "assets/audio/d_4_a.mp3",
+        "audio_b": "assets/audio/d_4_b.mp3",
+        "audio_c": "assets/audio/d_4_c.mp3",
+        "audio_d": "assets/audio/d_4_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/d_5.jpeg",
+        "text_a": "This is a very advanced vacuum sealer.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it introduced?",
+        "text_d": "I am not sure. I think it was introduced recently.",
+        "audio_a": "assets/audio/d_5_a.mp3",
+        "audio_b": "assets/audio/d_5_b.mp3",
+        "audio_c": "assets/audio/d_5_c.mp3",
+        "audio_d": "assets/audio/d_5_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/d_6.jpeg",
+        "text_a": "This is a very powerful dough mixer.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it serviced?",
+        "text_d": "I am not sure. I think it was serviced last month.",
+        "audio_a": "assets/audio/d_6_a.mp3",
+        "audio_b": "assets/audio/d_6_b.mp3",
+        "audio_c": "assets/audio/d_6_c.mp3",
+        "audio_d": "assets/audio/d_6_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/d_7.jpeg",
+        "text_a": "This is a very reliable packaging machine.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it repaired?",
+        "text_d": "I am not sure. I think it was repaired last week.",
+        "audio_a": "assets/audio/d_7_a.mp3",
+        "audio_b": "assets/audio/d_7_b.mp3",
+        "audio_c": "assets/audio/d_7_c.mp3",
+        "audio_d": "assets/audio/d_7_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/d_8.jpeg",
+        "text_a": "This is a very clean stainless-steel worktable.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it sanitised?",
+        "text_d": "I am not sure. I think it was sanitised this morning.",
+        "audio_a": "assets/audio/d_8_a.mp3",
+        "audio_b": "assets/audio/d_8_b.mp3",
+        "audio_c": "assets/audio/d_8_c.mp3",
+        "audio_d": "assets/audio/d_8_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/d_9.jpeg",
+        "text_a": "This is a very innovative food processor.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it manufactured?",
+        "text_d": "I am not sure. I think it was manufactured in May 2022.",
+        "audio_a": "assets/audio/d_9_a.mp3",
+        "audio_b": "assets/audio/d_9_b.mp3",
+        "audio_c": "assets/audio/d_9_c.mp3",
+        "audio_d": "assets/audio/d_9_d.mp3",
+        "text_d_speaking": "_________________"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-10",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "subtitle": "How to construct the Passive Voice.\nThe active object becomes the passive subject.\nSimple Present: am/is/are + past participle\nSimple past: was/were + past participle.",
+        "tables": [
+          [
+            ["Active: Simple Present", "Passive: Simple Present"],
+            [
+              "A small Italian company produces this olive oil.",
+              "This olive oil is produced by a small Italian company."
+            ],
+            [
+              "Many Sri Lankans speak English.",
+              "English is spoken by many Sri Lankans."
+            ],
+            [
+              "The students clean the kitchen counters thoroughly every day.",
+              "The kitchen counters are cleaned thoroughly by the students every day."
+            ]
+          ],
+          [
+            ["Active: Simple Past", "Passive: Simple Past"],
+            [
+              "The Swiss invented the watch.",
+              "The watch was invented by the Swiss."
+            ],
+            [
+              "Geoffrey Bawa designed the Sri Lankan Parliament Building in Kotte.",
+              "The Sri Lankan Parliament building was designed by Geoffrey Bawa."
+            ],
+            [
+              "The trainees repaired the broken benches.",
+              "The broken benches were repaired by the students."
+            ]
+          ]
+        ],
+        "content": [
+          {
+            "id": "g_1",
+            "question": "People make chocolate from cocoa beans. Chocolate _______________ from cocoa beans.",
+            "options": ["are made", "is made", "was made"],
+            "answer": "is made"
+          },
+          {
+            "id": "g_2",
+            "question": "Workers built this railway line in 1998. This railway line _______________ in 1998.",
+            "options": ["is built", "was built", "was build"],
+            "answer": "was built"
+          },
+          {
+            "id": "g_3",
+            "question": "Farmers grow bananas in tropical countries. Bananas _______________ in tropical countries.",
+            "options": ["are grow", "was grown", "are grown"],
+            "answer": "are grown"
+          },
+          {
+            "id": "g_4",
+            "question": "Technicians installed the new system last week. The new system _______________ last week.",
+            "options": ["was installed", "is installed", "were installed"],
+            "answer": "was installed"
+          },
+          {
+            "id": "g_5",
+            "question": "Companies export tea worldwide. Tea _______________ worldwide.",
+            "options": ["are exported", "was export", "is exported"],
+            "answer": "is exported"
+          },
+          {
+            "id": "g_6",
+            "question": "Engineers completed this project in 2020. The project _______________ in 2020.",
+            "options": ["is completed", "was completed", "was complete"],
+            "answer": "was completed"
+          },
+          {
+            "id": "g_7",
+            "question": "People speak English in many countries. English _______________ in many countries.",
+            "options": ["is spoke", "was spoken", "is spoken"],
+            "answer": "is spoken"
+          },
+          {
+            "id": "g_8",
+            "question": "The chef prepared the meal yesterday. The meal _______________ yesterday.",
+            "options": ["is prepared", "were prepared", "was prepared"],
+            "answer": "was prepared"
+          },
+          {
+            "id": "g_9",
+            "question": "Manufacturers produce laptops in large factories. Laptops _______________ in large factories.",
+            "options": ["is produced", "are produced", "were produced"],
+            "answer": "are produced"
+          },
+          {
+            "id": "g_10",
+            "question": "Scientists discovered the vaccine in 2019. The vaccine _______________ in 2019.",
+            "options": ["is discovered", "was discover", "was discovered"],
+            "answer": "was discovered"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "People make chocolate from cocoa beans. Chocolate is made from cocoa beans.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "Workers built this railway line in 1998. This railway line was built in 1998.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "Farmers grow bananas in tropical countries. Bananas are grown in tropical countries.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "Technicians installed the new system last week. The new system was installed last week.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "Companies export tea worldwide. Tea is exported worldwide.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "Engineers completed this project in 2020. The project was completed in 2020.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "People speak English in many countries. English is spoken in many countries.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "The chef prepared the meal yesterday. The meal was prepared yesterday.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "Manufacturers produce laptops in large factories. Laptops are produced in large factories.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "Scientists discovered the vaccine in 2019. The vaccine was discovered in 2019.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-10",
+    "instructions": {
+      "activity_a": {
+        "text": "Arrange the following into two categories.\nපහත දැක්වෙන දෑ කාණ්ඩ දෙකකට වෙන් කර සකසන්න.\nபின்வருவனவற்றை இரண்டு வகைகளாகப் பிரிக்கவும்.",
+        "audio": "assets/audio/a_4_i_m.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "category": ["Active Voice", "Passive Voice"],
+        "content": [
+          {
+            "id": "g_4_a_1",
+            "item_a": "Tea is made",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_2",
+            "item_a": "Leaves are carefully plucked",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_3",
+            "item_a": "Flavour develops",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_4",
+            "item_a": "The industry supports thousands of workers",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_5",
+            "item_a": "The leaves are spread out",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_6",
+            "item_a": "Leaves become soft",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_7",
+            "item_a": "Natural juices are released",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_8",
+            "item_a": "The colour of the leaves changes",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_9",
+            "item_a": "It contributes to the economy",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_10",
+            "item_a": "Sri Lankan tea is widely recognised",
+            "item_b": "Passive Voice"
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What part of the tea plant is selected during plucking?",
+            "answer": "The top two leaves and one bud",
+            "options": [
+              "The top two leaves and several buds",
+              "The top two leaves and one bud",
+              "The top three leaves and one bud"
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What happens during the withering stage?",
+            "answer": "Moisture is gradually removed as air circulates.",
+            "options": [
+              "Moisture is increased, and leaves are dried completely with heat.",
+              "Moisture is gradually removed as air circulates.",
+              "Natural juices are released from the leaves."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why are the leaves rolled by machines?",
+            "answer": "To release the natural juices inside the leaves.",
+            "options": [
+              "To reduce the moisture content inside the leaves.",
+              "To soften the leaves before packing.",
+              "To release the natural juices inside the leaves."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "What is done before the tea is shipped overseas?",
+            "answer": "Samples are tested to ensure quality standards are met.",
+            "options": [
+              "The tea is packed and immediately transported to ships.",
+              "Samples are tested to ensure quality standards are met.",
+              "The tea is labelled after it is loaded onto ships."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Why is Sri Lankan tea recognised internationally?",
+            "answer": "Because of the careful production process and strict quality control.",
+            "options": [
+              "Because of the careful production process and strict quality control.",
+              "Because of skillful marketing and strict quality control.",
+              "Sri Lankan Ceylon Tea"
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Today, you will learn how tea is made in Sri Lanka and how it is prepared for export around the world.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "First, tea leaves are carefully plucked by hand.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "After harvesting, the leaves are quickly transported to the factory to preserve freshness.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This stage is called withering, and moisture is removed from the leaves as air is circulated.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "During this stage, the colour of the leaves changes and the flavour develops.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Once the desired level is reached, the leaves are dried with heat.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Finally, they are sorted, graded, and packed after strict quality checks are carried out.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "After processing, the tea is prepared for international markets.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Detailed labels are attached, and export documents are completed.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Before shipment, samples are tested to ensure that quality standards are met.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "The tea is then transported to the Colombo port, where it is loaded onto ships and sent to countries across Europe, Asia, and the Middle East.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "It is served in homes, hotels, and restaurants around the world.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "In many countries, it is sold under the name “Ceylon Tea”, which is a protected and respected brand.",
+          "audio": "assets/audio/t_13.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Today, you will learn how tea is made in Sri Lanka and how it is prepared for export around the world.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "First, tea leaves are carefully plucked by hand.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "After harvesting, the leaves are quickly transported to the factory to preserve freshness.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This stage is called withering, and moisture is removed from the leaves as air is circulated.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "During this stage, the colour of the leaves changes and the flavour develops.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Once the desired level is reached, the leaves are dried with heat.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Finally, they are sorted, graded, and packed after strict quality checks are carried out.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "After processing, the tea is prepared for international markets.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Detailed labels are attached, and export documents are completed.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Before shipment, samples are tested to ensure that quality standards are met.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "The tea is then transported to the Colombo port, where it is loaded onto ships and sent to countries across Europe, Asia, and the Middle East.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "It is served in homes, hotels, and restaurants around the world.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "In many countries, it is sold under the name “Ceylon Tea”, which is a protected and respected brand.",
+          "audio": "assets/audio/t_13.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1",
+          "text": "Today, you will learn how tea is made in Sri Lanka and how it is prepared for export around the world.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "First, tea leaves are carefully plucked by hand.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "After harvesting, the leaves are quickly transported to the factory to preserve freshness.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This stage is called withering, and moisture is removed from the leaves as air is circulated.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "During this stage, the colour of the leaves changes and the flavour develops.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Once the desired level is reached, the leaves are dried with heat.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Finally, they are sorted, graded, and packed after strict quality checks are carried out.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "After processing, the tea is prepared for international markets.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Detailed labels are attached, and export documents are completed.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Before shipment, samples are tested to ensure that quality standards are met.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "The tea is then transported to the Colombo port, where it is loaded onto ships and sent to countries across Europe, Asia, and the Middle East.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "It is served in homes, hotels, and restaurants around the world.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "In many countries, it is sold under the name “Ceylon Tea”, which is a protected and respected brand.",
+          "audio": "assets/audio/t_13.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
