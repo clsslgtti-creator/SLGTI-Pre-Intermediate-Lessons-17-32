@@ -1,0 +1,693 @@
+{
+  "meta": {
+    "lesson_no": 30,
+    "level": "Pre-Intermediate",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "sound /ŋ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "bushi'ng'",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The worn suspension bushi'ng' was replaced during the scheduled maintenance inspection.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "honi'ng'",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "He was carefully honi'ng' the engine cylinder walls to improve performance.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "a'ng'le",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The camshaft a'ng'le was adjusted to ensure accurate valve timing.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "si'ng'le-cylinder",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The si'ng'le-cylinder engine was tested under load conditions to evaluate fuel efficiency.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "...",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
+        "audio": "assets/audio/a_2_i_f.mp3"
+      }
+    },
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Where should I leave the safety checklist?",
+        "text_b": "Leave it on the supervisor’s desk, next to the inspection file.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Is there a calibrated measuring device anywhere in the workshop?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated measuring devices in the workshop at the moment.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Do you complete maintenance reports on Monday mornings?",
+        "text_b": "No, I don’t. But I complete maintenance reports on Monday evenings. I have more time to focus on documentation in the evenings than in the mornings.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "inspect the equipment"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "testing the backup system"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "final inspection"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "review new technical manuals"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "severe back pain"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "operate the digital monitoring system"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Does she usually inspect the equipment on Friday afternoons?",
+        "text_b": "No, she rarely inspects the equipment on Friday afternoons. She usually inspects it on Tuesday mornings.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you testing the backup system manually?",
+        "text_b": "I am testing it manually because the automated system is offline. I always test it manually when the automated system is unavailable.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Can he assist us with the final inspection tomorrow afternoon?",
+        "text_b": "I’m afraid he can’t. He has to attend a compliance meeting tomorrow afternoon, and no replacement has been assigned.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "What do you usually do during the weekend?",
+        "text_b": "I like to review new technical manuals. I normally analyse one manual every Saturday, but this weekend I am going to review three updated manuals.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Sir, may I leave thirty minutes earlier today? I have severe back pain.",
+        "text_b": "What happened?",
+        "text_c": "I strained it while lifting a freezer.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Can you operate the digital monitoring system independently?",
+        "text_b": "Yes, I can. I regularly operate the digital monitoring system in my current role. In fact, this is my primary responsibility on Wednesdays.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "The hydraulic lift _____ fully operational today.",
+            "options": ["has", "were", "is"],
+            "answer": "is"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "The mechanic _____ a crack in the cylinder head yesterday afternoon.",
+            "options": ["finds", "found", "is finding"],
+            "answer": "found"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "The torque wrench is lying _____ the multimeter and the crimp wire on the tool bench.",
+            "options": ["in", "at", "between"],
+            "answer": "between"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "He usually _____ the brake pads, but he _____ them right now.",
+            "options": [
+              "repaired/ replaced",
+              "is repairing/ is replacing",
+              "repairs/ is replacing"
+            ],
+            "answer": "repairs/ is replacing"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "There _____ always a warning light on the dashboard when the fuel tank is low.",
+            "options": ["is", "are", "was"],
+            "answer": "is"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "There _____ six fire extinguishers placed all around the workshop.",
+            "options": ["is", "was", "are"],
+            "answer": "are"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "The technician _____ inspects tyres before road testing.",
+            "options": ["must", "usually", "should"],
+            "answer": "usually"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "You _____ diagnose faults easily using the scan tool.",
+            "options": ["do", "mustn’t", "can"],
+            "answer": "can"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "I _____ replace the fuel injector.",
+            "options": ["have to", "has to", "am"],
+            "answer": "have to"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "We _____ service the transmission tomorrow.",
+            "options": ["will be", "goes to", "are going to"],
+            "answer": "are going to"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "_____ the workmen _____ all the scheduled work in the maintenance bay yesterday?",
+            "options": ["Do/ completed", "Did/ completes", "Did / complete"],
+            "answer": "Did / complete"
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "The technician _____ a vernier caliper now to measure the inner diameter of the pipes.",
+            "options": ["is use", "is using", "uses"],
+            "answer": "is using"
+          },
+          {
+            "id": "g_b_13",
+            "sentence": "_____ any hydraulic lifts in your service centre?",
+            "options": ["Is there", "Are their", "Are there"],
+            "answer": "Are there"
+          },
+          {
+            "id": "g_b_14",
+            "sentence": "_____ he _____ to his family once a week?",
+            "options": ["Is / writes", "Does/ write", "Do / written"],
+            "answer": "Does/ write"
+          },
+          {
+            "id": "g_b_15",
+            "sentence": "He _____ all his personal protection equipment before going into the service bay this morning.",
+            "options": ["wore", "is wearing", "wears"],
+            "answer": "wore"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "The hydraulic lift is fully operational today.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "The mechanic found a crack in the cylinder head yesterday afternoon.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "The torque wrench is lying between the multimeter and the crimp wire on the tool bench.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "He usually repairs the brake pads, but he is replacing them right now.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "There is always a warning light on the dashboard when the fuel tank is low.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "There are six fire extinguishers placed all around the workshop.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "The technician usually inspects tyres before road testing.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "You can diagnose faults easily using the scan tool.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "I have to replace the fuel injector.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "We are going to service the transmission tomorrow.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "Did the workmen complete all the scheduled work in the maintenance bay yesterday?",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_12",
+          "text": "The technician is using a vernier caliper now to measure the inner diameter of the pipes.",
+          "audio": "assets/audio/g_b_12.mp3"
+        },
+        {
+          "id": "g_b_13",
+          "text": "Are there any hydraulic lifts in your service centre?",
+          "audio": "assets/audio/g_b_13.mp3"
+        },
+        {
+          "id": "g_b_14",
+          "text": "Does he write to his family once a week?",
+          "audio": "assets/audio/g_b_14.mp3"
+        },
+        {
+          "id": "g_b_15",
+          "text": "He wore all his personal protection equipment before going into the service bay this morning.",
+          "audio": "assets/audio/g_b_15.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What does Amani’s research about the company suggest?",
+            "answer": "She prepares in advance and shows genuine interest.",
+            "options": [
+              "She is mainly interested in pay and benefits.",
+              "She prepares in advance and shows genuine interest.",
+              "She expects full guidance without personal effort."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Why does Amani find automotive work satisfying?",
+            "answer": "She enjoys problem-solving and practical results.",
+            "options": [
+              "She prefers repetitive workshop tasks.",
+              "She enjoys problem-solving and practical results.",
+              "She mainly likes customer interaction."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "What can be understood about Amani’s approach to safety?",
+            "answer": "She treats safety as part of everyday work.",
+            "options": [
+              "She follows rules only under supervision.",
+              "She relies on others to manage risks.",
+              "She treats safety as part of everyday work."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "How does Amani respond to changes in vehicle technology?",
+            "answer": "She accepts the need for continuous learning.",
+            "options": [
+              "She avoids unfamiliar systems.",
+              "She accepts the need for continuous learning.",
+              "She believes traditional skills are sufficient."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What does Amani’s attitude toward feedback show?",
+            "answer": "She uses feedback to improve and cooperate better.",
+            "options": [
+              "She prefers working independently.",
+              "She feels uneasy when corrected.",
+              "She uses feedback to improve and cooperate better."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "I enjoy working with vehicles and solving technical problems.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I always follow safety procedures.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I understand the importance of sensors and electronic systems.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I accept feedback positively and try to improve my work.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I am comfortable following instructions from others.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "I enjoy working with vehicles and solving technical problems.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I always follow safety procedures.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I understand the importance of sensors and electronic systems.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I accept feedback positively and try to improve my work.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I am comfortable following instructions from others.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "I enjoy working with vehicles and solving technical problems.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I always follow safety procedures.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I understand the importance of sensors and electronic systems.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I accept feedback positively and try to improve my work.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I am comfortable following instructions from others.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
