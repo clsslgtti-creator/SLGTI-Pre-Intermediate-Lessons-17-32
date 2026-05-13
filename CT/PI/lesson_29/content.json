@@ -114,7 +114,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/d_1.png",
+        "img": "assets/img/d_1.jpeg",
         "text_a": "This is a very modern concrete mixer.",
         "text_b": "I think so, too.",
         "text_c": "When was it delivered?",
@@ -127,7 +127,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/d_2.png",
+        "img": "assets/img/d_2.jpeg",
         "text_a": "This is a very tall scaffolding tower.",
         "text_b": "I think so, too.",
         "text_c": "When was it assembled?",
@@ -140,7 +140,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/d_3.png",
+        "img": "assets/img/d_3.jpeg",
         "text_a": "This is a very heavy cement block.",
         "text_b": "I think so, too.",
         "text_c": "When was it manufactured?",
@@ -187,7 +187,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/d_4.png",
+        "img": "assets/img/d_4.jpeg",
         "text_a": "This is a very wide formwork panel.",
         "text_b": "I think so, too.",
         "text_c": "When was it installed?",
@@ -200,7 +200,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/d_5.png",
+        "img": "assets/img/d_5.jpeg",
         "text_a": "This is a very compact plate compactor.",
         "text_b": "I think so, too.",
         "text_c": "When was it serviced?",
@@ -213,7 +213,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/d_6.png",
+        "img": "assets/img/d_6.jpeg",
         "text_a": "This is a very sharp steel trowel.",
         "text_b": "I think so, too.",
         "text_c": "When was it purchased?",
@@ -226,7 +226,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/d_7.png",
+        "img": "assets/img/d_7.jpeg",
         "text_a": "This is a very modern laser level.",
         "text_b": "I think so, too.",
         "text_c": "When was it introduced?",
@@ -239,7 +239,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/d_8.png",
+        "img": "assets/img/d_8.jpeg",
         "text_a": "This is a very long aluminium ladder.",
         "text_b": "I think so, too.",
         "text_c": "When was it repaired?",
@@ -252,7 +252,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/d_9.png",
+        "img": "assets/img/d_9.jpeg",
         "text_a": "This is a very solid concrete column.",
         "text_b": "I think so, too.",
         "text_c": "When was it constructed?",
