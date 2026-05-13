@@ -33,9 +33,9 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "lea'th'er",
+        "word_text": "smoo'th'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Protective lea'th'er gloves were issued to operators for heat resistance.",
+        "sentence_text": "The surface was smoo'th', reducing friction during operation.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -49,17 +49,17 @@
       },
       {
         "id": "p_3",
-        "word_text": "algori'th'm",
+        "word_text": "ga'th'er",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The algori'th'm was designed to improve data processing speed.",
+        "sentence_text": "The construction worker ga'th'ers materials before initiating the foundation work.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "smoo'th'",
+        "word_text": "algori'th'm",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "A smoo'th' surface coating was applied to the body panels.",
+        "sentence_text": "The algori'th'm was designed to improve data processing speed.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -114,11 +114,11 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/d_1.jpeg",
-        "text_a": "This is a very modern engine diagnostic scanner.",
+        "img": "assets/img/d_1.png",
+        "text_a": "This is a very modern concrete mixer.",
         "text_b": "I think so, too.",
-        "text_c": "When was it installed?",
-        "text_d": "I am not sure. I think it was installed last year.",
+        "text_c": "When was it delivered?",
+        "text_d": "I am not sure. I think it was delivered last year.",
         "audio_a": "assets/audio/d_1_a.mp3",
         "audio_b": "assets/audio/d_1_b.mp3",
         "audio_c": "assets/audio/d_1_c.mp3",
@@ -127,11 +127,11 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/d_2.jpeg",
-        "text_a": "This is a very advanced wheel alignment machine.",
+        "img": "assets/img/d_2.png",
+        "text_a": "This is a very tall scaffolding tower.",
         "text_b": "I think so, too.",
-        "text_c": "When was it calibrated?",
-        "text_d": "I am not sure. I think it was calibrated in 2019.",
+        "text_c": "When was it assembled?",
+        "text_d": "I am not sure. I think it was assembled in 2020.",
         "audio_a": "assets/audio/d_2_a.mp3",
         "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_2_c.mp3",
@@ -140,11 +140,11 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/d_3.jpeg",
-        "text_a": "This is a very heavy hydraulic vehicle lift.",
+        "img": "assets/img/d_3.png",
+        "text_a": "This is a very heavy cement block.",
         "text_b": "I think so, too.",
-        "text_c": "When was it inspected?",
-        "text_d": "I am not sure. I think it was inspected two months ago.",
+        "text_c": "When was it manufactured?",
+        "text_d": "I am not sure. I think it was manufactured two weeks ago.",
         "audio_a": "assets/audio/d_3_a.mp3",
         "audio_b": "assets/audio/d_3_b.mp3",
         "audio_c": "assets/audio/d_3_c.mp3",
@@ -156,42 +156,42 @@
       {
         "id": "k_1",
         "image": "assets/img/d_4.jpeg",
-        "word": "compact fuel injection test bench"
+        "word": "wide formwork panel"
       },
       {
         "id": "k_2",
         "image": "assets/img/d_5.jpeg",
-        "word": "powerful air compressor unit"
+        "word": "compact plate compactor"
       },
       {
         "id": "k_3",
         "image": "assets/img/d_6.jpeg",
-        "word": "reliable brake bleeding kit"
+        "word": "sharp steel trowel"
       },
       {
         "id": "k_4",
         "image": "assets/img/d_7.jpeg",
-        "word": "innovative hybrid training simulator"
+        "word": "modern laser level"
       },
       {
         "id": "k_5",
         "image": "assets/img/d_8.jpeg",
-        "word": "heavy engine hoist"
+        "word": "long aluminium ladder"
       },
       {
         "id": "k_6",
         "image": "assets/img/d_9.jpeg",
-        "word": "sophisticated vehicle scanning tool"
+        "word": "solid concrete column"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/d_4.jpeg",
-        "text_a": "This is a very compact fuel injection test bench.",
+        "img": "assets/img/d_4.png",
+        "text_a": "This is a very wide formwork panel.",
         "text_b": "I think so, too.",
-        "text_c": "When was it commissioned?",
-        "text_d": "I am not sure. I think it was commissioned in 2022.",
+        "text_c": "When was it installed?",
+        "text_d": "I am not sure. I think it was installed in 2022.",
         "audio_a": "assets/audio/d_4_a.mp3",
         "audio_b": "assets/audio/d_4_b.mp3",
         "audio_c": "assets/audio/d_4_c.mp3",
@@ -200,11 +200,11 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/d_5.jpeg",
-        "text_a": "This is a very powerful air compressor unit.",
+        "img": "assets/img/d_5.png",
+        "text_a": "This is a very compact plate compactor.",
         "text_b": "I think so, too.",
         "text_c": "When was it serviced?",
-        "text_d": "I am not sure. I think it was serviced last week.",
+        "text_d": "I am not sure. I think it was serviced last month.",
         "audio_a": "assets/audio/d_5_a.mp3",
         "audio_b": "assets/audio/d_5_b.mp3",
         "audio_c": "assets/audio/d_5_c.mp3",
@@ -213,8 +213,8 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/d_6.jpeg",
-        "text_a": "This is a very reliable brake bleeding kit.",
+        "img": "assets/img/d_6.png",
+        "text_a": "This is a very sharp steel trowel.",
         "text_b": "I think so, too.",
         "text_c": "When was it purchased?",
         "text_d": "I am not sure. I think it was purchased three years ago.",
@@ -226,8 +226,8 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/d_7.jpeg",
-        "text_a": "This is a very innovative hybrid training simulator.",
+        "img": "assets/img/d_7.png",
+        "text_a": "This is a very modern laser level.",
         "text_b": "I think so, too.",
         "text_c": "When was it introduced?",
         "text_d": "I am not sure. I think it was introduced recently.",
@@ -239,11 +239,11 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/d_8.jpeg",
-        "text_a": "This is a very heavy engine hoist.",
+        "img": "assets/img/d_8.png",
+        "text_a": "This is a very long aluminium ladder.",
         "text_b": "I think so, too.",
         "text_c": "When was it repaired?",
-        "text_d": "I am not sure. I think it was repaired last month.",
+        "text_d": "I am not sure. I think it was repaired last week.",
         "audio_a": "assets/audio/d_8_a.mp3",
         "audio_b": "assets/audio/d_8_b.mp3",
         "audio_c": "assets/audio/d_8_c.mp3",
@@ -252,11 +252,11 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/d_9.jpeg",
-        "text_a": "This is a very sophisticated vehicle scanning tool.",
+        "img": "assets/img/d_9.png",
+        "text_a": "This is a very solid concrete column.",
         "text_b": "I think so, too.",
-        "text_c": "When was it manufactured?",
-        "text_d": "I am not sure. I think it was manufactured in June 2023.",
+        "text_c": "When was it constructed?",
+        "text_d": "I am not sure. I think it was constructed in May 2023.",
         "audio_a": "assets/audio/d_9_a.mp3",
         "audio_b": "assets/audio/d_9_b.mp3",
         "audio_c": "assets/audio/d_9_c.mp3",
