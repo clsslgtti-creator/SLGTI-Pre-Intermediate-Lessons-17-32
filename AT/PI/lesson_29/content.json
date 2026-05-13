@@ -430,27 +430,86 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-2",
+    "type": "LISTENING-10",
     "instructions": {
       "activity_a": {
+        "text": "Arrange the following into two categories.\nපහත දැක්වෙන දෑ කාණ්ඩ දෙකකට වෙන් කර සකසන්න.\nபின்வருவனவற்றை இரண்டு வகைகளாகப் பிரிக்கவும்.",
+        "audio": "assets/audio/a_4_i_m.mp3"
+      },
+      "activity_b": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
-      "activity_b": {
+      "activity_c": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_c": {
+      "activity_d": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_d": {
+      "activity_e": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
+        "category": ["Active Voice", "Passive Voice"],
+        "content": [
+          {
+            "id": "g_4_a_1",
+            "item_a": "Tea is made",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_2",
+            "item_a": "Leaves are carefully plucked",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_3",
+            "item_a": "Flavour develops",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_4",
+            "item_a": "The industry supports thousands of workers",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_5",
+            "item_a": "The leaves are spread out",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_6",
+            "item_a": "Leaves become soft",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_7",
+            "item_a": "Natural juices are released",
+            "item_b": "Passive Voice"
+          },
+          {
+            "id": "g_4_a_8",
+            "item_a": "The colour of the leaves changes",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_9",
+            "item_a": "It contributes to the economy",
+            "item_b": "Active Voice"
+          },
+          {
+            "id": "g_4_a_10",
+            "item_a": "Sri Lankan tea is widely recognised",
+            "item_b": "Passive Voice"
+          }
+        ]
+      },
+      "activity_b": {
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
@@ -505,73 +564,6 @@
           }
         ]
       },
-      "activity_b": [
-        {
-          "id": "t_1",
-          "text": "Today, you will learn how tea is made in Sri Lanka and how it is prepared for export around the world.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "First, tea leaves are carefully plucked by hand.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "After harvesting, the leaves are quickly transported to the factory to preserve freshness.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "This stage is called withering, and moisture is removed from the leaves as air is circulated.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "During this stage, the colour of the leaves changes and the flavour develops.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Once the desired level is reached, the leaves are dried with heat.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "Finally, they are sorted, graded, and packed after strict quality checks are carried out.",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "After processing, the tea is prepared for international markets.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "Detailed labels are attached, and export documents are completed.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Before shipment, samples are tested to ensure that quality standards are met.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "The tea is then transported to the Colombo port, where it is loaded onto ships and sent to countries across Europe, Asia, and the Middle East.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "It is served in homes, hotels, and restaurants around the world.",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "In many countries, it is sold under the name “Ceylon Tea”, which is a protected and respected brand.",
-          "audio": "assets/audio/t_13.mp3"
-        }
-      ],
       "activity_c": [
         {
           "id": "t_1",
@@ -640,6 +632,73 @@
         }
       ],
       "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Today, you will learn how tea is made in Sri Lanka and how it is prepared for export around the world.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "First, tea leaves are carefully plucked by hand.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "After harvesting, the leaves are quickly transported to the factory to preserve freshness.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This stage is called withering, and moisture is removed from the leaves as air is circulated.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "During this stage, the colour of the leaves changes and the flavour develops.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Once the desired level is reached, the leaves are dried with heat.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Finally, they are sorted, graded, and packed after strict quality checks are carried out.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "After processing, the tea is prepared for international markets.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Detailed labels are attached, and export documents are completed.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Before shipment, samples are tested to ensure that quality standards are met.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "The tea is then transported to the Colombo port, where it is loaded onto ships and sent to countries across Europe, Asia, and the Middle East.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "It is served in homes, hotels, and restaurants around the world.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "In many countries, it is sold under the name “Ceylon Tea”, which is a protected and respected brand.",
+          "audio": "assets/audio/t_13.mp3"
+        }
+      ],
+      "activity_e": [
         {
           "id": "t_1",
           "text": "Today, you will learn how tea is made in Sri Lanka and how it is prepared for export around the world.",
