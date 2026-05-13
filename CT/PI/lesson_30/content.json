@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "bushi'ng'",
+        "word_text": "shori'ng'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The worn suspension bushi'ng' was replaced during the scheduled maintenance inspection.",
+        "sentence_text": "Temporary shori'ng' was installed to stabilise the excavation before the concrete foundation was poured.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "honi'ng'",
+        "word_text": "claddi'ng'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He was carefully honi'ng' the engine cylinder walls to improve performance.",
+        "sentence_text": "External claddi'ng' was fixed to the steel frame to improve thermal insulation and weather resistance.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "a'ng'le",
+        "word_text": "pili'ng'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The camshaft a'ng'le was adjusted to ensure accurate valve timing.",
+        "sentence_text": "Steel pili'ng' was driven deep into the ground to support the excavation before the foundation work began.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "si'ng'le-cylinder",
+        "word_text": "fi'ng'er joint",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The si'ng'le-cylinder engine was tested under load conditions to evaluate fuel efficiency.",
+        "sentence_text": "Fi'ng'er joints were manufactured under controlled conditions to enhance the durability of the timber beams.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -223,174 +223,174 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The hydraulic lift _____ fully operational today.",
+            "sentence": "The concrete mixer _____ fully operational today.",
             "options": ["has", "were", "is"],
             "answer": "is"
           },
           {
             "id": "g_b_2",
-            "sentence": "The mechanic _____ a crack in the cylinder head yesterday afternoon.",
+            "sentence": "The site engineer _____ a crack in the foundation yesterday morning.",
             "options": ["finds", "found", "is finding"],
             "answer": "found"
           },
           {
             "id": "g_b_3",
-            "sentence": "The torque wrench is lying _____ the multimeter and the crimp wire on the tool bench.",
-            "options": ["in", "at", "between"],
+            "sentence": "The spirit level is placed _____ the measuring tape and the hammer on the workbench.",
+            "options": ["on", "at", "between"],
             "answer": "between"
           },
           {
             "id": "g_b_4",
-            "sentence": "He usually _____ the brake pads, but he _____ them right now.",
+            "sentence": "He usually _____ the formwork, but he _____ it right now.",
             "options": [
-              "repaired/ replaced",
-              "is repairing/ is replacing",
-              "repairs/ is replacing"
+              "assembled / adjusted",
+              "is assembling / is adjusting",
+              "assembles / is adjusting"
             ],
-            "answer": "repairs/ is replacing"
+            "answer": "assembles / is adjusting"
           },
           {
             "id": "g_b_5",
-            "sentence": "There _____ always a warning light on the dashboard when the fuel tank is low.",
-            "options": ["is", "are", "was"],
+            "sentence": "There _____ always a safety sign near the scaffolding entrance.",
+            "options": ["is", "are", "were"],
             "answer": "is"
           },
           {
             "id": "g_b_6",
-            "sentence": "There _____ six fire extinguishers placed all around the workshop.",
+            "sentence": "There _____ eight safety helmets stored in the site office.",
             "options": ["is", "was", "are"],
             "answer": "are"
           },
           {
             "id": "g_b_7",
-            "sentence": "The technician _____ inspects tyres before road testing.",
+            "sentence": "The supervisor _____ checks the reinforcement bars before concrete pouring.",
             "options": ["must", "usually", "should"],
             "answer": "usually"
           },
           {
             "id": "g_b_8",
-            "sentence": "You _____ diagnose faults easily using the scan tool.",
-            "options": ["do", "mustn’t", "can"],
-            "answer": "can"
+            "sentence": "You _____ operate the concrete vibrator carefully.",
+            "options": ["do", "mustn’t", "must"],
+            "answer": "must"
           },
           {
             "id": "g_b_9",
-            "sentence": "I _____ replace the fuel injector.",
+            "sentence": "I _____ secure the scaffolding properly.",
             "options": ["have to", "has to", "am"],
             "answer": "have to"
           },
           {
             "id": "g_b_10",
-            "sentence": "We _____ service the transmission tomorrow.",
+            "sentence": "We _____ install the roof trusses tomorrow.",
             "options": ["will be", "goes to", "are going to"],
             "answer": "are going to"
           },
           {
             "id": "g_b_11",
-            "sentence": "_____ the workmen _____ all the scheduled work in the maintenance bay yesterday?",
+            "sentence": "_____ the workmen _____ all the scheduled work at the site yesterday?",
             "options": ["Do/ completed", "Did/ completes", "Did / complete"],
             "answer": "Did / complete"
           },
           {
             "id": "g_b_12",
-            "sentence": "The technician _____ a vernier caliper now to measure the inner diameter of the pipes.",
+            "sentence": "The mason _____ a plumb line now to check vertical alignment.",
             "options": ["is use", "is using", "uses"],
             "answer": "is using"
           },
           {
             "id": "g_b_13",
-            "sentence": "_____ any hydraulic lifts in your service centre?",
+            "sentence": "_____ any excavation pits near the boundary wall?",
             "options": ["Is there", "Are their", "Are there"],
             "answer": "Are there"
           },
           {
             "id": "g_b_14",
-            "sentence": "_____ he _____ to his family once a week?",
-            "options": ["Is / writes", "Does/ write", "Do / written"],
-            "answer": "Does/ write"
+            "sentence": "_____ he _____ the site report every evening?",
+            "options": ["Is / writes", "Does / write", "Do / written"],
+            "answer": "Does / write"
           },
           {
             "id": "g_b_15",
-            "sentence": "He _____ all his personal protection equipment before going into the service bay this morning.",
+            "sentence": "He _____ his protective boots before entering the construction area every day.",
             "options": ["wore", "is wearing", "wears"],
-            "answer": "wore"
+            "answer": "wears"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "The hydraulic lift is fully operational today.",
+          "text": "The concrete mixer is fully operational today.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "The mechanic found a crack in the cylinder head yesterday afternoon.",
+          "text": "The site engineer found a crack in the foundation yesterday morning.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "The torque wrench is lying between the multimeter and the crimp wire on the tool bench.",
+          "text": "The spirit level is placed between the measuring tape and the hammer on the workbench.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "He usually repairs the brake pads, but he is replacing them right now.",
+          "text": "He usually assembles the formwork, but he is adjusting it right now.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "There is always a warning light on the dashboard when the fuel tank is low.",
+          "text": "There is always a safety sign near the scaffolding entrance.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "There are six fire extinguishers placed all around the workshop.",
+          "text": "There are eight safety helmets stored in the site office.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "The technician usually inspects tyres before road testing.",
+          "text": "The supervisor usually checks the reinforcement bars before concrete pouring.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "You can diagnose faults easily using the scan tool.",
+          "text": "You must operate the concrete vibrator carefully.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "I have to replace the fuel injector.",
+          "text": "I have to secure the scaffolding properly.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "We are going to service the transmission tomorrow.",
+          "text": "We are going to install the roof trusses tomorrow.",
           "audio": "assets/audio/g_b_10.mp3"
         },
         {
           "id": "g_b_11",
-          "text": "Did the workmen complete all the scheduled work in the maintenance bay yesterday?",
+          "text": "Did the workmen complete all the scheduled work at the site yesterday?",
           "audio": "assets/audio/g_b_11.mp3"
         },
         {
           "id": "g_b_12",
-          "text": "The technician is using a vernier caliper now to measure the inner diameter of the pipes.",
+          "text": "The mason is using a plumb line now to check vertical alignment.",
           "audio": "assets/audio/g_b_12.mp3"
         },
         {
           "id": "g_b_13",
-          "text": "Are there any hydraulic lifts in your service centre?",
+          "text": "Are there any excavation pits near the boundary wall?",
           "audio": "assets/audio/g_b_13.mp3"
         },
         {
           "id": "g_b_14",
-          "text": "Does he write to his family once a week?",
+          "text": "Does he write the site report every evening?",
           "audio": "assets/audio/g_b_14.mp3"
         },
         {
           "id": "g_b_15",
-          "text": "He wore all his personal protection equipment before going into the service bay this morning.",
+          "text": "He wears his protective boots before entering the construction area every day.",
           "audio": "assets/audio/g_b_15.mp3"
         }
       ]
@@ -422,51 +422,51 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What does Amani’s research about the company suggest?",
+            "question": "What does Meena’s research about the company suggest?",
             "answer": "She prepares in advance and shows genuine interest.",
             "options": [
-              "She is mainly interested in pay and benefits.",
+              "She is mainly interested in wages and working hours.",
               "She prepares in advance and shows genuine interest.",
               "She expects full guidance without personal effort."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why does Amani find automotive work satisfying?",
-            "answer": "She enjoys problem-solving and practical results.",
+            "question": "Why does Meena find construction work satisfying?",
+            "answer": "She enjoys varied tasks and visible progress.",
             "options": [
-              "She prefers repetitive workshop tasks.",
-              "She enjoys problem-solving and practical results.",
-              "She mainly likes customer interaction."
+              "She prefers repeating the same tasks daily.",
+              "She enjoys varied tasks and visible progress.",
+              "She mainly likes working independently."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What can be understood about Amani’s approach to safety?",
-            "answer": "She treats safety as part of everyday work.",
+            "question": "What can be inferred about Meena’s approach to safety?",
+            "answer": "She treats safety as part of everyday site work.",
             "options": [
-              "She follows rules only under supervision.",
-              "She relies on others to manage risks.",
-              "She treats safety as part of everyday work."
+              "She follows rules only when supervisors are present.",
+              "She depends on others to manage site risks.",
+              "She treats safety as part of everyday site work."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "How does Amani respond to changes in vehicle technology?",
-            "answer": "She accepts the need for continuous learning.",
+            "question": "How does Meena respond to changes in construction methods?",
+            "answer": "She accepts the need to keep learning on site.",
             "options": [
-              "She avoids unfamiliar systems.",
-              "She accepts the need for continuous learning.",
-              "She believes traditional skills are sufficient."
+              "She avoids new tools and techniques.",
+              "She accepts the need to keep learning on site.",
+              "She believes traditional methods are always enough."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does Amani’s attitude toward feedback show?",
+            "question": "What does Meena’s attitude toward feedback show?",
             "answer": "She uses feedback to improve and cooperate better.",
             "options": [
-              "She prefers working independently.",
-              "She feels uneasy when corrected.",
+              "She prefers working alone without guidance.",
+              "She feels uncomfortable when corrected.",
               "She uses feedback to improve and cooperate better."
             ]
           }
@@ -475,186 +475,186 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "I enjoy working with vehicles and solving technical problems.",
+          "text": "I enjoy seeing real progress on site every day.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "text": "Each task is different, whether it is setting out, formwork, or finishing work, so the job is challenging and interesting.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I like working with my hands and being part of a team that builds safe and durable structures.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I always follow safety procedures.",
+          "text": "I am confident with basic masonry work, surface levelling, plastering, and assisting with formwork preparation.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "text": "I have also helped with concrete mixing, measuring and marking layouts, and checking alignment using spirit levels and measuring tapes.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "text": "I always follow site safety procedures.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "text": "I wear personal protective equipment, keep clear of unsafe areas, and ensure tools and materials are stored properly.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I understand the importance of sensors and electronic systems.",
+          "text": "I also help keep the site clean to reduce the risk of accidents.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "text": "I can read simple drawings and use basic measuring tools.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I accept feedback positively and try to improve my work.",
+          "text": "I understand the importance of accurate measurements and proper materials.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "text": "I know construction methods are developing, so I try to learn by observing experienced workers and reading site instructions.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I am comfortable following instructions from others.",
+          "text": "I communicate well with supervisors and co-workers, and I am comfortable following instructions from others.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "I enjoy working with vehicles and solving technical problems.",
+          "text": "I enjoy seeing real progress on site every day.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "text": "Each task is different, whether it is setting out, formwork, or finishing work, so the job is challenging and interesting.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I like working with my hands and being part of a team that builds safe and durable structures.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I always follow safety procedures.",
+          "text": "I am confident with basic masonry work, surface levelling, plastering, and assisting with formwork preparation.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "text": "I have also helped with concrete mixing, measuring and marking layouts, and checking alignment using spirit levels and measuring tapes.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "text": "I always follow site safety procedures.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "text": "I wear personal protective equipment, keep clear of unsafe areas, and ensure tools and materials are stored properly.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I understand the importance of sensors and electronic systems.",
+          "text": "I also help keep the site clean to reduce the risk of accidents.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "text": "I can read simple drawings and use basic measuring tools.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I accept feedback positively and try to improve my work.",
+          "text": "I understand the importance of accurate measurements and proper materials.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "text": "I know construction methods are developing, so I try to learn by observing experienced workers and reading site instructions.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I am comfortable following instructions from others.",
+          "text": "I communicate well with supervisors and co-workers, and I am comfortable following instructions from others.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "I enjoy working with vehicles and solving technical problems.",
+          "text": "I enjoy seeing real progress on site every day.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I am confident with routine servicing such as oil and filter changes, brake checks, clutch adjustment, and battery testing.",
+          "text": "Each task is different, whether it is setting out, formwork, or finishing work, so the job is challenging and interesting.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "I have also assisted with tyre balancing, wheel alignment checks, and simple engine diagnostics using scan tools.",
+          "text": "I like working with my hands and being part of a team that builds safe and durable structures.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I always follow safety procedures.",
+          "text": "I am confident with basic masonry work, surface levelling, plastering, and assisting with formwork preparation.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I wear protective equipment, isolate electrical systems before repairs, and make sure vehicles are properly supported before working underneath them.",
+          "text": "I have also helped with concrete mixing, measuring and marking layouts, and checking alignment using spirit levels and measuring tapes.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "I also keep my work area clean to reduce the risk of accidents.",
+          "text": "I always follow site safety procedures.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I can read fault codes and use basic diagnostic scanners.",
+          "text": "I wear personal protective equipment, keep clear of unsafe areas, and ensure tools and materials are stored properly.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "I understand the importance of sensors and electronic systems.",
+          "text": "I also help keep the site clean to reduce the risk of accidents.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "I know vehicle technology is changing quickly, especially with electric and hybrid vehicles, so I try to learn by reading manuals and online resources.",
+          "text": "I can read simple drawings and use basic measuring tools.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "I accept feedback positively and try to improve my work.",
+          "text": "I understand the importance of accurate measurements and proper materials.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I communicate well with senior technicians and learn from my colleagues.",
+          "text": "I know construction methods are developing, so I try to learn by observing experienced workers and reading site instructions.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I am comfortable following instructions from others.",
+          "text": "I communicate well with supervisors and co-workers, and I am comfortable following instructions from others.",
           "audio": "assets/audio/t_12.mp3"
         }
       ]
