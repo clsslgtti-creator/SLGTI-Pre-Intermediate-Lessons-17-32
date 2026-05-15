@@ -1,0 +1,586 @@
+{
+  "meta": {
+    "lesson_no": "31 - Revision II",
+    "level": "Pre-Intermediate",
+    "section": "Information Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "INTERACTIVE-1",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-4.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "You _____ update the antivirus software before accessing the server.",
+            "options": ["mustn’t", "must", "could"],
+            "answer": "must"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "You _____ ignore security alerts during system monitoring.",
+            "options": ["shouldn’t", "must", "will"],
+            "answer": "shouldn’t"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "There isn’t much _____ left on the storage drive.",
+            "options": ["files", "folders", "space"],
+            "answer": "space"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "How many _____ were installed during the upgrade?",
+            "options": ["software", "hardware", "applications"],
+            "answer": "applications"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "This workstation is _____ than the previous model.",
+            "options": ["more faster", "faster", "fastest"],
+            "answer": "faster"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "A fibre-optic connection is _____ than a copper cable.",
+            "options": ["more reliable", "reliabler", "most reliable"],
+            "answer": "more reliable"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "This is the _____ server in the data centre.",
+            "options": ["most quick", "more quicker", "quickest"],
+            "answer": "quickest"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "It is the _____ cybersecurity system we currently use.",
+            "options": ["more advanced", "advanced", "most advanced"],
+            "answer": "most advanced"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "The system operates _____ after optimisation.",
+            "options": ["efficient", "more efficient", "efficiently"],
+            "answer": "efficiently"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "After training, she will _____ configure network settings independently.",
+            "options": ["can", "could", "be able to"],
+            "answer": "be able to"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "The unusual network traffic _____ indicate a cyberattack.",
+            "options": ["must", "have to", "could"],
+            "answer": "could"
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "The outdated software _____ during the last update.",
+            "options": ["replaced", "was replaced", "are replace"],
+            "answer": "was replaced"
+          },
+          {
+            "id": "g_b_13",
+            "sentence": "The firewall _____ to block unauthorised access.",
+            "options": ["configures", "is configured", "configured"],
+            "answer": "is configured"
+          },
+          {
+            "id": "g_b_14",
+            "sentence": "The backup files _____ on a secure server.",
+            "options": ["is store", "were stored", "stored"],
+            "answer": "were stored"
+          },
+          {
+            "id": "g_b_15",
+            "sentence": "The network performance _____ continuously.",
+            "options": ["monitors", "is monitored", "monitored"],
+            "answer": "is monitored"
+          }
+        ]
+      }
+    }
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Revision",
+    "instructions": {
+      "activity_2_a": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_c": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "I feel completely exhausted today.",
+        "text_b": "That doesn’t sound good. Did you finish the maintenance shift late last night?",
+        "text_c": "Yes, I stayed until almost midnight to complete the calibration.",
+        "text_d": "You should get some rest, switch off your phone, and hydrate properly.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "What software package would you like to install for data analysis?",
+        "text_b": "I’m not sure which one to choose. What do you recommend?",
+        "text_c": "I strongly recommend the upgraded version. Most users say it’s more reliable.",
+        "text_d": "Alright then. Can you install the upgraded version for me, please?",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Do you know why the system is running slower today?",
+        "text_b": "I’m not sure. It may be due to high network traffic, or it might be because the server is overloaded. We will only know for certain if we run a diagnostic test.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "I reviewed the new safety protocol yesterday.",
+        "text_b": "Good. I thought the previous version was complicated.",
+        "text_c": "That’s true—but the updated protocol is even more detailed.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "What do you think of this troubleshooting task?",
+        "text_b": "I think it is extremely challenging.",
+        "text_c": "I agree. In fact, it is the most challenging task we have ever completed.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "This technical specification looks more comprehensive than the previous one; it must be quite thorough.",
+        "text_b": "Yes, it is. In fact, it is the most thorough document in the entire project file.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Did I configure the control panel correctly?",
+        "text_b": "Actually, you didn’t.",
+        "text_c": "Oh? What did I do wrong?",
+        "text_d": "You entered the parameters incorrectly.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Was Meena able to complete the system upgrade yesterday?",
+        "text_b": "No, she wasn’t. The installation process took longer than expected.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "When was this advanced monitoring device installed?",
+        "text_b": "I’m not entirely sure. I think it was installed earlier this year.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "LISTENING-5",
+    "instructions": {
+      "activity_a": {
+        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nஇரண்டு முறை ஒலிக்கப்படும் ஒலிப்பதிவைக் கேட்டு, அதில் சொல்லப்படும் வினைச்சொற்களின் விளக்கங்களுக்கு ஏற்ப, அந்த வினைச்சொற்களைச் சரியான எண்கள் கொண்ட பெட்டிகளுடன் பொருத்துக.",
+        "audio": "assets/audio/a_4_i_l.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_3_l.mp3",
+        "content": [
+          {
+            "id": "t_56_1",
+            "key": "diagnose",
+            "text": "to identify the exact cause of a hardware, software, or network malfunction in a computer system.",
+            "audio": "assets/audio/t_56_1.mp3"
+          },
+          {
+            "id": "t_56_2",
+            "key": "troubleshoot",
+            "text": "to systematically examine a device, application, or network to detect and resolve technical faults.",
+            "audio": "assets/audio/t_56_2.mp3"
+          },
+          {
+            "id": "t_56_3",
+            "key": "deploy",
+            "text": "to install and make software, applications, or systems operational within a network environment.",
+            "audio": "assets/audio/t_56_3.mp3"
+          },
+          {
+            "id": "t_56_4",
+            "key": "authenticate",
+            "text": "to verify the identity of a user or device before granting system access.",
+            "audio": "assets/audio/t_56_4.mp3"
+          },
+          {
+            "id": "t_56_5",
+            "key": "synchronise",
+            "text": "to ensure data is consistently updated and matched across multiple devices or servers.",
+            "audio": "assets/audio/t_56_5.mp3"
+          },
+          {
+            "id": "t_56_6",
+            "key": "optimise",
+            "text": "to adjust system settings or resources to improve performance and efficiency.",
+            "audio": "assets/audio/t_56_6.mp3"
+          },
+          {
+            "id": "t_56_7",
+            "key": "integrate",
+            "text": "to combine different software systems or components so they function together smoothly.",
+            "audio": "assets/audio/t_56_7.mp3"
+          },
+          {
+            "id": "t_56_8",
+            "key": "encrypt",
+            "text": "to convert data into a secure coded format to prevent unauthorised access.",
+            "audio": "assets/audio/t_56_8.mp3"
+          },
+          {
+            "id": "t_56_9",
+            "key": "virtualise",
+            "text": "to create a virtual version of a server, storage system, or operating environment.",
+            "audio": "assets/audio/t_56_9.mp3"
+          }
+        ]
+      }
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What can you say about the applicant’s progress at TechCore Solutions?",
+            "answer": "She moved from supervised work to handling routine technical tasks alone.",
+            "options": [
+              "She worked independently from the beginning.",
+              "She moved from supervised work to handling routine technical tasks alone.",
+              "She only assisted senior engineers throughout her employment."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Why did she leave her previous job?",
+            "answer": "She wanted a place with advanced automated systems.",
+            "options": [
+              "She was dissatisfied with her salary.",
+              "She wanted to change industries completely.",
+              "She wanted a place with advanced automated systems."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "What can you say about her experience with fully automated IT infrastructure?",
+            "answer": "She has some experience but not full responsibility.",
+            "options": [
+              "She has extensive experience operating it independently.",
+              "She has some experience but not full responsibility.",
+              "She has never worked with any automated systems before."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Why did the applicant say she could not start immediately?",
+            "answer": "She is required to give formal notice to her current employer before leaving.",
+            "options": [
+              "She needs time to complete a cybersecurity certification.",
+              "She is required to give formal notice to her current employer before leaving.",
+              "She has not yet decided whether to accept the position."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Based on her career goal, what direction is she aiming for?",
+            "answer": "Specialisation in automated network infrastructure and cybersecurity.",
+            "options": [
+              "IT sales and customer service management.",
+              "Software marketing and product promotion.",
+              "Specialisation in automated network infrastructure and cybersecurity."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "I handled system troubleshooting, hardware configuration, and basic network administration.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I also assisted senior engineers with automated data backups and server performance monitoring.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "For the first six months, I worked mainly under supervision, but later I managed routine technical tasks independently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro IT Services.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "During that period, I gained hands-on experience with virtual machines and digital security tools.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I left because I was looking for better career growth.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "The company handled small-scale IT projects, and there were limited opportunities to work with advanced automated systems.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I would like to expand my skills in a more modern organisation like yours.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Not fully automated, but I have assisted in environments where digital ticketing systems and automated asset management software were used.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I would need to give two weeks’ notice to my current employer.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "After that, I can start immediately.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "I handled system troubleshooting, hardware configuration, and basic network administration.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I also assisted senior engineers with automated data backups and server performance monitoring.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "For the first six months, I worked mainly under supervision, but later I managed routine technical tasks independently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro IT Services.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "During that period, I gained hands-on experience with virtual machines and digital security tools.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I left because I was looking for better career growth.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "The company handled small-scale IT projects, and there were limited opportunities to work with advanced automated systems.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I would like to expand my skills in a more modern organisation like yours.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Not fully automated, but I have assisted in environments where digital ticketing systems and automated asset management software were used.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I would need to give two weeks’ notice to my current employer.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "After that, I can start immediately.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "I handled system troubleshooting, hardware configuration, and basic network administration.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "I also assisted senior engineers with automated data backups and server performance monitoring.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "For the first six months, I worked mainly under supervision, but later I managed routine technical tasks independently.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro IT Services.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "During that period, I gained hands-on experience with virtual machines and digital security tools.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I left because I was looking for better career growth.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "The company handled small-scale IT projects, and there were limited opportunities to work with advanced automated systems.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "I would like to expand my skills in a more modern organisation like yours.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Not fully automated, but I have assisted in environments where digital ticketing systems and automated asset management software were used.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "I would need to give two weeks’ notice to my current employer.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "After that, I can start immediately.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
+          "audio": "assets/audio/t_12.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
