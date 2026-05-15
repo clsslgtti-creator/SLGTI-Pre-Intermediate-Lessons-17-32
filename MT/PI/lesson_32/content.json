@@ -1,0 +1,872 @@
+{
+  "meta": {
+    "lesson_no": "32 - Assessment No. 4 ",
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "MATCHING-WORDS",
+      "instruction": {
+        "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_1_a_i.mp3"
+      },
+      "content": [
+        {
+          "id": "n_4_a_1",
+          "item_a": "calibrate",
+          "item_b": "to adjust and fine-tune an instrument or system so that it provides accurate measurements according to manufacturer specifications"
+        },
+        {
+          "id": "n_4_a_2",
+          "item_a": "diagnose",
+          "item_b": "to systematically identify the cause of a mechanical or system fault using tests, tools, and technical data"
+        },
+        {
+          "id": "n_4_a_3",
+          "item_a": "overhaul",
+          "item_b": "to completely dismantle, inspect, repair, and reassemble a mechanical component to restore full functionality"
+        },
+        {
+          "id": "n_4_a_4",
+          "item_a": "align",
+          "item_b": "to position mechanical components precisely so that they operate smoothly and without excessive vibration or wear"
+        },
+        {
+          "id": "n_4_a_5",
+          "item_a": "prime",
+          "item_b": "to prepare a system (such as a fuel or lubrication system) by filling it with fluid before starting operation"
+        }
+      ]
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "MATCHING-WORDS",
+      "instruction": {
+        "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_1_a_i.mp3"
+      },
+      "content": [
+        {
+          "id": "n_4_a_1",
+          "item_a": "reinforce",
+          "item_b": "to strengthen a structure or component to improve durability and load resistance"
+        },
+        {
+          "id": "n_4_a_2",
+          "item_a": "dismantle",
+          "item_b": "to carefully take apart machinery or mechanical systems for repair, replacement, or inspection"
+        },
+        {
+          "id": "n_4_a_3",
+          "item_a": "stabilise",
+          "item_b": "to ensure that a system operates steadily without fluctuation, vibration, or instability"
+        },
+        {
+          "id": "n_4_a_4",
+          "item_a": "rectify",
+          "item_b": "to correct or repair a mechanical fault or defect so that the system returns to proper working condition"
+        },
+        {
+          "id": "n_4_a_5",
+          "item_a": "optimise",
+          "item_b": "to improve the efficiency or performance of a machine or system by adjusting settings or components"
+        }
+      ]
+    }
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following sentences and click on the correct question. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசித்து, சரியான கேள்வியைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i_y.mp3"
+    },
+    "content": [
+      {
+        "question": "No, there aren’t. In fact, there aren’t any safety helmets in the maintenance bay at the moment.",
+        "options": [
+          "Is there any spare safety helmet in the maintenance bay?",
+          "Are the spare safety helmets in the maintenance bay?",
+          "Are there any safety helmets in the maintenance bay?"
+        ],
+        "answer": "Are there any safety helmets in the maintenance bay?"
+      },
+      {
+        "question": "No, I don’t. But I enter it every evening after the day’s work.",
+        "options": [
+          "Do you enter the log book every morning?",
+          "Is your log book entered every morning?",
+          "When do you enter the log book ?"
+        ],
+        "answer": "Do you enter the log book every morning?"
+      },
+      {
+        "question": "No, he doesn’t. He rarely checks the equipment on Monday mornings. He usually inspects it on Tuesday mornings.",
+        "options": [
+          "Does the inspector check the equipment on Monday mornings?",
+          "Do you check the equipment on Monday mornings?",
+          "Is the equipment checked on Monday mornings?"
+        ],
+        "answer": "Does the inspector check the equipment on Monday mornings?"
+      },
+      {
+        "question": "I am calibrating it manually because the digital control unit is malfunctioning. I always calibrate it manually when the automated system fails.",
+        "options": [
+          "Why are you calibrating the pressure gauge manually?",
+          "Do you calibrate the pressure gauge manually?",
+          "Why do you calibrate the pressure gauge manually?"
+        ],
+        "answer": "Why are you calibrating the pressure gauge manually?"
+      },
+      {
+        "question": "I’m afraid he can’t. He has to attend a safety audit tomorrow afternoon, and no substitute technician has been allocated.",
+        "options": [
+          "Can he supervise the final equipment alignment tomorrow afternoon?",
+          "Does he supervise the final equipment alignment tomorrow afternoon?",
+          "Is he going supervise the final equipment alignment tomorrow afternoon?"
+        ],
+        "answer": "Can he supervise the final equipment alignment tomorrow afternoon?"
+      },
+      {
+        "question": "I read up on new technology. I usually read at least one article online every Saturday, but this weekend I am going to read up on many articles on a particular new technology.",
+        "options": [
+          "What do you usually do during the weekend?",
+          "What are you going to do this weekend?",
+          "Are you going to do something this weekend?"
+        ],
+        "answer": "What do you usually do during the weekend?"
+      },
+      {
+        "question": "I think the new maintenance schedule is even more demanding than the previous one.",
+        "options": [
+          "What do you think of this new maintenance schedule?",
+          "Why is this new maintenance schedule more demanding?",
+          "Is the new maintenance schedule demanding more than the previous one?"
+        ],
+        "answer": "What do you think of this new maintenance schedule?"
+      },
+      {
+        "question": "I think it is extremely complex. In fact, it is the most complex procedure we have ever performed.",
+        "options": [
+          "What do you think of this engine recalibration procedure?",
+          "Why do you think this engine recalibration procedure is complex?",
+          "Is the engine recalibration procedure complex more than the previous ones?"
+        ],
+        "answer": "What do you think of this engine recalibration procedure?"
+      },
+      {
+        "question": "Yes, they are. In fact, they are the worst grease guns I have ever come across.",
+        "options": [
+          "Do you think these grease guns are worse than the previous batch?",
+          "Why are these grease guns more worse?",
+          "Are these grease guns more worse than the previous batch?"
+        ],
+        "answer": "Do you think these grease guns are worse than the previous batch?"
+      },
+      {
+        "question": "No, they were lubricated late last evening.",
+        "options": [
+          "Were these bearings lubricated this morning?",
+          "Were you lubricate these bearings this morning?",
+          "When did you lubricate these bearings?"
+        ],
+        "answer": "Were these bearings lubricated this morning?"
+      }
+    ]
+  },
+  "activity_3": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "MCQ",
+      "instruction": {
+        "text": "Choose the correct negative sentence. \nනිවැරදි නිශේධාර්ථ වාක්‍යය තෝරන්න.\nசரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_1_i_q.mp3"
+      },
+      "content": [
+        {
+          "question": "She will calibrate the pressure sensor tomorrow morning before inspection.",
+          "options": [
+            "She will not calibrating the pressure sensor tomorrow morning before inspection.",
+            "She will not calibrated the pressure sensor tomorrow morning before inspection.",
+            "She will not calibrate the pressure sensor tomorrow morning before inspection."
+          ],
+          "answer": "She will not calibrate the pressure sensor tomorrow morning before inspection."
+        },
+        {
+          "question": "They completed the network upgrade yesterday afternoon.",
+          "options": [
+            "They have not completed the network upgrade yesterday afternoon.",
+            "They did not complete the network upgrade yesterday afternoon.",
+            "They has not complete the network upgrade yesterday afternoon."
+          ],
+          "answer": "They did not complete the network upgrade yesterday afternoon."
+        },
+        {
+          "question": "We are monitoring the backup generator right now in the workshop.",
+          "options": [
+            "We are not monitor the backup generator right now in workshop.",
+            "We not are monitoring the backup generator right now in workshop.",
+            "We are not monitoring the backup generator right now in the workshop."
+          ],
+          "answer": "We are not monitoring the backup generator right now in the workshop."
+        },
+        {
+          "question": "He should submit the compliance report today before the meeting.",
+          "options": [
+            "He should not submitted the compliance report today before meeting.",
+            "He should not submitting the compliance report today before meeting.",
+            "He should not submit the compliance report today before the meeting."
+          ],
+          "answer": "He should not submit the compliance report today before the meeting."
+        },
+        {
+          "question": "I inspected the structural alignment yesterday during the final review.",
+          "options": [
+            "I did not inspected the structural alignment yesterday during review.",
+            "I not did inspect the structural alignment yesterday during review.",
+            "I did not inspect the structural alignment yesterday during the final review."
+          ],
+          "answer": "I did not inspect the structural alignment yesterday during the final review."
+        }
+      ]
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "MCQ",
+      "instruction": {
+        "text": "Choose the correct question. \nනිවැරදි ප්‍රශ්නය තෝරන්න. \nசரியான வினாவைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_1_i_p.mp3"
+      },
+      "content": [
+        {
+          "question": "She updated the firmware late last night after maintenance.",
+          "options": [
+            "Did she updated the firmware late last night after maintenance?",
+            "Was she update the firmware late last night after maintenance?",
+            "Did she update the firmware late last night after maintenance?"
+          ],
+          "answer": "Did she update the firmware late last night after maintenance?"
+        },
+        {
+          "question": "They are reviewing the safety checklist right now in the office.",
+          "options": [
+            "Do they reviewing the safety checklist right now in office?",
+            "Are they review the safety checklist right now in office?",
+            "Are they reviewing the safety checklist right now in the office?"
+          ],
+          "answer": "Are they reviewing the safety checklist right now in the office?"
+        },
+        {
+          "question": "He replaced the faulty valve this morning.",
+          "options": [
+            "Did he replaced the faulty valve this morning?",
+            "Did he replace the faulty valve this morning?",
+            "Has he replace the faulty valve this morning?"
+          ],
+          "answer": "Did he replace the faulty valve this morning?"
+        },
+        {
+          "question": "We are going to finalise the technical assessment tomorrow afternoon.",
+          "options": [
+            "Are we going to finalised the technical assessment tomorrow afternoon?",
+            "Do we go to finalise the technical assessment tomorrow afternoon?",
+            "Are we going to finalise the technical assessment tomorrow afternoon?"
+          ],
+          "answer": "Are we going to finalise the technical assessment tomorrow afternoon?"
+        },
+        {
+          "question": "The control system was activated earlier this morning.",
+          "options": [
+            "Was the control system activate earlier this morning today?",
+            "Did the control system was activated earlier this morning?",
+            "Was the control system activated earlier this morning?"
+          ],
+          "answer": "Was the control system activated earlier this morning?"
+        },
+        {
+          "question": "They will implement the revised protocol next week.",
+          "options": [
+            "When will they implemented the revised protocol?",
+            "Why will they implementing the revised protocol?",
+            "When will they implement the revised protocol?"
+          ],
+          "answer": "When will they implement the revised protocol?"
+        },
+        {
+          "question": "She repaired the hydraulic unit late yesterday evening.",
+          "options": [
+            "When did she repaired the hydraulic unit?",
+            "Why did she repairing the hydraulic unit?",
+            "When did she repair the hydraulic unit?"
+          ],
+          "answer": "When did she repair the hydraulic unit?"
+        },
+        {
+          "question": "We are analysing the system performance right now.",
+          "options": [
+            "When do you analysed the system performance?",
+            "How long are you analysing the system performance?",
+            "What are you doing now?"
+          ],
+          "answer": "What are you doing now?"
+        },
+        {
+          "question": "He went there to configure the new software programme.",
+          "options": [
+            "Why is he going to the engineering department?",
+            "Why he went to the engineering department?",
+            "Why did he go to the engineering department?"
+          ],
+          "answer": "Why did he go to the engineering department?"
+        },
+        {
+          "question": "They transported the equipment to the remote facility.",
+          "options": [
+            "How are they transporting the equipment to?",
+            "How far did they transported the equipment to?",
+            "Where did they transport the equipment to?"
+          ],
+          "answer": "Where did they transport the equipment to?"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "marks_for_each_q": 2,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "id": "n_3_a_1",
+        "audio": "assets/audio/a_3_1.mp3",
+        "words": [
+          "The",
+          "senior",
+          "technician",
+          "calibrates",
+          "hydraulic",
+          "actuators",
+          "every",
+          "morning",
+          "."
+        ],
+        "sentence": "The senior technician calibrates hydraulic actuators every morning."
+      },
+      {
+        "id": "n_3_a_2",
+        "audio": "assets/audio/a_3_2.mp3",
+        "words": [
+          "The",
+          "structure",
+          "was",
+          "reinforced",
+          "during",
+          "yesterday’s",
+          "inspection",
+          "."
+        ],
+        "sentence": "The structure was reinforced during yesterday’s inspection."
+      },
+      {
+        "id": "n_3_a_3",
+        "audio": "assets/audio/a_3_3.mp3",
+        "words": [
+          "The",
+          "engineers",
+          "are",
+          "aligning",
+          "the",
+          "transmission",
+          "shaft",
+          "precisely",
+          "."
+        ],
+        "sentence": "The engineers are aligning the transmission shaft precisely."
+      },
+      {
+        "id": "n_3_a_4",
+        "audio": "assets/audio/a_3_4.mp3",
+        "words": [
+          "The",
+          "safety",
+          "protocol",
+          "is",
+          "being",
+          "implemented",
+          "this",
+          "week",
+          "."
+        ],
+        "sentence": "The safety protocol is being implemented this week."
+      },
+      {
+        "id": "n_3_a_5",
+        "audio": "assets/audio/a_3_5.mp3",
+        "words": [
+          "The",
+          "mechanic",
+          "does",
+          "not",
+          "tolerate",
+          "excessive",
+          "vibration",
+          "levels",
+          "."
+        ],
+        "sentence": "The mechanic does not tolerate excessive vibration levels."
+      },
+      {
+        "id": "n_3_a_6",
+        "audio": "assets/audio/a_3_6.mp3",
+        "words": [
+          "The",
+          "crew",
+          "did",
+          "not",
+          "stabilise",
+          "the",
+          "foundation",
+          "properly",
+          "."
+        ],
+        "sentence": "The crew did not stabilise the foundation properly."
+      },
+      {
+        "id": "n_3_a_7",
+        "audio": "assets/audio/a_3_7.mp3",
+        "words": [
+          "The",
+          "supervisor",
+          "is",
+          "not",
+          "authorising",
+          "equipment",
+          "operation",
+          "today",
+          "."
+        ],
+        "sentence": "The supervisor is not authorising equipment operation today."
+      },
+      {
+        "id": "n_3_a_8",
+        "audio": "assets/audio/a_3_8.mp3",
+        "words": [
+          "Do",
+          "the",
+          "technicians",
+          "verify",
+          "torque",
+          "settings",
+          "before",
+          "installation",
+          "?"
+        ],
+        "sentence": "Do the technicians verify torque settings before installation?"
+      },
+      {
+        "id": "n_3_a_9",
+        "audio": "assets/audio/a_3_9.mp3",
+        "words": [
+          "Did",
+          "the",
+          "engineers",
+          "inspect",
+          "the",
+          "structural",
+          "alignment",
+          "yesterday",
+          "?"
+        ],
+        "sentence": "Did the engineers inspect the structural alignment yesterday?"
+      },
+      {
+        "id": "n_3_a_10",
+        "audio": "assets/audio/a_3_10.mp3",
+        "words": [
+          "Is",
+          "the",
+          "operator",
+          "going",
+          "to",
+          "replace",
+          "worn",
+          "bearings",
+          "?"
+        ],
+        "sentence": "Is the operator going to replace worn bearings?"
+      }
+    ]
+  },
+  "activity_5": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following answers and click on the correct question. \nපහත සඳහන් පිළිතුරු කියවා නිවැරදි ප්‍රශ්නය ක්ලික් කරන්න.\nபின்வரும் பதில்களைப் படித்து சரியான கேள்வியைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i.mp3"
+    },
+    "content": [
+      {
+        "question": "No, he didn’t. He was confused about the safety procedures.",
+        "options": [
+          "Did he meet the technical rep on time?",
+          "Did he understand the safety instructions clearly?",
+          "Did he attend the training session yesterday?"
+        ],
+        "answer": "Did he understand the safety instructions clearly?"
+      },
+      {
+        "question": "No, they didn’t. The system is still not functioning properly.",
+        "options": [
+          "Did they complete the installation successfully?",
+          "Did they scheduled the maintenance for next week?",
+          "Did they request additional equipment?"
+        ],
+        "answer": "Did they complete the installation successfully?"
+      },
+      {
+        "question": "No, she didn’t. The root cause remains unclear.",
+        "options": [
+          "Did she analyse the data thoroughly?",
+          "Did she identify the source of the fault?",
+          "Did she update the project timeline?"
+        ],
+        "answer": "Did she identify the source of the fault?"
+      },
+      {
+        "question": "No, he didn’t. He said it still needs minor adjustments.",
+        "options": [
+          "Did the supervisor read the proposal immediately?",
+          "Did the supervisor revise the proposal carefully?",
+          "Did the supervisor reject the proposal outright?"
+        ],
+        "answer": "Did the supervisor reject the proposal outright?"
+      },
+      {
+        "question": "No, they didn’t. That is why the alignment is incorrect.",
+        "options": [
+          "Did they verify the measurements before construction?",
+          "Did they transport the materials safely?",
+          "Did they inspect the finished structure?"
+        ],
+        "answer": "Did they verify the measurements before construction?"
+      },
+      {
+        "question": "No, she didn’t. She stopped the system immediately.",
+        "options": [
+          "Did she consult the manual before operating the device?",
+          "Did she replaced the defective component?",
+          "Did she ignore the warning message on the screen?"
+        ],
+        "answer": "Did she ignore the warning message on the screen?"
+      },
+      {
+        "question": "No, he didn’t. He used his own method instead.",
+        "options": [
+          "Did he evaluate the risks carefully?",
+          "Did he follow the recommended procedure?",
+          "Did he contact the supplier yesterday?"
+        ],
+        "answer": "Did he follow the recommended procedure?"
+      },
+      {
+        "question": "No, they didn’t. The same problem occurred again.",
+        "options": [
+          "Did they allocate sufficient time for testing?",
+          "Did they document the inspection findings?",
+          "Did they resolve the issue permanently?"
+        ],
+        "answer": "Did they resolve the issue permanently?"
+      },
+      {
+        "question": "No, she didn’t. It moved during operation.",
+        "options": [
+          "Did she secure the equipment properly?",
+          "Did she transport the equipment carefully?",
+          "Did she label the equipment clearly?"
+        ],
+        "answer": "Did she secure the equipment properly?"
+      },
+      {
+        "question": "No, he didn’t. That is why the final output was incorrect.",
+        "options": [
+          "Did he complete the maintenance checklist?",
+          "Did he understand the client’s requirements?",
+          "Did he schedule the follow-up inspection?"
+        ],
+        "answer": "Did he understand the client’s requirements?"
+      },
+      {
+        "question": "No, they didn’t. The project timeline was unrealistic.",
+        "options": [
+          "Did they conduct a risk assessment beforehand?",
+          "Did they finalised the contract yesterday?",
+          "Did they anticipate the potential delays?"
+        ],
+        "answer": "Did they anticipate the potential delays?"
+      },
+      {
+        "question": "No, she didn’t. She applied them correctly.",
+        "options": [
+          "Did she review the updated guidelines carefully?",
+          "Did she distribute the documents to everyone?",
+          "Did she misunderstand the revised instructions?"
+        ],
+        "answer": "Did she misunderstand the revised instructions?"
+      },
+      {
+        "question": "No, he didn’t. The deviation remained unnoticed.",
+        "options": [
+          "Did he calibrate the equipment accurately?",
+          "Did he detect the performance deviation?",
+          "Did he replace the monitoring system?"
+        ],
+        "answer": "Did he detect the performance deviation?"
+      },
+      {
+        "question": "No, they didn’t. Several team members were confused.",
+        "options": [
+          "Did they communicate the changes clearly?",
+          "Did they postpone the meeting again?",
+          "Did they expand the production capacity?"
+        ],
+        "answer": "Did they communicate the changes clearly?"
+      },
+      {
+        "question": "No, she didn’t. She reported every issue immediately.",
+        "options": [
+          "Did she comply with the safety standards?",
+          "Did she document the inspection results?",
+          "Did she overlook the minor defect?"
+        ],
+        "answer": "Did she overlook the minor defect?"
+      }
+    ]
+  },
+  "activity_6": {
+    "marks_for_each_q": 1,
+    "type": "LISTENING",
+    "instruction": {
+      "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nපළමුව ප්‍රශ්න කියවන්න. පසුව දෙවරක් වාදනය වන දෙබසට සවන් දෙන්න. ඉන්පසු නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், கவனமாகக் கேளுங்கள். பிறகு சரியான பதிலைக் கிளிக் செய்யவும். முதலில் கேள்விகளை வாசிக்கவும்.",
+      "audio": "assets/audio/a_4_i.mp3"
+    },
+    "audio": "assets/audio/a_6_q.mp3",
+    "content": [
+      {
+        "id": "l_18_1",
+        "question": "Why did the inspector call the meeting?",
+        "answer": "To ensure the automobile section complies with recently updated fire safety regulations.",
+        "options": [
+          "To ensure welding operations do not cause safety hazards.",
+          "To dismiss staff who failed to follow procedures.",
+          "To ensure the automobile section complies with recently updated fire safety regulations.",
+          "To introduce new vehicle servicing equipment."
+        ]
+      },
+      {
+        "id": "l_18_2",
+        "question": "What does the discussion about previous fire incidents mainly suggest?",
+        "answer": "Minor safety lapses can escalate quickly if preventive measures are ignored.",
+        "options": [
+          "The workshop has a long history of severe fire damage.",
+          "Minor safety lapses can escalate quickly if preventive measures are ignored.",
+          "Employees were unwilling to respond during emergencies.",
+          "Fire extinguishers were unavailable at the time."
+        ]
+      },
+      {
+        "id": "l_18_3",
+        "question": "Why is relocating diagnostic trolleys considered necessary?",
+        "answer": "They could obstruct safe evacuation during an emergency.",
+        "options": [
+          "They are outdated and need replacement.",
+          "They interfere with routine vehicle inspections.",
+          "They reduce productivity in the workshop.",
+          "They could obstruct safe evacuation during an emergency."
+        ]
+      },
+      {
+        "id": "l_18_4",
+        "question": "How aware are the staff of the current evacuation procedures?",
+        "answer": "Some employees may not yet be fully prepared to respond effectively.",
+        "options": [
+          "All employees are fully trained and regularly assessed.",
+          "No evacuation procedures have been introduced yet.",
+          "Some employees may not yet be fully prepared to respond effectively.",
+          "Only senior technicians are responsible for evacuation."
+        ]
+      },
+      {
+        "id": "l_18_5",
+        "question": "Why were two fire extinguishers scheduled for replacement?",
+        "answer": "They did not meet required compliance standards during inspection.",
+        "options": [
+          "They were damaged during previous emergencies.",
+          "They did not meet required compliance standards during inspection.",
+          "They were used too frequently for training drills.",
+          "They were placed in the wrong section of the workshop."
+        ]
+      },
+      {
+        "id": "l_18_6",
+        "question": "What is the overall approach of the workshop management toward the new guidelines?",
+        "answer": "They are taking coordinated and proactive steps to strengthen safety procedures.",
+        "options": [
+          "They consider the regulations excessive and unnecessary.",
+          "They plan to delay implementation until further notice.",
+          "They intend to apply changes only to high-risk areas.",
+          "They are taking coordinated and proactive steps to strengthen safety procedures."
+        ]
+      }
+    ]
+  },
+  "activity_7": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "LISTENING",
+      "instruction": {
+        "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nපළමුව ප්‍රශ්න කියවන්න. පසුව දෙවරක් වාදනය වන දෙබසට සවන් දෙන්න. ඉන්පසු නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், கவனமாகக் கேளுங்கள். பிறகு சரியான பதிலைக் கிளிக் செய்யவும். முதலில் கேள்விகளை வாசிக்கவும்.",
+        "audio": "assets/audio/a_4_i.mp3"
+      },
+      "audio": "assets/audio/a_7_a_q.mp3",
+      "content": [
+        {
+          "question": "I didn’t ____________ so many companies to attend.",
+          "options": ["aspect", "expect", "except"],
+          "answer": "expect"
+        },
+        {
+          "question": "I visited the ____________ of MAS Holdings first.",
+          "options": ["booth", "both", "boot"],
+          "answer": "booth"
+        },
+        {
+          "question": "They ____________ soft skills more than technical grades.",
+          "options": ["empathised", "emphatic", "emphasised"],
+          "answer": "emphasised"
+        },
+        {
+          "question": "At John Keells, they asked whether I ____________ newspapers regularly.",
+          "options": ["red", "reed", "read"],
+          "answer": "read"
+        },
+        {
+          "question": "They said interns must be ____________ and confident during presentations.",
+          "options": ["adoptable", "adaptable", "adept"],
+          "answer": "adaptable"
+        },
+        {
+          "question": "I’m going to ____________ by bus.",
+          "options": ["commute", "communicate", "compute"],
+          "answer": "commute"
+        }
+      ]
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "LISTENING-PARA",
+      "instruction": {
+        "text": "Listen to the audio which will be played twice and fill in the blanks. Read the passage first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී හිස්තැන් පුරවන්න. පළමුව ඡේදය කියවන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு கோடிட்ட இடங்களை நிரப்பவும். முதலில் அந்தப் பத்தியை வாசிக்கவும்.",
+        "audio": "assets/audio/a_4_i_y.mp3"
+      },
+      "audio": "assets/audio/a_7_a_q.mp3",
+
+      "content": [
+        { "text": "Yesterday’s job fair in the main hall was " },
+        { "blank": "intense", "id": "1" },
+        { "text": ", wasn’t it? Attitude and communication skills are " },
+        { "blank": "harder", "id": "2" },
+        { "text": " to teach. They said we must be able to communicate " },
+        { "blank": "clearly", "id": "3" },
+        { "text": ". I got a " },
+        { "blank": "better", "id": "4" },
+        { "text": " offer. It’s a " },
+        { "blank": "structured", "id": "5" },
+        { "text": " programme for nine months. The Dialog office is " },
+        { "blank": "closer", "id": "6" },
+        { "text": " for me, only 10 kilometers away. We can’t leave " },
+        { "blank": "halfway", "id": "7" },
+        { "text": " without notice. We must " },
+        { "blank": "improve", "id": "8" },
+        { "text": " our communication and confidence." }
+      ]
+    }
+  },
+  "activity_8": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "MATCHING-WORDS",
+      "instruction": {
+        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_1_a_i_x.mp3"
+      },
+      "content": [
+        {
+          "id": "m_1_1",
+          "item_a": "conduct",
+          "item_b": "inspections"
+        },
+        {
+          "id": "m_1_2",
+          "item_a": "submit",
+          "item_b": "proposals"
+        },
+        {
+          "id": "m_1_3",
+          "item_a": "allocate",
+          "item_b": "resources"
+        },
+        {
+          "id": "m_1_4",
+          "item_a": "resolve",
+          "item_b": "conflicts"
+        },
+        {
+          "id": "m_1_5",
+          "item_a": "implement",
+          "item_b": "strategies"
+        }
+      ]
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "MATCHING-WORDS",
+      "instruction": {
+        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_1_a_i_x.mp3"
+      },
+      "content": [
+        {
+          "id": "m_1_1",
+          "item_a": "monitor",
+          "item_b": "performance"
+        },
+        {
+          "id": "m_1_2",
+          "item_a": "negotiate",
+          "item_b": "contracts"
+        },
+        {
+          "id": "m_1_3",
+          "item_a": "evaluate",
+          "item_b": "outcomes"
+        },
+        {
+          "id": "m_1_4",
+          "item_a": "facilitate",
+          "item_b": "communication"
+        },
+        {
+          "id": "m_1_5",
+          "item_a": "maintain",
+          "item_b": "standards"
+        }
+      ]
+    }
+  }
+}
