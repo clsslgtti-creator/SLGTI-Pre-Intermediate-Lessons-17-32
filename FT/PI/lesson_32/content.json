@@ -16,28 +16,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "calibrate",
-          "item_b": "to adjust and fine-tune an instrument or system so that it provides accurate measurements according to manufacturer specifications"
+          "item_a": "emulsify",
+          "item_b": "to combine two liquids, such as oil and water, into a stable mixture by using mechanical action or emulsifying agents"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "diagnose",
-          "item_b": "to systematically identify the cause of a mechanical or system fault using tests, tools, and technical data"
+          "item_a": "dehydrate",
+          "item_b": "to remove moisture from food products in order to extend shelf life and prevent microbial growth"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "overhaul",
-          "item_b": "to completely dismantle, inspect, repair, and reassemble a mechanical component to restore full functionality"
+          "item_a": "pasteurise",
+          "item_b": "to heat food or liquid to a specific temperature for a set time to destroy harmful microorganisms"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "align",
-          "item_b": "to position mechanical components precisely so that they operate smoothly and without excessive vibration or wear"
+          "item_a": "marinate",
+          "item_b": "to soak food in a seasoned liquid to enhance flavour and improve tenderness before cooking"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "prime",
-          "item_b": "to prepare a system (such as a fuel or lubrication system) by filling it with fluid before starting operation"
+          "item_a": "caramelise",
+          "item_b": "to heat sugars until they turn brown and develop a rich, complex flavour"
         }
       ]
     },
@@ -51,28 +51,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "reinforce",
-          "item_b": "to strengthen a structure or component to improve durability and load resistance"
+          "item_a": "temper",
+          "item_b": "to carefully control temperature, especially when working with chocolate, to achieve proper texture and shine"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "dismantle",
-          "item_b": "to carefully take apart machinery or mechanical systems for repair, replacement, or inspection"
+          "item_a": "chill",
+          "item_b": "to rapidly lower the temperature of food to slow bacterial growth and preserve freshness"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "stabilise",
-          "item_b": "to ensure that a system operates steadily without fluctuation, vibration, or instability"
+          "item_a": "infuse",
+          "item_b": "to extract flavour from herbs, spices, or other ingredients by soaking them in liquid"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "rectify",
-          "item_b": "to correct or repair a mechanical fault or defect so that the system returns to proper working condition"
+          "item_a": "coat",
+          "item_b": "to evenly cover food with batter, crumbs, seasoning, or protective layers before further processing"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "optimise",
-          "item_b": "to improve the efficiency or performance of a machine or system by adjusting settings or components"
+          "item_a": "stabilise",
+          "item_b": "to maintain consistent texture, structure, or chemical balance in a food product during storage or transport"
         }
       ]
     }
@@ -86,52 +86,52 @@
     },
     "content": [
       {
-        "question": "No, there aren’t. In fact, there aren’t any safety helmets in the maintenance bay at the moment.",
+        "question": "No, there aren’t. In fact, there aren’t any sterile containers in the packaging area at the moment.",
         "options": [
-          "Is there any spare safety helmet in the maintenance bay?",
-          "Are the spare safety helmets in the maintenance bay?",
-          "Are there any safety helmets in the maintenance bay?"
+          "Is there a sterile container in the packaging area?",
+          "Are the sterile containers in the packaging area?",
+          "Are there any sterile containers in the packaging area?"
         ],
-        "answer": "Are there any safety helmets in the maintenance bay?"
+        "answer": "Are there any sterile containers in the packaging area?"
       },
       {
-        "question": "No, I don’t. But I enter it every evening after the day’s work.",
+        "question": "No, I don’t. But I document the temperature readings every evening after production.",
         "options": [
-          "Do you enter the log book every morning?",
-          "Is your log book entered every morning?",
-          "When do you enter the log book ?"
+          "Do you record the storage temperature every morning?",
+          "Is the storage temperature recorded every morning?",
+          "When do you record the storage temperature?"
         ],
-        "answer": "Do you enter the log book every morning?"
+        "answer": "Do you record the storage temperature every morning?"
       },
       {
-        "question": "No, he doesn’t. He rarely checks the equipment on Monday mornings. He usually inspects it on Tuesday mornings.",
+        "question": "No, she doesn’t. She rarely inspects the processing equipment on Monday mornings. She usually evaluates it on Tuesday mornings.",
         "options": [
-          "Does the inspector check the equipment on Monday mornings?",
-          "Do you check the equipment on Monday mornings?",
-          "Is the equipment checked on Monday mornings?"
+          "Does the quality supervisor inspect the processing equipment on Monday mornings?",
+          "Do you inspect the processing equipment on Monday mornings?",
+          "Is the processing equipment inspected on Monday mornings?"
         ],
-        "answer": "Does the inspector check the equipment on Monday mornings?"
+        "answer": "Does the quality supervisor inspect the processing equipment on Monday mornings?"
       },
       {
-        "question": "I am calibrating it manually because the digital control unit is malfunctioning. I always calibrate it manually when the automated system fails.",
+        "question": "I am pasteurising the milk manually because the automated heating system is malfunctioning. I always pasteurise it manually when the control system fails.",
         "options": [
-          "Why are you calibrating the pressure gauge manually?",
-          "Do you calibrate the pressure gauge manually?",
-          "Why do you calibrate the pressure gauge manually?"
+          "Why are you pasteurising the milk manually?",
+          "Do you pasteurise the milk manually?",
+          "Why do you pasteurise the milk manually?"
         ],
-        "answer": "Why are you calibrating the pressure gauge manually?"
+        "answer": "Why are you pasteurising the milk manually?"
       },
       {
-        "question": "I’m afraid he can’t. He has to attend a safety audit tomorrow afternoon, and no substitute technician has been allocated.",
+        "question": "I’m afraid he can’t. He has to attend a food safety compliance meeting tomorrow afternoon, and no replacement supervisor has been assigned.",
         "options": [
-          "Can he supervise the final equipment alignment tomorrow afternoon?",
-          "Does he supervise the final equipment alignment tomorrow afternoon?",
-          "Is he going supervise the final equipment alignment tomorrow afternoon?"
+          "Can he supervise the final quality inspection tomorrow afternoon?",
+          "Does he supervise the final quality inspection tomorrow afternoon?",
+          "Does he go to supervise the final quality inspection tomorrow afternoon?"
         ],
-        "answer": "Can he supervise the final equipment alignment tomorrow afternoon?"
+        "answer": "Can he supervise the final quality inspection tomorrow afternoon?"
       },
       {
-        "question": "I read up on new technology. I usually read at least one article online every Saturday, but this weekend I am going to read up on many articles on a particular new technology.",
+        "question": "I review updated food safety regulations. I usually analyse one regulation every Saturday, but this weekend I am going to examine several revised guidelines.",
         "options": [
           "What do you usually do during the weekend?",
           "What are you going to do this weekend?",
@@ -140,40 +140,40 @@
         "answer": "What do you usually do during the weekend?"
       },
       {
-        "question": "I think the new maintenance schedule is even more demanding than the previous one.",
+        "question": "I think the revised production schedule is even more demanding than the previous one.",
         "options": [
-          "What do you think of this new maintenance schedule?",
-          "Why is this new maintenance schedule more demanding?",
-          "Is the new maintenance schedule demanding more than the previous one?"
+          "What do you think of this revised production schedule?",
+          "Why is this revised production schedule more demanding?",
+          "Is this revised production schedule demanding more than the previous one?"
         ],
-        "answer": "What do you think of this new maintenance schedule?"
+        "answer": "What do you think of this revised production schedule?"
       },
       {
-        "question": "I think it is extremely complex. In fact, it is the most complex procedure we have ever performed.",
+        "question": "I think it is extremely complex. In fact, it is the most challenging quality assurance procedure we have ever implemented.",
         "options": [
-          "What do you think of this engine recalibration procedure?",
-          "Why do you think this engine recalibration procedure is complex?",
-          "Is the engine recalibration procedure complex more than the previous ones?"
+          "What do you think of this quality assurance procedure?",
+          "Why do you think this quality assurance procedure is complex?",
+          "Is this quality assurance procedure complex more than the previous ones?"
         ],
-        "answer": "What do you think of this engine recalibration procedure?"
+        "answer": "What do you think of this quality assurance procedure?"
       },
       {
-        "question": "Yes, they are. In fact, they are the worst grease guns I have ever come across.",
+        "question": "Yes, they are. In fact, they are the least hygienic storage containers we have ever used.",
         "options": [
-          "Do you think these grease guns are worse than the previous batch?",
-          "Why are these grease guns more worse?",
-          "Are these grease guns more worse than the previous batch?"
+          "Do you think these storage containers are less hygienic than the previous batch?",
+          "Why are these storage containers more less hygienic?",
+          "Are these storage containers more less hygienic than the previous batch?"
         ],
-        "answer": "Do you think these grease guns are worse than the previous batch?"
+        "answer": "Do you think these storage containers are less hygienic than the previous batch?"
       },
       {
-        "question": "No, they were lubricated late last evening.",
+        "question": "No, they were sterilised late yesterday evening.",
         "options": [
-          "Were these bearings lubricated this morning?",
-          "Were you lubricate these bearings this morning?",
-          "When did you lubricate these bearings?"
+          "Were these processing tools sterilised this morning?",
+          "Were you sterilised these processing tools this morning?",
+          "When did you sterilise these processing tools?"
         ],
-        "answer": "Were these bearings lubricated this morning?"
+        "answer": "Were these processing tools sterilised this morning?"
       }
     ]
   },
@@ -347,111 +347,112 @@
         "audio": "assets/audio/a_3_1.mp3",
         "words": [
           "The",
-          "senior",
           "technician",
-          "calibrates",
-          "hydraulic",
-          "actuators",
+          "carefully",
+          "monitors",
+          "storage",
+          "temperatures",
           "every",
           "morning",
           "."
         ],
-        "sentence": "The senior technician calibrates hydraulic actuators every morning."
+        "sentence": "The technician carefully monitors storage temperatures every morning."
       },
       {
         "id": "n_3_a_2",
         "audio": "assets/audio/a_3_2.mp3",
         "words": [
           "The",
-          "structure",
+          "production",
+          "line",
           "was",
-          "reinforced",
-          "during",
-          "yesterday’s",
+          "sanitised",
+          "before",
+          "yesterday's",
           "inspection",
           "."
         ],
-        "sentence": "The structure was reinforced during yesterday’s inspection."
+        "sentence": "The production line was sanitised before yesterday's inspection."
       },
       {
         "id": "n_3_a_3",
         "audio": "assets/audio/a_3_3.mp3",
         "words": [
           "The",
-          "engineers",
-          "are",
-          "aligning",
-          "the",
-          "transmission",
-          "shaft",
-          "precisely",
+          "quality",
+          "team",
+          "is",
+          "analysing",
+          "microbial",
+          "samples",
+          "now",
           "."
         ],
-        "sentence": "The engineers are aligning the transmission shaft precisely."
+        "sentence": "The quality team is analysing microbial samples now."
       },
       {
         "id": "n_3_a_4",
         "audio": "assets/audio/a_3_4.mp3",
         "words": [
           "The",
-          "safety",
-          "protocol",
+          "packaging",
+          "process",
           "is",
           "being",
-          "implemented",
+          "audited",
           "this",
           "week",
           "."
         ],
-        "sentence": "The safety protocol is being implemented this week."
+        "sentence": "The packaging process is being audited this week."
       },
       {
         "id": "n_3_a_5",
         "audio": "assets/audio/a_3_5.mp3",
         "words": [
           "The",
-          "mechanic",
+          "supervisor",
           "does",
           "not",
-          "tolerate",
-          "excessive",
-          "vibration",
-          "levels",
+          "approve",
+          "contaminated",
+          "raw",
+          "materials",
           "."
         ],
-        "sentence": "The mechanic does not tolerate excessive vibration levels."
+        "sentence": "The supervisor does not approve contaminated raw materials."
       },
       {
         "id": "n_3_a_6",
         "audio": "assets/audio/a_3_6.mp3",
         "words": [
           "The",
-          "crew",
+          "staff",
           "did",
           "not",
-          "stabilise",
-          "the",
-          "foundation",
-          "properly",
+          "document",
+          "temperature",
+          "deviations",
+          "yesterday",
           "."
         ],
-        "sentence": "The crew did not stabilise the foundation properly."
+        "sentence": "The staff did not document temperature deviations yesterday."
       },
       {
         "id": "n_3_a_7",
         "audio": "assets/audio/a_3_7.mp3",
         "words": [
           "The",
-          "supervisor",
+          "operator",
           "is",
           "not",
-          "authorising",
-          "equipment",
-          "operation",
+          "calibrating",
+          "the",
+          "pasteuriser",
           "today",
           "."
         ],
-        "sentence": "The supervisor is not authorising equipment operation today."
+        "sentence": "The operator is not calibrating the pasteuriser today."
       },
       {
         "id": "n_3_a_8",
@@ -461,13 +462,12 @@
           "the",
           "technicians",
           "verify",
-          "torque",
-          "settings",
-          "before",
-          "installation",
+          "hygiene",
+          "standards",
+          "regularly",
           "?"
         ],
-        "sentence": "Do the technicians verify torque settings before installation?"
+        "sentence": "Do the technicians verify hygiene standards regularly?"
       },
       {
         "id": "n_3_a_9",
@@ -475,15 +475,15 @@
         "words": [
           "Did",
           "the",
-          "engineers",
+          "supervisor",
           "inspect",
           "the",
-          "structural",
-          "alignment",
+          "storage",
+          "facility",
           "yesterday",
           "?"
         ],
-        "sentence": "Did the engineers inspect the structural alignment yesterday?"
+        "sentence": "Did the supervisor inspect the storage facility yesterday?"
       },
       {
         "id": "n_3_a_10",
@@ -491,15 +491,15 @@
         "words": [
           "Is",
           "the",
-          "operator",
+          "manager",
           "going",
           "to",
-          "replace",
-          "worn",
-          "bearings",
+          "review",
+          "safety",
+          "procedures",
           "?"
         ],
-        "sentence": "Is the operator going to replace worn bearings?"
+        "sentence": "Is the manager going to review safety procedures?"
       }
     ]
   },
@@ -659,68 +659,68 @@
     "content": [
       {
         "id": "l_18_1",
-        "question": "Why did the inspector call the meeting?",
-        "answer": "To ensure the automobile section complies with recently updated fire safety regulations.",
+        "question": "Why was the meeting arranged?",
+        "answer": "To ensure the food processing section complies with updated fire safety regulations.",
         "options": [
-          "To ensure welding operations do not cause safety hazards.",
-          "To dismiss staff who failed to follow procedures.",
-          "To ensure the automobile section complies with recently updated fire safety regulations.",
-          "To introduce new vehicle servicing equipment."
+          "To ensure production line malfunctions do not cause safety hazards.",
+          "To address customer complaints about food quality.",
+          "To ensure the food processing section complies with updated fire safety regulations.",
+          "To discuss new packaging equipment."
         ]
       },
       {
         "id": "l_18_2",
-        "question": "What does the discussion about previous fire incidents mainly suggest?",
-        "answer": "Minor safety lapses can escalate quickly if preventive measures are ignored.",
+        "question": "What do the previous fire incidents suggest about the facility?",
+        "answer": "Improper equipment monitoring and storage practices can create avoidable fire risks.",
         "options": [
-          "The workshop has a long history of severe fire damage.",
-          "Minor safety lapses can escalate quickly if preventive measures are ignored.",
-          "Employees were unwilling to respond during emergencies.",
-          "Fire extinguishers were unavailable at the time."
+          "Large-scale fires frequently interrupt production.",
+          "Employees refused to follow hygiene rules.",
+          "Improper equipment monitoring and storage practices can create avoidable fire risks.",
+          "Gas supplies were permanently disconnected."
         ]
       },
       {
         "id": "l_18_3",
-        "question": "Why is relocating diagnostic trolleys considered necessary?",
-        "answer": "They could obstruct safe evacuation during an emergency.",
+        "question": "Why must ingredient storage racks and mixing trolleys be relocated?",
+        "answer": "They may block evacuation routes during emergencies.",
         "options": [
-          "They are outdated and need replacement.",
-          "They interfere with routine vehicle inspections.",
-          "They reduce productivity in the workshop.",
-          "They could obstruct safe evacuation during an emergency."
+          "They interfere with product packaging efficiency.",
+          "They reduce the temperature control in the kitchen.",
+          "They create hygiene issues near the preparation line.",
+          "They may block evacuation routes during emergencies."
         ]
       },
       {
         "id": "l_18_4",
-        "question": "How aware are the staff of the current evacuation procedures?",
-        "answer": "Some employees may not yet be fully prepared to respond effectively.",
+        "question": "How aware are employees of current evacuation procedures?",
+        "answer": "Some employees require further training and regular practice.",
         "options": [
-          "All employees are fully trained and regularly assessed.",
-          "No evacuation procedures have been introduced yet.",
-          "Some employees may not yet be fully prepared to respond effectively.",
-          "Only senior technicians are responsible for evacuation."
+          "All employees are certified in advanced fire response.",
+          "No evacuation training has been conducted before.",
+          "Only managers understand emergency procedures.",
+          "Some employees require further training and regular practice."
         ]
       },
       {
         "id": "l_18_5",
-        "question": "Why were two fire extinguishers scheduled for replacement?",
-        "answer": "They did not meet required compliance standards during inspection.",
+        "question": "Why are two fire extinguishers being replaced?",
+        "answer": "They did not meet compliance standards during inspection.",
         "options": [
-          "They were damaged during previous emergencies.",
-          "They did not meet required compliance standards during inspection.",
-          "They were used too frequently for training drills.",
-          "They were placed in the wrong section of the workshop."
+          "They were used during cooking demonstrations.",
+          "They were contaminated with food residue.",
+          "They did not meet compliance standards during inspection.",
+          "They were incorrectly positioned near the oven."
         ]
       },
       {
         "id": "l_18_6",
-        "question": "What is the overall approach of the workshop management toward the new guidelines?",
-        "answer": "They are taking coordinated and proactive steps to strengthen safety procedures.",
+        "question": "How would you describe management’s response to the updated guidelines?",
+        "answer": "Structured and proactive in strengthening fire safety procedures.",
         "options": [
-          "They consider the regulations excessive and unnecessary.",
-          "They plan to delay implementation until further notice.",
-          "They intend to apply changes only to high-risk areas.",
-          "They are taking coordinated and proactive steps to strengthen safety procedures."
+          "Reluctant and delayed.",
+          "Limited only to written documentation.",
+          "Focused solely on high-temperature zones.",
+          "Structured and proactive in strengthening fire safety procedures."
         ]
       }
     ]
