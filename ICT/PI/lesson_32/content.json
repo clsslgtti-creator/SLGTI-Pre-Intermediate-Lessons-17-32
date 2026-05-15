@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": "32 - Assessment No. 4 ",
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Information Communication Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -16,28 +16,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "calibrate",
-          "item_b": "to adjust and fine-tune an instrument or system so that it provides accurate measurements according to manufacturer specifications"
+          "item_a": "compile",
+          "item_b": "to convert source code into machine-readable instructions so that a programme can run on a computer"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "diagnose",
-          "item_b": "to systematically identify the cause of a mechanical or system fault using tests, tools, and technical data"
+          "item_a": "deploy",
+          "item_b": "to release and install software or applications into a live production environment for users"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "overhaul",
-          "item_b": "to completely dismantle, inspect, repair, and reassemble a mechanical component to restore full functionality"
+          "item_a": "configure",
+          "item_b": "to adjust system or software settings to ensure proper performance and compatibility"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "align",
-          "item_b": "to position mechanical components precisely so that they operate smoothly and without excessive vibration or wear"
+          "item_a": "authenticate",
+          "item_b": "to confirm a user’s identity through passwords, biometrics, or security tokens before granting access"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "prime",
-          "item_b": "to prepare a system (such as a fuel or lubrication system) by filling it with fluid before starting operation"
+          "item_a": "encrypt",
+          "item_b": "to convert data into a secure coded format to prevent unauthorised access"
         }
       ]
     },
@@ -51,28 +51,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "reinforce",
-          "item_b": "to strengthen a structure or component to improve durability and load resistance"
+          "item_a": "integrate",
+          "item_b": "to connect different software systems or applications so they function together as one unified system"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "dismantle",
-          "item_b": "to carefully take apart machinery or mechanical systems for repair, replacement, or inspection"
+          "item_a": "troubleshoot",
+          "item_b": "to systematically identify and resolve hardware, software, or network problems"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "stabilise",
-          "item_b": "to ensure that a system operates steadily without fluctuation, vibration, or instability"
+          "item_a": "optimise",
+          "item_b": "to improve system speed, efficiency, or performance by adjusting resources or code"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "rectify",
-          "item_b": "to correct or repair a mechanical fault or defect so that the system returns to proper working condition"
+          "item_a": "synchronise",
+          "item_b": "to ensure that data across devices or systems is updated and consistent"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "optimise",
-          "item_b": "to improve the efficiency or performance of a machine or system by adjusting settings or components"
+          "item_a": "restore",
+          "item_b": "to recover data or system functionality from a backup after corruption or failure"
         }
       ]
     }
@@ -86,52 +86,52 @@
     },
     "content": [
       {
-        "question": "No, there aren’t. In fact, there aren’t any safety helmets in the maintenance bay at the moment.",
+        "question": "No, there aren’t. In fact, there aren’t any active user accounts on the server at the moment.",
         "options": [
-          "Is there any spare safety helmet in the maintenance bay?",
-          "Are the spare safety helmets in the maintenance bay?",
-          "Are there any safety helmets in the maintenance bay?"
+          "Is there an active user account on the server?",
+          "Are the active user accounts on the server?",
+          "Are there any active user accounts on the server?"
         ],
-        "answer": "Are there any safety helmets in the maintenance bay?"
+        "answer": "Are there any active user accounts on the server?"
       },
       {
-        "question": "No, I don’t. But I enter it every evening after the day’s work.",
+        "question": "No, I don’t. But I document the system logs every evening after maintenance.",
         "options": [
-          "Do you enter the log book every morning?",
-          "Is your log book entered every morning?",
-          "When do you enter the log book ?"
+          "Do you review the system logs every morning?",
+          "Are the system logs reviewed every morning?",
+          "When do you review the system logs?"
         ],
-        "answer": "Do you enter the log book every morning?"
+        "answer": "Do you review the system logs every morning?"
       },
       {
-        "question": "No, he doesn’t. He rarely checks the equipment on Monday mornings. He usually inspects it on Tuesday mornings.",
+        "question": "No, she doesn’t. She rarely monitors the network traffic on Monday mornings. She usually analyses it on Tuesday mornings.",
         "options": [
-          "Does the inspector check the equipment on Monday mornings?",
-          "Do you check the equipment on Monday mornings?",
-          "Is the equipment checked on Monday mornings?"
+          "Does the network administrator monitor the network traffic on Monday mornings?",
+          "Do you monitor the network traffic on Monday mornings?",
+          "Is the network traffic monitored on Monday mornings?"
         ],
-        "answer": "Does the inspector check the equipment on Monday mornings?"
+        "answer": "Does the network administrator monitor the network traffic on Monday mornings?"
       },
       {
-        "question": "I am calibrating it manually because the digital control unit is malfunctioning. I always calibrate it manually when the automated system fails.",
+        "question": "I am configuring the firewall manually because the centralised management system is temporarily unavailable. I always configure it manually when remote access fails.",
         "options": [
-          "Why are you calibrating the pressure gauge manually?",
-          "Do you calibrate the pressure gauge manually?",
-          "Why do you calibrate the pressure gauge manually?"
+          "Why are you configuring the firewall manually?",
+          "Do you configure the firewall manually?",
+          "Why do you configure the firewall manually?"
         ],
-        "answer": "Why are you calibrating the pressure gauge manually?"
+        "answer": "Why are you configuring the firewall manually?"
       },
       {
-        "question": "I’m afraid he can’t. He has to attend a safety audit tomorrow afternoon, and no substitute technician has been allocated.",
+        "question": "I’m afraid he can’t. He has to attend a cybersecurity compliance briefing tomorrow afternoon, and no replacement technician has been assigned.",
         "options": [
-          "Can he supervise the final equipment alignment tomorrow afternoon?",
-          "Does he supervise the final equipment alignment tomorrow afternoon?",
-          "Is he going supervise the final equipment alignment tomorrow afternoon?"
+          "Can he supervise the final system deployment tomorrow afternoon?",
+          "Does he supervise the final system deployment tomorrow afternoon?",
+          "Does he go to supervise the final system deployment tomorrow afternoon?"
         ],
-        "answer": "Can he supervise the final equipment alignment tomorrow afternoon?"
+        "answer": "Can he supervise the final system deployment tomorrow afternoon?"
       },
       {
-        "question": "I read up on new technology. I usually read at least one article online every Saturday, but this weekend I am going to read up on many articles on a particular new technology.",
+        "question": "I review updated software documentation. I usually analyse one technical article every Saturday, but this weekend I am going to evaluate several revised system guidelines.",
         "options": [
           "What do you usually do during the weekend?",
           "What are you going to do this weekend?",
@@ -140,40 +140,40 @@
         "answer": "What do you usually do during the weekend?"
       },
       {
-        "question": "I think the new maintenance schedule is even more demanding than the previous one.",
+        "question": "I think the upgraded database architecture is even more efficient than the previous one.",
         "options": [
-          "What do you think of this new maintenance schedule?",
-          "Why is this new maintenance schedule more demanding?",
-          "Is the new maintenance schedule demanding more than the previous one?"
+          "What do you think of this upgraded database architecture?",
+          "Why is this upgraded database architecture more efficient?",
+          "Is this upgraded database architecture efficient more than the previous one?"
         ],
-        "answer": "What do you think of this new maintenance schedule?"
+        "answer": "What do you think of this upgraded database architecture?"
       },
       {
-        "question": "I think it is extremely complex. In fact, it is the most complex procedure we have ever performed.",
+        "question": "I think it is extremely complex. In fact, it is the most sophisticated encryption protocol we have ever implemented.",
         "options": [
-          "What do you think of this engine recalibration procedure?",
-          "Why do you think this engine recalibration procedure is complex?",
-          "Is the engine recalibration procedure complex more than the previous ones?"
+          "What do you think of this encryption protocol?",
+          "Why do you think this encryption protocol is complex?",
+          "Is this encryption protocol complex more than the previous ones?"
         ],
-        "answer": "What do you think of this engine recalibration procedure?"
+        "answer": "What do you think of this encryption protocol?"
       },
       {
-        "question": "Yes, they are. In fact, they are the worst grease guns I have ever come across.",
+        "question": "Yes, they are. In fact, they are the least reliable servers we have ever deployed.",
         "options": [
-          "Do you think these grease guns are worse than the previous batch?",
-          "Why are these grease guns more worse?",
-          "Are these grease guns more worse than the previous batch?"
+          "Do you think these servers are less reliable than the previous batch?",
+          "Why are these servers more less reliable?",
+          "Are these servers more less reliable than the previous batch?"
         ],
-        "answer": "Do you think these grease guns are worse than the previous batch?"
+        "answer": "Do you think these servers are less reliable than the previous batch?"
       },
       {
-        "question": "No, they were lubricated late last evening.",
+        "question": "No, they were updated late yesterday evening.",
         "options": [
-          "Were these bearings lubricated this morning?",
-          "Were you lubricate these bearings this morning?",
-          "When did you lubricate these bearings?"
+          "Were these security patches updated this morning?",
+          "Were you updated these security patches this morning?",
+          "When did you update these security patches?"
         ],
-        "answer": "Were these bearings lubricated this morning?"
+        "answer": "Were these security patches updated this morning?"
       }
     ]
   },
@@ -347,31 +347,32 @@
         "audio": "assets/audio/a_3_1.mp3",
         "words": [
           "The",
-          "senior",
-          "technician",
-          "calibrates",
-          "hydraulic",
-          "actuators",
+          "administrator",
+          "monitors",
+          "network",
+          "traffic",
           "every",
           "morning",
+          "carefully",
           "."
         ],
-        "sentence": "The senior technician calibrates hydraulic actuators every morning."
+        "sentence": "The administrator monitors network traffic every morning carefully."
       },
       {
         "id": "n_3_a_2",
         "audio": "assets/audio/a_3_2.mp3",
         "words": [
           "The",
-          "structure",
+          "security",
+          "patch",
           "was",
-          "reinforced",
+          "deployed",
           "during",
-          "yesterday’s",
-          "inspection",
+          "yesterday's",
+          "maintenance",
           "."
         ],
-        "sentence": "The structure was reinforced during yesterday’s inspection."
+        "sentence": "The security patch was deployed during yesterday's maintenance."
       },
       {
         "id": "n_3_a_3",
@@ -380,62 +381,61 @@
           "The",
           "engineers",
           "are",
-          "aligning",
+          "configuring",
           "the",
-          "transmission",
-          "shaft",
-          "precisely",
+          "firewall",
+          "settings",
+          "now",
           "."
         ],
-        "sentence": "The engineers are aligning the transmission shaft precisely."
+        "sentence": "The engineers are configuring the firewall settings now."
       },
       {
         "id": "n_3_a_4",
         "audio": "assets/audio/a_3_4.mp3",
         "words": [
           "The",
-          "safety",
-          "protocol",
+          "database",
           "is",
           "being",
-          "implemented",
+          "optimised",
           "this",
           "week",
           "."
         ],
-        "sentence": "The safety protocol is being implemented this week."
+        "sentence": "The database is being optimised this week."
       },
       {
         "id": "n_3_a_5",
         "audio": "assets/audio/a_3_5.mp3",
         "words": [
           "The",
-          "mechanic",
+          "technician",
           "does",
           "not",
-          "tolerate",
-          "excessive",
-          "vibration",
-          "levels",
+          "ignore",
+          "critical",
+          "system",
+          "alerts",
           "."
         ],
-        "sentence": "The mechanic does not tolerate excessive vibration levels."
+        "sentence": "The technician does not ignore critical system alerts."
       },
       {
         "id": "n_3_a_6",
         "audio": "assets/audio/a_3_6.mp3",
         "words": [
           "The",
-          "crew",
+          "team",
           "did",
           "not",
-          "stabilise",
+          "update",
           "the",
-          "foundation",
-          "properly",
+          "firmware",
+          "yesterday",
           "."
         ],
-        "sentence": "The crew did not stabilise the foundation properly."
+        "sentence": "The team did not update the firmware yesterday."
       },
       {
         "id": "n_3_a_7",
@@ -446,12 +446,12 @@
           "is",
           "not",
           "authorising",
-          "equipment",
-          "operation",
+          "remote",
+          "access",
           "today",
           "."
         ],
-        "sentence": "The supervisor is not authorising equipment operation today."
+        "sentence": "The supervisor is not authorising remote access today."
       },
       {
         "id": "n_3_a_8",
@@ -459,15 +459,14 @@
         "words": [
           "Do",
           "the",
-          "technicians",
+          "engineers",
           "verify",
-          "torque",
-          "settings",
-          "before",
-          "installation",
+          "data",
+          "integrity",
+          "regularly",
           "?"
         ],
-        "sentence": "Do the technicians verify torque settings before installation?"
+        "sentence": "Do the engineers verify data integrity regularly?"
       },
       {
         "id": "n_3_a_9",
@@ -475,15 +474,14 @@
         "words": [
           "Did",
           "the",
-          "engineers",
-          "inspect",
+          "specialist",
+          "troubleshoot",
           "the",
-          "structural",
-          "alignment",
+          "server",
           "yesterday",
           "?"
         ],
-        "sentence": "Did the engineers inspect the structural alignment yesterday?"
+        "sentence": "Did the specialist troubleshoot the server yesterday?"
       },
       {
         "id": "n_3_a_10",
@@ -491,15 +489,14 @@
         "words": [
           "Is",
           "the",
-          "operator",
+          "developer",
           "going",
           "to",
-          "replace",
-          "worn",
-          "bearings",
+          "implement",
+          "encryption",
           "?"
         ],
-        "sentence": "Is the operator going to replace worn bearings?"
+        "sentence": "Is the developer going to implement encryption?"
       }
     ]
   },
@@ -659,68 +656,68 @@
     "content": [
       {
         "id": "l_18_1",
-        "question": "Why did the inspector call the meeting?",
-        "answer": "To ensure the automobile section complies with recently updated fire safety regulations.",
+        "question": "Why was the meeting organised?",
+        "answer": "To ensure the ICT section complies with updated fire safety regulations.",
         "options": [
-          "To ensure welding operations do not cause safety hazards.",
-          "To dismiss staff who failed to follow procedures.",
-          "To ensure the automobile section complies with recently updated fire safety regulations.",
-          "To introduce new vehicle servicing equipment."
+          "To upgrade the laboratory network infrastructure.",
+          "To ensure network malfunctions do not cause safety hazards.",
+          "To ensure the ICT section complies with updated fire safety regulations.",
+          "To review data backup procedures."
         ]
       },
       {
         "id": "l_18_2",
-        "question": "What does the discussion about previous fire incidents mainly suggest?",
-        "answer": "Minor safety lapses can escalate quickly if preventive measures are ignored.",
+        "question": "What do the previous fire incidents indicate about the ICT lab?",
+        "answer": "Improper equipment monitoring and storage practices can create preventable fire risks.",
         "options": [
-          "The workshop has a long history of severe fire damage.",
-          "Minor safety lapses can escalate quickly if preventive measures are ignored.",
-          "Employees were unwilling to respond during emergencies.",
-          "Fire extinguishers were unavailable at the time."
+          "Major data losses frequently occur due to fires.",
+          "Fire detection systems were completely absent.",
+          "Improper equipment monitoring and storage practices can create preventable fire risks.",
+          "Technicians refused to follow maintenance protocols."
         ]
       },
       {
         "id": "l_18_3",
-        "question": "Why is relocating diagnostic trolleys considered necessary?",
-        "answer": "They could obstruct safe evacuation during an emergency.",
+        "question": "Why must CPU towers and cable management trays be relocated?",
+        "answer": "They could obstruct emergency evacuation routes.",
         "options": [
+          "They interfere with server configuration tasks.",
+          "They reduce airflow efficiency in the lab.",
           "They are outdated and need replacement.",
-          "They interfere with routine vehicle inspections.",
-          "They reduce productivity in the workshop.",
-          "They could obstruct safe evacuation during an emergency."
+          "They could obstruct emergency evacuation routes."
         ]
       },
       {
         "id": "l_18_4",
-        "question": "How aware are the staff of the current evacuation procedures?",
-        "answer": "Some employees may not yet be fully prepared to respond effectively.",
+        "question": "How aware are the technicians of current evacuation procedures?",
+        "answer": "Some technicians may require further guidance and regular drills.",
         "options": [
-          "All employees are fully trained and regularly assessed.",
-          "No evacuation procedures have been introduced yet.",
-          "Some employees may not yet be fully prepared to respond effectively.",
-          "Only senior technicians are responsible for evacuation."
+          "All technicians are fully trained in emergency response.",
+          "Evacuation plans have not yet been introduced.",
+          "Only the safety officer understands the procedure.",
+          "Some technicians may require further guidance and regular drills."
         ]
       },
       {
         "id": "l_18_5",
-        "question": "Why were two fire extinguishers scheduled for replacement?",
-        "answer": "They did not meet required compliance standards during inspection.",
+        "question": "Why are two fire extinguishers being replaced?",
+        "answer": "They failed to meet compliance standards during inspection.",
         "options": [
-          "They were damaged during previous emergencies.",
-          "They did not meet required compliance standards during inspection.",
-          "They were used too frequently for training drills.",
-          "They were placed in the wrong section of the workshop."
+          "They were damaged during hardware installation.",
+          "They were used during training exercises.",
+          "They failed to meet compliance standards during inspection.",
+          "They were incorrectly mounted on the wall."
         ]
       },
       {
         "id": "l_18_6",
-        "question": "What is the overall approach of the workshop management toward the new guidelines?",
-        "answer": "They are taking coordinated and proactive steps to strengthen safety procedures.",
+        "question": "How would you describe management’s response to the new guidelines?",
+        "answer": "Organised and proactive in strengthening ICT lab safety procedures.",
         "options": [
-          "They consider the regulations excessive and unnecessary.",
-          "They plan to delay implementation until further notice.",
-          "They intend to apply changes only to high-risk areas.",
-          "They are taking coordinated and proactive steps to strengthen safety procedures."
+          "Passive and delayed.",
+          "Focused only on documentation updates.",
+          "Limited to the server rack area.",
+          "Organised and proactive in strengthening ICT lab safety procedures."
         ]
       }
     ]

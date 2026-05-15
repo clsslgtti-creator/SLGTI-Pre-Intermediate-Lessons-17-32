@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": "32 - Assessment No. 4 ",
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Mechanical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -17,27 +17,27 @@
         {
           "id": "n_4_a_1",
           "item_a": "calibrate",
-          "item_b": "to adjust and fine-tune an instrument or system so that it provides accurate measurements according to manufacturer specifications"
+          "item_b": "to adjust and set a measuring instrument so it gives accurate and precise readings"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "diagnose",
-          "item_b": "to systematically identify the cause of a mechanical or system fault using tests, tools, and technical data"
+          "item_a": "torque",
+          "item_b": "to tighten a bolt or nut to a specific rotational force using a torque wrench"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "overhaul",
-          "item_b": "to completely dismantle, inspect, repair, and reassemble a mechanical component to restore full functionality"
+          "item_a": "align",
+          "item_b": "to position mechanical parts correctly so they are straight, balanced, and properly oriented"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "align",
-          "item_b": "to position mechanical components precisely so that they operate smoothly and without excessive vibration or wear"
+          "item_a": "fabricate",
+          "item_b": "to manufacture or build a metal component by cutting, shaping, and assembling materials"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "prime",
-          "item_b": "to prepare a system (such as a fuel or lubrication system) by filling it with fluid before starting operation"
+          "item_a": "assemble",
+          "item_b": "to fit together mechanical parts to form a complete unit or system"
         }
       ]
     },
@@ -51,28 +51,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "reinforce",
-          "item_b": "to strengthen a structure or component to improve durability and load resistance"
+          "item_a": "dismantle",
+          "item_b": "to take apart machinery or components carefully for repair, inspection, or replacement"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "dismantle",
-          "item_b": "to carefully take apart machinery or mechanical systems for repair, replacement, or inspection"
+          "item_a": "lubricate",
+          "item_b": "to apply oil or grease to moving parts to reduce friction and prevent wear"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "stabilise",
-          "item_b": "to ensure that a system operates steadily without fluctuation, vibration, or instability"
+          "item_a": "grind",
+          "item_b": "to smooth or finish a surface by removing small amounts of material using an abrasive wheel"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "rectify",
-          "item_b": "to correct or repair a mechanical fault or defect so that the system returns to proper working condition"
+          "item_a": "overhaul",
+          "item_b": "to completely disassemble, repair, and reassemble a machine to restore it to full working condition"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "optimise",
-          "item_b": "to improve the efficiency or performance of a machine or system by adjusting settings or components"
+          "item_a": "weld",
+          "item_b": "to join metal parts permanently by melting and fusing them together using heat or pressure"
         }
       ]
     }
@@ -86,31 +86,31 @@
     },
     "content": [
       {
-        "question": "No, there aren’t. In fact, there aren’t any safety helmets in the maintenance bay at the moment.",
+        "question": "No, there aren’t. In fact, there aren’t any safety boots in the workshop at the moment.",
         "options": [
-          "Is there any spare safety helmet in the maintenance bay?",
-          "Are the spare safety helmets in the maintenance bay?",
-          "Are there any safety helmets in the maintenance bay?"
+          "Is there a spare safety boots in the workshop?",
+          "Are the spare safety boots in the workshop?",
+          "Are there any safety boots in the workshop?"
         ],
-        "answer": "Are there any safety helmets in the maintenance bay?"
+        "answer": "Are there any safety boots in the workshop?"
       },
       {
         "question": "No, I don’t. But I enter it every evening after the day’s work.",
         "options": [
-          "Do you enter the log book every morning?",
-          "Is your log book entered every morning?",
-          "When do you enter the log book ?"
+          "Do you enter the maintenance log every morning?",
+          "Is your maintenance log entered every morning?",
+          "When do you enter the maintenance log?"
         ],
-        "answer": "Do you enter the log book every morning?"
+        "answer": "Do you enter the maintenance log every morning?"
       },
       {
-        "question": "No, he doesn’t. He rarely checks the equipment on Monday mornings. He usually inspects it on Tuesday mornings.",
+        "question": "No, he doesn’t. He rarely oils the machines on Monday mornings. He usually oils them on Tuesday mornings.",
         "options": [
-          "Does the inspector check the equipment on Monday mornings?",
-          "Do you check the equipment on Monday mornings?",
-          "Is the equipment checked on Monday mornings?"
+          "Does the inspector oil the machines on Monday mornings?",
+          "Do you oil the machines on Monday mornings?",
+          "Is the machine oils on Monday mornings?"
         ],
-        "answer": "Does the inspector check the equipment on Monday mornings?"
+        "answer": "Does the inspector oil the machines on Monday mornings?"
       },
       {
         "question": "I am calibrating it manually because the digital control unit is malfunctioning. I always calibrate it manually when the automated system fails.",
@@ -124,14 +124,14 @@
       {
         "question": "I’m afraid he can’t. He has to attend a safety audit tomorrow afternoon, and no substitute technician has been allocated.",
         "options": [
-          "Can he supervise the final equipment alignment tomorrow afternoon?",
-          "Does he supervise the final equipment alignment tomorrow afternoon?",
-          "Is he going supervise the final equipment alignment tomorrow afternoon?"
+          "Can he supervise the machine alignment tomorrow afternoon?",
+          "Does he supervise the machine alignment tomorrow afternoon?",
+          "Does he go to supervise the machine alignment tomorrow afternoon?"
         ],
-        "answer": "Can he supervise the final equipment alignment tomorrow afternoon?"
+        "answer": "Can he supervise the machine alignment tomorrow afternoon?"
       },
       {
-        "question": "I read up on new technology. I usually read at least one article online every Saturday, but this weekend I am going to read up on many articles on a particular new technology.",
+        "question": "I read up on new machinery. I usually read at least one article online every Saturday, but this weekend I am going to read up on many articles on a new machine.",
         "options": [
           "What do you usually do during the weekend?",
           "What are you going to do this weekend?",
@@ -149,31 +149,31 @@
         "answer": "What do you think of this new maintenance schedule?"
       },
       {
-        "question": "I think it is extremely complex. In fact, it is the most complex procedure we have ever performed.",
+        "question": "I think it is extremely difficult. In fact, it is the most difficult procedure we have ever performed.",
         "options": [
-          "What do you think of this engine recalibration procedure?",
-          "Why do you think this engine recalibration procedure is complex?",
-          "Is the engine recalibration procedure complex more than the previous ones?"
+          "What do you think of this recalibration procedure?",
+          "Why do you think this recalibration procedure is difficult?",
+          "Is the recalibration procedure difficult more than the previous ones?"
         ],
-        "answer": "What do you think of this engine recalibration procedure?"
+        "answer": "What do you think of this recalibration procedure?"
       },
       {
-        "question": "Yes, they are. In fact, they are the worst grease guns I have ever come across.",
+        "question": "Yes, they are. In fact, they are the best bearings I have ever come across.",
         "options": [
-          "Do you think these grease guns are worse than the previous batch?",
-          "Why are these grease guns more worse?",
-          "Are these grease guns more worse than the previous batch?"
+          "Do you think these bearings are better than the previous batch?",
+          "Why are these bearings more better?",
+          "Are these bearings more good than the previous batch?"
         ],
-        "answer": "Do you think these grease guns are worse than the previous batch?"
+        "answer": "Do you think these bearings are better than the previous batch?"
       },
       {
-        "question": "No, they were lubricated late last evening.",
+        "question": "No, they were calibrated last evening.",
         "options": [
-          "Were these bearings lubricated this morning?",
-          "Were you lubricate these bearings this morning?",
-          "When did you lubricate these bearings?"
+          "Were these multimetres calibrated this morning?",
+          "Did you calibrates these multimetres this morning?",
+          "When did you calibrate these multimetres?"
         ],
-        "answer": "Were these bearings lubricated this morning?"
+        "answer": "Were these multimetres calibrated this morning?"
       }
     ]
   },
@@ -350,28 +350,29 @@
           "senior",
           "technician",
           "calibrates",
-          "hydraulic",
-          "actuators",
+          "pressure",
+          "gauges",
           "every",
           "morning",
           "."
         ],
-        "sentence": "The senior technician calibrates hydraulic actuators every morning."
+        "sentence": "The senior technician calibrates pressure gauges every morning."
       },
       {
         "id": "n_3_a_2",
         "audio": "assets/audio/a_3_2.mp3",
         "words": [
           "The",
-          "structure",
+          "gearbox",
           "was",
-          "reinforced",
+          "overhauled",
           "during",
           "yesterday’s",
+          "maintenance",
           "inspection",
           "."
         ],
-        "sentence": "The structure was reinforced during yesterday’s inspection."
+        "sentence": "The gearbox was overhauled during yesterday’s maintenance inspection."
       },
       {
         "id": "n_3_a_3",
@@ -382,28 +383,28 @@
           "are",
           "aligning",
           "the",
-          "transmission",
+          "drive",
           "shaft",
           "precisely",
           "."
         ],
-        "sentence": "The engineers are aligning the transmission shaft precisely."
+        "sentence": "The engineers are aligning the drive shaft precisely."
       },
       {
         "id": "n_3_a_4",
         "audio": "assets/audio/a_3_4.mp3",
         "words": [
           "The",
-          "safety",
-          "protocol",
+          "lubrication",
+          "system",
           "is",
           "being",
-          "implemented",
+          "installed",
           "this",
           "week",
           "."
         ],
-        "sentence": "The safety protocol is being implemented this week."
+        "sentence": "The lubrication system is being installed this week."
       },
       {
         "id": "n_3_a_5",
@@ -415,11 +416,11 @@
           "not",
           "tolerate",
           "excessive",
-          "vibration",
-          "levels",
+          "bearing",
+          "wear",
           "."
         ],
-        "sentence": "The mechanic does not tolerate excessive vibration levels."
+        "sentence": "The mechanic does not tolerate excessive bearing wear."
       },
       {
         "id": "n_3_a_6",
@@ -429,13 +430,14 @@
           "crew",
           "did",
           "not",
-          "stabilise",
+          "secure",
           "the",
-          "foundation",
+          "mounting",
+          "bolts",
           "properly",
           "."
         ],
-        "sentence": "The crew did not stabilise the foundation properly."
+        "sentence": "The crew did not secure the mounting bolts properly."
       },
       {
         "id": "n_3_a_7",
@@ -445,13 +447,13 @@
           "supervisor",
           "is",
           "not",
-          "authorising",
-          "equipment",
+          "approving",
+          "machinery",
           "operation",
           "today",
           "."
         ],
-        "sentence": "The supervisor is not authorising equipment operation today."
+        "sentence": "The supervisor is not approving machinery operation today."
       },
       {
         "id": "n_3_a_8",
@@ -462,12 +464,12 @@
           "technicians",
           "verify",
           "torque",
-          "settings",
+          "specifications",
           "before",
-          "installation",
+          "assembly",
           "?"
         ],
-        "sentence": "Do the technicians verify torque settings before installation?"
+        "sentence": "Do the technicians verify torque specifications before assembly?"
       },
       {
         "id": "n_3_a_9",
@@ -478,12 +480,12 @@
           "engineers",
           "inspect",
           "the",
-          "structural",
+          "shaft",
           "alignment",
           "yesterday",
           "?"
         ],
-        "sentence": "Did the engineers inspect the structural alignment yesterday?"
+        "sentence": "Did the engineers inspect the shaft alignment yesterday?"
       },
       {
         "id": "n_3_a_10",
@@ -496,10 +498,10 @@
           "to",
           "replace",
           "worn",
-          "bearings",
+          "bushings",
           "?"
         ],
-        "sentence": "Is the operator going to replace worn bearings?"
+        "sentence": "Is the operator going to replace worn bushings?"
       }
     ]
   },
@@ -659,68 +661,68 @@
     "content": [
       {
         "id": "l_18_1",
-        "question": "Why did the inspector call the meeting?",
-        "answer": "To ensure the automobile section complies with recently updated fire safety regulations.",
+        "question": "Why was the meeting conducted?",
+        "answer": "To ensure the mechanical workshop complies with updated fire safety regulations.",
         "options": [
-          "To ensure welding operations do not cause safety hazards.",
-          "To dismiss staff who failed to follow procedures.",
-          "To ensure the automobile section complies with recently updated fire safety regulations.",
-          "To introduce new vehicle servicing equipment."
+          "To introduce new CNC programming software.",
+          "To ensure machine malfunctions do not cause safety hazards.",
+          "To ensure the mechanical workshop complies with updated fire safety regulations.",
+          "To purchase additional workshop tools."
         ]
       },
       {
         "id": "l_18_2",
-        "question": "What does the discussion about previous fire incidents mainly suggest?",
-        "answer": "Minor safety lapses can escalate quickly if preventive measures are ignored.",
+        "question": "What do the previous fire incidents suggest about the workshop?",
+        "answer": "Improper handling of lubricants and equipment placement can create avoidable fire risks.",
         "options": [
-          "The workshop has a long history of severe fire damage.",
-          "Minor safety lapses can escalate quickly if preventive measures are ignored.",
-          "Employees were unwilling to respond during emergencies.",
-          "Fire extinguishers were unavailable at the time."
+          "Major fires frequently damage equipment.",
+          "Fire alarms were not installed.",
+          "Improper handling of lubricants and equipment placement can create avoidable fire risks.",
+          "The hydraulic press was permanently faulty."
         ]
       },
       {
         "id": "l_18_3",
-        "question": "Why is relocating diagnostic trolleys considered necessary?",
-        "answer": "They could obstruct safe evacuation during an emergency.",
+        "question": "Why must tool carts and compressed air hoses be relocated?",
+        "answer": "They could obstruct emergency exit routes during evacuation.",
         "options": [
-          "They are outdated and need replacement.",
-          "They interfere with routine vehicle inspections.",
-          "They reduce productivity in the workshop.",
-          "They could obstruct safe evacuation during an emergency."
+          "They reduce machining accuracy.",
+          "They interfere with lathe calibration.",
+          "They increase noise levels in the workshop.",
+          "They could obstruct emergency exit routes during evacuation."
         ]
       },
       {
         "id": "l_18_4",
-        "question": "How aware are the staff of the current evacuation procedures?",
-        "answer": "Some employees may not yet be fully prepared to respond effectively.",
+        "question": "How aware are the apprentices of current evacuation procedures?",
+        "answer": "Some apprentices may need additional training and regular drills.",
         "options": [
-          "All employees are fully trained and regularly assessed.",
-          "No evacuation procedures have been introduced yet.",
-          "Some employees may not yet be fully prepared to respond effectively.",
-          "Only senior technicians are responsible for evacuation."
+          "All apprentices are fully certified in safety response.",
+          "Evacuation policies are not yet implemented.",
+          "Only the manager understands emergency plans.",
+          "Some apprentices may need additional training and regular drills."
         ]
       },
       {
         "id": "l_18_5",
-        "question": "Why were two fire extinguishers scheduled for replacement?",
-        "answer": "They did not meet required compliance standards during inspection.",
+        "question": "Why are two fire extinguishers being replaced?",
+        "answer": "They failed to meet compliance standards during inspection.",
         "options": [
-          "They were damaged during previous emergencies.",
-          "They did not meet required compliance standards during inspection.",
-          "They were used too frequently for training drills.",
-          "They were placed in the wrong section of the workshop."
+          "They were damaged during welding practice.",
+          "They were misplaced near the lathe area.",
+          "They failed to meet compliance standards during inspection.",
+          "They were used excessively during maintenance work."
         ]
       },
       {
         "id": "l_18_6",
-        "question": "What is the overall approach of the workshop management toward the new guidelines?",
-        "answer": "They are taking coordinated and proactive steps to strengthen safety procedures.",
+        "question": "How would you describe management’s response to the updated guidelines?",
+        "answer": "Organised and proactive in strengthening mechanical workshop safety.",
         "options": [
-          "They consider the regulations excessive and unnecessary.",
-          "They plan to delay implementation until further notice.",
-          "They intend to apply changes only to high-risk areas.",
-          "They are taking coordinated and proactive steps to strengthen safety procedures."
+          "Passive and minimal.",
+          "Focused only on documentation requirements.",
+          "Restricted to the CNC machining area.",
+          "Organised and proactive in strengthening mechanical workshop safety."
         ]
       }
     ]
