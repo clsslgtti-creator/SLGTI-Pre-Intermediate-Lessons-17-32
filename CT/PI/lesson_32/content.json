@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": "32 - Assessment No. 4 ",
     "level": "Pre-Intermediate",
-    "section": "Automobile Technology",
+    "section": "Construction Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -16,28 +16,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "calibrate",
-          "item_b": "to adjust and fine-tune an instrument or system so that it provides accurate measurements according to manufacturer specifications"
+          "item_a": "reinstate",
+          "item_b": "to restore a damaged structure or surface to its original safe and functional condition"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "diagnose",
-          "item_b": "to systematically identify the cause of a mechanical or system fault using tests, tools, and technical data"
+          "item_a": "stabilise",
+          "item_b": "to strengthen soil or foundations to prevent movement, settling, or structural failure"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "overhaul",
-          "item_b": "to completely dismantle, inspect, repair, and reassemble a mechanical component to restore full functionality"
+          "item_a": "grade",
+          "item_b": "to level or slope the ground surface according to drainage or design requirements"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "align",
-          "item_b": "to position mechanical components precisely so that they operate smoothly and without excessive vibration or wear"
+          "item_a": "adhere",
+          "item_b": "to bond or stick materials together using appropriate adhesives or binding agents"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "prime",
-          "item_b": "to prepare a system (such as a fuel or lubrication system) by filling it with fluid before starting operation"
+          "item_a": "excavate",
+          "item_b": "to remove earth, rock, or debris from a site in order to prepare foundations, trenches, or underground structures"
         }
       ]
     },
@@ -51,28 +51,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "reinforce",
-          "item_b": "to strengthen a structure or component to improve durability and load resistance"
+          "item_a": "anchor",
+          "item_b": "to firmly fix a structural element, such as a beam or column, into concrete or masonry using bolts or fasteners"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "dismantle",
-          "item_b": "to carefully take apart machinery or mechanical systems for repair, replacement, or inspection"
+          "item_a": "compact",
+          "item_b": "to compress soil, gravel, or asphalt to increase density and improve load-bearing capacity"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "stabilise",
-          "item_b": "to ensure that a system operates steadily without fluctuation, vibration, or instability"
+          "item_a": "fabricate",
+          "item_b": "to manufacture structural components, such as steel frames or panels, according to detailed construction drawings"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "rectify",
-          "item_b": "to correct or repair a mechanical fault or defect so that the system returns to proper working condition"
+          "item_a": "consolidate",
+          "item_b": "to strengthen and stabilise soil or structural elements by reducing voids and increasing density"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "optimise",
-          "item_b": "to improve the efficiency or performance of a machine or system by adjusting settings or components"
+          "item_a": "align",
+          "item_b": "to position structural components accurately according to level and measurement specifications"
         }
       ]
     }
@@ -86,52 +86,52 @@
     },
     "content": [
       {
-        "question": "No, there aren’t. In fact, there aren’t any safety helmets in the maintenance bay at the moment.",
+        "question": "No, there aren’t. In fact, there aren’t any steel reinforcements on the upper slab at the moment.",
         "options": [
-          "Is there any spare safety helmet in the maintenance bay?",
-          "Are the spare safety helmets in the maintenance bay?",
-          "Are there any safety helmets in the maintenance bay?"
+          "Is there a steel reinforcement on the upper slab?",
+          "Are the steel reinforcements on the upper slab?",
+          "Are there any steel reinforcements on the upper slab?"
         ],
-        "answer": "Are there any safety helmets in the maintenance bay?"
+        "answer": "Are there any steel reinforcements on the upper slab?"
       },
       {
-        "question": "No, I don’t. But I enter it every evening after the day’s work.",
+        "question": "No, I don’t. But I complete it every evening after the site inspection.",
         "options": [
-          "Do you enter the log book every morning?",
-          "Is your log book entered every morning?",
-          "When do you enter the log book ?"
+          "Do you complete the site inspection report every morning?",
+          "Is the site inspection report completed every morning?",
+          "When do you complete the site inspection report?"
         ],
-        "answer": "Do you enter the log book every morning?"
+        "answer": "Do you complete the site inspection report every morning?"
       },
       {
-        "question": "No, he doesn’t. He rarely checks the equipment on Monday mornings. He usually inspects it on Tuesday mornings.",
+        "question": "No, he doesn’t. He rarely inspects the scaffolding on Monday mornings. He usually examines it on Tuesday mornings.",
         "options": [
-          "Does the inspector check the equipment on Monday mornings?",
-          "Do you check the equipment on Monday mornings?",
-          "Is the equipment checked on Monday mornings?"
+          "Does the supervisor inspect the scaffolding on Monday mornings?",
+          "Do you inspect the scaffolding on Monday mornings?",
+          "Is the scaffolding inspected on Monday mornings?"
         ],
-        "answer": "Does the inspector check the equipment on Monday mornings?"
+        "answer": "Does the supervisor inspect the scaffolding on Monday mornings?"
       },
       {
-        "question": "I am calibrating it manually because the digital control unit is malfunctioning. I always calibrate it manually when the automated system fails.",
+        "question": "I am compacting the soil manually because the vibration roller is out of service. I always compact it manually when the machinery breaks down.",
         "options": [
-          "Why are you calibrating the pressure gauge manually?",
-          "Do you calibrate the pressure gauge manually?",
-          "Why do you calibrate the pressure gauge manually?"
+          "Why are you compacting the soil manually?",
+          "Do you compact the soil manually?",
+          "Why do you compact the soil manually?"
         ],
-        "answer": "Why are you calibrating the pressure gauge manually?"
+        "answer": "Why are you compacting the soil manually?"
       },
       {
-        "question": "I’m afraid he can’t. He has to attend a safety audit tomorrow afternoon, and no substitute technician has been allocated.",
+        "question": "I’m afraid he can’t. He has to attend a structural compliance review tomorrow afternoon, and no replacement engineer has been assigned.",
         "options": [
-          "Can he supervise the final equipment alignment tomorrow afternoon?",
-          "Does he supervise the final equipment alignment tomorrow afternoon?",
-          "Is he going supervise the final equipment alignment tomorrow afternoon?"
+          "Can he supervise the concrete pouring tomorrow afternoon?",
+          "Does he supervise the concrete pouring tomorrow afternoon?",
+          "Does he go to supervise the concrete pouring tomorrow afternoon?"
         ],
-        "answer": "Can he supervise the final equipment alignment tomorrow afternoon?"
+        "answer": "Can he supervise the concrete pouring tomorrow afternoon?"
       },
       {
-        "question": "I read up on new technology. I usually read at least one article online every Saturday, but this weekend I am going to read up on many articles on a particular new technology.",
+        "question": "I review updated building regulations. I usually study one regulation every Saturday, but this weekend I am going to review several revised codes.",
         "options": [
           "What do you usually do during the weekend?",
           "What are you going to do this weekend?",
@@ -140,40 +140,40 @@
         "answer": "What do you usually do during the weekend?"
       },
       {
-        "question": "I think the new maintenance schedule is even more demanding than the previous one.",
+        "question": "I think the revised structural design is even more complex than the previous one.",
         "options": [
-          "What do you think of this new maintenance schedule?",
-          "Why is this new maintenance schedule more demanding?",
-          "Is the new maintenance schedule demanding more than the previous one?"
+          "What do you think of this revised structural design?",
+          "Why is this revised structural design more complex?",
+          "Is this revised structural design complex more than the previous one?"
         ],
-        "answer": "What do you think of this new maintenance schedule?"
+        "answer": "What do you think of this revised structural design?"
       },
       {
-        "question": "I think it is extremely complex. In fact, it is the most complex procedure we have ever performed.",
+        "question": "I think it is extremely demanding. In fact, it is the most demanding excavation project we have ever undertaken.",
         "options": [
-          "What do you think of this engine recalibration procedure?",
-          "Why do you think this engine recalibration procedure is complex?",
-          "Is the engine recalibration procedure complex more than the previous ones?"
+          "What do you think of this excavation project?",
+          "Why do you think this excavation project is demanding?",
+          "Is this excavation project demanding more than the previous ones?"
         ],
-        "answer": "What do you think of this engine recalibration procedure?"
+        "answer": "What do you think of this excavation project?"
       },
       {
-        "question": "Yes, they are. In fact, they are the worst grease guns I have ever come across.",
+        "question": "Yes, they are. In fact, they are the least durable concrete blocks we have ever used.",
         "options": [
-          "Do you think these grease guns are worse than the previous batch?",
-          "Why are these grease guns more worse?",
-          "Are these grease guns more worse than the previous batch?"
+          "Do you think these concrete blocks are less durable than the previous batch?",
+          "Why are these concrete blocks more less durable?",
+          "Are these concrete blocks more less durable than the previous batch?"
         ],
-        "answer": "Do you think these grease guns are worse than the previous batch?"
+        "answer": "Do you think these concrete blocks are less durable than the previous batch?"
       },
       {
-        "question": "No, they were lubricated late last evening.",
+        "question": "No, they were reinforced late yesterday evening.",
         "options": [
-          "Were these bearings lubricated this morning?",
-          "Were you lubricate these bearings this morning?",
-          "When did you lubricate these bearings?"
+          "Were these foundation columns reinforced this morning?",
+          "Were you reinforce these foundation columns this morning?",
+          "When did you reinforce these foundation columns?"
         ],
-        "answer": "Were these bearings lubricated this morning?"
+        "answer": "Were these foundation columns reinforced this morning?"
       }
     ]
   },
@@ -347,23 +347,24 @@
         "audio": "assets/audio/a_3_1.mp3",
         "words": [
           "The",
-          "senior",
-          "technician",
+          "site",
+          "engineer",
           "calibrates",
-          "hydraulic",
-          "actuators",
+          "laser",
+          "levels",
           "every",
           "morning",
           "."
         ],
-        "sentence": "The senior technician calibrates hydraulic actuators every morning."
+        "sentence": "The site engineer calibrates laser levels every morning."
       },
       {
         "id": "n_3_a_2",
         "audio": "assets/audio/a_3_2.mp3",
         "words": [
           "The",
-          "structure",
+          "concrete",
+          "slab",
           "was",
           "reinforced",
           "during",
@@ -371,23 +372,23 @@
           "inspection",
           "."
         ],
-        "sentence": "The structure was reinforced during yesterday’s inspection."
+        "sentence": "The concrete slab was reinforced during yesterday’s inspection."
       },
       {
         "id": "n_3_a_3",
         "audio": "assets/audio/a_3_3.mp3",
         "words": [
           "The",
-          "engineers",
+          "workers",
           "are",
           "aligning",
           "the",
-          "transmission",
-          "shaft",
+          "steel",
+          "framework",
           "precisely",
           "."
         ],
-        "sentence": "The engineers are aligning the transmission shaft precisely."
+        "sentence": "The workers are aligning the steel framework precisely."
       },
       {
         "id": "n_3_a_4",
@@ -395,31 +396,31 @@
         "words": [
           "The",
           "safety",
-          "protocol",
+          "barrier",
           "is",
           "being",
-          "implemented",
+          "installed",
           "this",
           "week",
           "."
         ],
-        "sentence": "The safety protocol is being implemented this week."
+        "sentence": "The safety barrier is being installed this week."
       },
       {
         "id": "n_3_a_5",
         "audio": "assets/audio/a_3_5.mp3",
         "words": [
           "The",
-          "mechanic",
+          "foreman",
           "does",
           "not",
           "tolerate",
-          "excessive",
-          "vibration",
-          "levels",
+          "unsafe",
+          "scaffolding",
+          "practices",
           "."
         ],
-        "sentence": "The mechanic does not tolerate excessive vibration levels."
+        "sentence": "The foreman does not tolerate unsafe scaffolding practices."
       },
       {
         "id": "n_3_a_6",
@@ -429,13 +430,13 @@
           "crew",
           "did",
           "not",
-          "stabilise",
+          "compact",
           "the",
-          "foundation",
+          "soil",
           "properly",
           "."
         ],
-        "sentence": "The crew did not stabilise the foundation properly."
+        "sentence": "The crew did not compact the soil properly."
       },
       {
         "id": "n_3_a_7",
@@ -445,13 +446,13 @@
           "supervisor",
           "is",
           "not",
-          "authorising",
-          "equipment",
-          "operation",
+          "approving",
+          "structural",
+          "modifications",
           "today",
           "."
         ],
-        "sentence": "The supervisor is not authorising equipment operation today."
+        "sentence": "The supervisor is not approving structural modifications today."
       },
       {
         "id": "n_3_a_8",
@@ -459,15 +460,15 @@
         "words": [
           "Do",
           "the",
-          "technicians",
+          "contractors",
           "verify",
-          "torque",
-          "settings",
+          "load",
+          "calculations",
           "before",
-          "installation",
+          "construction",
           "?"
         ],
-        "sentence": "Do the technicians verify torque settings before installation?"
+        "sentence": "Do the contractors verify load calculations before construction?"
       },
       {
         "id": "n_3_a_9",
@@ -475,15 +476,15 @@
         "words": [
           "Did",
           "the",
-          "engineers",
-          "inspect",
+          "inspectors",
+          "examine",
           "the",
           "structural",
           "alignment",
           "yesterday",
           "?"
         ],
-        "sentence": "Did the engineers inspect the structural alignment yesterday?"
+        "sentence": "Did the inspectors examine the structural alignment yesterday?"
       },
       {
         "id": "n_3_a_10",
@@ -495,11 +496,11 @@
           "going",
           "to",
           "replace",
-          "worn",
-          "bearings",
+          "damaged",
+          "formwork",
           "?"
         ],
-        "sentence": "Is the operator going to replace worn bearings?"
+        "sentence": "Is the operator going to replace damaged formwork?"
       }
     ]
   },
@@ -659,68 +660,68 @@
     "content": [
       {
         "id": "l_18_1",
-        "question": "Why did the inspector call the meeting?",
-        "answer": "To ensure the automobile section complies with recently updated fire safety regulations.",
+        "question": "Why was the meeting organised?",
+        "answer": "To ensure the construction section complies with updated fire safety regulations.",
         "options": [
-          "To ensure welding operations do not cause safety hazards.",
-          "To dismiss staff who failed to follow procedures.",
-          "To ensure the automobile section complies with recently updated fire safety regulations.",
-          "To introduce new vehicle servicing equipment."
+          "To ensure structural damage does not cause safety hazards.",
+          "To reduce project delays caused by safety audits.",
+          "To ensure the construction section complies with updated fire safety regulations.",
+          "To introduce new construction machinery."
         ]
       },
       {
         "id": "l_18_2",
-        "question": "What does the discussion about previous fire incidents mainly suggest?",
-        "answer": "Minor safety lapses can escalate quickly if preventive measures are ignored.",
+        "question": "What do the previous fire incidents indicate about the site?",
+        "answer": "Improper storage and equipment placement can create avoidable fire risks.",
         "options": [
-          "The workshop has a long history of severe fire damage.",
-          "Minor safety lapses can escalate quickly if preventive measures are ignored.",
-          "Employees were unwilling to respond during emergencies.",
-          "Fire extinguishers were unavailable at the time."
+          "Major fires frequently disrupt construction progress.",
+          "Workers lacked access to extinguishers.",
+          "Improper storage and equipment placement can create avoidable fire risks.",
+          "The batching area is unsafe by design."
         ]
       },
       {
         "id": "l_18_3",
-        "question": "Why is relocating diagnostic trolleys considered necessary?",
-        "answer": "They could obstruct safe evacuation during an emergency.",
+        "question": "Why must wheelbarrows and cement mixers be relocated?",
+        "answer": "They may block emergency access routes during evacuation.",
         "options": [
-          "They are outdated and need replacement.",
-          "They interfere with routine vehicle inspections.",
-          "They reduce productivity in the workshop.",
-          "They could obstruct safe evacuation during an emergency."
+          "They are no longer required for the project.",
+          "They reduce efficiency in material transport.",
+          "They obstruct supervision of the excavation zone.",
+          "They may block emergency access routes during evacuation."
         ]
       },
       {
         "id": "l_18_4",
-        "question": "How aware are the staff of the current evacuation procedures?",
-        "answer": "Some employees may not yet be fully prepared to respond effectively.",
+        "question": "How aware are staff of current evacuation procedures?",
+        "answer": "Some workers may require additional guidance and practice.",
         "options": [
-          "All employees are fully trained and regularly assessed.",
-          "No evacuation procedures have been introduced yet.",
-          "Some employees may not yet be fully prepared to respond effectively.",
-          "Only senior technicians are responsible for evacuation."
+          "All workers have completed advanced safety certification.",
+          "Evacuation training has not yet been introduced.",
+          "Only supervisors understand emergency procedures.",
+          "Some workers may require additional guidance and practice."
         ]
       },
       {
         "id": "l_18_5",
-        "question": "Why were two fire extinguishers scheduled for replacement?",
-        "answer": "They did not meet required compliance standards during inspection.",
+        "question": "Why are two extinguishers being replaced?",
+        "answer": "They failed to meet compliance standards during inspection.",
         "options": [
-          "They were damaged during previous emergencies.",
-          "They did not meet required compliance standards during inspection.",
-          "They were used too frequently for training drills.",
-          "They were placed in the wrong section of the workshop."
+          "They were damaged during construction work.",
+          "They failed to meet compliance standards during inspection.",
+          "They were incorrectly positioned near the fencing.",
+          "They were used during routine training exercises."
         ]
       },
       {
         "id": "l_18_6",
-        "question": "What is the overall approach of the workshop management toward the new guidelines?",
-        "answer": "They are taking coordinated and proactive steps to strengthen safety procedures.",
+        "question": "How would you describe the management’s response to the new guidelines?",
+        "answer": "Systematic and proactive in strengthening site safety measures.",
         "options": [
-          "They consider the regulations excessive and unnecessary.",
-          "They plan to delay implementation until further notice.",
-          "They intend to apply changes only to high-risk areas.",
-          "They are taking coordinated and proactive steps to strengthen safety procedures."
+          "Passive and reluctant.",
+          "Focused only on documentation.",
+          "Limited to high-risk construction zones.",
+          "Systematic and proactive in strengthening site safety measures."
         ]
       }
     ]
