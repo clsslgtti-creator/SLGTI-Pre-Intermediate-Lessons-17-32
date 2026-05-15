@@ -19,91 +19,91 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "You ________ check the brake fluid level before testing.",
-            "options": ["will", "must", "could"],
+            "sentence": "You _____ check the lubrication level before starting the machine.",
+            "options": ["mustn’t", "must", "could"],
             "answer": "must"
           },
           {
             "id": "g_b_2",
-            "sentence": "You ________ ignore unusual engine vibrations during inspection.",
+            "sentence": "You _____ ignore unusual vibration during operation.",
             "options": ["shouldn’t", "must", "will"],
             "answer": "shouldn’t"
           },
           {
             "id": "g_b_3",
-            "sentence": "There isn’t much ________ left in the radiator.",
-            "options": ["coolant levels", "coolants", "coolant"],
-            "answer": "coolant"
+            "sentence": "There isn’t much _____ left in the hydraulic reservoir.",
+            "options": ["oils", "filters", "oil"],
+            "answer": "oil"
           },
           {
             "id": "g_b_4",
-            "sentence": "How many ________ were replaced during the service?",
-            "options": ["oil", "filters", "fuel"],
-            "answer": "filters"
+            "sentence": "How many _____ were replaced during the overhaul?",
+            "options": ["grease", "coolant", "bearings"],
+            "answer": "bearings"
           },
           {
             "id": "g_b_5",
-            "sentence": "This hydraulic jack is ________ than the manual one.",
-            "options": ["more heavier", "heavier", "heaviest"],
-            "answer": "heavier"
+            "sentence": "This CNC lathe is _____ than the manual machine.",
+            "options": ["more faster", "faster", "fastest"],
+            "answer": "faster"
           },
           {
             "id": "g_b_6",
-            "sentence": "A digital scan tool is ________ than a basic code reader.",
+            "sentence": "A laser alignment tool is _____ than a dial gauge.",
             "options": ["more accurate", "accurater", "most accurate"],
             "answer": "more accurate"
           },
           {
             "id": "g_b_7",
-            "sentence": "This is the ________ tyre inflator in the workshop.",
-            "options": ["most fast", "fastest", "faster"],
-            "answer": "fastest"
+            "sentence": "This is the _____ press machine in the workshop.",
+            "options": ["most heaviest", "heavier", "heaviest"],
+            "answer": "heaviest"
           },
           {
             "id": "g_b_8",
-            "sentence": "It is the ________ diagnostic system we currently use.",
-            "options": ["more advanced", "advanced", "most advanced"],
-            "answer": "most advanced"
+            "sentence": "It is the _____ maintenance procedure we currently follow.",
+            "options": ["more effective", "effective", "most effective"],
+            "answer": "most effective"
           },
           {
             "id": "g_b_9",
-            "sentence": "The engine runs ________ after proper tuning.",
+            "sentence": "The engine runs _____ after proper calibration.",
             "options": ["smooth", "more smoother", "smoothly"],
             "answer": "smoothly"
           },
           {
             "id": "g_b_10",
-            "sentence": "After training, she will ________ diagnose electrical faults independently.",
+            "sentence": "After training, he will _____ operate the milling machine independently.",
             "options": ["can", "could", "be able to"],
             "answer": "be able to"
           },
           {
             "id": "g_b_11",
-            "sentence": "The warning light ________ indicate a faulty sensor.",
+            "sentence": "The unusual noise _____ indicate a misaligned shaft.",
             "options": ["must", "have to", "could"],
             "answer": "could"
           },
           {
             "id": "g_b_12",
-            "sentence": "The brake pads ________ during the last service.",
+            "sentence": "The worn gears _____ during the last inspection.",
             "options": ["replaced", "were replaced", "are replace"],
             "answer": "were replaced"
           },
           {
             "id": "g_b_13",
-            "sentence": "The engine oil ________ every 5,000 kilometres.",
-            "options": ["changes", "is changed", "changed"],
-            "answer": "is changed"
+            "sentence": "The cooling system _____ before operation.",
+            "options": ["checks", "is checked", "checked"],
+            "answer": "is checked"
           },
           {
             "id": "g_b_14",
-            "sentence": "The gearbox ________ before delivery yesterday.",
-            "options": ["is inspect", "was inspected", "inspected"],
-            "answer": "was inspected"
+            "sentence": "The drive belt _____ during maintenance.",
+            "options": ["is adjust", "was adjusted", "adjusted"],
+            "answer": "was adjusted"
           },
           {
             "id": "g_b_15",
-            "sentence": "The suspension system ________ for alignment accuracy.",
+            "sentence": "The machine alignment _____ for precision accuracy.",
             "options": ["tests", "is tested", "tested"],
             "answer": "is tested"
           }
@@ -232,58 +232,58 @@
         "audio": "assets/audio/a_3_l.mp3",
         "content": [
           {
-            "id": "t_52_1",
+            "id": "t_57_1",
             "key": "diagnose",
             "text": "to identify the precise cause of a mechanical or technical malfunction in a machine or system.",
-            "audio": "assets/audio/t_52_1.mp3"
+            "audio": "assets/audio/t_57_1.mp3"
           },
           {
-            "id": "t_52_2",
+            "id": "t_57_2",
             "key": "troubleshoot",
             "text": "to systematically examine equipment or a system to detect and resolve faults.",
-            "audio": "assets/audio/t_52_2.mp3"
+            "audio": "assets/audio/t_57_2.mp3"
           },
           {
-            "id": "t_52_3",
+            "id": "t_57_3",
             "key": "overhaul",
             "text": "to completely dismantle, inspect, repair, and rebuild a major mechanical unit such as an engine, gearbox, or pump.",
-            "audio": "assets/audio/t_52_3.mp3"
+            "audio": "assets/audio/t_57_3.mp3"
           },
           {
-            "id": "t_52_4",
+            "id": "t_57_4",
             "key": "recondition",
             "text": "to restore a worn or damaged component to efficient working condition.",
-            "audio": "assets/audio/t_52_4.mp3"
+            "audio": "assets/audio/t_57_4.mp3"
           },
           {
-            "id": "t_52_5",
+            "id": "t_57_5",
             "key": "torque",
             "text": "to tighten a bolt or nut to a specified force using a torque wrench.",
-            "audio": "assets/audio/t_52_5.mp3"
+            "audio": "assets/audio/t_57_5.mp3"
           },
           {
-            "id": "t_52_6",
+            "id": "t_57_6",
             "key": "flush",
             "text": "to circulate cleaning fluid through a system, such as a cooling, lubrication, or hydraulic line, to remove contaminants.",
-            "audio": "assets/audio/t_52_6.mp3"
+            "audio": "assets/audio/t_57_6.mp3"
           },
           {
-            "id": "t_52_7",
+            "id": "t_57_7",
             "key": "inspect",
             "text": "to thoroughly examine components for signs of wear, corrosion, misalignment, or structural damage.",
-            "audio": "assets/audio/t_52_7.mp3"
+            "audio": "assets/audio/t_57_7.mp3"
           },
           {
-            "id": "t_52_8",
+            "id": "t_57_8",
             "key": "rectify",
             "text": "to correct or repair a detected mechanical fault or technical defect.",
-            "audio": "assets/audio/t_52_8.mp3"
+            "audio": "assets/audio/t_57_8.mp3"
           },
           {
-            "id": "t_52_9",
+            "id": "t_57_9",
             "key": "assemble",
             "text": "to accurately fit and secure mechanical parts to form a functional unit or system.",
-            "audio": "assets/audio/t_52_9.mp3"
+            "audio": "assets/audio/t_57_9.mp3"
           }
         ]
       }
@@ -315,11 +315,11 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What can you say about the applicant’s progress at SmartDrive Auto Services?",
-            "answer": "She moved from supervised work to handling small jobs alone.",
+            "question": "What can you say about the applicant’s progress at Precision Engineering Works?",
+            "answer": "She moved from supervised work to handling small machining tasks alone.",
             "options": [
               "She worked independently from the beginning.",
-              "She moved from supervised work to handling small jobs alone.",
+              "She moved from supervised work to handling small machining tasks alone.",
               "She only assisted senior technicians throughout her employment."
             ]
           },
@@ -335,7 +335,7 @@
           },
           {
             "id": "l_18_3",
-            "question": "What can you say about her experience with fully automated service bays?",
+            "question": "What can you say about her experience with fully automated machining systems?",
             "answer": "She has some experience but not full responsibility.",
             "options": [
               "She has extensive experience operating them independently.",
@@ -348,7 +348,7 @@
             "question": "Why did the applicant say she could not start immediately?",
             "answer": "She is required to give formal notice to her current employer before leaving.",
             "options": [
-              "She needs time to complete a training course.",
+              "She needs time to complete an advanced machining course.",
               "She is required to give formal notice to her current employer before leaving.",
               "She has not yet decided whether to accept the position."
             ]
@@ -356,11 +356,11 @@
           {
             "id": "l_18_5",
             "question": "Based on her career goal, what direction is she aiming for?",
-            "answer": "Specialisation in automated diagnostic systems.",
+            "answer": "Specialisation in automated machining systems and mechanical diagnostics.",
             "options": [
-              "Workshop management and administration.",
-              "Hybrid vehicle sales and marketing.",
-              "Specialisation in automated diagnostic systems."
+              "Mechanical workshop administration and supervision.",
+              "Industrial equipment sales and procurement.",
+              "Specialisation in automated machining systems and mechanical diagnostics."
             ]
           }
         ]
@@ -368,27 +368,27 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "I handled vehicle diagnostics, sensor calibration, and basic ECU scanning.",
+          "text": "I handled machine setup, component alignment, and basic CNC programming.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I also assisted senior technicians with automated brake testing and engine performance analysis.",
+          "text": "I also assisted senior technicians with automated load testing and mechanical performance analysis.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "For the first six months, I worked mainly under supervision, but later I managed small service jobs independently.",
+          "text": "For the first six months, I worked mainly under supervision, but later I managed small machining tasks independently.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro Motors.",
+          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro Mechanical Services.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "During that period, I gained hands-on experience with hybrid vehicles and digital fault-detection tools.",
+          "text": "During that period, I gained hands-on experience with hydraulic systems and digital measurement instruments.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
@@ -398,7 +398,7 @@
         },
         {
           "id": "t_7",
-          "text": "The workshop was small, and there were limited opportunities to work with advanced automated systems.",
+          "text": "The workshop handled small-scale fabrication projects, and there were limited opportunities to work with advanced automated systems.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
@@ -408,7 +408,7 @@
         },
         {
           "id": "t_9",
-          "text": "Not fully automated, but I have assisted in workshops where digital job cards and automated inventory systems were used.",
+          "text": "Not fully automated, but I have assisted in workshops where digital job scheduling systems and automated inventory management software were used.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
@@ -418,39 +418,39 @@
         },
         {
           "id": "t_11",
-          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
+          "text": "After that, I can start immediately.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I hope to become a Senior Diagnostic Technician specialising in automated vehicle systems.",
+          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "I handled vehicle diagnostics, sensor calibration, and basic ECU scanning.",
+          "text": "I handled machine setup, component alignment, and basic CNC programming.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I also assisted senior technicians with automated brake testing and engine performance analysis.",
+          "text": "I also assisted senior technicians with automated load testing and mechanical performance analysis.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "For the first six months, I worked mainly under supervision, but later I managed small service jobs independently.",
+          "text": "For the first six months, I worked mainly under supervision, but later I managed small machining tasks independently.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro Motors.",
+          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro Mechanical Services.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "During that period, I gained hands-on experience with hybrid vehicles and digital fault-detection tools.",
+          "text": "During that period, I gained hands-on experience with hydraulic systems and digital measurement instruments.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
@@ -460,7 +460,7 @@
         },
         {
           "id": "t_7",
-          "text": "The workshop was small, and there were limited opportunities to work with advanced automated systems.",
+          "text": "The workshop handled small-scale fabrication projects, and there were limited opportunities to work with advanced automated systems.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
@@ -470,7 +470,7 @@
         },
         {
           "id": "t_9",
-          "text": "Not fully automated, but I have assisted in workshops where digital job cards and automated inventory systems were used.",
+          "text": "Not fully automated, but I have assisted in workshops where digital job scheduling systems and automated inventory management software were used.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
@@ -480,39 +480,39 @@
         },
         {
           "id": "t_11",
-          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
+          "text": "After that, I can start immediately.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I hope to become a Senior Diagnostic Technician specialising in automated vehicle systems.",
+          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
           "audio": "assets/audio/t_12.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "I handled vehicle diagnostics, sensor calibration, and basic ECU scanning.",
+          "text": "I handled machine setup, component alignment, and basic CNC programming.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "I also assisted senior technicians with automated brake testing and engine performance analysis.",
+          "text": "I also assisted senior technicians with automated load testing and mechanical performance analysis.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "For the first six months, I worked mainly under supervision, but later I managed small service jobs independently.",
+          "text": "For the first six months, I worked mainly under supervision, but later I managed small machining tasks independently.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro Motors.",
+          "text": "I completed a six-month internship from July 2021 to December 2021 at Metro Mechanical Services.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "During that period, I gained hands-on experience with hybrid vehicles and digital fault-detection tools.",
+          "text": "During that period, I gained hands-on experience with hydraulic systems and digital measurement instruments.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
@@ -522,7 +522,7 @@
         },
         {
           "id": "t_7",
-          "text": "The workshop was small, and there were limited opportunities to work with advanced automated systems.",
+          "text": "The workshop handled small-scale fabrication projects, and there were limited opportunities to work with advanced automated systems.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
@@ -532,7 +532,7 @@
         },
         {
           "id": "t_9",
-          "text": "Not fully automated, but I have assisted in workshops where digital job cards and automated inventory systems were used.",
+          "text": "Not fully automated, but I have assisted in workshops where digital job scheduling systems and automated inventory management software were used.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
@@ -542,12 +542,12 @@
         },
         {
           "id": "t_11",
-          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
+          "text": "After that, I can start immediately.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I hope to become a Senior Diagnostic Technician specialising in automated vehicle systems.",
+          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
           "audio": "assets/audio/t_12.mp3"
         }
       ]
