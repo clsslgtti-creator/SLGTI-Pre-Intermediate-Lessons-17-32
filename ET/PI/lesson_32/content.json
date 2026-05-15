@@ -16,28 +16,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "calibrate",
-          "item_b": "to adjust and fine-tune an instrument or system so that it provides accurate measurements according to manufacturer specifications"
+          "item_a": "commission",
+          "item_b": "to formally test and activate an electrical installation to ensure it operates safely and according to design specifications"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "diagnose",
-          "item_b": "to systematically identify the cause of a mechanical or system fault using tests, tools, and technical data"
+          "item_a": "calibrate",
+          "item_b": "to adjust measuring instruments, such as multimetres or sensors, to ensure accurate electrical readings"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "overhaul",
-          "item_b": "to completely dismantle, inspect, repair, and reassemble a mechanical component to restore full functionality"
+          "item_a": "energise",
+          "item_b": "to supply electrical power to a circuit or system so that it becomes operational"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "align",
-          "item_b": "to position mechanical components precisely so that they operate smoothly and without excessive vibration or wear"
+          "item_a": "integrate",
+          "item_b": "to connect and coordinate different electrical components so they function as a unified system"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "prime",
-          "item_b": "to prepare a system (such as a fuel or lubrication system) by filling it with fluid before starting operation"
+          "item_a": "synchronise",
+          "item_b": "to match the frequency and phase of electrical systems, especially when connecting generators or power sources"
         }
       ]
     },
@@ -51,28 +51,28 @@
       "content": [
         {
           "id": "n_4_a_1",
-          "item_a": "reinforce",
-          "item_b": "to strengthen a structure or component to improve durability and load resistance"
+          "item_a": "rectify",
+          "item_b": "to correct or repair an electrical defect so that the system functions properly again"
         },
         {
           "id": "n_4_a_2",
-          "item_a": "dismantle",
-          "item_b": "to carefully take apart machinery or mechanical systems for repair, replacement, or inspection"
+          "item_a": "shield",
+          "item_b": "to protect cables or components from electromagnetic interference by using conductive or insulated barriers"
         },
         {
           "id": "n_4_a_3",
-          "item_a": "stabilise",
-          "item_b": "to ensure that a system operates steadily without fluctuation, vibration, or instability"
+          "item_a": "reinstate",
+          "item_b": "to restore power or system functionality after maintenance or fault correction"
         },
         {
           "id": "n_4_a_4",
-          "item_a": "rectify",
-          "item_b": "to correct or repair a mechanical fault or defect so that the system returns to proper working condition"
+          "item_a": "troubleshoot",
+          "item_b": "to systematically identify and resolve electrical faults by testing components, circuits, and system performance"
         },
         {
           "id": "n_4_a_5",
-          "item_a": "optimise",
-          "item_b": "to improve the efficiency or performance of a machine or system by adjusting settings or components"
+          "item_a": "withstand",
+          "item_b": "to resist electrical stress, voltage surges, heat, or load without failure or insulation breakdown"
         }
       ]
     }
@@ -86,52 +86,52 @@
     },
     "content": [
       {
-        "question": "No, there aren’t. In fact, there aren’t any safety helmets in the maintenance bay at the moment.",
+        "question": "No, there aren’t. In fact, there aren’t any circuit breakers in the main distribution panel at the moment.",
         "options": [
-          "Is there any spare safety helmet in the maintenance bay?",
-          "Are the spare safety helmets in the maintenance bay?",
-          "Are there any safety helmets in the maintenance bay?"
+          "Is there a circuit breaker in the main distribution panel?",
+          "Are the circuit breakers in the main distribution panel?",
+          "Are there any circuit breakers in the main distribution panel?"
         ],
-        "answer": "Are there any safety helmets in the maintenance bay?"
+        "answer": "Are there any circuit breakers in the main distribution panel?"
       },
       {
-        "question": "No, I don’t. But I enter it every evening after the day’s work.",
+        "question": "No, I don’t. But I document the voltage readings every evening after the system inspection.",
         "options": [
-          "Do you enter the log book every morning?",
-          "Is your log book entered every morning?",
-          "When do you enter the log book ?"
+          "Do you record the voltage readings every morning?",
+          "Are the voltage readings recorded every morning?",
+          "When do you record the voltage readings?"
         ],
-        "answer": "Do you enter the log book every morning?"
+        "answer": "Do you record the voltage readings every morning?"
       },
       {
-        "question": "No, he doesn’t. He rarely checks the equipment on Monday mornings. He usually inspects it on Tuesday mornings.",
+        "question": "No, he doesn’t. He rarely inspects the switchgear on Monday mornings. He usually tests it on Tuesday mornings.",
         "options": [
-          "Does the inspector check the equipment on Monday mornings?",
-          "Do you check the equipment on Monday mornings?",
-          "Is the equipment checked on Monday mornings?"
+          "Does the technician inspect the switchgear on Monday mornings?",
+          "Do you inspect the switchgear on Monday mornings?",
+          "Is the switchgear inspected on Monday mornings?"
         ],
-        "answer": "Does the inspector check the equipment on Monday mornings?"
+        "answer": "Does the technician inspect the switchgear on Monday mornings?"
       },
       {
-        "question": "I am calibrating it manually because the digital control unit is malfunctioning. I always calibrate it manually when the automated system fails.",
+        "question": "I am calibrating the multimetre manually because the digital monitoring system is malfunctioning. I always calibrate it manually when the automated system fails.",
         "options": [
-          "Why are you calibrating the pressure gauge manually?",
-          "Do you calibrate the pressure gauge manually?",
-          "Why do you calibrate the pressure gauge manually?"
+          "Why are you calibrating the multimetre manually?",
+          "Do you calibrate the multimetre manually?",
+          "Why do you calibrate the multimetre manually?"
         ],
-        "answer": "Why are you calibrating the pressure gauge manually?"
+        "answer": "Why are you calibrating the multimetre manually?"
       },
       {
-        "question": "I’m afraid he can’t. He has to attend a safety audit tomorrow afternoon, and no substitute technician has been allocated.",
+        "question": "I’m afraid he can’t. He has to attend a compliance inspection tomorrow afternoon, and no replacement technician has been allocated.",
         "options": [
-          "Can he supervise the final equipment alignment tomorrow afternoon?",
-          "Does he supervise the final equipment alignment tomorrow afternoon?",
-          "Is he going supervise the final equipment alignment tomorrow afternoon?"
+          "Can he supervise the final panel installation tomorrow afternoon?",
+          "Does he supervise the final panel installation tomorrow afternoon?",
+          "Does he go to supervise the final panel installation tomorrow afternoon?"
         ],
-        "answer": "Can he supervise the final equipment alignment tomorrow afternoon?"
+        "answer": "Can he supervise the final panel installation tomorrow afternoon?"
       },
       {
-        "question": "I read up on new technology. I usually read at least one article online every Saturday, but this weekend I am going to read up on many articles on a particular new technology.",
+        "question": "I review updated electrical standards. I usually analyse one regulation every Saturday, but this weekend I am going to examine several revised specifications.",
         "options": [
           "What do you usually do during the weekend?",
           "What are you going to do this weekend?",
@@ -140,40 +140,40 @@
         "answer": "What do you usually do during the weekend?"
       },
       {
-        "question": "I think the new maintenance schedule is even more demanding than the previous one.",
+        "question": "I think the revised wiring layout is even more complex than the previous one.",
         "options": [
-          "What do you think of this new maintenance schedule?",
-          "Why is this new maintenance schedule more demanding?",
-          "Is the new maintenance schedule demanding more than the previous one?"
+          "What do you think of this revised wiring layout?",
+          "Why is this revised wiring layout more complex?",
+          "Is this revised wiring layout complex more than the previous one?"
         ],
-        "answer": "What do you think of this new maintenance schedule?"
+        "answer": "What do you think of this revised wiring layout?"
       },
       {
-        "question": "I think it is extremely complex. In fact, it is the most complex procedure we have ever performed.",
+        "question": "I think it is extremely demanding. In fact, it is the most complicated load distribution system we have ever installed.",
         "options": [
-          "What do you think of this engine recalibration procedure?",
-          "Why do you think this engine recalibration procedure is complex?",
-          "Is the engine recalibration procedure complex more than the previous ones?"
+          "What do you think of this load distribution system?",
+          "Why do you think this load distribution system is demanding?",
+          "Is this load distribution system demanding more than the previous ones?"
         ],
-        "answer": "What do you think of this engine recalibration procedure?"
+        "answer": "What do you think of this load distribution system?"
       },
       {
-        "question": "Yes, they are. In fact, they are the worst grease guns I have ever come across.",
+        "question": "Yes, they are. In fact, they are the least efficient transformers we have ever tested.",
         "options": [
-          "Do you think these grease guns are worse than the previous batch?",
-          "Why are these grease guns more worse?",
-          "Are these grease guns more worse than the previous batch?"
+          "Do you think these transformers are less efficient than the previous batch?",
+          "Why are these transformers more less efficient?",
+          "Are these transformers more less efficient than the previous batch?"
         ],
-        "answer": "Do you think these grease guns are worse than the previous batch?"
+        "answer": "Do you think these transformers are less efficient than the previous batch?"
       },
       {
-        "question": "No, they were lubricated late last evening.",
+        "question": "No, they were inspected late yesterday evening.",
         "options": [
-          "Were these bearings lubricated this morning?",
-          "Were you lubricate these bearings this morning?",
-          "When did you lubricate these bearings?"
+          "Were these control panels inspected this morning?",
+          "Were you inspected these control panels this morning?",
+          "When did you inspect these control panels?"
         ],
-        "answer": "Were these bearings lubricated this morning?"
+        "answer": "Were these control panels inspected this morning?"
       }
     ]
   },
@@ -347,31 +347,33 @@
         "audio": "assets/audio/a_3_1.mp3",
         "words": [
           "The",
-          "senior",
           "technician",
           "calibrates",
-          "hydraulic",
-          "actuators",
+          "voltage",
+          "regulators",
           "every",
+          "Monday",
           "morning",
           "."
         ],
-        "sentence": "The senior technician calibrates hydraulic actuators every morning."
+        "sentence": "The technician calibrates voltage regulators every Monday morning."
       },
       {
         "id": "n_3_a_2",
         "audio": "assets/audio/a_3_2.mp3",
         "words": [
           "The",
-          "structure",
+          "distribution",
+          "panel",
           "was",
-          "reinforced",
+          "upgraded",
           "during",
-          "yesterday’s",
+          "last",
+          "week's",
           "inspection",
           "."
         ],
-        "sentence": "The structure was reinforced during yesterday’s inspection."
+        "sentence": "The distribution panel was upgraded during last week's inspection."
       },
       {
         "id": "n_3_a_3",
@@ -380,62 +382,62 @@
           "The",
           "engineers",
           "are",
-          "aligning",
+          "testing",
           "the",
-          "transmission",
-          "shaft",
-          "precisely",
+          "backup",
+          "generator",
+          "now",
           "."
         ],
-        "sentence": "The engineers are aligning the transmission shaft precisely."
+        "sentence": "The engineers are testing the backup generator now."
       },
       {
         "id": "n_3_a_4",
         "audio": "assets/audio/a_3_4.mp3",
         "words": [
           "The",
-          "safety",
-          "protocol",
+          "circuit",
+          "breaker",
           "is",
           "being",
-          "implemented",
+          "replaced",
           "this",
-          "week",
+          "afternoon",
           "."
         ],
-        "sentence": "The safety protocol is being implemented this week."
+        "sentence": "The circuit breaker is being replaced this afternoon."
       },
       {
         "id": "n_3_a_5",
         "audio": "assets/audio/a_3_5.mp3",
         "words": [
           "The",
-          "mechanic",
+          "electrician",
           "does",
           "not",
-          "tolerate",
-          "excessive",
-          "vibration",
-          "levels",
+          "ignore",
+          "unusual",
+          "current",
+          "fluctuations",
           "."
         ],
-        "sentence": "The mechanic does not tolerate excessive vibration levels."
+        "sentence": "The electrician does not ignore unusual current fluctuations."
       },
       {
         "id": "n_3_a_6",
         "audio": "assets/audio/a_3_6.mp3",
         "words": [
           "The",
-          "crew",
+          "team",
           "did",
           "not",
-          "stabilise",
+          "isolate",
           "the",
-          "foundation",
-          "properly",
+          "faulty",
+          "transformer",
           "."
         ],
-        "sentence": "The crew did not stabilise the foundation properly."
+        "sentence": "The team did not isolate the faulty transformer."
       },
       {
         "id": "n_3_a_7",
@@ -446,12 +448,12 @@
           "is",
           "not",
           "authorising",
-          "equipment",
-          "operation",
+          "system",
+          "activation",
           "today",
           "."
         ],
-        "sentence": "The supervisor is not authorising equipment operation today."
+        "sentence": "The supervisor is not authorising system activation today."
       },
       {
         "id": "n_3_a_8",
@@ -461,13 +463,12 @@
           "the",
           "technicians",
           "verify",
-          "torque",
-          "settings",
-          "before",
-          "installation",
+          "insulation",
+          "resistance",
+          "values",
           "?"
         ],
-        "sentence": "Do the technicians verify torque settings before installation?"
+        "sentence": "Do the technicians verify insulation resistance values?"
       },
       {
         "id": "n_3_a_9",
@@ -475,15 +476,14 @@
         "words": [
           "Did",
           "the",
-          "engineers",
+          "engineer",
           "inspect",
           "the",
-          "structural",
-          "alignment",
+          "switchgear",
           "yesterday",
           "?"
         ],
-        "sentence": "Did the engineers inspect the structural alignment yesterday?"
+        "sentence": "Did the engineer inspect the switchgear yesterday?"
       },
       {
         "id": "n_3_a_10",
@@ -494,12 +494,12 @@
           "operator",
           "going",
           "to",
-          "replace",
-          "worn",
-          "bearings",
+          "reconfigure",
+          "the",
+          "network",
           "?"
         ],
-        "sentence": "Is the operator going to replace worn bearings?"
+        "sentence": "Is the operator going to reconfigure the network?"
       }
     ]
   },
@@ -659,68 +659,68 @@
     "content": [
       {
         "id": "l_18_1",
-        "question": "Why did the inspector call the meeting?",
-        "answer": "To ensure the automobile section complies with recently updated fire safety regulations.",
+        "question": "Why was the meeting organised?",
+        "answer": "To ensure the electrical section complies with updated fire safety regulations.",
         "options": [
-          "To ensure welding operations do not cause safety hazards.",
-          "To dismiss staff who failed to follow procedures.",
-          "To ensure the automobile section complies with recently updated fire safety regulations.",
-          "To introduce new vehicle servicing equipment."
+          "To discuss new electrical installations for the workshop.",
+          "To ensure no wiring errors could cause safety hazards.",
+          "To ensure the electrical section complies with updated fire safety regulations.",
+          "To introduce advanced switchgear equipment."
         ]
       },
       {
         "id": "l_18_2",
-        "question": "What does the discussion about previous fire incidents mainly suggest?",
-        "answer": "Minor safety lapses can escalate quickly if preventive measures are ignored.",
+        "question": "What do the previous fire incidents suggest about the electrical workshop?",
+        "answer": "Improper handling of electrical components and materials can create preventable fire risks.",
         "options": [
-          "The workshop has a long history of severe fire damage.",
-          "Minor safety lapses can escalate quickly if preventive measures are ignored.",
-          "Employees were unwilling to respond during emergencies.",
-          "Fire extinguishers were unavailable at the time."
+          "Major electrical fires are common occurrences and are to be expected.",
+          "Fire alarms were malfunctioning at the time.",
+          "Improper handling of electrical components and materials can create preventable fire risks.",
+          "Circuit breakers were permanently damaged."
         ]
       },
       {
         "id": "l_18_3",
-        "question": "Why is relocating diagnostic trolleys considered necessary?",
-        "answer": "They could obstruct safe evacuation during an emergency.",
+        "question": "Why must portable testing metres and extension reels be relocated?",
+        "answer": "They may obstruct emergency exits during evacuation procedures.",
         "options": [
-          "They are outdated and need replacement.",
-          "They interfere with routine vehicle inspections.",
-          "They reduce productivity in the workshop.",
-          "They could obstruct safe evacuation during an emergency."
+          "They are outdated and no longer functional.",
+          "They interfere with switchgear calibration.",
+          "They reduce technician productivity.",
+          "They may obstruct emergency exits during evacuation procedures."
         ]
       },
       {
         "id": "l_18_4",
-        "question": "How aware are the staff of the current evacuation procedures?",
-        "answer": "Some employees may not yet be fully prepared to respond effectively.",
+        "question": "How aware are technicians of current evacuation procedures?",
+        "answer": "Some technicians may require further training and regular practice.",
         "options": [
-          "All employees are fully trained and regularly assessed.",
-          "No evacuation procedures have been introduced yet.",
-          "Some employees may not yet be fully prepared to respond effectively.",
-          "Only senior technicians are responsible for evacuation."
+          "All staff are fully trained and certified.",
+          "Evacuation policies have not yet been introduced.",
+          "Only supervisors understand emergency guidelines.",
+          "Some technicians may require further training and regular practice."
         ]
       },
       {
         "id": "l_18_5",
-        "question": "Why were two fire extinguishers scheduled for replacement?",
-        "answer": "They did not meet required compliance standards during inspection.",
+        "question": "Why are two fire extinguishers being replaced?",
+        "answer": "They failed to meet compliance standards during inspection.",
         "options": [
-          "They were damaged during previous emergencies.",
-          "They did not meet required compliance standards during inspection.",
-          "They were used too frequently for training drills.",
-          "They were placed in the wrong section of the workshop."
+          "They were damaged during load testing.",
+          "They failed to meet compliance standards during inspection.",
+          "They were incorrectly labelled.",
+          "They were positioned too far from the control panel."
         ]
       },
       {
         "id": "l_18_6",
-        "question": "What is the overall approach of the workshop management toward the new guidelines?",
-        "answer": "They are taking coordinated and proactive steps to strengthen safety procedures.",
+        "question": "How would you describe management’s response to the updated guidelines?",
+        "answer": "Organised and proactive in strengthening electrical safety procedures.",
         "options": [
-          "They consider the regulations excessive and unnecessary.",
-          "They plan to delay implementation until further notice.",
-          "They intend to apply changes only to high-risk areas.",
-          "They are taking coordinated and proactive steps to strengthen safety procedures."
+          "Hesitant and resistant to change.",
+          "Limited only to documentation updates.",
+          "Focused solely on high-voltage areas.",
+          "Organised and proactive in strengthening electrical safety procedures."
         ]
       }
     ]
