@@ -10,7 +10,7 @@
       "marks_for_each_q": 1,
       "type": "MATCHING-WORDS",
       "instruction": {
-        "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+        "text": "Match the words with their definitions.\nවචන, ඒවායේ අර්ථ දැක්වීම් සමඟ ගලපන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
         "audio": "assets/audio/a_1_a_i.mp3"
       },
       "content": [
@@ -45,7 +45,7 @@
       "marks_for_each_q": 1,
       "type": "MATCHING-WORDS",
       "instruction": {
-        "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+        "text": "Match the words with their definitions.\nවචන, ඒවායේ අර්ථ දැක්වීම් සමඟ ගලපන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
         "audio": "assets/audio/a_1_a_i.mp3"
       },
       "content": [
