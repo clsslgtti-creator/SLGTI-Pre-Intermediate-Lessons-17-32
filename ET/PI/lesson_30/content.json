@@ -293,7 +293,7 @@
           },
           {
             "id": "g_b_12",
-            "sentence": "The technician _____ a clamp meter now to measure the current flow.",
+            "sentence": "The technician _____ a clamp metre now to measure the current flow.",
             "options": ["is use", "is using", "uses"],
             "answer": "is using"
           },
@@ -375,7 +375,7 @@
         },
         {
           "id": "g_b_12",
-          "text": "The technician is using a clamp meter now to measure the current flow.",
+          "text": "The technician is using a clamp metre now to measure the current flow.",
           "audio": "assets/audio/g_b_12.mp3"
         },
         {
