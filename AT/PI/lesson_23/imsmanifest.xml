@@ -13,7 +13,7 @@
   </metadata>
   <organizations default="ORG-LESSON-23">
     <organization identifier="ORG-LESSON-23" structure="hierarchical">
-      <title>Lesson 01</title>
+      <title>Lesson 23</title>
       <item identifier="ITEM-LESSON-23" identifierref="RES-LESSON-23" isvisible="true">
         <title>Lesson 23</title>
       </item>
