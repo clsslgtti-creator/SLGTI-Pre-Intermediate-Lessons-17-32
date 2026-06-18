@@ -1276,7 +1276,7 @@ export const createGameScene = (config) => {
       const visibleCount = Math.max(maxOptions || 0, 2);
       const useCompactLayout = visibleCount >= 3;
       const buttonWidth = useCompactLayout ? 307 : 410;
-      const buttonHeight = 120;
+      const buttonHeight = 150;
       const baseY = height - 140;
 
       this.optionButtonMetrics = {
@@ -1328,7 +1328,7 @@ export const createGameScene = (config) => {
         const text = this.add
           .text(0, 0, "", {
             fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-            fontSize: 32,
+            fontSize: 28,
             color: "#475569",
             align: "center",
             fontStyle: "bold",
