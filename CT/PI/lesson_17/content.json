@@ -146,32 +146,32 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "play the trumpet"
+        "word": "eyes feel sore and dry"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "lift weights"
+        "word": "feel weak and shaky"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "watch documentaries"
+        "word": "back hurts a lot"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "drink tea and check my messages"
+        "word": "difficult to breathe"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "chat with my friends"
+        "word": "a bad toothache"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "be outdoors"
+        "word": "a bad earache"
       }
     ],
     "dialogues": [
