@@ -339,7 +339,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "1. The trainee checks grounding before powering the system.\n\n2. The trainee inspected the grounding wires before powering the system.",
+            "sentence": "1. The trainee checks grounding before powering the system.\n\n2. The trainee inspected the grounding wires before powering the workstation.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -462,7 +462,7 @@
         },
         {
           "id": "g_b_7_y",
-          "text": "The trainee inspected the grounding wires before powering the system.",
+          "text": "The trainee inspected the grounding wires before powering the workstation.",
           "audio": "assets/audio/g_b_7_y.mp3"
         },
         {
