@@ -270,7 +270,7 @@
             "sentence": "A trainee tries to walk under a suspended load.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
-              "You must walk quickly.",
+              "You must walk straight.",
               "You mustn’t walk under suspended loads.",
               "You should stand close to a suspended load."
             ],
