@@ -298,11 +298,11 @@
             "sentence": "1. The assistant carried a crate of eggs.\n\n2. Egg protein improves the texture of baked items.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
-              "1. count\n2. count",
+              "1. count\n2. non-count",
               "1. non-count\n2. count",
               "1. non-count\n2. non-count"
             ],
-            "answer": "1. count\n2. count"
+            "answer": "1. count\n2. non-count"
           },
           {
             "id": "g_b_4",

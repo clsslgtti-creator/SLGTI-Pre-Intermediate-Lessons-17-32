@@ -48,20 +48,20 @@
         "image": "assets/img/a_1_p_2.png"
       },
       {
-        "id": "p_3",
-        "word_text": "gl'a're",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Strong gl'a're from the control panel made it hard to read the indicator lights.",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
-      },
-      {
         "id": "p_4",
         "word_text": "fl'a're",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "Excessive fl'a're from the indicator LEDs reduced visibility on the control panel.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "gl'a're",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Strong gl'a're from the control panel made it hard to read the indicator lights.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
       }
     ]
   },
@@ -339,7 +339,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "1. The trainee checks earthing before switching on the panel.\n\n2. The trainee inspected the earthing wires to ensure the system was properly grounded.\n\n3. Pass me a length of earthing wire, please.",
+            "sentence": "1. The trainee checks earthing before switching on the panel.\n\n2. The trainee inspected the earthing wires to ensure the system was properly grounded.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "1. count\n2. non-count",
@@ -462,7 +462,7 @@
         },
         {
           "id": "g_b_7_y",
-          "text": "The trainee inspected the earthing wires to ensure the system was properly grounded. Pass me a length of earthing wire, please.",
+          "text": "The trainee inspected the earthing wires to ensure the system was properly grounded.",
           "audio": "assets/audio/g_b_7_y.mp3"
         },
         {
