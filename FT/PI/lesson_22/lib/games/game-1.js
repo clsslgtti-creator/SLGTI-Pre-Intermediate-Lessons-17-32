@@ -576,7 +576,7 @@ export const createGameScene = (config) => {
       this.gameUiElements.push(this.scoreBadge);
       this.topHudElements.push(this.scoreBadge);
       this.updateScore();
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 15.0s");
 
       const sentenceCardWidth = 980;
       const sentenceCardHeight = 300;
@@ -1231,7 +1231,7 @@ export const createGameScene = (config) => {
       this.resetState();
       this.score = 0;
       this.updateScore();
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 15.0s");
 
       this.time.delayedCall(120, () => {
         this.runState = "running";
@@ -1250,7 +1250,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 15.0s");
       this.hideFeedback();
       this.summaryBackdrop.setVisible(false);
       this.summaryBackdrop.setAlpha(0);
@@ -1533,7 +1533,7 @@ export const createGameScene = (config) => {
       this.enableOptionButtons(false);
       this.stopSentenceAudio();
       this.hideFeedback();
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 15.0s");
 
       if (
         this.examples.length &&
@@ -1768,7 +1768,7 @@ export const createGameScene = (config) => {
     }
 
     startResponseTimer() {
-      const durationMs = 10000;
+      const durationMs = 15000;
       const tickInterval = 100;
       let remaining = durationMs;
       this.updateTimerText(`Time: ${(remaining / 1000).toFixed(1)}s`);
@@ -1782,7 +1782,7 @@ export const createGameScene = (config) => {
           if (remaining <= 0) {
             this.timerEvent?.remove();
             this.timerEvent = null;
-            this.updateTimerText("Time: 10.0s");
+            this.updateTimerText("Time: 15.0s");
             this.handleTimeout();
             return;
           }
@@ -1813,7 +1813,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 15.0s");
 
       const current = this.questions[this.questionIndex];
       const isCorrect =
@@ -2060,7 +2060,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 10.0s");
+      this.updateTimerText("Time: 15.0s");
       this.hideFeedback();
       if (statusElement) {
         statusElement.textContent =
