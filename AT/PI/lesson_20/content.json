@@ -264,7 +264,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "Some students _____ miss the first period since the CTB buses are running slowly this morning.",
+            "sentence": "Some students _____ miss the first period since the CTB buses are running late this morning.",
             "options": ["must", "sometimes", "may", "can’t"],
             "answer": "may"
           },
@@ -327,7 +327,7 @@
         },
         {
           "id": "g_b_7",
-          "text": "Some students may miss the first period since the CTB buses are running slowly this morning.",
+          "text": "Some students may miss the first period since the CTB buses are running late this morning.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
