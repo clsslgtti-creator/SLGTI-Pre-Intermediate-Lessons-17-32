@@ -316,7 +316,10 @@
           "operations",
           "?"
         ],
-        "sentence": "Do technicians check cables before starting daily network operations?"
+        "sentence": "Do technicians check cables before starting daily network operations?",
+        "alternative_answers": [
+          "Do technicians check network cables before starting daily operations?"
+        ]
       },
       {
         "id": "n_3_a_4",
@@ -368,7 +371,10 @@
           "operations",
           "."
         ],
-        "sentence": "Students are wearing badges while observing data centre operations."
+        "sentence": "Students are wearing badges while observing data centre operations.",
+        "alternative_answers": [
+          "Students are observing data centre operations while wearing badges."
+        ]
       },
       {
         "id": "n_3_a_7",
