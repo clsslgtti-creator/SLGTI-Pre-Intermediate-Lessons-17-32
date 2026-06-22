@@ -48,20 +48,20 @@
         "image": "assets/img/a_1_p_2.png"
       },
       {
-        "id": "p_3",
-        "word_text": "'c'ontrol key",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The coded 'c'ontrol key is the safest way to prevent unauthorised access to the control system.",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
-      },
-      {
         "id": "p_4",
         "word_text": "lin'k'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "The copper busbar lin'k' is the shortest connection for reducing resistance in the distribution board.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'c'ontrol key",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The coded 'c'ontrol key is the safest way to prevent unauthorised access to the control system.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
       }
     ]
   },
