@@ -45,7 +45,7 @@
       },
       {
         "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
-        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
+        "options": ["most rigid", "rigid", "rigidly", "more rigid"],
         "answer": "more rigid"
       },
       {
