@@ -536,6 +536,11 @@
       },
       "activity_b": [
         {
+          "id": "t_9",
+          "text": "I can’t manage everything on my own.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
           "id": "t_1",
           "text": "Could you help me plan a few things?",
           "audio": "assets/audio/t_1.mp3"
@@ -556,6 +561,11 @@
           "audio": "assets/audio/t_4.mp3"
         },
         {
+          "id": "t_10",
+          "text": "I’m also having a bit of trouble with the refreshments.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
           "id": "t_5",
           "text": "A call would be great, thanks.",
           "audio": "assets/audio/t_5.mp3"
@@ -564,6 +574,11 @@
           "id": "t_6",
           "text": "Could you help me with that? Maybe you could give me a hand with the catering options?",
           "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "We also need to think about speeches.",
+          "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_7",
@@ -578,6 +593,11 @@
       ],
       "activity_c": [
         {
+          "id": "t_9",
+          "text": "I can’t manage everything on my own.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
           "id": "t_1",
           "text": "Could you help me plan a few things?",
           "audio": "assets/audio/t_1.mp3"
@@ -598,6 +618,11 @@
           "audio": "assets/audio/t_4.mp3"
         },
         {
+          "id": "t_10",
+          "text": "I’m also having a bit of trouble with the refreshments.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
           "id": "t_5",
           "text": "A call would be great, thanks.",
           "audio": "assets/audio/t_5.mp3"
@@ -606,6 +631,11 @@
           "id": "t_6",
           "text": "Could you help me with that? Maybe you could give me a hand with the catering options?",
           "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "We also need to think about speeches.",
+          "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_7",
@@ -620,6 +650,11 @@
       ],
       "activity_d": [
         {
+          "id": "t_9",
+          "text": "I can’t manage everything on my own.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
           "id": "t_1",
           "text": "Could you help me plan a few things?",
           "audio": "assets/audio/t_1.mp3"
@@ -640,6 +675,11 @@
           "audio": "assets/audio/t_4.mp3"
         },
         {
+          "id": "t_10",
+          "text": "I’m also having a bit of trouble with the refreshments.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
           "id": "t_5",
           "text": "A call would be great, thanks.",
           "audio": "assets/audio/t_5.mp3"
@@ -648,6 +688,11 @@
           "id": "t_6",
           "text": "Could you help me with that? Maybe you could give me a hand with the catering options?",
           "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "We also need to think about speeches.",
+          "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_7",
