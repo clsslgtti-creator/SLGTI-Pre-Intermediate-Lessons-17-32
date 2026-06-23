@@ -32,14 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "fu's'ion",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Fu's'ion cooking creates the richest flavours compared to traditional recipes.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "mea's'ure",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
@@ -54,6 +46,14 @@
         "sentence_text": "This facility achieves the most efficient quality expo's'ure control.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "fu's'ion",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Fu's'ion cooking creates the richest flavours compared to traditional recipes.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_4",
