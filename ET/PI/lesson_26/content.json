@@ -123,7 +123,7 @@
         "text_a": "Should he study Python or Java?",
         "text_b": "I think he should study Python.",
         "text_c": "Why?",
-        "text_d": "Java is more structured for long term projects.",
+        "text_d": "Java is more structured than python for long term projects.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
