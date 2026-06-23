@@ -267,7 +267,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Should I __________ the surveyor again before marking levels for the foundation layout?",
+            "sentence": "Should I __________ the surveyor's measurements again before marking levels for the foundation layout?",
             "options": ["checking", "checks", "check"],
             "answer": "check"
           },
@@ -330,7 +330,7 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Should I check the surveyor again before marking levels for the foundation layout?",
+          "text": "Should I check the surveyor's measurements again before marking levels for the foundation layout?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
@@ -459,11 +459,6 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
           "audio": "assets/audio/t_2.mp3"
@@ -526,11 +521,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
           "audio": "assets/audio/t_2.mp3"
@@ -592,11 +582,6 @@
         }
       ],
       "activity_d": [
-        {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
         {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",

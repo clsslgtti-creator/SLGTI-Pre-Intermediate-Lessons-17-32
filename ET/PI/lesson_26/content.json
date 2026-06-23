@@ -459,11 +459,6 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
           "audio": "assets/audio/t_2.mp3"
@@ -526,11 +521,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
           "audio": "assets/audio/t_2.mp3"
@@ -592,11 +582,6 @@
         }
       ],
       "activity_d": [
-        {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
         {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
