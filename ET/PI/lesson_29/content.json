@@ -369,7 +369,7 @@
           },
           {
             "id": "g_10",
-            "question": "Scientists discovered the vaccine in 2019. The vaccine _______________ in 2019.",
+            "question": "Scientists discovered the vaccine in 2019. This vaccine _______________ in 2019.",
             "options": ["is discovered", "was discover", "was discovered"],
             "answer": "was discovered"
           }
@@ -423,7 +423,7 @@
         },
         {
           "id": "g_b_10",
-          "text": "Scientists discovered the vaccine in 2019. The vaccine was discovered in 2019.",
+          "text": "Scientists discovered the vaccine in 2019. This vaccine was discovered in 2019.",
           "audio": "assets/audio/g_b_10.mp3"
         }
       ]
