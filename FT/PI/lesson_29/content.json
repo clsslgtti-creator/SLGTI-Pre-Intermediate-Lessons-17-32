@@ -120,7 +120,7 @@
         "text_c": "When was it delivered?",
         "text_d": "I am not sure. I think it was delivered last year.",
         "audio_a": "assets/audio/d_1_a.mp3",
-        "audio_b": "assets/audio/d_1_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_1_c.mp3",
         "audio_d": "assets/audio/d_1_d.mp3",
         "text_d_speaking": "_________________"
@@ -146,7 +146,7 @@
         "text_c": "When was it purchased?",
         "text_d": "I am not sure. I think it was purchased two years ago.",
         "audio_a": "assets/audio/d_3_a.mp3",
-        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_3_c.mp3",
         "audio_d": "assets/audio/d_3_d.mp3",
         "text_d_speaking": "_________________"
@@ -193,7 +193,7 @@
         "text_c": "When was it commissioned?",
         "text_d": "I am not sure. I think it was commissioned in 2021.",
         "audio_a": "assets/audio/d_4_a.mp3",
-        "audio_b": "assets/audio/d_4_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_4_c.mp3",
         "audio_d": "assets/audio/d_4_d.mp3",
         "text_d_speaking": "_________________"
@@ -206,7 +206,7 @@
         "text_c": "When was it introduced?",
         "text_d": "I am not sure. I think it was introduced recently.",
         "audio_a": "assets/audio/d_5_a.mp3",
-        "audio_b": "assets/audio/d_5_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_5_c.mp3",
         "audio_d": "assets/audio/d_5_d.mp3",
         "text_d_speaking": "_________________"
@@ -219,7 +219,7 @@
         "text_c": "When was it serviced?",
         "text_d": "I am not sure. I think it was serviced last month.",
         "audio_a": "assets/audio/d_6_a.mp3",
-        "audio_b": "assets/audio/d_6_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_6_c.mp3",
         "audio_d": "assets/audio/d_6_d.mp3",
         "text_d_speaking": "_________________"
@@ -232,7 +232,7 @@
         "text_c": "When was it repaired?",
         "text_d": "I am not sure. I think it was repaired last week.",
         "audio_a": "assets/audio/d_7_a.mp3",
-        "audio_b": "assets/audio/d_7_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_7_c.mp3",
         "audio_d": "assets/audio/d_7_d.mp3",
         "text_d_speaking": "_________________"
@@ -245,7 +245,7 @@
         "text_c": "When was it sanitised?",
         "text_d": "I am not sure. I think it was sanitised this morning.",
         "audio_a": "assets/audio/d_8_a.mp3",
-        "audio_b": "assets/audio/d_8_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_8_c.mp3",
         "audio_d": "assets/audio/d_8_d.mp3",
         "text_d_speaking": "_________________"
@@ -258,7 +258,7 @@
         "text_c": "When was it manufactured?",
         "text_d": "I am not sure. I think it was manufactured in May 2022.",
         "audio_a": "assets/audio/d_9_a.mp3",
-        "audio_b": "assets/audio/d_9_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_9_c.mp3",
         "audio_d": "assets/audio/d_9_d.mp3",
         "text_d_speaking": "_________________"
