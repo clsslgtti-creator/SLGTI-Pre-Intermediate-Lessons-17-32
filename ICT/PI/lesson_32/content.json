@@ -356,7 +356,8 @@
           "carefully",
           "."
         ],
-        "sentence": "The administrator monitors network traffic every morning carefully."
+        "sentence": "The administrator monitors network traffic every morning carefully.",
+        "alternative_answers": ["The administrator carefully monitors network traffic every morning."]
       },
       {
         "id": "n_3_a_2",
@@ -372,7 +373,8 @@
           "maintenance",
           "."
         ],
-        "sentence": "The security patch was deployed during yesterday's maintenance."
+        "sentence": "The security patch was deployed during yesterday's maintenance.",
+        "alternative_answers": ["The patch was deployed during yesterday's security maintenance."]
       },
       {
         "id": "n_3_a_3",
@@ -466,7 +468,8 @@
           "regularly",
           "?"
         ],
-        "sentence": "Do the engineers verify data integrity regularly?"
+        "sentence": "Do the engineers verify data integrity regularly?",
+        "alternative_answers": ["Do the engineers regularly verify data integrity?"]
       },
       {
         "id": "n_3_a_9",

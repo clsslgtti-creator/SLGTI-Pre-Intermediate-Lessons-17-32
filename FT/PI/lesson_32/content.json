@@ -467,7 +467,8 @@
           "regularly",
           "?"
         ],
-        "sentence": "Do the technicians verify hygiene standards regularly?"
+        "sentence": "Do the technicians verify hygiene standards regularly?",
+        "alternative_answers": ["Do the technicians regularly verify hygiene standards?"]
       },
       {
         "id": "n_3_a_9",

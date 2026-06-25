@@ -388,7 +388,8 @@
           "precisely",
           "."
         ],
-        "sentence": "The workers are aligning the steel framework precisely."
+        "sentence": "The workers are aligning the steel framework precisely.",
+        "alternative_answers": ["The workers are precisely aligning the steel framework."]
       },
       {
         "id": "n_3_a_4",
@@ -436,7 +437,8 @@
           "properly",
           "."
         ],
-        "sentence": "The crew did not compact the soil properly."
+        "sentence": "The crew did not compact the soil properly.",
+        "alternative_answers": ["The crew did not properly compact the soil."]
       },
       {
         "id": "n_3_a_7",
@@ -468,7 +470,8 @@
           "construction",
           "?"
         ],
-        "sentence": "Do the contractors verify load calculations before construction?"
+        "sentence": "Do the contractors verify load calculations before construction?",
+        "alternative_answers": ["Do contractors verify the load calculations before construction?"]
       },
       {
         "id": "n_3_a_9",
