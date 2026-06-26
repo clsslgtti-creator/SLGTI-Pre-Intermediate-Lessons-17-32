@@ -66,7 +66,7 @@
     ]
   },
   "activity_2": {
-    "type": "SBS-3",
+    "type": "SBS-5",
     "focus": "Modal verbs may, might",
     "instructions": {
       "example": {
@@ -90,8 +90,8 @@
         "audio": "assets/audio/a_2_i_d.mp3"
       },
       "activity_2_e": {
-        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
-        "audio": "assets/audio/a_2_i_e.mp3"
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
       }
     },
     "tables": [
@@ -104,7 +104,8 @@
         "text_a": "Do you know why the concrete surface looks uneven today?",
         "text_b": "I’m not sure. It may be poor compaction, or it might be incorrect formwork alignment. We will only know for sure if we inspect the pour.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "text_b_speaking": "I’m __________. It __________poor compaction, or it __________incorrect formwork alignment. We will __________if we inspect the pour."
       },
       {
         "id": "d_2",
@@ -112,7 +113,8 @@
         "text_a": "Do you know why the formwork shifted during casting?",
         "text_b": "I’m not sure. It may be weak bracing, or it might be loose fasteners. We will only know for sure if we check the support structure.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "text_b_speaking": "I’m __________. It __________weak bracing, or it __________loose fasteners. We will __________if we check the support structure."
       },
       {
         "id": "d_3",
@@ -120,7 +122,8 @@
         "text_a": "Do you know why the wall cracks appeared after curing?",
         "text_b": "I’m not sure. It may be rapid drying, or it might be insufficient curing time. We will only know for sure if we review the curing process.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "text_b_speaking": "I’m __________. It __________rapid drying, or it __________insufficient curing time. We will __________if we review the curing process."
       }
     ],
     "keywords": [
@@ -162,7 +165,8 @@
         "text_a": "Do you know why the column alignment is not correct?",
         "text_b": "I’m not sure. It may be inaccurate setting-out, or it might be movement in the base. We will only know for sure if we recheck the levels.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "text_b_speaking": "I’m __________. It __________inaccurate setting-out, or it __________movement in the base. We will __________if we recheck the levels."
       },
       {
         "id": "d_5",
@@ -170,7 +174,8 @@
         "text_a": "Do you know why the scaffold feels unstable?",
         "text_b": "I’m not sure. It may be uneven ground, or it might be missing bracing. We will only know for sure if we inspect the scaffold structure.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "text_b_speaking": "I’m __________. It __________uneven ground, or it __________missing bracing. We will __________if we inspect the scaffold structure."
       },
       {
         "id": "d_6",
@@ -178,7 +183,8 @@
         "text_a": "Do you know why the plaster finish looks rough?",
         "text_b": "I’m not sure. It may be poor surface preparation, or it might be an incorrect mix ratio. We will only know for sure if we check the materials.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "text_b_speaking": "I’m __________. It __________poor surface preparation, or it __________an incorrect mix ratio. We will __________if we check the materials."
       },
       {
         "id": "d_7",
@@ -186,7 +192,8 @@
         "text_a": "Do you know why the concrete strength test results are low?",
         "text_b": "I’m not sure. It may be excess water in the mix, or it might be poor quality aggregates. We will only know for sure if we review the mix design.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
-        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "text_b_speaking": "I’m __________. It __________excess water in the mix, or it __________poor quality aggregates. We will __________if we review the mix design."
       },
       {
         "id": "d_8",
@@ -194,7 +201,8 @@
         "text_a": "Do you know why the roof tiles are not aligned properly?",
         "text_b": "I’m not sure. It may be inaccurate spacing, or it might be poor fixing. We will only know for sure if we inspect the installation.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
-        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "text_b_speaking": "I’m __________. It __________inaccurate spacing, or it __________poor fixing. We will __________if we inspect the installation."
       },
       {
         "id": "d_9",
@@ -202,7 +210,8 @@
         "text_a": "Do you know why the site drainage is not working well?",
         "text_b": "I’m not sure. It may be blocked channels, or it might be an incorrect slope. We will only know for sure if we check the drainage layout.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
-        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "text_b_speaking": "I’m __________. It __________blocked channels, or it __________an incorrect slope. We will __________if we check the drainage layout."
       }
     ]
   },

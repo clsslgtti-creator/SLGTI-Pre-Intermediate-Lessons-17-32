@@ -66,7 +66,7 @@
     ]
   },
   "activity_2": {
-    "type": "SBS-3",
+    "type": "SBS-5",
     "focus": "Modal verbs may, might",
     "instructions": {
       "example": {
@@ -90,8 +90,8 @@
         "audio": "assets/audio/a_2_i_d.mp3"
       },
       "activity_2_e": {
-        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
-        "audio": "assets/audio/a_2_i_e.mp3"
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
       }
     },
     "tables": [
@@ -106,7 +106,8 @@
         "text_a": "Do you know why the engine is making an unusual noise today?",
         "text_b": "I’m not sure. It may be because the oil level is low, or it might be because a component is worn. We will only know for sure if we inspect the engine.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "text_b_speaking": "I’m __________. It __________because the oil level is low, or it __________because a component is worn. We will __________if we inspect the engine."
       },
       {
         "id": "d_2",
@@ -114,7 +115,8 @@
         "text_a": "Do you know why the vehicle failed to start this morning?",
         "text_b": "I’m not sure. It may be a weak battery, or it might be a loose terminal connection. We will only know for sure if we check the electrical system.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "text_b_speaking": "I’m __________. It __________a weak battery, or it __________a loose terminal connection. We will __________if we check the electrical system."
       },
       {
         "id": "d_3",
@@ -122,7 +124,8 @@
         "text_a": "Do you know why the brake pedal feels soft?",
         "text_b": "I’m not sure. It may be air in the brake lines, or it might be a fluid leak. We will only know for sure if we bleed the brakes.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "text_b_speaking": "I’m __________. __________air in the brake lines, or it __________a fluid leak. We will __________if we bleed the brakes."
       }
     ],
     "keywords": [
@@ -164,7 +167,8 @@
         "text_a": "Do you know why the engine temperature is rising quickly?",
         "text_b": "I’m not sure. It may be a cooling fan problem, or it might be a blocked radiator. We will only know for sure if we inspect the cooling system.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "text_b_speaking": "I’m __________. It __________a cooling fan problem, or it __________a blocked radiator. We will __________if we inspect the cooling system."
       },
       {
         "id": "d_5",
@@ -172,7 +176,8 @@
         "text_a": "Do you know why the headlights look dim?",
         "text_b": "I’m not sure. It may be a low charging voltage, or it might be a poor ground connection. We will only know for sure if we test the circuit.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "text_b_speaking": "I’m __________. It __________a low charging voltage, or it __________a poor ground connection. We will __________if we test the circuit."
       },
       {
         "id": "d_6",
@@ -180,7 +185,8 @@
         "text_a": "Do you know why the clutch is slipping during acceleration?",
         "text_b": "I’m not sure. It may be a worn clutch plate, or it might be oil contamination. We will only know for sure if we remove and inspect the clutch.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "text_b_speaking": "I’m __________. It __________a worn clutch plate, or it __________oil contamination. We will __________if we remove and inspect the clutch."
       },
       {
         "id": "d_7",
@@ -188,7 +194,8 @@
         "text_a": "Do you know why the exhaust smoke looks darker than usual?",
         "text_b": "I’m not sure. It may be incomplete combustion, or it might be a clogged air filter. We will only know for sure if we check the intake system.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
-        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "text_b_speaking": "I’m __________. It __________incomplete combustion, or it __________a clogged air filter. We will __________if we check the intake system."
       },
       {
         "id": "d_8",
@@ -196,7 +203,8 @@
         "text_a": "Do you know why the warning light stays on after starting the engine?",
         "text_b": "I’m not sure. It may be a sensor fault, or it might be a stored error code. We will only know for sure if we scan the control unit.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
-        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "text_b_speaking": "I’m __________. It __________a sensor fault, or it __________a stored error code. We will __________if we scan the control unit."
       },
       {
         "id": "d_9",
@@ -204,7 +212,8 @@
         "text_a": "Do you know why the fuel consumption is high?",
         "text_b": "I’m not sure. It may be incorrect tyre pressure, or it might be poor engine tuning. We will only know for sure if we carry out a full inspection.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
-        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "text_b_speaking": "I’m __________. It __________incorrect tyre pressure, or it __________poor engine tuning. We will __________if we carry out a full inspection."
       }
     ]
   },

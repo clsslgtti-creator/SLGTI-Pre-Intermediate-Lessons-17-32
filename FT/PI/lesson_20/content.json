@@ -66,7 +66,7 @@
     ]
   },
   "activity_2": {
-    "type": "SBS-3",
+    "type": "SBS-5",
     "focus": "Modal verbs may, might",
     "instructions": {
       "example": {
@@ -90,8 +90,8 @@
         "audio": "assets/audio/a_2_i_d.mp3"
       },
       "activity_2_e": {
-        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
-        "audio": "assets/audio/a_2_i_e.mp3"
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
       }
     },
     "tables": [
@@ -104,7 +104,8 @@
         "text_a": "Do you know why the soup tastes different today?",
         "text_b": "I’m not sure. It may be because the salt is low, or it might be because the stock was overcooked. We will only know for sure if we check the recipe.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "text_b_speaking": "I’m __________. It __________because the salt is low, or it __________because the stock was overcooked. We will __________if we check the recipe."
       },
       {
         "id": "d_2",
@@ -112,7 +113,8 @@
         "text_a": "Do you know why the mixer stopped suddenly?",
         "text_b": "I’m not sure. It may be overheating, or it might be a loose power connection. We will only know for sure if we inspect the machine.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "text_b_speaking": "I’m __________. It __________overheating, or it __________a loose power connection. We will __________if we inspect the machine."
       },
       {
         "id": "d_3",
@@ -120,7 +122,8 @@
         "text_a": "Do you know why the dough is not rising?",
         "text_b": "I’m not sure. It may be old yeast, or it might be incorrect water temperature. We will only know for sure if we test the yeast.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "text_b_speaking": "I’m __________. It __________old yeast, or it __________incorrect water temperature. We will __________if we test the yeast."
       }
     ],
     "keywords": [
@@ -162,7 +165,8 @@
         "text_a": "Do you know why the sauce is too thick?",
         "text_b": "I’m not sure. It may be because too much starch was added, or it might be because it cooked for too long. We will only know for sure if we review the process.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "text_b_speaking": "I’m __________. It __________because too much starch was added, or it __________because it cooked for too long. We will __________if we review the process."
       },
       {
         "id": "d_5",
@@ -170,7 +174,8 @@
         "text_a": "Do you know why the oven temperature keeps changing?",
         "text_b": "I’m not sure. It may be a faulty thermostat, or it might be an unstable power supply. We will only know for sure if we check the control panel.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "text_b_speaking": "I’m __________. It __________a faulty thermostat, or it __________an unstable power supply. We will __________if we check the control panel."
       },
       {
         "id": "d_6",
@@ -178,7 +183,8 @@
         "text_a": "Do you know why the vegetables look overcooked?",
         "text_b": "I’m not sure. It may be because the heat was too high, or it might be because they stayed in the pan too long. We will only know for sure if we check the cooking time.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "text_b_speaking": "I’m __________. It __________because the heat was too high, or it __________because they stayed in the pan too long. We will __________if we check the cooking time."
       },
       {
         "id": "d_7",
@@ -186,7 +192,8 @@
         "text_a": "Do you know why the milk smells unusual?",
         "text_b": "I’m not sure. It may be expired, or it might have been stored incorrectly. We will only know for sure if we check the label.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
-        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "text_b_speaking": "I’m __________. It __________expired, or it __________been stored incorrectly. We will __________if we check the label."
       },
       {
         "id": "d_8",
@@ -194,7 +201,8 @@
         "text_a": "Do you know why the packaging machine is making a noise?",
         "text_b": "I’m not sure. It may be a loose part, or it might be a lack of lubrication. We will only know for sure if we stop the machine and inspect it.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
-        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "text_b_speaking": "I’m __________. It __________a loose part, or it __________a lack of lubrication. We will __________if we stop the machine and inspect it."
       },
       {
         "id": "d_9",
@@ -202,7 +210,8 @@
         "text_a": "Do you know why the curry paste colour is uneven?",
         "text_b": "I’m not sure. It may be uneven heating, or it might be poor mixing. We will only know for sure if we review the batch records.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
-        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "text_b_speaking": "I’m __________. It __________uneven heating, or it __________poor mixing. We will __________if we review the batch records."
       }
     ]
   },
