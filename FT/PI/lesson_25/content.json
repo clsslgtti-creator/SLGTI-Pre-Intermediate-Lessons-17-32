@@ -40,20 +40,20 @@
         "image": "assets/img/a_1_p_1.png"
       },
       {
-        "id": "p_2",
-        "word_text": "segre'g'ation",
-        "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Proper segre'g'ation of raw foods requires the most disciplined staff.",
-        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
-      },
-      {
         "id": "p_3",
         "word_text": "ba'g'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "The most organised helper needs to pack a food ba'g'.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "segre'g'ation",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Proper segre'g'ation of raw foods requires the most disciplined staff.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_4",
@@ -133,32 +133,32 @@
     "keywords": [
       {
         "id": "k_1",
-        "word_2": "Durable",
+        "word_2": "durable",
         "word_1": "able to last a long time without breaking or wearing out."
       },
       {
         "id": "k_2",
-        "word_2": "Demanding",
+        "word_2": "demanding",
         "word_1": "needing a lot of effort, skill, or attention."
       },
       {
         "id": "k_3",
-        "word_2": "Detailed",
+        "word_2": "detailed",
         "word_1": "done very carefully, with attention to every aspect."
       },
       {
         "id": "k_4",
-        "word_2": "Time-consuming",
+        "word_2": "time-consuming",
         "word_1": "taking a long time to complete."
       },
       {
         "id": "k_5",
-        "word_2": "Stable",
+        "word_2": "stable",
         "word_1": "not likely to move, change, or fall over."
       },
       {
         "id": "k_6",
-        "word_2": "Modern",
+        "word_2": "modern",
         "word_1": "using new ideas, designs, or technology."
       }
     ],

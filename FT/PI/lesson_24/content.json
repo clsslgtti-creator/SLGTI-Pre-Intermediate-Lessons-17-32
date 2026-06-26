@@ -362,7 +362,10 @@
           "operations",
           "."
         ],
-        "sentence": "Students are wearing hairnets while observing food processing operations."
+        "sentence": "Students are wearing hairnets while observing food processing operations.",
+        "alternative_answers": [
+          "Students are observing food processing operations while wearing hairnets."
+        ]
       },
       {
         "id": "n_3_a_7",
@@ -414,7 +417,9 @@
         ],
         "sentence": "Everyone must follow hygiene rules and safety signs inside factories.",
         "alternative_answers": [
-          "Everyone must follow safety signs and hygiene rules inside factories."
+          "Everyone must follow safety signs and hygiene rules inside factories.",
+          "Everyone must follow hygiene signs and safety rules inside factories.",
+          "Everyone must follow safety rules and hygiene signs inside factories."
         ]
       },
       {

@@ -1,5 +1,14 @@
 const DEFAULT_OPTION_LABELS = ["Option A", "Option B", "Option C"];
 
+const shuffleArray = (list = []) => {
+  const copy = Array.isArray(list) ? [...list] : [];
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+};
+
 export const sanitizeOptions = (
   rawOptions = [],
   fallbackOptions = DEFAULT_OPTION_LABELS
@@ -1685,9 +1694,10 @@ export const createGameScene = (config) => {
         Array.isArray(entry?.options) && entry.options.length
           ? entry.options
           : this.fallbackOptions;
+      const shuffledOptionLabels = shuffleArray(optionLabels);
       this.configureOptionButtons(
-        optionLabels,
-        Array.isArray(optionLabels) && optionLabels.length > 0
+        shuffledOptionLabels,
+        Array.isArray(shuffledOptionLabels) && shuffledOptionLabels.length > 0
       );
 
       this.phaseText.setText(

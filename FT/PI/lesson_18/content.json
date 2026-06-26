@@ -298,11 +298,11 @@
             "sentence": "1. The assistant carried a crate of eggs.\n\n2. Egg protein improves the texture of baked items.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
-              "1. count\n2. count",
+              "1. count\n2. non-count",
               "1. non-count\n2. count",
               "1. non-count\n2. non-count"
             ],
-            "answer": "1. count\n2. count"
+            "answer": "1. count\n2. non-count"
           },
           {
             "id": "g_b_4",
@@ -680,11 +680,6 @@
           "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_4",
-          "text": "Yes, I remember that trip.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
           "id": "t_5",
           "text": "We didn’t have enough water, and some students were very tired.",
           "audio": "assets/audio/t_5.mp3"
@@ -700,16 +695,6 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "That sounds like a good idea.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "I agree with booking the bus early.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
           "id": "t_10",
           "text": "I also think we should arrange a few snacks, like biscuits, because there won’t be any stops on the way.",
           "audio": "assets/audio/t_10.mp3"
@@ -718,11 +703,6 @@
           "id": "t_11",
           "text": "Last time, we were hungry and got stuck in traffic for more than three hours.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "Right.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -740,66 +720,6 @@
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "I suggest we order rice and curry packets.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "It’s cheaper, and everyone usually eats that.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "We will also need some extra plates and spoons.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Eating at a restaurant may take too long.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "Yes, that’s decided then.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "We also need to think about accommodation.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "We stayed in a hostel last year, and it was very noisy.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "This time, we are going to stay one night near the city.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "We only need a few rooms, not many.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "So why don’t we talk to Jim about it?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "He is from Kandy and might know some suitable places.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "I can handle that this afternoon.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
           "id": "t_28",
           "text": "As for activities, we are going to visit the Temple of the Tooth and the Botanical Gardens.",
           "audio": "assets/audio/t_28.mp3"
@@ -810,44 +730,9 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "This plan sounds more interesting.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "I agree.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "We should also assign a group leader for each group.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "That helped a lot on our last trip.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
           "id": "t_34",
           "text": "We don’t need much equipment, but some stationery and a printed plan for each participant might be useful.",
           "audio": "assets/audio/t_34.mp3"
-        },
-        {
-          "id": "t_35",
-          "text": "Alright then.",
-          "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "I think we have enough information now.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Let’s write the final plan today and submit it to Mr Perera tomorrow.",
-          "audio": "assets/audio/t_37.mp3"
         }
       ],
       "activity_d": [
@@ -867,11 +752,6 @@
           "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_4",
-          "text": "Yes, I remember that trip.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
           "id": "t_5",
           "text": "We didn’t have enough water, and some students were very tired.",
           "audio": "assets/audio/t_5.mp3"
@@ -887,16 +767,6 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "That sounds like a good idea.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "I agree with booking the bus early.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
           "id": "t_10",
           "text": "I also think we should arrange a few snacks, like biscuits, because there won’t be any stops on the way.",
           "audio": "assets/audio/t_10.mp3"
@@ -905,11 +775,6 @@
           "id": "t_11",
           "text": "Last time, we were hungry and got stuck in traffic for more than three hours.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "Right.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -927,66 +792,6 @@
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "I suggest we order rice and curry packets.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "It’s cheaper, and everyone usually eats that.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "We will also need some extra plates and spoons.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Eating at a restaurant may take too long.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "Yes, that’s decided then.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "We also need to think about accommodation.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "We stayed in a hostel last year, and it was very noisy.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "This time, we are going to stay one night near the city.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "We only need a few rooms, not many.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "So why don’t we talk to Jim about it?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "He is from Kandy and might know some suitable places.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "I can handle that this afternoon.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
           "id": "t_28",
           "text": "As for activities, we are going to visit the Temple of the Tooth and the Botanical Gardens.",
           "audio": "assets/audio/t_28.mp3"
@@ -997,44 +802,9 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "This plan sounds more interesting.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "I agree.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "We should also assign a group leader for each group.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "That helped a lot on our last trip.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
           "id": "t_34",
           "text": "We don’t need much equipment, but some stationery and a printed plan for each participant might be useful.",
           "audio": "assets/audio/t_34.mp3"
-        },
-        {
-          "id": "t_35",
-          "text": "Alright then.",
-          "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "I think we have enough information now.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Let’s write the final plan today and submit it to Mr Perera tomorrow.",
-          "audio": "assets/audio/t_37.mp3"
         }
       ],
       "activity_e": [
@@ -1054,11 +824,6 @@
           "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_4",
-          "text": "Yes, I remember that trip.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
           "id": "t_5",
           "text": "We didn’t have enough water, and some students were very tired.",
           "audio": "assets/audio/t_5.mp3"
@@ -1074,16 +839,6 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "That sounds like a good idea.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "I agree with booking the bus early.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
           "id": "t_10",
           "text": "I also think we should arrange a few snacks, like biscuits, because there won’t be any stops on the way.",
           "audio": "assets/audio/t_10.mp3"
@@ -1092,11 +847,6 @@
           "id": "t_11",
           "text": "Last time, we were hungry and got stuck in traffic for more than three hours.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "Right.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -1114,66 +864,6 @@
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "I suggest we order rice and curry packets.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "It’s cheaper, and everyone usually eats that.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "We will also need some extra plates and spoons.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Eating at a restaurant may take too long.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "Yes, that’s decided then.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "We also need to think about accommodation.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "We stayed in a hostel last year, and it was very noisy.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "This time, we are going to stay one night near the city.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "We only need a few rooms, not many.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "So why don’t we talk to Jim about it?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "He is from Kandy and might know some suitable places.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "I can handle that this afternoon.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
           "id": "t_28",
           "text": "As for activities, we are going to visit the Temple of the Tooth and the Botanical Gardens.",
           "audio": "assets/audio/t_28.mp3"
@@ -1184,44 +874,9 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "This plan sounds more interesting.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "I agree.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "We should also assign a group leader for each group.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "That helped a lot on our last trip.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
           "id": "t_34",
           "text": "We don’t need much equipment, but some stationery and a printed plan for each participant might be useful.",
           "audio": "assets/audio/t_34.mp3"
-        },
-        {
-          "id": "t_35",
-          "text": "Alright then.",
-          "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "I think we have enough information now.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Let’s write the final plan today and submit it to Mr Perera tomorrow.",
-          "audio": "assets/audio/t_37.mp3"
         }
       ]
     }

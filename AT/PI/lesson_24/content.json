@@ -45,7 +45,7 @@
       },
       {
         "question": "Solid metal mounts are ______ than rubber engine mounts, causing vibration.",
-        "options": ["most rigid", "rigidly", "rigidly", "more rigid"],
+        "options": ["most rigid", "rigid", "rigidly", "more rigid"],
         "answer": "more rigid"
       },
       {
@@ -358,7 +358,10 @@
           "operations",
           "."
         ],
-        "sentence": "Students are wearing helmets while observing welding operations."
+        "sentence": "Students are wearing helmets while observing welding operations.",
+        "alternative_answers": [
+          "Students are observing welding operations while wearing helmets."
+        ]
       },
       {
         "id": "n_3_a_7",
@@ -411,8 +414,10 @@
         ],
         "sentence": "Everyone must follow all rules and signs at sites.",
         "alternative_answers": [
-          "Everyone must follow all signs and rules at sites."
-        ]
+          "Everyone must follow all signs and rules at sites.",
+          "Everyone must follow signs and rules at sites.",
+          "Everyone must follow rules and signs at sites."
+     ]
       },
       {
         "id": "n_3_a_10",

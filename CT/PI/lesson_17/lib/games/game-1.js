@@ -1276,7 +1276,7 @@ export const createGameScene = (config) => {
       const visibleCount = Math.max(maxOptions || 0, 2);
       const useCompactLayout = visibleCount >= 3;
       const buttonWidth = useCompactLayout ? 307 : 410;
-      const buttonHeight = 120;
+      const buttonHeight = 150;
       const baseY = height - 140;
 
       this.optionButtonMetrics = {
@@ -1328,7 +1328,7 @@ export const createGameScene = (config) => {
         const text = this.add
           .text(0, 0, "", {
             fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-            fontSize: 32,
+            fontSize: 28,
             color: "#475569",
             align: "center",
             fontStyle: "bold",
@@ -1738,8 +1738,8 @@ export const createGameScene = (config) => {
       const targetButton = this.optionButtons.find(
         (btn) => btn.value.toLowerCase() === entry.answer.toLowerCase()
       );
-      const highlightDelay = 500;
-      const feedbackDelay = highlightDelay + 800;
+      const highlightDelay = 1500;
+      const feedbackDelay = highlightDelay + 2000;
       const advanceDelay = feedbackDelay + 900;
 
       this.time.delayedCall(highlightDelay, () => {

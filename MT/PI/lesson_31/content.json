@@ -223,7 +223,7 @@
     "type": "LISTENING-5",
     "instructions": {
       "activity_a": {
-        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nஇரண்டு முறை ஒலிக்கப்படும் ஒலிப்பதிவைக் கேட்டு, அதில் சொல்லப்படும் வினைச்சொற்களின் விளக்கங்களுக்கு ஏற்ப, அந்த வினைச்சொற்களைச் சரியான எண்கள் கொண்ட பெட்டிகளுடன் பொருத்துக.",
+        "text": "Listen to the audio, which will be played twice, and drag and drop the following verbs into the correct numbered boxes according to their definitions. දෙවරක් වාදනය කරනු ලබන ශ්‍රව්‍ය පටයට සවන් දී, පහත දැක්වෙන ක්‍රියාපද ඒවායේ අර්ථ දැක්වීම්වලට අනුව අදාළ අංකිත කොටු වෙත ඇද දමන්න. இரண்டு முறை ஒலிக்கவிடப்படும் ஒலிப்பதிவைக் கேட்டு, பின்வரும் வினைச்சொற்களை அவற்றின் விளக்கங்களுக்கு ஏற்ப, சரியான எண்களிடப்பட்ட பெட்டிகளுக்குள் இழுத்து விடவும்.",
         "audio": "assets/audio/a_4_i_l.mp3"
       }
     },
@@ -470,8 +470,8 @@
         },
         {
           "id": "t_9",
-          "text": "Not fully automated, but I have assisted in workshops where digital job scheduling systems and automated inventory management software were used.",
-          "audio": "assets/audio/t_9.mp3"
+          "text": "I have assisted in workshops where digital job scheduling systems and automated inventory management software were used.",
+          "audio": "assets/audio/t_9_x.mp3"
         },
         {
           "id": "t_10",
@@ -485,8 +485,8 @@
         },
         {
           "id": "t_12",
-          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
-          "audio": "assets/audio/t_12.mp3"
+          "text": "I am open to discussion depending on the responsibilities and training opportunities.",
+          "audio": "assets/audio/t_12_x.mp3"
         }
       ],
       "activity_d": [
@@ -532,8 +532,8 @@
         },
         {
           "id": "t_9",
-          "text": "Not fully automated, but I have assisted in workshops where digital job scheduling systems and automated inventory management software were used.",
-          "audio": "assets/audio/t_9.mp3"
+          "text": "I have assisted in workshops where digital job scheduling systems and automated inventory management software were used.",
+          "audio": "assets/audio/t_9_x.mp3"
         },
         {
           "id": "t_10",
@@ -547,8 +547,8 @@
         },
         {
           "id": "t_12",
-          "text": "However, I am open to discussion depending on the responsibilities and training opportunities.",
-          "audio": "assets/audio/t_12.mp3"
+          "text": "I am open to discussion depending on the responsibilities and training opportunities.",
+          "audio": "assets/audio/t_12_x.mp3"
         }
       ]
     }

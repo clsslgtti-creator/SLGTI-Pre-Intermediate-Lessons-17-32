@@ -388,7 +388,8 @@
           "precisely",
           "."
         ],
-        "sentence": "The engineers are aligning the drive shaft precisely."
+        "sentence": "The engineers are aligning the drive shaft precisely.",
+        "alternative_answers": ["The engineers are precisely aligning the drive shaft."]
       },
       {
         "id": "n_3_a_4",
@@ -437,7 +438,8 @@
           "properly",
           "."
         ],
-        "sentence": "The crew did not secure the mounting bolts properly."
+        "sentence": "The crew did not secure the mounting bolts properly.",
+        "alternative_answers": ["The crew did not properly secure the mounting bolts."]
       },
       {
         "id": "n_3_a_7",
@@ -453,7 +455,8 @@
           "today",
           "."
         ],
-        "sentence": "The supervisor is not approving machinery operation today."
+        "sentence": "The supervisor is not approving machinery operation today.",
+        "alternative_answers": ["The operation supervisor is not approving machinery today."]
       },
       {
         "id": "n_3_a_8",

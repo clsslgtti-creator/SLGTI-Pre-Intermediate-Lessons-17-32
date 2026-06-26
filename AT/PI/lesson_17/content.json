@@ -66,7 +66,7 @@
     ]
   },
   "activity_2": {
-    "type": "SBS-3",
+    "type": "SBS-5",
     "focus": "Modal verb Should",
     "instructions": {
       "example": {
@@ -90,8 +90,8 @@
         "audio": "assets/audio/a_2_i_d.mp3"
       },
       "activity_2_e": {
-        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
-        "audio": "assets/audio/a_2_i_e.mp3"
+        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_j.mp3"
       }
     },
     "tables": [
@@ -115,7 +115,9 @@
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
-        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+        "audio_d": "assets/audio/a_2_d_1_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_2",
@@ -127,7 +129,9 @@
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
-        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+        "audio_d": "assets/audio/a_2_d_2_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_3",
@@ -139,39 +143,41 @@
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
-        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+        "audio_d": "assets/audio/a_2_d_3_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       }
     ],
     "keywords": [
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "play the trumpet"
+        "word": "eyes feel sore and dry"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "lift weights"
+        "word": "feel weak and shaky"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "watch documentaries"
+        "word": "back hurts a lot"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "drink tea and check my messages"
+        "word": "difficult to breathe"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "chat with my friends"
+        "word": "a bad toothache"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "be outdoors"
+        "word": "a bad earache"
       }
     ],
     "dialogues": [
@@ -185,7 +191,9 @@
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
-        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+        "audio_d": "assets/audio/a_2_d_4_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_5",
@@ -197,7 +205,9 @@
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
-        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+        "audio_d": "assets/audio/a_2_d_5_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_6",
@@ -209,7 +219,9 @@
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
-        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+        "audio_d": "assets/audio/a_2_d_6_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_7",
@@ -221,7 +233,9 @@
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3",
-        "audio_d": "assets/audio/a_2_d_7_d.mp3"
+        "audio_d": "assets/audio/a_2_d_7_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_8",
@@ -233,7 +247,9 @@
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3",
-        "audio_d": "assets/audio/a_2_d_8_d.mp3"
+        "audio_d": "assets/audio/a_2_d_8_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       },
       {
         "id": "d_9",
@@ -245,7 +261,9 @@
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3",
-        "audio_d": "assets/audio/a_2_d_9_d.mp3"
+        "audio_d": "assets/audio/a_2_d_9_d.mp3",
+        "text_a_speaking": "_______________________",
+        "text_c_speaking": "_______________________"
       }
     ]
   },
@@ -549,16 +567,6 @@
             ]
           },
           {
-            "id": "l_18_3",
-            "question": "A trainee removes his safety gloves because they feel uncomfortable.",
-            "answer": "He mustn’t remove protective equipment during practical work.",
-            "options": [
-              "He should remove them briefly if the machine is switched off.",
-              "He mustn’t remove protective equipment during practical work.",
-              "He shouldn’t wear them if they affect his movement."
-            ]
-          },
-          {
             "id": "l_18_4",
             "question": "A student skipped breakfast and feels weak during the session.",
             "answer": "He mustn’t work on an empty stomach during practical tasks.",
@@ -566,6 +574,16 @@
               "He should wait until the session ends to eat.",
               "He mustn’t work on an empty stomach during practical tasks.",
               "He shouldn’t stop unless the instructor notices the problem."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "A trainee removes his safety gloves because they feel uncomfortable.",
+            "answer": "He mustn’t remove protective equipment during practical work.",
+            "options": [
+              "He should remove them briefly if the machine is switched off.",
+              "He mustn’t remove protective equipment during practical work.",
+              "He shouldn’t wear them if they affect his movement."
             ]
           },
           {
@@ -582,16 +600,6 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Before we start today’s practical session, I want to talk about health and safety.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Some of you looked tired this morning, and that can affect your work.",
           "audio": "assets/audio/t_3.mp3"
@@ -612,16 +620,6 @@
           "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_7",
-          "text": "Sir, is it really dangerous to work when we feel a bit tired or unwell?",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "Yes, it can be.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
           "id": "t_9",
           "text": "If you feel dizzy or weak, you must inform your instructor immediately.",
           "audio": "assets/audio/t_9.mp3"
@@ -635,11 +633,6 @@
           "id": "t_11",
           "text": "That can lead to accidents, especially when you are using machines or electrical tools.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "What about small problems, like a headache or a cough?",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -657,21 +650,6 @@
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "Sir, some trainees skip breakfast because they are late.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Is that a problem?",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Yes, it is.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
           "id": "t_19",
           "text": "You must eat something before coming to the workshop, even if it is light food.",
           "audio": "assets/audio/t_19.mp3"
@@ -687,11 +665,6 @@
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "What about protective equipment?",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
           "id": "t_23",
           "text": "Sometimes it feels uncomfortable to wear, especially in this heat!",
           "audio": "assets/audio/t_23.mp3"
@@ -705,60 +678,10 @@
           "id": "t_25",
           "text": "You mustn’t remove gloves or masks just because they feel uncomfortable.",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "However, if something does not fit properly, you should report it so we can replace it.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "You shouldn’t adjust or modify safety equipment on your own.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "If we feel stressed or tired during the day, what should we do?",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "You should tell your supervisor and take a short rest if it is possible.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "You shouldn’t hide health issues out of fear or embarrassment.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Looking after your health is part of being a responsible technician.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Remember, good skills are important, but good health habits are essential.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Follow these rules every day, not only during inspections.",
-          "audio": "assets/audio/t_33.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Before we start today’s practical session, I want to talk about health and safety.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Some of you looked tired this morning, and that can affect your work.",
           "audio": "assets/audio/t_3.mp3"
@@ -779,16 +702,6 @@
           "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_7",
-          "text": "Sir, is it really dangerous to work when we feel a bit tired or unwell?",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "Yes, it can be.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
           "id": "t_9",
           "text": "If you feel dizzy or weak, you must inform your instructor immediately.",
           "audio": "assets/audio/t_9.mp3"
@@ -802,11 +715,6 @@
           "id": "t_11",
           "text": "That can lead to accidents, especially when you are using machines or electrical tools.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "What about small problems, like a headache or a cough?",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -824,21 +732,6 @@
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "Sir, some trainees skip breakfast because they are late.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Is that a problem?",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Yes, it is.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
           "id": "t_19",
           "text": "You must eat something before coming to the workshop, even if it is light food.",
           "audio": "assets/audio/t_19.mp3"
@@ -854,11 +747,6 @@
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "What about protective equipment?",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
           "id": "t_23",
           "text": "Sometimes it feels uncomfortable to wear, especially in this heat!",
           "audio": "assets/audio/t_23.mp3"
@@ -872,60 +760,10 @@
           "id": "t_25",
           "text": "You mustn’t remove gloves or masks just because they feel uncomfortable.",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "However, if something does not fit properly, you should report it so we can replace it.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "You shouldn’t adjust or modify safety equipment on your own.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "If we feel stressed or tired during the day, what should we do?",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "You should tell your supervisor and take a short rest if it is possible.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "You shouldn’t hide health issues out of fear or embarrassment.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Looking after your health is part of being a responsible technician.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Remember, good skills are important, but good health habits are essential.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Follow these rules every day, not only during inspections.",
-          "audio": "assets/audio/t_33.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Before we start today’s practical session, I want to talk about health and safety.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Some of you looked tired this morning, and that can affect your work.",
           "audio": "assets/audio/t_3.mp3"
@@ -946,16 +784,6 @@
           "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_7",
-          "text": "Sir, is it really dangerous to work when we feel a bit tired or unwell?",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "Yes, it can be.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
           "id": "t_9",
           "text": "If you feel dizzy or weak, you must inform your instructor immediately.",
           "audio": "assets/audio/t_9.mp3"
@@ -969,11 +797,6 @@
           "id": "t_11",
           "text": "That can lead to accidents, especially when you are using machines or electrical tools.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "What about small problems, like a headache or a cough?",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -991,21 +814,6 @@
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "Sir, some trainees skip breakfast because they are late.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Is that a problem?",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Yes, it is.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
           "id": "t_19",
           "text": "You must eat something before coming to the workshop, even if it is light food.",
           "audio": "assets/audio/t_19.mp3"
@@ -1021,11 +829,6 @@
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "What about protective equipment?",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
           "id": "t_23",
           "text": "Sometimes it feels uncomfortable to wear, especially in this heat!",
           "audio": "assets/audio/t_23.mp3"
@@ -1039,46 +842,6 @@
           "id": "t_25",
           "text": "You mustn’t remove gloves or masks just because they feel uncomfortable.",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "However, if something does not fit properly, you should report it so we can replace it.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "You shouldn’t adjust or modify safety equipment on your own.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "If we feel stressed or tired during the day, what should we do?",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "You should tell your supervisor and take a short rest if it is possible.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "You shouldn’t hide health issues out of fear or embarrassment.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Looking after your health is part of being a responsible technician.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Remember, good skills are important, but good health habits are essential.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Follow these rules every day, not only during inspections.",
-          "audio": "assets/audio/t_33.mp3"
         }
       ]
     }

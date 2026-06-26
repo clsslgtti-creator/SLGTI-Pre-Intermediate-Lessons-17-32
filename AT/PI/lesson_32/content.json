@@ -387,7 +387,8 @@
           "precisely",
           "."
         ],
-        "sentence": "The engineers are aligning the transmission shaft precisely."
+        "sentence": "The engineers are aligning the transmission shaft precisely.",
+        "alternative_answers": ["The engineers are precisely aligning the transmission shaft."]
       },
       {
         "id": "n_3_a_4",
@@ -435,7 +436,8 @@
           "properly",
           "."
         ],
-        "sentence": "The crew did not stabilise the foundation properly."
+        "sentence": "The crew did not stabilise the foundation properly.",
+        "alternative_answers": ["The crew did not properly stabilise the foundation."]
       },
       {
         "id": "n_3_a_7",
@@ -467,7 +469,8 @@
           "installation",
           "?"
         ],
-        "sentence": "Do the technicians verify torque settings before installation?"
+        "sentence": "Do the technicians verify torque settings before installation?",
+        "alternative_answers": ["Do technicians verify the torque settings before installation?"]
       },
       {
         "id": "n_3_a_9",

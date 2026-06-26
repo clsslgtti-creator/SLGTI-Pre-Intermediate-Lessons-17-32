@@ -568,21 +568,6 @@
           "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_4",
-          "text": "Shall we fill in the rest?",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Good.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "First, let’s talk about printer paper.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "We are short of A four paper at the moment.",
           "audio": "assets/audio/t_7.mp3"
@@ -598,24 +583,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "Order five reams.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "That should last for one month.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "Make a note in the comments column that we need it urgently.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Next, we are missing blue ballpoint pens.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -623,104 +593,23 @@
           "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_15",
-          "text": "How many pens do you want me to order?",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "Order twenty blue ballpoint pens, or why don’t we make it two dozen?",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "I think they pack them in one-dozen packs.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
           "id": "t_18",
           "text": "If we add the seven pens we still have in the drawer, we will have thirty-one pens in total.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_19",
-          "text": "There is no need to order the red ones.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "We have not even opened the boxes delivered last time.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
           "id": "t_21",
           "text": "Thirty-one blue pens should keep us going for more than a month, don’t you think?",
           "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Yes, it should.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Now, about toner.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
+        },{
           "id": "t_24",
           "text": "We usually order two toners every month, but this time we still have enough in stock.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
-          "id": "t_25",
-          "text": "So I shouldn’t order any toner, should I?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "That’s right.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "We are also short of staples.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
           "id": "t_28",
           "text": "The boxes in the drawer are almost finished.",
           "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "How many boxes of staples should I order?",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "Order two boxes of big staples, and write big staples in the comments.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "They usually send medium-sized staples to the main office, so it’s easy for them to make a mistake.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Finally, about clear folders.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Some new machines are coming, so we will need folders for the manuals.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "We still have six brown folders and seven grey ones.",
-          "audio": "assets/audio/t_34.mp3"
         },
         {
           "id": "t_35",
@@ -731,21 +620,6 @@
           "id": "t_36",
           "text": "No, it’s the other way around: fourteen brown folders and thirteen grey folders.",
           "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "Once you finish the form, send it to the stores supply desk.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "Will do, sir.",
-          "audio": "assets/audio/t_39.mp3"
         }
       ],
       "activity_c": [
@@ -765,21 +639,6 @@
           "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_4",
-          "text": "Shall we fill in the rest?",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Good.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "First, let’s talk about printer paper.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "We are short of A four paper at the moment.",
           "audio": "assets/audio/t_7.mp3"
@@ -795,24 +654,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "Order five reams.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "That should last for one month.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "Make a note in the comments column that we need it urgently.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Next, we are missing blue ballpoint pens.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -820,104 +664,23 @@
           "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_15",
-          "text": "How many pens do you want me to order?",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "Order twenty blue ballpoint pens, or why don’t we make it two dozen?",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "I think they pack them in one-dozen packs.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
           "id": "t_18",
           "text": "If we add the seven pens we still have in the drawer, we will have thirty-one pens in total.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_19",
-          "text": "There is no need to order the red ones.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "We have not even opened the boxes delivered last time.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
           "id": "t_21",
           "text": "Thirty-one blue pens should keep us going for more than a month, don’t you think?",
           "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Yes, it should.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Now, about toner.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
+        },{
           "id": "t_24",
           "text": "We usually order two toners every month, but this time we still have enough in stock.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
-          "id": "t_25",
-          "text": "So I shouldn’t order any toner, should I?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "That’s right.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "We are also short of staples.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
           "id": "t_28",
           "text": "The boxes in the drawer are almost finished.",
           "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "How many boxes of staples should I order?",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "Order two boxes of big staples, and write big staples in the comments.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "They usually send medium-sized staples to the main office, so it’s easy for them to make a mistake.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Finally, about clear folders.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Some new machines are coming, so we will need folders for the manuals.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "We still have six brown folders and seven grey ones.",
-          "audio": "assets/audio/t_34.mp3"
         },
         {
           "id": "t_35",
@@ -928,21 +691,6 @@
           "id": "t_36",
           "text": "No, it’s the other way around: fourteen brown folders and thirteen grey folders.",
           "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "Once you finish the form, send it to the stores supply desk.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "Will do, sir.",
-          "audio": "assets/audio/t_39.mp3"
         }
       ],
       "activity_d": [
@@ -962,21 +710,6 @@
           "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_4",
-          "text": "Shall we fill in the rest?",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Good.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "First, let’s talk about printer paper.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "We are short of A four paper at the moment.",
           "audio": "assets/audio/t_7.mp3"
@@ -992,24 +725,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "Order five reams.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "That should last for one month.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "Make a note in the comments column that we need it urgently.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Next, we are missing blue ballpoint pens.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -1017,104 +735,23 @@
           "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_15",
-          "text": "How many pens do you want me to order?",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "Order twenty blue ballpoint pens, or why don’t we make it two dozen?",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "I think they pack them in one-dozen packs.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
           "id": "t_18",
           "text": "If we add the seven pens we still have in the drawer, we will have thirty-one pens in total.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_19",
-          "text": "There is no need to order the red ones.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "We have not even opened the boxes delivered last time.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
           "id": "t_21",
           "text": "Thirty-one blue pens should keep us going for more than a month, don’t you think?",
           "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Yes, it should.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Now, about toner.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
+        },{
           "id": "t_24",
           "text": "We usually order two toners every month, but this time we still have enough in stock.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
-          "id": "t_25",
-          "text": "So I shouldn’t order any toner, should I?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "That’s right.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "We are also short of staples.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
           "id": "t_28",
           "text": "The boxes in the drawer are almost finished.",
           "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "How many boxes of staples should I order?",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "Order two boxes of big staples, and write big staples in the comments.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "They usually send medium-sized staples to the main office, so it’s easy for them to make a mistake.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Finally, about clear folders.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Some new machines are coming, so we will need folders for the manuals.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "We still have six brown folders and seven grey ones.",
-          "audio": "assets/audio/t_34.mp3"
         },
         {
           "id": "t_35",
@@ -1125,21 +762,6 @@
           "id": "t_36",
           "text": "No, it’s the other way around: fourteen brown folders and thirteen grey folders.",
           "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "Once you finish the form, send it to the stores supply desk.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "Will do, sir.",
-          "audio": "assets/audio/t_39.mp3"
         }
       ]
     }

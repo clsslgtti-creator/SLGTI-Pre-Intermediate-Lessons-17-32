@@ -32,14 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "smoo'th'",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The surface was smoo'th' to reduce friction during operation.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "algori'th'm",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
@@ -54,6 +46,14 @@
         "sentence_text": "Protective lea'th'er gloves were issued to operators for heat resistance.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "smoo'th'",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The surface was smoo'th' to reduce friction during operation.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_4",
@@ -120,7 +120,7 @@
         "text_c": "When was it installed?",
         "text_d": "I am not sure. I think it was installed last year.",
         "audio_a": "assets/audio/d_1_a.mp3",
-        "audio_b": "assets/audio/d_1_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_1_c.mp3",
         "audio_d": "assets/audio/d_1_d.mp3",
         "text_d_speaking": "_________________"
@@ -146,7 +146,7 @@
         "text_c": "When was it machined?",
         "text_d": "I am not sure. I think it was machined two weeks ago.",
         "audio_a": "assets/audio/d_3_a.mp3",
-        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_3_c.mp3",
         "audio_d": "assets/audio/d_3_d.mp3",
         "text_d_speaking": "_________________"
@@ -193,7 +193,7 @@
         "text_c": "When was it cut?",
         "text_d": "I am not sure. I think it was cut yesterday.",
         "audio_a": "assets/audio/d_4_a.mp3",
-        "audio_b": "assets/audio/d_4_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_4_c.mp3",
         "audio_d": "assets/audio/d_4_d.mp3",
         "text_d_speaking": "_________________"
@@ -206,7 +206,7 @@
         "text_c": "When was it commissioned?",
         "text_d": "I am not sure. I think it was commissioned in 2021.",
         "audio_a": "assets/audio/d_5_a.mp3",
-        "audio_b": "assets/audio/d_5_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_5_c.mp3",
         "audio_d": "assets/audio/d_5_d.mp3",
         "text_d_speaking": "_________________"
@@ -219,7 +219,7 @@
         "text_c": "When was it replaced?",
         "text_d": "I am not sure. I think it was replaced last month.",
         "audio_a": "assets/audio/d_6_a.mp3",
-        "audio_b": "assets/audio/d_6_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_6_c.mp3",
         "audio_d": "assets/audio/d_6_d.mp3",
         "text_d_speaking": "_________________"
@@ -232,7 +232,7 @@
         "text_c": "When was it delivered?",
         "text_d": "I am not sure. I think it was delivered three months ago.",
         "audio_a": "assets/audio/d_7_a.mp3",
-        "audio_b": "assets/audio/d_7_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_7_c.mp3",
         "audio_d": "assets/audio/d_7_d.mp3",
         "text_d_speaking": "_________________"
@@ -245,7 +245,7 @@
         "text_c": "When was it repaired?",
         "text_d": "I am not sure. I think it was repaired last week.",
         "audio_a": "assets/audio/d_8_a.mp3",
-        "audio_b": "assets/audio/d_8_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_8_c.mp3",
         "audio_d": "assets/audio/d_8_d.mp3",
         "text_d_speaking": "_________________"
@@ -258,7 +258,7 @@
         "text_c": "When was it manufactured?",
         "text_d": "I am not sure. I think it was manufactured in June 2023.",
         "audio_a": "assets/audio/d_9_a.mp3",
-        "audio_b": "assets/audio/d_9_b.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
         "audio_c": "assets/audio/d_9_c.mp3",
         "audio_d": "assets/audio/d_9_d.mp3",
         "text_d_speaking": "_________________"
@@ -369,7 +369,7 @@
           },
           {
             "id": "g_10",
-            "question": "Scientists discovered the vaccine in 2019. The vaccine _______________ in 2019.",
+            "question": "Scientists discovered the vaccine in 2019. This vaccine _______________ in 2019.",
             "options": ["is discovered", "was discover", "was discovered"],
             "answer": "was discovered"
           }
@@ -423,7 +423,7 @@
         },
         {
           "id": "g_b_10",
-          "text": "Scientists discovered the vaccine in 2019. The vaccine was discovered in 2019.",
+          "text": "Scientists discovered the vaccine in 2019. This vaccine was discovered in 2019.",
           "audio": "assets/audio/g_b_10.mp3"
         }
       ]

@@ -123,7 +123,7 @@
         "text_a": "Should he study Python or Java?",
         "text_b": "I think he should study Python.",
         "text_c": "Why?",
-        "text_d": "Java is more structured for long term projects.",
+        "text_d": "Java is more structured than python for long term projects.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
@@ -145,33 +145,33 @@
     "keywords": [
       {
         "id": "k_1",
-        "word_1": "Able to do a task well or handle a responsibility successfully.",
-        "word_2": "Capable"
+        "word_1": "able to do a task well or handle a responsibility successfully.",
+        "word_2": "capable"
       },
       {
         "id": "k_2",
-        "word_1": "Very valuable or important, often because it is rare or limited.",
-        "word_2": "Precious"
+        "word_1": "very valuable or important, often because it is rare or limited.",
+        "word_2": "precious"
       },
       {
         "id": "k_3",
-        "word_1": "Able to grow or be expanded without losing efficiency or control.",
-        "word_2": "Scalable"
+        "word_1": "able to grow or be expanded without losing efficiency or control.",
+        "word_2": "scalable"
       },
       {
         "id": "k_4",
-        "word_1": "Working well with little waste of time, energy, or resources.",
-        "word_2": "Efficient"
+        "word_1": "working well with little waste of time, energy, or resources.",
+        "word_2": "efficient"
       },
       {
         "id": "k_5",
-        "word_1": "Not deep; having little depth.",
-        "word_2": "Shallow"
+        "word_1": "not deep; having little depth.",
+        "word_2": "shallow"
       },
       {
         "id": "k_6",
-        "word_1": "Having an edge or point that can cut easily.",
-        "word_2": "Sharp"
+        "word_1": "having an edge or point that can cut easily.",
+        "word_2": "sharp"
       }
     ],
     "dialogues": [
@@ -459,11 +459,6 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
           "audio": "assets/audio/t_2.mp3"
@@ -526,11 +521,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
           "audio": "assets/audio/t_2.mp3"
@@ -592,11 +582,6 @@
         }
       ],
       "activity_d": [
-        {
-          "id": "t_1",
-          "text": "Workshop Speech: Protecting Your Rights as Skilled Workers",
-          "audio": "assets/audio/t_1.mp3"
-        },
         {
           "id": "t_2",
           "text": "However, some workers have faced exploitation because they lacked information or made rushed decisions.",
