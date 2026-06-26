@@ -20,7 +20,7 @@
           {
             "id": "g_b_1",
             "sentence": "You _____ check the scaffolding stability before climbing.",
-            "options": ["mustn’t", "must", "could"],
+            "options": ["mustn’t", "must", "be able to"],
             "answer": "must"
           },
           {
