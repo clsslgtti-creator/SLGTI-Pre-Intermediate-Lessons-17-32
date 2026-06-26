@@ -20,7 +20,7 @@
           {
             "id": "g_b_1",
             "sentence": "You _____ check the storage temperature before processing.",
-            "options": ["mustn’t", "must", "could"],
+            "options": ["mustn’t", "must", "be able to"],
             "answer": "must"
           },
           {
@@ -480,8 +480,8 @@
         },
         {
           "id": "t_11",
-          "text": "Not fully automated, but I have assisted in facilities where digital batch tracking systems and automated inventory control software were used.",
-          "audio": "assets/audio/t_11.mp3"
+          "text": "I have assisted in facilities where digital batch tracking systems and automated inventory control software were used.",
+          "audio": "assets/audio/t_11_x.mp3"
         },
         {
           "id": "t_12",
@@ -542,8 +542,8 @@
         },
         {
           "id": "t_11",
-          "text": "Not fully automated, but I have assisted in facilities where digital batch tracking systems and automated inventory control software were used.",
-          "audio": "assets/audio/t_11.mp3"
+          "text": "I have assisted in facilities where digital batch tracking systems and automated inventory control software were used.",
+          "audio": "assets/audio/t_11_x.mp3"
         },
         {
           "id": "t_12",
