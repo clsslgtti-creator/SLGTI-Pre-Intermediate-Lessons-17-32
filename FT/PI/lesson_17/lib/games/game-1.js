@@ -1738,8 +1738,8 @@ export const createGameScene = (config) => {
       const targetButton = this.optionButtons.find(
         (btn) => btn.value.toLowerCase() === entry.answer.toLowerCase()
       );
-      const highlightDelay = 500;
-      const feedbackDelay = highlightDelay + 800;
+      const highlightDelay = 1500;
+      const feedbackDelay = highlightDelay + 2000;
       const advanceDelay = feedbackDelay + 900;
 
       this.time.delayedCall(highlightDelay, () => {
