@@ -479,52 +479,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for an ICT trainee to follow security procedures carefully?",
-            "answer": "To protect systems and data from risks and misuse.",
+            "question": "What type of ICT work did the trainee assist with?",
+            "answer": "Network cable connections, peripheral setup, and system maintenance.",
             "options": [
-              "To complete tasks faster than senior technicians.",
-              "To protect systems and data from risks and misuse.",
-              "To reduce communication with users."
+              "Concrete mixing, surface levelling, and formwork preparation.",
+              "Network cable connections, peripheral setup, and system maintenance.",
+              "Network cables, engine diagnostics, brake adjustments, and battery testing."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to pressure in ICT support usually include?",
-            "answer": "Staying calm and communicating clearly with the team.",
+            "question": "Why did the trainee scan devices for malware before use?",
+            "answer": "To protect systems and data from risks and misuse.",
             "options": [
-              "Working independently without informing others.",
-              "Ignoring minor system issues.",
-              "Staying calm and communicating clearly with the team."
+              "To reduce the size of stored computer files.",
+              "To protect and improve internet speed during office work.",
+              "To protect systems and data from risks and misuse."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good ICT security practice?",
-            "answer": "Using strong passwords, backing up data, and limiting access.",
+            "question": "What security procedures did the trainee follow?",
+            "answer": "He used strong passwords, restricted access, and backed up data regularly.",
             "options": [
-              "Using simple passwords and sharing access details.",
-              "Using strong passwords, backing up data, and limiting access.",
-              "Installing software without approval."
+              "He shared passwords only with senior staff members.",
+              "He used antivirus software during maintenance tasks.",
+              "He used strong passwords, restricted access, and backed up data regularly."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why may an ICT technician need further training after basic certification?",
-            "answer": "Modern ICT systems require updated knowledge and skills.",
+            "question": "What systems and tools was the trainee comfortable using?",
+            "answer": "Operating systems, networking tools, and office software.",
             "options": [
-              "Computer systems rarely change.",
-              "Practical experience replaces technical learning.",
-              "Modern ICT systems require updated knowledge and skills."
+              "Industrial welding systems and construction surveying equipment.",
+              "Operating systems, networking tools, and office software.",
+              "Hydraulic machinery and electrical testing instruments."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in ICT work usually show?",
-            "answer": "The technician accepts guidance and improves skills over time.",
+            "question": "What additional experience did the trainee want to gain?",
+            "answer": "Network administration, server management, and cyber security services.",
             "options": [
-              "The technician avoids complex technical tasks.",
-              "The technician accepts guidance and improves skills over time.",
-              "The technician prefers only routine computer work."
+              "Graphic design, video editing, and cyber security services.",
+              "Network administration, server management, and cyber security services.",
+              "Graphic design, video editing, and website advertising."
             ]
           }
         ]
