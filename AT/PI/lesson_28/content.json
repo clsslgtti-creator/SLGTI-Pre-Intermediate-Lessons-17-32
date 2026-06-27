@@ -479,52 +479,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for a trainee technician to use diagnostic tools carefully?",
-            "answer": "To find vehicle faults correctly and quickly.",
+            "question": "What type of work did the trainee assist senior mechanics with?",
+            "answer": "Oil and filter changes, brake checks, and battery testing.",
             "options": [
-              "To finish work faster than senior technicians.",
-              "To find vehicle faults correctly and quickly.",
-              "To avoid talking with customers."
+              "Checking brakes and installing new engines.",
+              "Oil and filter changes, brake checks, and battery testing.",
+              "Oil and filter changes, welding chassis parts, and repainting vehicles."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to workplace pressure usually include?",
-            "answer": "Staying calm and communicating clearly with the team.",
+            "question": "Why did the trainee use scan tools and diagnostic scanners?",
+            "answer": "To read fault codes and identify vehicle problems.",
             "options": [
-              "Working alone without asking questions.",
-              "Communicating clearly with the team about their mistakes.",
-              "Staying calm and communicating clearly with the team."
+              "To increase engine speed during testing.",
+              "To read tyre pressure and wheel balance.",
+              "To read fault codes and identify vehicle problems."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good safety practice in a workshop?",
-            "answer": "Wearing protective equipment, calibrating tools, and keeping the work area clean.",
+            "question": "What safety procedures did the trainee follow in the workshop?",
+            "answer": "He wore protective equipment and isolated electrical systems before repairs.",
             "options": [
-              "Wearing protective equipment, cleaning tools, and keeping power on.",
-              "Wearing protective equipment, calibrating tools, and keeping the work area clean.",
-              "Wearing some protective equipment and keeping all tools close."
+              "He wore protective equipment, cleaned the work area after repairs were completed, and then started testing.",
+              "He wore protective equipment and isolated electrical systems before repairs.",
+              "He avoided using jack stands during simple repairs."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why may a technician need more training after basic certification?",
-            "answer": "Modern vehicles use new systems that need updated knowledge.",
+            "question": "What does the trainee understand about modern vehicle technology?",
+            "answer": "Electronic systems and sensors help find faults accurately and quickly.",
             "options": [
-              "Modern vehicle designs do not change much.",
-              "Experience replaces the need for learning.",
-              "Modern vehicles use new systems that need updated knowledge."
+              "Advanced diagnostics are unnecessary for modern vehicles.",
+              "Electronic systems are more important than sensors.",
+              "Electronic systems and sensors help find faults accurately and quickly."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in a workshop show?",
-            "answer": "The technician accepts guidance and improves skills over time.",
+            "question": "What additional experience does the trainee want to gain?",
+            "answer": "Complex engine repairs, timing belt replacement, and fuel system work.",
             "options": [
-              "The technician avoids difficult tasks.",
-              "The technician accepts guidance and improves skills over time.",
-              "The technician works only on familiar jobs."
+              "Simple oil changes, battery charging, and wheel cleaning.",
+              "Complex engine repairs, timing belt replacement, and fuel system work.",
+              "Tyre polishing, vehicle washing, and customer payments."
             ]
           }
         ]

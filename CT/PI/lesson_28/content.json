@@ -479,52 +479,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for a trainee to use measuring and levelling tools carefully on site?",
-            "answer": "To ensure accuracy and avoid construction errors.",
+            "question": "What did the trainee help with on the construction site?",
+            "answer": "Setting out work, masonry, plastering, and formwork preparation.",
             "options": [
-              "To complete tasks faster than senior workers.",
-              "To ensure accuracy and avoid construction errors.",
-              "To reduce communication with supervisors."
+              "Setting out work, designing buildings and preparing contracts.",
+              "Setting out work, masonry, plastering, and formwork preparation.",
+              "Setting out work, advanced electrical wiring and pipe work preparation."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to pressure on a construction site usually include?",
-            "answer": "Staying calm and communicating clearly with the team.",
+            "question": "Why did the trainee use spirit levels?",
+            "answer": "To check vertical and horizontal alignment accurately.",
             "options": [
-              "Working independently without asking questions.",
-              "Communicating mistakes only after work is finished.",
-              "Staying calm and communicating clearly with the team."
+              "To test the strength of concrete surfaces.",
+              "To check vertical and horizontal alignment accurately.",
+              "To measure horizontal walls accurately."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good safety practice on a construction site?",
-            "answer": "Wearing protective equipment, storing materials properly, and keeping the site clean.",
+            "question": "What does the trainee do to maintain safety on site?",
+            "answer": "Checks scaffolding and working platforms before use.",
             "options": [
-              "Wearing protective equipment and leaving materials nearby.",
-              "Wearing protective equipment, storing materials properly, and keeping the site clean.",
-              "Wearing some protective equipment and working quickly."
+              "Climbs scaffolding and working platforms before use.",
+              "Stores tools quickly without checking the area.",
+              "Checks scaffolding and working platforms before use."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why may a construction trainee need further training after basic certification?",
-            "answer": "Modern construction uses new materials and techniques that require updated knowledge.",
+            "question": "How does the trainee improve construction knowledge?",
+            "answer": "By reading drawings carefully and observing experienced workers.",
             "options": [
-              "Construction techniques take a long time to grasp.",
-              "Experience fully replaces technical learning.",
-              "Modern construction uses new materials and techniques that require updated knowledge."
+              "By avoiding modern construction methods and materials.",
+              "By reading drawings carefully and following lots of videos.",
+              "By reading drawings carefully and observing experienced workers."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in construction work usually show?",
-            "answer": "The trainee accepts guidance and improves skills over time.",
+            "question": "What additional experience does the trainee want to gain?",
+            "answer": "Advanced formwork, reinforcement work, and structural drawings.",
             "options": [
-              "The trainee avoids complex site tasks.",
-              "The trainee accepts guidance and improves skills over time.",
-              "The trainee prefers only familiar duties."
+              "Road surveying and heavy vehicle operation.",
+              "Advanced formwork, reinforcement work, and structural drawings.",
+              "Painting, reinforcement work, and structural drawings."
             ]
           }
         ]

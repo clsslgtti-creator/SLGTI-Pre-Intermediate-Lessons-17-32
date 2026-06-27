@@ -479,52 +479,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for an electrical trainee to use testing instruments carefully?",
-            "answer": "To confirm circuits are safe and avoid electrical faults.",
+            "question": "What type of electrical work did the trainee assist with?",
+            "answer": "Wiring installations, socket fitting, and distribution board work.",
             "options": [
-              "To complete tasks faster than senior electricians.",
-              "To confirm circuits are safe and avoid electrical faults.",
-              "To reduce the need for supervision."
+              "Programming industrial control systems and automation equipment.",
+              "Installing and wiring solar panels and repairing transformers.",
+              "Wiring installations, socket fitting, and distribution board work."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to pressure in electrical work usually include?",
-            "answer": "Staying calm and communicating clearly with the team.",
+            "question": "Why did the trainee use testing instruments?",
+            "answer": "To ensure circuits were safe and avoid electrical faults.",
             "options": [
-              "Working independently without informing others.",
-              "Reporting problems only after finishing the task.",
-              "Staying calm and communicating clearly with the team."
+              "To measure the speed of electrical motors.",
+              "To ensure circuits were safe and avoid electrical faults.",
+              "To ensure the electrical load in the circuit was enough for testing."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good electrical safety practice?",
-            "answer": "Isolating the power supply, using insulated tools, and keeping the area organised.",
+            "question": "What safety procedures did the trainee follow before starting work?",
+            "answer": "He isolated power supplies and checked circuits before touching conductors.",
             "options": [
-              "Wearing protective equipment and working quickly.",
-              "Isolating the power supply, using insulated tools, and keeping the area organised.",
-              "Using test instruments only after installation is complete."
+              "He disconnected cables only when supervisors were present.",
+              "He checked and isolated lighting points after completing the installation.",
+              "He isolated power supplies and checked circuits before touching conductors."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why may an electrical technician need further training after basic certification?",
-            "answer": "Modern electrical systems require updated skills and knowledge.",
+            "question": "What tools and instruments could the trainee use?",
+            "answer": "Multimetres and insulation testers.",
             "options": [
-              "Electrical systems rarely change.",
-              "Practical experience replaces technical learning.",
-              "Modern electrical systems require updated skills and knowledge."
+              "Hydraulic pumps and welding machines.",
+              "Concrete mixers and levelling instruments.",
+              "Multimetres and insulation testers."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in electrical work usually show?",
-            "answer": "The technician accepts guidance and improves skills over time.",
+            "question": "What additional experience would the trainee like to gain?",
+            "answer": "Fault finding, control circuits, and industrial electrical systems.",
             "options": [
-              "The technician avoids complex electrical tasks.",
-              "The technician accepts guidance and improves skills over time.",
-              "The technician prefers only simple wiring jobs."
+              "Customer service, stock control, and office administration.",
+              "Fault finding in electrical panels and cleaning equipment.",
+              "Fault finding, control circuits, and industrial electrical systems."
             ]
           }
         ]
