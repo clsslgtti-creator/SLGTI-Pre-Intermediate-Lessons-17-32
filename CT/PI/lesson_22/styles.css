@@ -1086,6 +1086,47 @@ body {
   gap: clamp(1rem, 2.5vw, 1.5rem);
 }
 
+.reading-passage {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(1rem, 2.5vw, 1.5rem);
+  padding: clamp(1rem, 2.8vw, 1.6rem);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.96);
+  border: 1px solid rgba(31, 41, 51, 0.1);
+  box-shadow: var(--shadow-md);
+  margin-bottom: clamp(1.2rem, 3vw, 1.8rem);
+}
+
+.reading-passage__title,
+.reading-questions__title {
+  margin: 0;
+  color: var(--color-heading);
+}
+
+.reading-passage__section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.reading-passage__heading {
+  margin: 0;
+  color: var(--color-primary);
+}
+
+.reading-passage__list {
+  margin: 0;
+  padding-left: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.reading-passage__list li {
+  line-height: 1.55;
+}
+
 .listening-option-group {
   display: grid;
 

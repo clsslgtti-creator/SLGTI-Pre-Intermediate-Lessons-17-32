@@ -393,61 +393,32 @@
     }
   },
   "activity_4": {
-    "type": "READING-1",
+    "type": "LISTENING-12",
     "instructions": {
       "activity_a": {
-        "text": "Read the following passage and answer the questions given below. \nපහත දැක්වෙන ඡේදය කියවා ඉන්පසු දී ඇති ප්‍රශ්නවලට පිළිතුරු සපයන්න.\nபின்வரும் பத்தியைப் படித்து, அதற்குக் கீழே கொடுக்கப்பட்டுள்ள வினாக்களுக்கு விடையளிக்கவும்.",
-        "audio": "assets/audio/a_4_i_p.mp3"
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nදෙවරක් වාදනය වන පටිගත කිරීමට සවන් දී නිවැරදි පිළිතුර මත ක්ලික් කරන්න. පටිගත කිරීමට සවන් දීමට පෙර, ප්‍රශ්න කියවීම ඉතා වැදගත් වේ.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு சரியான பதிலைக் கிளிக் செய்யவும். நீங்கள் பதிவைக் கேட்பதற்கு முன்னதாகவே கேள்விகளை வாசிப்பது மிகவும் அவசியமாகும்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
       },
       "activity_b": {
+        "text": "Drag and drop the sentences according to the sequence.\nවාක්‍යයන් නිවැරදි අනුපිළිවෙලට අනුව ඇද දමන්න.\nவாக்கியங்களைச் சரியான வரிசையில் வரிசைப்படுத்தவும்.",
+        "audio": "assets/audio/a_4_i_o.mp3"
+      },
+      "activity_c": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_c": {
+      "activity_d": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_d": {
+      "activity_e": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "content": {
-          "title": "Two-Post Hydraulic Lift – Instruction Manual",
-          "sections": [
-            {
-              "heading": "Assembly Instructions",
-              "steps": [
-                "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
-                "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
-                "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
-                "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
-                "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
-                "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation."
-              ]
-            },
-            {
-              "heading": "Maintenance Tips",
-              "steps": [
-                "Check the hydraulic oil level regularly and refill when necessary.",
-                "Inspect hoses and fittings for leaks or damage.",
-                "Lubricate moving parts such as arms and joints frequently.",
-                "Clean the lift area and remove dust and debris from components."
-              ]
-            },
-            {
-              "heading": "Safety Measures",
-              "steps": [
-                "Always position the vehicle correctly on the lifting points.",
-                "Do not exceed the maximum load capacity of the lift.",
-                "Keep hands and feet away from moving parts during operation.",
-                "Lower the lift slowly and ensure no one is under the vehicle."
-              ]
-            }
-          ]
-        },
+        "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
             "id": "l_15_1",
@@ -501,38 +472,41 @@
           }
         ]
       },
-      "activity_b": [
-        {
-          "id": "t_1",
-          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
-          "audio": "assets/audio/t_6.mp3"
-        }
-      ],
+      "activity_b": {
+        "type": "long_text",
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+            "item_b": "1."
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+            "item_b": "2."
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+            "item_b": "3."
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+            "item_b": "4."
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+            "item_b": "5."
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+            "item_b": "6."
+          }
+        ]
+      },
       "activity_c": [
         {
           "id": "t_1",
@@ -566,6 +540,38 @@
         }
       ],
       "activity_d": [
+        {
+          "id": "t_1",
+          "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Next, position the two posts on the marked locations and fix them securely to the floor using anchor bolts. Tighten them firmly.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Then, install the overhead beam or top support between the posts and align it properly before tightening all bolts.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "After that, mount the hydraulic cylinders and connect the lifting arms to both posts. Ensure correct alignment and smooth movement.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Before the final step, connect the hydraulic hoses and electrical control system. Check for leaks and secure all connections properly.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Finally, fill the hydraulic oil, test the lift without load, and then perform a trial lift with a light vehicle to ensure safe operation.",
+          "audio": "assets/audio/t_6.mp3"
+        }
+      ],
+      "activity_e": [
         {
           "id": "t_1",
           "text": "First, check that the floor is strong, level, and clean. Ensure all tools and components are ready for installation.",

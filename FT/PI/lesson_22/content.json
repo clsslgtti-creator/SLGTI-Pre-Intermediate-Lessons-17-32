@@ -393,32 +393,61 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-12",
+    "type": "READING-1",
     "instructions": {
       "activity_a": {
-        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nදෙවරක් වාදනය වන පටිගත කිරීමට සවන් දී නිවැරදි පිළිතුර මත ක්ලික් කරන්න. පටිගත කිරීමට සවන් දීමට පෙර, ප්‍රශ්න කියවීම ඉතා වැදගත් වේ.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு சரியான பதிலைக் கிளிக் செய்யவும். நீங்கள் பதிவைக் கேட்பதற்கு முன்னதாகவே கேள்விகளை வாசிப்பது மிகவும் அவசியமாகும்.",
-        "audio": "assets/audio/a_4_i_a.mp3"
+        "text": "Read the following passage and answer the questions given below. \nපහත දැක්වෙන ඡේදය කියවා ඉන්පසු දී ඇති ප්‍රශ්නවලට පිළිතුරු සපයන්න.\nபின்வரும் பத்தியைப் படித்து, அதற்குக் கீழே கொடுக்கப்பட்டுள்ள வினாக்களுக்கு விடையளிக்கவும்.",
+        "audio": "assets/audio/a_4_i_p.mp3"
       },
       "activity_b": {
-        "text": "Drag and drop the sentences according to the sequence.\nවාක්‍යයන් නිවැරදි අනුපිළිවෙලට අනුව ඇද දමන්න.\nவாக்கியங்களைச் சரியான வரிசையில் வரிசைப்படுத்தவும்.",
-        "audio": "assets/audio/a_4_i_o.mp3"
-      },
-      "activity_c": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_d": {
+      "activity_c": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_e": {
+      "activity_d": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "audio": "assets/audio/a_4_l_1.mp3",
+        "content": {
+          "title": "Table-Top Dough Mixer – Instruction Manual",
+          "sections": [
+            {
+              "heading": "Assembly Instructions",
+              "steps": [
+                "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
+                "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
+                "Then, attach the dough hook (which mixes the dough smoothly) to the mixer head and tighten it properly.",
+                "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
+                "Before the final step, connect the power cable and check that the control switch is in the off position.",
+                "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation."
+              ]
+            },
+            {
+              "heading": "Maintenance Tips",
+              "steps": [
+                "Clean the bowl and attachments immediately after use.",
+                "Check and tighten loose parts regularly.",
+                "Lubricate moving parts if required according to the manual.",
+                "Store the mixer in a clean and dry place."
+              ]
+            },
+            {
+              "heading": "Safety Measures",
+              "steps": [
+                "Do not insert hands into the bowl while the mixer is running.",
+                "Always switch off the mixer before cleaning or adjusting parts.",
+                "Do not overload the mixer beyond its capacity.",
+                "Ensure the mixer is placed on a stable surface during use."
+              ]
+            }
+          ]
+        },
         "Questions": [
           {
             "id": "l_18_1",
@@ -498,41 +527,38 @@
           }
         ]
       },
-      "activity_b": {
-        "type": "long_text",
-        "content": [
-          {
-            "id": "n_4_a_1",
-            "item_a": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
-            "item_b": "1."
-          },
-          {
-            "id": "n_4_a_2",
-            "item_a": "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
-            "item_b": "2."
-          },
-          {
-            "id": "n_4_a_3",
-            "item_a": "Then, attach the dough hook (which mixes the dough smoothly) to the mixer head and tighten it properly.",
-            "item_b": "3."
-          },
-          {
-            "id": "n_4_a_4",
-            "item_a": "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
-            "item_b": "4."
-          },
-          {
-            "id": "n_4_a_5",
-            "item_a": "Before the final step, connect the power cable and check that the control switch is in the off position.",
-            "item_b": "5."
-          },
-          {
-            "id": "n_4_a_6",
-            "item_a": "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation.",
-            "item_b": "6."
-          }
-        ]
-      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Then, attach the dough hook, which mixes the dough smoothly, to the mixer head and tighten it properly.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Before the final step, connect the power cable and check that the control switch is in the off position.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation.",
+          "audio": "assets/audio/t_6.mp3"
+        }
+      ],
       "activity_c": [
         {
           "id": "t_1",
@@ -566,38 +592,6 @@
         }
       ],
       "activity_d": [
-        {
-          "id": "t_1",
-          "text": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Next, fix the mixing bowl onto the base and lock it securely in position. Make sure it does not move.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Then, attach the dough hook, which mixes the dough smoothly, to the mixer head and tighten it properly.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "After that, lower the mixer head carefully and lock it into place to prevent movement during operation.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Before the final step, connect the power cable and check that the control switch is in the off position.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Finally, switch on the mixer and test it at low speed with a small amount of flour and water to ensure smooth operation.",
-          "audio": "assets/audio/t_6.mp3"
-        }
-      ],
-      "activity_e": [
         {
           "id": "t_1",
           "text": "First, place the mixer on a stable, clean, and dry table. Ensure all parts and tools are ready for assembly.",

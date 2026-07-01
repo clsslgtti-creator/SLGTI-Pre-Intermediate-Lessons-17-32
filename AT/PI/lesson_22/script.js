@@ -16,6 +16,7 @@ import { buildInteractive12Slides } from "./lib/interactive-12.js";
 import { buildActivityTwoSlides } from "./lib/activity-2.js";
 import { buildListeningOneSlides } from "./lib/listening-1.js";
 import { buildListeningTwoSlides } from "./lib/listening-2.js";
+import { buildReadingOneSlides } from "./lib/reading-1.js";
 import { buildListeningThreeSlides } from "./lib/listening-3.js";
 import { buildListeningFourSlides } from "./lib/listening-4.js";
 import { buildListeningFiveSlides } from "./lib/listening-5.js";
@@ -246,6 +247,7 @@ const activityBuilders = {
   "INTERACTIVE-12": buildInteractive12Slides,
   "LISTENING-1": buildListeningOneSlides,
   "LISTENING-2": buildListeningTwoSlides,
+  "READING-1": buildReadingOneSlides,
   "LISTENING-3": buildListeningThreeSlides,
   "LISTENING-4": buildListeningFourSlides,
   "LISTENING-5": buildListeningFiveSlides,
