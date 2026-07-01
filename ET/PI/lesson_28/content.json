@@ -66,7 +66,7 @@
     ]
   },
   "activity_2": {
-    "type": "SBS-3",
+    "type": "SBS-5",
     "focus": "Structure ‘Be able to’",
     "instructions": {
       "example": {
@@ -110,7 +110,8 @@
         "text_a": "Was Ravi able to lift the principal’s desk this morning?",
         "text_b": "No, he wasn’t able to. It was too heavy.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "text_b_speaking": "No,___________________. It _______________heavy."
       },
       {
         "id": "d_2",
@@ -118,7 +119,8 @@
         "text_a": "Were the trainees able to eat the food at the canteen this afternoon?",
         "text_b": "No, they weren’t able to. It was too spicy.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________spicy."
       },
       {
         "id": "d_3",
@@ -126,7 +128,8 @@
         "text_a": "Was the instructor able to find the warranty cards for the new printers last night?",
         "text_b": "No, he wasn’t able to. It was too dark.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________dark."
       }
     ],
     "keywords": [
@@ -168,7 +171,8 @@
         "text_a": "Was Meena able to finish the maintenance report this afternoon?",
         "text_b": "No, she wasn’t able to. It was too complicated.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________complicated."
       },
       {
         "id": "d_5",
@@ -176,7 +180,8 @@
         "text_a": "Were the trainees able to give a presentation in the welding workshop this morning?",
         "text_b": "No, they weren’t able to. It was too noisy.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________noisy."
       },
       {
         "id": "d_6",
@@ -184,7 +189,8 @@
         "text_a": "Was the supervisor able to inspect the distribution board yesterday?",
         "text_b": "No, he wasn’t able to. It was too risky.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________risky."
       },
       {
         "id": "d_7",
@@ -192,7 +198,8 @@
         "text_a": "Were Mary and Anisha able to sit down on the school bus this morning?",
         "text_b": "No, they weren’t able to. It was too crowded.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
-        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________crowded."
       },
       {
         "id": "d_8",
@@ -200,7 +207,8 @@
         "text_a": "Were your parents able to see the registrar in the office yesterday morning?",
         "text_b": "No, they weren’t able to. She was too busy.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
-        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "text_b_speaking": "No, ___________________. She ___________________ busy."
       },
       {
         "id": "d_9",
@@ -208,7 +216,8 @@
         "text_a": "Was the instructor able to solve the ignition problem with the industrial oven last week?",
         "text_b": "No, he wasn’t able to. It was too difficult.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
-        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________difficult."
       }
     ]
   },
@@ -470,52 +479,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for an electrical trainee to use testing instruments carefully?",
-            "answer": "To confirm circuits are safe and avoid electrical faults.",
+            "question": "What type of electrical work did the trainee assist with?",
+            "answer": "Wiring installations, socket fitting, and distribution board work.",
             "options": [
-              "To complete tasks faster than senior electricians.",
-              "To confirm circuits are safe and avoid electrical faults.",
-              "To reduce the need for supervision."
+              "Programming industrial control systems and automation equipment.",
+              "Installing and wiring solar panels and repairing transformers.",
+              "Wiring installations, socket fitting, and distribution board work."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to pressure in electrical work usually include?",
-            "answer": "Staying calm and communicating clearly with the team.",
+            "question": "Why did the trainee use testing instruments?",
+            "answer": "To ensure circuits were safe and avoid electrical faults.",
             "options": [
-              "Working independently without informing others.",
-              "Reporting problems only after finishing the task.",
-              "Staying calm and communicating clearly with the team."
+              "To measure the speed of electrical motors.",
+              "To ensure circuits were safe and avoid electrical faults.",
+              "To ensure the electrical load in the circuit was enough for testing."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good electrical safety practice?",
-            "answer": "Isolating the power supply, using insulated tools, and keeping the area organised.",
+            "question": "What safety procedures did the trainee follow before starting work?",
+            "answer": "He isolated power supplies and checked circuits before touching conductors.",
             "options": [
-              "Wearing protective equipment and working quickly.",
-              "Isolating the power supply, using insulated tools, and keeping the area organised.",
-              "Using test instruments only after installation is complete."
+              "He disconnected cables only when supervisors were present.",
+              "He checked and isolated lighting points after completing the installation.",
+              "He isolated power supplies and checked circuits before touching conductors."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why may an electrical technician need further training after basic certification?",
-            "answer": "Modern electrical systems require updated skills and knowledge.",
+            "question": "What tools and instruments could the trainee use?",
+            "answer": "Multimetres and insulation testers.",
             "options": [
-              "Electrical systems rarely change.",
-              "Practical experience replaces technical learning.",
-              "Modern electrical systems require updated skills and knowledge."
+              "Hydraulic pumps and welding machines.",
+              "Concrete mixers and levelling instruments.",
+              "Multimetres and insulation testers."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in electrical work usually show?",
-            "answer": "The technician accepts guidance and improves skills over time.",
+            "question": "What additional experience would the trainee like to gain?",
+            "answer": "Fault finding, control circuits, and industrial electrical systems.",
             "options": [
-              "The technician avoids complex electrical tasks.",
-              "The technician accepts guidance and improves skills over time.",
-              "The technician prefers only simple wiring jobs."
+              "Customer service, stock control, and office administration.",
+              "Fault finding in electrical panels and cleaning equipment.",
+              "Fault finding, control circuits, and industrial electrical systems."
             ]
           }
         ]

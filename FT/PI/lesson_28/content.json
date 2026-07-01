@@ -66,7 +66,7 @@
     ]
   },
   "activity_2": {
-    "type": "SBS-3",
+    "type": "SBS-5",
     "focus": "Structure ‘Be able to’",
     "instructions": {
       "example": {
@@ -110,7 +110,8 @@
         "text_a": "Was Ravi able to lift the principal’s desk this morning?",
         "text_b": "No, he wasn’t able to. It was too heavy.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "text_b_speaking": "No,___________________. It _______________heavy."
       },
       {
         "id": "d_2",
@@ -118,7 +119,8 @@
         "text_a": "Were the trainees able to eat the food at the canteen this afternoon?",
         "text_b": "No, they weren’t able to. It was too spicy.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________spicy."
       },
       {
         "id": "d_3",
@@ -126,7 +128,8 @@
         "text_a": "Was the instructor able to find the warranty cards for the new printers last night?",
         "text_b": "No, he wasn’t able to. It was too dark.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________dark."
       }
     ],
     "keywords": [
@@ -168,7 +171,8 @@
         "text_a": "Was Meena able to finish the maintenance report this afternoon?",
         "text_b": "No, she wasn’t able to. It was too complicated.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________complicated."
       },
       {
         "id": "d_5",
@@ -176,7 +180,8 @@
         "text_a": "Were the trainees able to give a presentation in the welding workshop this morning?",
         "text_b": "No, they weren’t able to. It was too noisy.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________noisy."
       },
       {
         "id": "d_6",
@@ -184,7 +189,8 @@
         "text_a": "Was the supervisor able to inspect the distribution board yesterday?",
         "text_b": "No, he wasn’t able to. It was too risky.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________risky."
       },
       {
         "id": "d_7",
@@ -192,7 +198,8 @@
         "text_a": "Were Mary and Anisha able to sit down on the school bus this morning?",
         "text_b": "No, they weren’t able to. It was too crowded.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
-        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________crowded."
       },
       {
         "id": "d_8",
@@ -200,7 +207,8 @@
         "text_a": "Were your parents able to see the registrar in the office yesterday morning?",
         "text_b": "No, they weren’t able to. She was too busy.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
-        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "text_b_speaking": "No, ___________________. She ___________________ busy."
       },
       {
         "id": "d_9",
@@ -208,7 +216,8 @@
         "text_a": "Was the instructor able to solve the ignition problem with the industrial oven last week?",
         "text_b": "No, he wasn’t able to. It was too difficult.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
-        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "text_b_speaking": "No, ___________________. It ___________________difficult."
       }
     ]
   },
@@ -470,52 +479,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for a food technology trainee to follow hygiene procedures carefully?",
-            "answer": "To prevent contamination and protect consumer health.",
+            "question": "What type of work did the trainee assist with in food production?",
+            "answer": "Ingredient preparation, mixing processes, and packaging.",
             "options": [
-              "To complete tasks faster than senior workers.",
-              "To prevent contamination and protect consumer health.",
-              "To reduce the need for supervision."
+              "Electrical wiring, cable routing, and circuit testing.",
+              "Ingredient preparation, mixing processes, and packaging.",
+              "Vehicle servicing, welding, and engine testing."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to pressure in food production usually include?",
-            "answer": "Staying calm and communicating clearly with the team.",
+            "question": "Why did the trainee follow hygiene procedures carefully?",
+            "answer": "To prevent contamination and protect consumers.",
             "options": [
-              "Working independently without informing others.",
-              "Ignoring small problems to keep production moving.",
-              "Staying calm and communicating clearly with the team."
+              "To improve the colour of food packaging.",
+              "To reduce machine noise during production.",
+              "To prevent contamination and protect consumers."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good food safety practice?",
-            "answer": "Wearing protective clothing, sanitising equipment, and keeping work areas clean.",
+            "question": "What did the trainee do to maintain food safety standards?",
+            "answer": "He washed and sanitised hands and equipment to prevent cross-contamination.",
             "options": [
-              "Wearing protective clothing and working quickly.",
-              "Wearing protective clothing, sanitising equipment, and keeping work areas clean.",
-              "Washing equipment only at the end of the shift."
+              "He only cleaned equipment after production was completed.",
+              "He avoided checking storage temperatures during busy periods.",
+              "He washed and sanitised hands and equipment to prevent cross-contamination."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why might a food technician need further training after basic certification?",
-            "answer": "Modern food production uses new methods that require updated knowledge.",
+            "question": "What could the trainee operate and understand?",
+            "answer": "Basic processing machines and standard operating procedures.",
             "options": [
-              "Food processing methods rarely change.",
-              "Practical experience replaces technical learning.",
-              "Modern food production uses new methods that require updated knowledge."
+              "Heavy construction machinery and surveying instruments.",
+              "Basic processing machines and standard operating procedures.",
+              "Industrial welding systems and hydraulic equipment."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in food technology usually show?",
-            "answer": "The technician accepts guidance and improves skills over time.",
+            "question": "What additional experience did the trainee want to gain?",
+            "answer": "Quality control procedures, food preservation methods, and production planning.",
             "options": [
-              "The technician avoids complex production tasks.",
-              "The technician accepts guidance and improves skills over time.",
-              "The technician prefers only routine duties."
+              "Tyre replacement, brake adjustments, and fuel system repairs.",
+              "Customer relations, product advertising, and office management.",
+              "Quality control procedures, food preservation methods, and production planning."
             ]
           }
         ]

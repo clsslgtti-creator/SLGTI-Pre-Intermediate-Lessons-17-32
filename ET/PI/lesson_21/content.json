@@ -261,12 +261,14 @@
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
         "time_per_question_ms": 30000,
-        "content": [
+        "examples": [
           {
             "id": "g_b_1",
             "question": "Cable insulation made from older material is __________ in cold environments. (stiff)",
             "answer": "stiffer"
-          },
+          }
+        ],
+        "content": [
           {
             "id": "g_b_2",
             "question": "An aluminium cable is __________ than a copper cable of the same length. (light)",
@@ -304,8 +306,18 @@
           },
           {
             "id": "g_b_9",
-            "question": "A control panel kept free from moisture remains __________ in humid conditions. (dry)",
+            "question": "A properly protected control panel remains ____________ than exposed equipment in humid environments. (dry)",
             "answer": "drier"
+          },
+          {
+            "id": "g_b_10",
+            "question": "A properly secured cable gland is __________ than a loose cable gland. (tight)",
+            "answer": "tighter"
+          },
+          {
+            "id": "g_b_11",
+            "question": "An LED work light is __________ than an old fluorescent lamp. (bright)",
+            "answer": "brighter"
           }
         ]
       },
@@ -352,8 +364,18 @@
         },
         {
           "id": "g_b_9",
-          "text": "A control panel kept free from moisture remains drier in humid conditions.",
+          "text": "A properly protected control panel remains drier than exposed equipment in humid environments.",
           "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "A properly secured cable gland is tighter than a loose cable gland.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "An LED work light is brighter than an old fluorescent lamp.",
+          "audio": "assets/audio/g_b_11.mp3"
         }
       ]
     }
@@ -593,39 +615,9 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "That’s the end of our session for today!",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "But before we leave the workshop, we are going to clean and organise our work area so that it will be spotless when we come tomorrow morning.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "This is not only about looking neat.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "A clean area is healthier than a dirty one, and it helps you work more safely throughout the day.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "When the work area is organised, you can also move more easily and avoid unnecessary stress.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Sir, do we really need to clean everything before leaving?",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "Yes, we do.",
-          "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
@@ -641,21 +633,6 @@
           "id": "t_10",
           "text": "Dry areas are very important for your health especially when many people are working in the same space.",
           "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "What about the tables and tools?",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "Do we need to clean them as well?",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Definitely!",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -678,16 +655,6 @@
           "audio": "assets/audio/t_17.mp3"
         },
         {
-          "id": "t_18",
-          "text": "Sometimes the tools feel hard to grip.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "That often happens when handles are greasy or wet.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
           "id": "t_20",
           "text": "A drier handle is firmer than a wet one, and a tighter grip gives you better control.",
           "audio": "assets/audio/t_20.mp3"
@@ -698,16 +665,6 @@
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "Does lighting matter during cleaning?",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Very much.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
           "id": "t_24",
           "text": "A brighter area is better lit than a dark one, so you can see dirt, spills, and hazards more clearly.",
           "audio": "assets/audio/t_24.mp3"
@@ -716,31 +673,6 @@
           "id": "t_25",
           "text": "Poor lighting makes work more difficult and can strain your eyes over time.",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "What about rubbish and waste?",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "Waste must be removed regularly.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "A lighter load of waste is easier to carry than a heavy one.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "Old waste can become more harmful than fresh waste because it attracts pests and produces bad smells.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "So remember, a cleaner, drier, and brighter work area is healthier than a messy one.",
-          "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",
@@ -750,39 +682,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "That’s the end of our session for today!",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "But before we leave the workshop, we are going to clean and organise our work area so that it will be spotless when we come tomorrow morning.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "This is not only about looking neat.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "A clean area is healthier than a dirty one, and it helps you work more safely throughout the day.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "When the work area is organised, you can also move more easily and avoid unnecessary stress.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Sir, do we really need to clean everything before leaving?",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "Yes, we do.",
-          "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
@@ -798,21 +700,6 @@
           "id": "t_10",
           "text": "Dry areas are very important for your health especially when many people are working in the same space.",
           "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "What about the tables and tools?",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "Do we need to clean them as well?",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Definitely!",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -835,16 +722,6 @@
           "audio": "assets/audio/t_17.mp3"
         },
         {
-          "id": "t_18",
-          "text": "Sometimes the tools feel hard to grip.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "That often happens when handles are greasy or wet.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
           "id": "t_20",
           "text": "A drier handle is firmer than a wet one, and a tighter grip gives you better control.",
           "audio": "assets/audio/t_20.mp3"
@@ -855,16 +732,6 @@
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "Does lighting matter during cleaning?",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Very much.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
           "id": "t_24",
           "text": "A brighter area is better lit than a dark one, so you can see dirt, spills, and hazards more clearly.",
           "audio": "assets/audio/t_24.mp3"
@@ -873,31 +740,6 @@
           "id": "t_25",
           "text": "Poor lighting makes work more difficult and can strain your eyes over time.",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "What about rubbish and waste?",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "Waste must be removed regularly.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "A lighter load of waste is easier to carry than a heavy one.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "Old waste can become more harmful than fresh waste because it attracts pests and produces bad smells.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "So remember, a cleaner, drier, and brighter work area is healthier than a messy one.",
-          "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",

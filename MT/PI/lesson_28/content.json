@@ -470,52 +470,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why is it important for a mechanical trainee to use measuring instruments carefully?",
-            "answer": "To ensure accuracy and avoid damage to machine parts.",
+            "question": "What type of mechanical work did the trainee assist with?",
+            "answer": "Machine servicing, bearing replacement, and shaft alignment.",
             "options": [
-              "To complete tasks faster than senior technicians.",
-              "To ensure accuracy and avoid damage to machine parts.",
-              "To reduce communication with supervisors."
+              "Food packaging, ingredient preparation, and quality checks.",
+              "Machine servicing, bearing replacement, and shaft alignment.",
+              "Machine operating, electrical wiring, circuit testing, and cable installation."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What does a good response to pressure in mechanical work usually include?",
-            "answer": "Staying calm and communicating clearly with the team.",
+            "question": "Why did the trainee operate machines under supervision?",
+            "answer": "To ensure accuracy and avoid damage to machine parts.",
             "options": [
-              "Working independently without informing others.",
-              "Ignoring small machine problems.",
-              "Staying calm and communicating clearly with the team."
+              "To reduce the amount of maintenance work required.",
+              "To ensure the production speed of the workshop.",
+              "To ensure accuracy and avoid damage to machine parts."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Which actions show good safety practice in a mechanical workshop?",
-            "answer": "Isolating machines, using guards, and keeping the work area clean.",
+            "question": "What safety procedures did the trainee follow in the workshop?",
+            "answer": "He isolated machines, used protective equipment, and ensured guards were in place.",
             "options": [
-              "Wearing protective equipment and working quickly.",
-              "Isolating machines, using guards, and keeping the work area clean.",
-              "Using tools without checking their condition."
+              "He isolated sensors and removed safety guards when working with drilling machines.",
+              "He isolated machines, used protective equipment, and ensured guards were in place.",
+              "He cleaned the machines only after maintenance was completed."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why might a mechanical technician need further training after basic certification?",
-            "answer": "Modern machines require updated skills and technical knowledge.",
+            "question": "What measuring instruments could the trainee use?",
+            "answer": "Vernier calipers and micrometres.",
             "options": [
-              "Mechanical systems rarely change.",
-              "Practical experience replaces technical learning.",
-              "Modern machines require updated skills and technical knowledge."
+              "Spirit levels and laser measuring tools.",
+              "Multimetres and insulation testers.",
+              "Vernier calipers and micrometres."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What does a positive learning attitude in mechanical work usually show?",
-            "answer": "The technician accepts guidance and improves skills over time.",
+            "question": "What additional experience would the trainee like to gain?",
+            "answer": "Advanced machining, hydraulic and pneumatic systems, and preventive maintenance.",
             "options": [
-              "The technician avoids complex mechanical tasks.",
-              "The technician accepts guidance and improves skills over time.",
-              "The technician prefers only simple workshop duties."
+              "Advanced brake adjustment, wheel alignment, and battery testing.",
+              "Advanced machining, hydraulic and pneumatic systems, and preventive maintenance.",
+              "Product marketing, customer service, and office administration."
             ]
           }
         ]
