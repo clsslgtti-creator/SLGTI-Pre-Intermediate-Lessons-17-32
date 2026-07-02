@@ -254,7 +254,7 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-9.jpg",
-        "content": [
+        "examples": [
           {
             "id": "g_b_1",
             "sentence": "What do you think of this new vacuum tumbler?",
@@ -265,7 +265,9 @@
               "I think it is OK."
             ],
             "answers": ["I think it is very easy to use.", "I think it is OK."]
-          },
+          }
+        ],
+        "content": [
           {
             "id": "g_b_2",
             "sentence": "What do you think of this stainless-steel worktable?",
