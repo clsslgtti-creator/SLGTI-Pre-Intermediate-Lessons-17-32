@@ -254,6 +254,22 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-9.jpg",
+        "examples": [
+          {
+            "id": "g_b_x",
+            "sentence": "What do you think of this new forklift?",
+            "audio": "assets/audio/g_b_x.mp3",
+            "options": [
+              "I think it meets all our requirements.",
+              "I think it is the exact model we need.",
+              "I think we use it every day."
+            ],
+            "answers": [
+              "I think it meets all our requirements.",
+              "I think it is the exact model we need."
+            ]
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",

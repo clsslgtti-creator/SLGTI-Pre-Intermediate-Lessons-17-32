@@ -67,17 +67,32 @@ export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
           ? item.image.trim()
           : null;
       const options = sanitizeOptions(item?.options, defaultOptions);
+      const answers = Array.isArray(item?.answers)
+        ? item.answers
+            .map((answer) =>
+              typeof answer === "string" ? answer.trim() : ""
+            )
+            .filter((answer, answerIndex, list) => {
+              return (
+                answer.length &&
+                options.includes(answer) &&
+                list.indexOf(answer) === answerIndex
+              );
+            })
+        : [];
       const answerCandidate =
         typeof item?.answer === "string" ? item.answer.trim() : "";
-      const answer = options.includes(answerCandidate)
+      const fallbackAnswer = options.includes(answerCandidate)
         ? answerCandidate
         : options[0];
+      const normalizedAnswers = answers.length ? answers : [fallbackAnswer];
       const identifier = item?.id ?? `example_${index + 1}`;
       const audioKey = audio ? `example_sentence_${identifier}` : null;
       return {
         id: identifier,
         sentence,
-        answer,
+        answer: normalizedAnswers[0],
+        answers: normalizedAnswers,
         audio,
         audioKey,
         image,
@@ -1839,20 +1854,28 @@ export const createGameScene = (config) => {
     }
 
     handleExample(entry) {
-      const targetButton = this.optionButtons.find(
-        (btn) => btn.value.toLowerCase() === entry.answer.toLowerCase()
+      const normalizedCorrectAnswers = this.getCurrentCorrectAnswers(entry).map(
+        (answer) => answer.toLowerCase()
       );
-      const highlightDelay = 500;
-      const feedbackDelay = highlightDelay + 800;
-      const advanceDelay = feedbackDelay + 900;
+      const highlightDelay = 1500;
+      const feedbackDelay = highlightDelay + 1500;
+      const advanceDelay = feedbackDelay + 2000;
 
       this.time.delayedCall(highlightDelay, () => {
         if (this.gameOver) {
           return;
         }
-        if (targetButton) {
-          this.pulseButton(targetButton, 0x16a34a);
-        }
+        this.optionButtons.forEach((button, index) => {
+          if (
+            normalizedCorrectAnswers.includes(
+              (button.value || "").toLowerCase()
+            )
+          ) {
+            this.time.delayedCall(index * 180, () => {
+              this.pulseButton(button, 0x16a34a);
+            });
+          }
+        });
       });
 
       this.time.delayedCall(feedbackDelay, () => {

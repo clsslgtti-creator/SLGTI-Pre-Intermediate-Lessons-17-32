@@ -98,7 +98,7 @@
       {
         "id": "d_1",
         "img": "assets/img/d_1.png",
-        "text_a": "I checked the new layout of the MT workshop yesterday.",
+        "text_a": "I checked the new layout of the FT workshop yesterday.",
         "text_b": "Good. I thought the old layout was complicated.",
         "text_c": "That’s true—but do you know what? The new layout is even more complicated.",
         "audio_a": "assets/audio/d_1_a.mp3",
@@ -165,9 +165,9 @@
       {
         "id": "d_4",
         "img": "assets/img/d_4.png",
-        "text_a": "I inspected the new scaffolding yesterday.",
-        "text_b": "Good. I thought the old scaffolding was hazardous.",
-        "text_c": "That’s true—but do you know what? The new scaffolding is even more hazardous.",
+        "text_a": "I inspected the new oven plug  yesterday.",
+        "text_b": "Good. I thought the old oven plug was hazardous.",
+        "text_c": "That’s true—but do you know what? The new oven plug is even more hazardous.",
         "audio_a": "assets/audio/d_4_a.mp3",
         "audio_b": "assets/audio/d_4_b.mp3",
         "audio_c": "assets/audio/d_4_c.mp3",
@@ -209,7 +209,7 @@
       {
         "id": "d_8",
         "img": "assets/img/d_8.png",
-        "text_a": "I evaluated the new heating system yesterday.",
+        "text_a": "I evaluated the new freezing system yesterday.",
         "text_b": "Good. I thought the old system was energy-intensive.",
         "text_c": "That’s true—but do you know what? The new system is even more energy-intensive.",
         "audio_a": "assets/audio/d_8_a.mp3",
