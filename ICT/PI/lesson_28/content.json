@@ -519,12 +519,12 @@
           },
           {
             "id": "l_18_5",
-            "question": "What additional experience did the trainee want to gain?",
+            "question": "What additional experience does the trainee want to gain?",
             "answer": "Network administration, server management, and cyber security services.",
             "options": [
               "Graphic design, video editing, and cyber security services.",
               "Network administration, server management, and cyber security services.",
-              "Graphic design, video editing, and website advertising."
+              "Graphic design, video editing, and cyber security services."
             ]
           }
         ]
