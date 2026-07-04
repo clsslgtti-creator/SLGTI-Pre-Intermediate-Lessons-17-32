@@ -101,7 +101,7 @@
         ["She", null, "take medicine"],
         ["It", null, "cook a meal"],
         ["I", null, "fix the machine"],
-        ["They", null, null]
+        ["They", null, "work"]
       ]
     ],
     "example_dialogues": [
