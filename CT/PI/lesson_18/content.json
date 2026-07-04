@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "gl'a're",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Strong gl'a're from the polished tiles made it difficult to see the floor markings clearly.",
+        "sentence_text": "The strong gl'a're from the polished tiles made it difficult to see the floor markings clearly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Modal verb Should",
+    "focus": "How many / How much / Partitives",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -218,7 +218,7 @@
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "What would you like for your appetizer?",
+        "text_a": "What would you like for your appetiser?",
         "text_b": "I’m not sure what to choose. What do you recommend?",
         "text_c": "I really recommend our devilled prawns. They are out of this world.",
         "text_d": "OK then. Can I have an order of devilled prawns, please?",
@@ -633,7 +633,7 @@
           },
           {
             "id": "l_18_3",
-            "question": "Why does C think snacks are necessary?",
+            "question": "Why does she think snacks are necessary?",
             "answer": "Lunch may be delayed and traffic could slow them down",
             "options": [
               "Lunch may be delayed and traffic could slow them down",
@@ -907,7 +907,7 @@
       {
         "id": "v_1",
         "audio": "assets/videos/1C.mp4",
-        "instrction": "instrction_c"
+        "instrction": "instrction_b"
       }
     ]
   }
