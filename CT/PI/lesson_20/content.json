@@ -35,7 +35,7 @@
         "id": "p_1",
         "word_text": "'b'uckle",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The formwork 'b'uckle may occur under uneven load during pouring.",
+        "sentence_text": "A formwork 'b'uckle may occur under uneven load during pouring.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "'b'reaker bar",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'b'reaker bar might bend if excessive torque applied suddenly.",
+        "sentence_text": "The 'b'reaker bar might bend if excessive torque is applied suddenly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -95,7 +95,8 @@
       }
     },
     "tables": [
-      [["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
+      [["0% ----------→ 100%"],
+      ["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
     ],
     "example_dialogues": [
       {
@@ -233,7 +234,7 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
+            "sentence": "The bus from Jaffna _____ arrive late because there is heavy traffic near the town.",
             "options": ["must", "can’t", "may", "should"],
             "answer": "may"
           }
@@ -304,7 +305,7 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "The bus from Kurunegala may arrive late because there is heavy traffic near the town.",
+          "text": "The bus from Jaffna may arrive late because there is heavy traffic near the town.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {

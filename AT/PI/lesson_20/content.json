@@ -235,7 +235,7 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
+            "sentence": "The bus from Jaffna _____ arrive late because there is heavy traffic near the town.",
             "options": ["must", "can’t", "may", "should"],
             "answer": "may"
           }
@@ -306,7 +306,7 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "The bus from Kurunegala may arrive late because there is heavy traffic near the town.",
+          "text": "The bus from Jaffna may arrive late because there is heavy traffic near the town.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
