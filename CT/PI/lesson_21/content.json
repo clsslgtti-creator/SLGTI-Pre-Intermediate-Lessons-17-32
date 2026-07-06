@@ -291,7 +291,7 @@
           },
           {
             "id": "g_b_6",
-            "question": "A properly tightened anchor bolt feels __________ than a loose one. (firm)",
+            "question": "A properly tightened anchor bolt is __________ than a loose one. (firm)",
             "answer": "firmer"
           },
           {
@@ -349,7 +349,7 @@
         },
         {
           "id": "g_b_6",
-          "text": "A properly tightened anchor bolt feels firmer than a loose one.",
+          "text": "A properly tightened anchor bolt is firmer than a loose one.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
