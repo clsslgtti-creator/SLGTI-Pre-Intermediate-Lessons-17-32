@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "gl'a're",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Strong gl'a're from the control panel made it hard to read the indicator lights.",
+        "sentence_text": "A strong gl'a're from the control panel made it hard to read the indicator lights.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -512,7 +512,7 @@
     "type": "LISTENING-10",
     "instructions": {
       "activity_a": {
-        "text": "Arrange the following into two categories.\nපහත දැක්වෙන දෑ කාණ්ඩ දෙකකට වෙන් කර සකසන්න.\nபின்வருவனவற்றை இரண்டு வகைகளாகப் பிரிக்கவும்.",
+        "text": "Arrange the following into two categories.\nපහත සඳහන් වචන, කාණ්ඩ දෙකකට සකසන්න.\nபின்வருவனவற்றை இரண்டு வகைகளாகப் பிரிக்கவும்.",
         "audio": "assets/audio/a_4_i_m.mp3"
       },
       "activity_b": {
@@ -563,7 +563,7 @@
           },
           {
             "id": "n_4_a_6",
-            "item_a": "Rice and curry packet",
+            "item_a": "A packet of rice and curry",
             "item_b": "Count nouns"
           },
           {
