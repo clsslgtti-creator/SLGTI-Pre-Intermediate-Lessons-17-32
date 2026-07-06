@@ -151,7 +151,7 @@
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "packaging machine is making a  noise"
+        "word": "packaging machine is making a noise"
       },
       {
         "id": "k_6",
@@ -208,11 +208,11 @@
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Do you know why the curry paste colour is uneven?",
-        "text_b": "I’m not sure. It may be uneven heating, or it might be poor mixing. We will only know for sure if we review the batch records.",
+        "text_a": "Do you know why the curry paste colour is inconsistent?",
+        "text_b": "I’m not sure. It may be inconsistent heating, or it might be poor mixing. We will only know for sure if we review the batch records.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
-        "text_b_speaking": "I’m __________. It __________uneven heating, or it __________poor mixing. We will __________if we review the batch records."
+        "text_b_speaking": "I’m __________. It __________inconsistent heating, or it __________poor mixing. We will __________if we review the batch records."
       }
     ]
   },

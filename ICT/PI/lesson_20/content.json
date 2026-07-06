@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "'b'oot loader",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'b'oot loader might stall during the corrupted firmware initialization phase.",
+        "sentence_text": "The 'b'oot loader might stall during the corrupted firmware initialisation phase.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
