@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "'b'oot loader",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The 'b'oot loader might stall during the corrupted firmware initialization phase.",
+        "sentence_text": "The 'b'oot loader might stall during the corrupted firmware initialisation phase.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -90,12 +90,13 @@
         "audio": "assets/audio/a_2_i_d.mp3"
       },
       "activity_2_e": {
-        "text": "Listen and speak the missing line during the pause and check your answer.\nසංවාදයට සවන් දෙන්න, විරාමයක් පවතින විට අඩුව පවතින වාක්‍යය පවසන්න, ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කර බලන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
+        "text": "Listen and say the missing line during the pause and check your answer.\nසවන් දෙන්න. ඉන්පසු හිස්තැන පිරවීම සඳහා නිවැරදි වාක්‍යය පැවසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර පරීක්ෂා කරන්න.\nஒலிப்பதிவைக் கவனிக்கவும், இடைவேளையின் போது விடுபட்ட வசனத்தைச் சொல்லவும், பின்னர் உங்கள் பதிலைச் சரிபார்க்கவும்.",
         "audio": "assets/audio/a_2_i_j.mp3"
       }
     },
     "tables": [
-      [["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
+      [["0% -------------------------→ 100%"],
+      ["Impossible", "Might (less likely)", "May (more likely)", "Certain"]]
     ],
     "example_dialogues": [
       {
@@ -233,7 +234,7 @@
         "examples": [
           {
             "id": "g_b_1",
-            "sentence": "The bus from Kurunegala _____ arrive late because there is heavy traffic near the town.",
+            "sentence": "The bus from Jaffna _____ arrive late because there is heavy traffic near the town.",
             "options": ["must", "can’t", "may", "should"],
             "answer": "may"
           }
@@ -304,7 +305,7 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "The bus from Kurunegala may arrive late because there is heavy traffic near the town.",
+          "text": "The bus from Jaffna may arrive late because there is heavy traffic near the town.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
