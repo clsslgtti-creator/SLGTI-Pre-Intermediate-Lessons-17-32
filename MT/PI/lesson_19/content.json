@@ -96,11 +96,11 @@
     },
     "tables": [
       [
-        ["Will", "She", "Start", "soon?"],
-        [null, "He", "Cook", null],
-        [null, "They", "Fix the", null],
-        [null, "I", "machine", null],
-        [null, "You", "Set up", null]
+        ["Will", "she", "start", "soon?"],
+        [null, "he", "Cook", null],
+        [null, "they", "fix the machine", null],
+        [null, "I", "set up", null],
+        [null, "you", null, null]
       ]
     ],
     "example_dialogues": [
@@ -457,7 +457,7 @@
             {
               "type": "td",
               "isBlank": true,
-              "answers": ["ST-0412-MAR"]
+              "answers": ["ST-0412"]
             }
           ],
           [
@@ -559,7 +559,7 @@
         },
         {
           "id": "t_2",
-          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two dash capital M A R at the top of the form before you start.",
+          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two at the top of the form before you start.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -630,7 +630,7 @@
         },
         {
           "id": "t_2",
-          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two dash capital M A R at the top of the form before you start.",
+          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two at the top of the form before you start.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -701,7 +701,7 @@
         },
         {
           "id": "t_2",
-          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two dash capital M A R at the top of the form before you start.",
+          "text": "Please make sure that you write the supplier number four five eight two and the order code capital S T dash zero four one two at the top of the form before you start.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
