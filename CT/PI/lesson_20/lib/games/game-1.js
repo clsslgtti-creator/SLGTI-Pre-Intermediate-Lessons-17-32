@@ -1,4 +1,9 @@
-const DEFAULT_OPTION_LABELS = ["Option A", "Option B", "Option C"];
+const DEFAULT_OPTION_LABELS = [
+  "Option A",
+  "Option B",
+  "Option C",
+  "Option D",
+];
 
 export const sanitizeOptions = (
   rawOptions = [],
@@ -12,7 +17,7 @@ export const sanitizeOptions = (
 
   const fallbackPool =
     fallback.length >= 2
-      ? fallback.slice(0, 3)
+      ? fallback.slice(0, 4)
       : DEFAULT_OPTION_LABELS.slice(0, 2);
 
   if (!Array.isArray(rawOptions)) {
@@ -24,7 +29,7 @@ export const sanitizeOptions = (
     .filter((option) => option.length);
 
   if (trimmed.length >= 2) {
-    return trimmed.slice(0, 3);
+    return trimmed.slice(0, 4);
   }
 
   if (trimmed.length === 1) {
@@ -1273,11 +1278,16 @@ export const createGameScene = (config) => {
     }
 
     createOptionButtons(width, height, maxOptions) {
-      const visibleCount = Math.max(maxOptions || 0, 2);
+      const visibleCount = Math.min(Math.max(maxOptions || 0, 2), 4);
       const useCompactLayout = visibleCount >= 3;
-      const buttonWidth = useCompactLayout ? 307 : 410;
-      const buttonHeight = 120;
-      const baseY = height - 140;
+      const useFourOptionLayout = visibleCount >= 4;
+      const buttonWidth = useFourOptionLayout
+        ? 230
+        : useCompactLayout
+          ? 307
+          : 410;
+      const buttonHeight = useFourOptionLayout ? 100 : 120;
+      const baseY = useFourOptionLayout ? height - 130 : height - 140;
 
       this.optionButtonMetrics = {
         buttonWidth,
@@ -1447,19 +1457,12 @@ export const createGameScene = (config) => {
         this.sys.game.config.height;
       const metrics = this.optionButtonMetrics || {};
       const baseY = metrics.baseY ?? height - 100;
-
-      let spacing = 0;
-      spacing = 400;
-
       const positions = [];
+      const spacing = total === 4 ? 250 : total === 3 ? 340 : 400;
       const centerIndex = (total - 1) / 2;
       for (let index = 0; index < total; index += 1) {
-        if (spacing <= 0) {
-          positions.push(width / 2);
-        } else {
-          const offset = index - centerIndex;
-          positions.push(width / 2 + offset * spacing);
-        }
+        const offset = index - centerIndex;
+        positions.push({ x: width / 2 + offset * spacing, y: baseY });
       }
 
       this.optionButtons.forEach((button, index) => {
@@ -1469,7 +1472,7 @@ export const createGameScene = (config) => {
           button.text.setText(label);
           button.text.setColor("#475569");
           button.background.update(button.styles.disabled);
-          button.container.setPosition(positions[index], baseY);
+          button.container.setPosition(positions[index].x, positions[index].y);
           button.container.setVisible(Boolean(shouldShow && label));
           button.container.setActive(true);
           button.container.disableInteractive();
@@ -1738,9 +1741,9 @@ export const createGameScene = (config) => {
       const targetButton = this.optionButtons.find(
         (btn) => btn.value.toLowerCase() === entry.answer.toLowerCase()
       );
-      const highlightDelay = 500;
-      const feedbackDelay = highlightDelay + 800;
-      const advanceDelay = feedbackDelay + 900;
+      const highlightDelay = 2000;
+      const feedbackDelay = highlightDelay + 2000;
+      const advanceDelay = feedbackDelay + 2000;
 
       this.time.delayedCall(highlightDelay, () => {
         if (this.gameOver) {
