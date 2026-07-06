@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "sound /.ʒ/",
+    "focus": "sound /ʒ/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-5",
-    "focus": "...",
+    "focus": "Revision of adjectives ",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
