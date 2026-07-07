@@ -16,13 +16,15 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-4.jpg",
-        "content": [
+        "examples": [
           {
             "id": "g_b_1",
             "sentence": "You _____ check the lubrication level before starting the machine.",
             "options": ["mustn’t", "must", "could"],
             "answer": "must"
-          },
+          }
+        ],
+        "content": [
           {
             "id": "g_b_2",
             "sentence": "You _____ ignore unusual vibration during operation.",
