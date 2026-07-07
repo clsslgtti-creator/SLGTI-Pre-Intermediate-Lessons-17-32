@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-2",
-    "focus": "...",
+    "focus": "Revision",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -241,7 +241,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "She usually _____ the ingredients carefully, but she _____ them right now.",
+            "sentence": "She usually _____ the ingredients carefully, but right now she _____ them.",
             "options": [
               "measured / packed",
               "is measuring / is packing",
@@ -335,7 +335,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "She usually measures the ingredients carefully, but she is packing them right now.",
+          "text": "She usually measures the ingredients carefully, but right now she is packing them.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {

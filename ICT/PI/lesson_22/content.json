@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-5",
-    "focus": "...",
+    "focus": "Comparatives - long adjectives",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -487,7 +487,7 @@
           },
           {
             "id": "l_18_5",
-            "question": "What should you test after installation?",
+            "question": "What should you do after installation?",
             "answer": "Print a test page",
             "options": [
               "Print two documents",

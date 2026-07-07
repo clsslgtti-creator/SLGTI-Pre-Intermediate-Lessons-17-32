@@ -5,11 +5,61 @@ import {
   normalizeExamples,
   normalizeQuestions,
 } from "./games/game-1.js";
+import { audioManager, computeSegmentGapMs } from "./audio-manager.js";
 
 const GAME_INSTRUCTION_TEXT =
   "Press Start to play. Listen to each sentence and choose the correct answer before time runs out.";
+const LISTEN_REPEAT_INSTRUCTION_TEXT = "Listen and repeat each sentence.";
 
 const trimText = (value) => (typeof value === "string" ? value.trim() : "");
+
+const smoothScrollIntoView = (element) => {
+  if (!element) {
+    return;
+  }
+  element.scrollIntoView({ behavior: "smooth", block: "center" });
+};
+
+const waitMs = (duration, { signal } = {}) =>
+  new Promise((resolve) => {
+    if (!Number.isFinite(duration) || duration <= 0) {
+      resolve();
+      return;
+    }
+
+    let timeoutId = null;
+
+    const cleanup = () => {
+      if (timeoutId !== null) {
+        window.clearTimeout(timeoutId);
+        timeoutId = null;
+      }
+      signal?.removeEventListener("abort", onAbort);
+    };
+
+    const onAbort = () => {
+      cleanup();
+      resolve();
+    };
+
+    if (signal?.aborted) {
+      onAbort();
+      return;
+    }
+
+    signal?.addEventListener("abort", onAbort, { once: true });
+    timeoutId = window.setTimeout(() => {
+      cleanup();
+      resolve();
+    }, duration);
+  });
+
+const createPlaybackStatus = () => {
+  const status = document.createElement("p");
+  status.className = "playback-status";
+  status.textContent = "";
+  return status;
+};
 
 const deriveSubActivityLetter = (key, index = 0) => {
   if (typeof key === "string") {
@@ -57,6 +107,103 @@ const insertFocusElement = (titleEl, focusText) => {
 
 const cloneFeedbackAssets = () => ({ ...DEFAULT_FEEDBACK_ASSETS });
 
+const getRepeatPauseMs = (activityData, fallback = 1500) => {
+  const raw =
+    activityData?.listen_repeat_pause_ms ?? activityData?.repeat_pause_ms;
+  const parsed = Number(raw);
+  if (!Number.isFinite(parsed)) {
+    return fallback;
+  }
+  return Math.max(500, parsed);
+};
+
+const normalizeListenRepeatItems = (raw = []) => {
+  if (!Array.isArray(raw)) {
+    return [];
+  }
+
+  return raw
+    .map((entry, index) => {
+      const id = trimText(entry?.id) || `line_${index + 1}`;
+      const text = trimText(entry?.text);
+      const audio = trimText(entry?.audio);
+      if (!text || !audio) {
+        return null;
+      }
+      return { id, text, audio };
+    })
+    .filter(Boolean);
+};
+
+const createDialogueTables = (tablesData = []) => {
+  if (!Array.isArray(tablesData) || !tablesData.length) {
+    return null;
+  }
+
+  const wrapper = document.createElement("div");
+  wrapper.className = "dialogue-table-group";
+  const tables = [];
+
+  tablesData.forEach((tableData) => {
+    if (!Array.isArray(tableData) || !tableData.length) {
+      return;
+    }
+
+    const table = document.createElement("table");
+    table.className = "dialogue-table";
+    const tbody = document.createElement("tbody");
+    const columnSpans = [];
+
+    tableData.forEach((rowData) => {
+      if (!Array.isArray(rowData) || !rowData.length) {
+        return;
+      }
+
+      const row = document.createElement("tr");
+      let columnIndex = 0;
+      let hasCell = false;
+
+      rowData.forEach((cellValue) => {
+        if (cellValue === null || cellValue === undefined) {
+          const tracker = columnSpans[columnIndex];
+          if (tracker?.cell) {
+            tracker.rowSpan += 1;
+            tracker.cell.rowSpan = tracker.rowSpan;
+          }
+          columnIndex += 1;
+          return;
+        }
+
+        const cell = document.createElement("td");
+        cell.textContent = `${cellValue}`;
+        row.appendChild(cell);
+        columnSpans[columnIndex] = { cell, rowSpan: 1 };
+        columnIndex += 1;
+        hasCell = true;
+      });
+
+      if (hasCell) {
+        tbody.appendChild(row);
+      }
+    });
+
+    if (tbody.children.length) {
+      table.appendChild(tbody);
+      wrapper.appendChild(table);
+      tables.push(table);
+    }
+  });
+
+  if (!tables.length) {
+    return null;
+  }
+
+  wrapper.classList.add(
+    tables.length === 1 ? "dialogue-table-group--single" : "dialogue-table-group--multi"
+  );
+  return wrapper;
+};
+
 const normalizeSentenceGroups = (input) => {
   if (!input) {
     return [];
@@ -77,6 +224,55 @@ const normalizeSentenceGroups = (input) => {
       return trimmed ? [trimmed] : [];
     })
     .filter((group) => group.length);
+};
+
+const createTableSlide = (data = {}, context = {}) => {
+  const { slideId, activityLabel, focusText, includeFocus } = context;
+
+  const slide = document.createElement("section");
+  slide.className = "slide slide--table interactive3-table-slide";
+  if (slideId) {
+    slide.id = slideId;
+  }
+
+  const title = document.createElement("h2");
+  title.textContent = trimText(activityLabel) || "Activity";
+  slide.appendChild(title);
+
+  if (includeFocus && focusText) {
+    insertFocusElement(title, focusText);
+  }
+
+  const subtitle = trimText(data?.subtitle);
+  if (subtitle) {
+    const subtitleEl = document.createElement("p");
+    subtitleEl.className = "interactive3-subtitle activity-instructions";
+    subtitleEl.textContent = subtitle;
+    slide.appendChild(subtitleEl);
+  }
+
+  const tables = createDialogueTables(data?.tables);
+  if (!tables) {
+    const emptyState = document.createElement("p");
+    emptyState.className = "empty-state";
+    emptyState.textContent = "Table content is not available yet.";
+    slide.appendChild(emptyState);
+    return {
+      id: slideId,
+      element: slide,
+      onEnter: () => {},
+      onLeave: () => {},
+    };
+  }
+
+  slide.appendChild(tables);
+
+  return {
+    id: slideId,
+    element: slide,
+    onEnter: () => {},
+    onLeave: () => {},
+  };
 };
 
 const createSentenceListSlide = (groups = [], context = {}) => {
@@ -141,6 +337,295 @@ const createSentenceListSlide = (groups = [], context = {}) => {
     element: slide,
     onEnter: () => {},
     onLeave: () => {},
+  };
+};
+
+const clearEntryHighlights = (items = []) => {
+  items.forEach(({ card, line }) => {
+    card?.classList.remove("is-active");
+    line?.classList.remove("is-playing");
+  });
+};
+
+const createListenRepeatSlide = (items = [], context = {}) => {
+  const {
+    slideId,
+    activityLabel,
+    focusText,
+    includeFocus,
+    repeatPauseMs = 1500,
+  } = context;
+
+  const slide = document.createElement("section");
+  slide.className =
+    "slide slide--listen-repeat listening-slide listening-slide--repeat";
+  if (slideId) {
+    slide.id = slideId;
+  }
+
+  const title = document.createElement("h2");
+  title.textContent = trimText(activityLabel) || "Activity";
+  slide.appendChild(title);
+
+  if (includeFocus && focusText) {
+    insertFocusElement(title, focusText);
+  }
+
+  const instruction = document.createElement("p");
+  instruction.className = "slide__instruction";
+  instruction.textContent = LISTEN_REPEAT_INSTRUCTION_TEXT;
+  slide.appendChild(instruction);
+
+  const controls = document.createElement("div");
+  controls.className = "slide__controls";
+  const startBtn = document.createElement("button");
+  startBtn.type = "button";
+  startBtn.className = "primary-btn";
+  startBtn.textContent = "Start";
+  const status = createPlaybackStatus();
+  controls.append(startBtn, status);
+  slide.appendChild(controls);
+
+  const list = document.createElement("div");
+  list.className = "dialogue-grid listening-read-grid";
+  slide.appendChild(list);
+
+  const entries = items.map((entry, index) => {
+    const card = document.createElement("article");
+    card.className =
+      "dialogue-card dialogue-card--listen-repeat listening-read-card";
+
+    const cardTitle = document.createElement("h3");
+    cardTitle.className = "dialogue-card__title";
+    cardTitle.textContent = `${index + 1}`;
+    card.appendChild(cardTitle);
+
+    const wrapper = document.createElement("div");
+    wrapper.className = "dialogue-card__texts";
+
+    const line = document.createElement("p");
+    line.className = "dialogue-card__line";
+    line.textContent = entry.text;
+    wrapper.appendChild(line);
+
+    card.appendChild(wrapper);
+    list.appendChild(card);
+
+    return { entry, card, line };
+  });
+
+  if (!entries.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-state";
+    empty.textContent = "Audio will be added soon.";
+    list.appendChild(empty);
+  }
+
+  let sequenceAbort = null;
+  let autoTriggered = false;
+  let pendingAutoStart = null;
+  let pauseRequested = false;
+
+  const playbackState = {
+    mode: "idle",
+    resumeIndex: 0,
+  };
+
+  const updateButtonLabel = () => {
+    if (playbackState.mode === "playing") {
+      startBtn.textContent = "Pause";
+      return;
+    }
+    if (playbackState.mode === "paused") {
+      startBtn.textContent = "Resume";
+      return;
+    }
+    startBtn.textContent = "Start";
+  };
+
+  const setPlaybackMode = (mode, { resumeIndex } = {}) => {
+    playbackState.mode = mode;
+    if (Number.isInteger(resumeIndex)) {
+      playbackState.resumeIndex = Math.max(0, resumeIndex);
+    }
+    updateButtonLabel();
+  };
+
+  const resetPlaybackState = () => {
+    setPlaybackMode("idle", { resumeIndex: 0 });
+    autoTriggered = false;
+    slide._autoTriggered = false;
+    startBtn.disabled = false;
+  };
+
+  updateButtonLabel();
+
+  const clearAutoStart = () => {
+    if (pendingAutoStart !== null) {
+      window.clearTimeout(pendingAutoStart);
+      pendingAutoStart = null;
+    }
+  };
+
+  const resetEntries = () => {
+    clearEntryHighlights(entries);
+  };
+
+  const runSequence = async (fromIndex = 0) => {
+    if (!entries.length) {
+      status.textContent = "Audio will be added soon.";
+      resetPlaybackState();
+      return;
+    }
+
+    pauseRequested = false;
+    sequenceAbort?.abort();
+    sequenceAbort = new AbortController();
+    const { signal } = sequenceAbort;
+
+    audioManager.stopAll();
+    resetEntries();
+    setPlaybackMode("playing", { resumeIndex: fromIndex });
+    status.textContent = fromIndex === 0 ? "Starting..." : "Resuming...";
+
+    let completed = false;
+
+    try {
+      for (let index = fromIndex; index < entries.length; index += 1) {
+        playbackState.resumeIndex = index;
+        const item = entries[index];
+        item.card?.classList.add("is-active");
+        item.line?.classList.add("is-playing");
+        status.textContent = "Listening...";
+        smoothScrollIntoView(item.card ?? item.line);
+
+        try {
+          await audioManager.play(item.entry.audio, { signal });
+        } catch (error) {
+          if (!signal.aborted) {
+            console.error(error);
+            status.textContent = "Unable to play audio.";
+          }
+        }
+
+        if (signal.aborted) {
+          break;
+        }
+
+        playbackState.resumeIndex = index + 1;
+
+        let gapMs = 0;
+        try {
+          const duration = await audioManager.getDuration(item.entry.audio);
+          gapMs = computeSegmentGapMs("listen-repeat", duration, {
+            repeatPauseMs,
+          });
+        } catch (error) {
+          console.error(error);
+        }
+
+        if (signal.aborted) {
+          break;
+        }
+
+        if (gapMs > 0) {
+          status.textContent = "Your turn...";
+          await waitMs(gapMs, { signal });
+        }
+
+        item.card?.classList.remove("is-active");
+        item.line?.classList.remove("is-playing");
+
+        if (signal.aborted) {
+          break;
+        }
+      }
+
+      if (!signal.aborted) {
+        completed = true;
+        status.textContent = "Playback complete.";
+      }
+    } finally {
+      const aborted = sequenceAbort?.signal?.aborted ?? false;
+      sequenceAbort = null;
+
+      if (aborted && pauseRequested) {
+        setPlaybackMode("paused", { resumeIndex: playbackState.resumeIndex });
+        status.textContent = "Paused.";
+      } else if (completed) {
+        resetPlaybackState();
+        resetEntries();
+      } else if (aborted) {
+        status.textContent = "Playback stopped.";
+        resetPlaybackState();
+        resetEntries();
+      } else {
+        resetPlaybackState();
+      }
+
+      pauseRequested = false;
+    }
+  };
+
+  const startSequence = (fromIndex = 0) => {
+    clearAutoStart();
+    autoTriggered = true;
+    slide._autoTriggered = true;
+    runSequence(fromIndex);
+  };
+
+  const triggerAutoPlay = () => {
+    if (
+      autoTriggered ||
+      playbackState.mode === "playing" ||
+      playbackState.mode === "paused"
+    ) {
+      return;
+    }
+    autoTriggered = true;
+    slide._autoTriggered = true;
+    clearAutoStart();
+    pendingAutoStart = window.setTimeout(() => {
+      pendingAutoStart = null;
+      runSequence();
+    }, 5000);
+  };
+
+  startBtn.addEventListener("click", () => {
+    if (playbackState.mode === "playing") {
+      pauseRequested = true;
+      sequenceAbort?.abort();
+      return;
+    }
+
+    if (playbackState.mode === "paused") {
+      startSequence(playbackState.resumeIndex);
+      return;
+    }
+
+    startSequence();
+  });
+
+  const onLeave = () => {
+    clearAutoStart();
+    pauseRequested = false;
+    sequenceAbort?.abort();
+    sequenceAbort = null;
+    audioManager.stopAll();
+    resetEntries();
+    resetPlaybackState();
+    status.textContent = "";
+  };
+
+  return {
+    id: slideId,
+    element: slide,
+    autoPlay: {
+      button: startBtn,
+      trigger: triggerAutoPlay,
+      status,
+    },
+    onLeave,
   };
 };
 
@@ -329,6 +814,33 @@ const collectInteractiveActivities = (activityData = {}) => {
   if (content && typeof content === "object" && !Array.isArray(content)) {
     Object.entries(content).forEach(([key, value], index) => {
       const letter = deriveSubActivityLetter(key, index);
+
+      if (
+        value &&
+        typeof value === "object" &&
+        !Array.isArray(value) &&
+        (trimText(value.subtitle) || Array.isArray(value.tables))
+      ) {
+        activities.push({
+          key,
+          letter,
+          kind: "table",
+          data: value,
+        });
+        return;
+      }
+
+      const listenRepeatItems = normalizeListenRepeatItems(value);
+      if (listenRepeatItems.length) {
+        activities.push({
+          key,
+          letter,
+          kind: "listen-repeat",
+          data: { items: listenRepeatItems },
+        });
+        return;
+      }
+
       const sentenceGroups = normalizeSentenceGroups(value);
       if (sentenceGroups.length) {
         activities.push({
@@ -387,6 +899,7 @@ export const buildInteractive3Slides = (activityData = {}, context = {}) => {
   const { activityNumber, focus } = context;
   const focusText = trimText(focus);
   const activities = collectInteractiveActivities(activityData);
+  const repeatPauseMs = getRepeatPauseMs(activityData);
 
   if (!activities.length) {
     return [
@@ -407,12 +920,29 @@ export const buildInteractive3Slides = (activityData = {}, context = {}) => {
       slideId: buildSlideId(
         activityNumber,
         activity.letter,
-        activity.kind === "sentences" ? "reading" : "game1"
+        activity.kind === "table"
+          ? "table"
+          : activity.kind === "listen-repeat"
+          ? "listen-repeat"
+          : activity.kind === "sentences"
+          ? "reading"
+          : "game1"
       ),
       activityLabel: formatActivityLabel(activityNumber, activity.letter),
       focusText,
       includeFocus: Boolean(focusText) && index === 0,
     };
+
+    if (activity.kind === "table") {
+      return createTableSlide(activity.data, commonContext);
+    }
+
+    if (activity.kind === "listen-repeat") {
+      return createListenRepeatSlide(activity.data?.items ?? [], {
+        ...commonContext,
+        repeatPauseMs,
+      });
+    }
 
     if (activity.kind === "sentences") {
       return createSentenceListSlide(activity.data?.groups ?? [], commonContext);

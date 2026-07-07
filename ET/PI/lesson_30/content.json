@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-2",
-    "focus": "...",
+    "focus": "Revision",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -241,7 +241,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "He usually _____ the circuit connections, but he _____ them right now.",
+            "sentence": "He usually _____ the circuit connections, but right now he _____ them.",
             "options": [
               "inspected / repaired",
               "is inspecting / is repairing",
@@ -335,7 +335,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "He usually inspects the circuit connections, but he is repairing them right now.",
+          "text": "He usually inspects the circuit connections, but right now he is repairing them.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {

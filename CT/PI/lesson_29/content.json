@@ -266,20 +266,24 @@
     ]
   },
   "activity_3": {
-    "type": "INTERACTIVE-10",
+    "type": "INTERACTIVE-3",
     "instructions": {
       "activity_a": {
+        "text": "How to construct the Passive Voice.",
+        "audio": ""
+      },
+      "activity_b": {
         "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_bx.mp3"
       },
-      "activity_b": {
+      "activity_c": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "subtitle": "How to construct the Passive Voice.\nThe active object becomes the passive subject.\nSimple Present: am/is/are + past participle\nSimple past: was/were + past participle.",
+        "subtitle": "The active object becomes the passive subject.\nSimple Present: am/is/are + past participle\nSimple past: was/were + past participle.",
         "tables": [
           [
             ["Active: Simple Present", "Passive: Simple Present"],
@@ -311,71 +315,74 @@
               "The broken benches were repaired by the students."
             ]
           ]
-        ],
+        ]
+      },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-8.jpg",
         "content": [
           {
             "id": "g_1",
-            "question": "People make chocolate from cocoa beans. Chocolate _______________ from cocoa beans.",
+            "sentence": "People make chocolate from cocoa beans. Chocolate _______________ from cocoa beans.",
             "options": ["are made", "is made", "was made"],
             "answer": "is made"
           },
           {
             "id": "g_2",
-            "question": "Workers built this railway line in 1998. This railway line _______________ in 1998.",
+            "sentence": "Workers built this railway line in 1998. This railway line _______________ in 1998.",
             "options": ["is built", "was built", "was build"],
             "answer": "was built"
           },
           {
             "id": "g_3",
-            "question": "Farmers grow bananas in tropical countries. Bananas _______________ in tropical countries.",
+            "sentence": "Farmers grow bananas in tropical countries. Bananas _______________ in tropical countries.",
             "options": ["are grow", "was grown", "are grown"],
             "answer": "are grown"
           },
           {
             "id": "g_4",
-            "question": "Technicians installed the new system last week. The new system _______________ last week.",
+            "sentence": "Technicians installed the new system last week. The new system _______________ last week.",
             "options": ["was installed", "is installed", "were installed"],
             "answer": "was installed"
           },
           {
             "id": "g_5",
-            "question": "Companies export tea worldwide. Tea _______________ worldwide.",
+            "sentence": "Companies export tea worldwide. Tea _______________ worldwide.",
             "options": ["are exported", "was export", "is exported"],
             "answer": "is exported"
           },
           {
             "id": "g_6",
-            "question": "Engineers completed this project in 2020. The project _______________ in 2020.",
+            "sentence": "Engineers completed this project in 2020. The project _______________ in 2020.",
             "options": ["is completed", "was completed", "was complete"],
             "answer": "was completed"
           },
           {
             "id": "g_7",
-            "question": "People speak English in many countries. English _______________ in many countries.",
+            "sentence": "People speak English in many countries. English _______________ in many countries.",
             "options": ["is spoke", "was spoken", "is spoken"],
             "answer": "is spoken"
           },
           {
             "id": "g_8",
-            "question": "The chef prepared the meal yesterday. The meal _______________ yesterday.",
+            "sentence": "The chef prepared the meal yesterday. The meal _______________ yesterday.",
             "options": ["is prepared", "were prepared", "was prepared"],
             "answer": "was prepared"
           },
           {
             "id": "g_9",
-            "question": "Manufacturers produce laptops in large factories. Laptops _______________ in large factories.",
+            "sentence": "Manufacturers produce laptops in large factories. Laptops _______________ in large factories.",
             "options": ["is produced", "are produced", "were produced"],
             "answer": "are produced"
           },
           {
             "id": "g_10",
-            "question": "Scientists discovered the vaccine in 2019. This vaccine _______________ in 2019.",
+            "sentence": "Scientists discovered the vaccine in 2019. This vaccine _______________ in 2019.",
             "options": ["is discovered", "was discover", "was discovered"],
             "answer": "was discovered"
           }
         ]
       },
-      "activity_b": [
+      "activity_c": [
         {
           "id": "g_b_1",
           "text": "People make chocolate from cocoa beans. Chocolate is made from cocoa beans.",

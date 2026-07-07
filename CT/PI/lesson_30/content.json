@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-2",
-    "focus": "...",
+    "focus": "Revision",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -241,7 +241,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "He usually _____ the formwork, but he _____ it right now.",
+            "sentence": "He usually _____ the formwork, but right now he _____ it.",
             "options": [
               "assembled / adjusted",
               "is assembling / is adjusting",
@@ -335,7 +335,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "He usually assembles the formwork, but he is adjusting it right now.",
+          "text": "He usually assembles the formwork, but right now he is adjusting it.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {

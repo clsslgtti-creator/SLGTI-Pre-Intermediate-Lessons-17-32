@@ -16,13 +16,15 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-4.jpg",
-        "content": [
+        "examples": [
           {
             "id": "g_b_1",
             "sentence": "You ________ check the brake fluid level before testing.",
             "options": ["will", "must", "could"],
             "answer": "must"
-          },
+          }
+        ],
+        "content": [
           {
             "id": "g_b_2",
             "sentence": "You ________ ignore unusual engine vibrations during inspection.",

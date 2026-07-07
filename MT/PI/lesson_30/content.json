@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-2",
-    "focus": "...",
+    "focus": "Revision",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -241,7 +241,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "He usually _____ the shaft alignment, but he _____ it right now.",
+            "sentence": "He usually _____ the shaft alignment, but right now he _____ it.",
             "options": [
               "adjusted / inspected",
               "is adjusting / is inspecting",
@@ -335,7 +335,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "He usually adjusts the shaft alignment, but he is inspecting it right now.",
+          "text": "He usually adjusts the shaft alignment, but right now he is inspecting it.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {

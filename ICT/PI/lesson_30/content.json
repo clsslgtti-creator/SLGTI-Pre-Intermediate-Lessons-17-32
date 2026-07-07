@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-2",
-    "focus": "...",
+    "focus": "Revision",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -241,7 +241,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "She usually _____ the network settings, but she _____ them right now.",
+            "sentence": "She usually _____ the network settings, but right now she _____ them.",
             "options": [
               "configured / updated",
               "is configuring / is updating",
@@ -335,7 +335,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "She usually configures the network settings, but she is updating them right now.",
+          "text": "She usually configures the network settings, but right now she is updating them.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
