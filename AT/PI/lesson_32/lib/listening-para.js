@@ -250,7 +250,6 @@ export const buildListeningParaSlides = (
     ? Math.max(0, Math.min(maxPlays, savedDetail.playbackCount))
     : 0;
   let isPlaying = false;
-  let autoTriggered = false;
 
   const refreshAnswerInteractivity = () => {
     const disabled = instructionsLocked || submissionLocked;
@@ -402,17 +401,9 @@ export const buildListeningParaSlides = (
     }
     isPlaying = true;
     updatePlaybackStatus();
-    refreshAnswerInteractivity();
   };
 
-  playBtn.addEventListener("click", () => {
-    if (isPlaying || playCount >= maxPlays) {
-      return;
-    }
-    autoTriggered = true;
-    slide._autoTriggered = true;
-    beginPlayback();
-  });
+  playBtn.addEventListener("click", () => beginPlayback());
 
   const lockEntry = (entry, isCorrect) => {
     entry.locked = true;
@@ -537,10 +528,7 @@ export const buildListeningParaSlides = (
       audioElement.currentTime = 0;
     }
     isPlaying = false;
-    autoTriggered = false;
-    slide._autoTriggered = false;
     updatePlaybackStatus();
-    refreshAnswerInteractivity();
   };
 
   const slideId = context.key
@@ -551,20 +539,7 @@ export const buildListeningParaSlides = (
     {
       id: slideId,
       element: slide,
-      autoPlay: {
-        button: playBtn,
-        trigger: () => {
-          if (autoTriggered || isPlaying || playCount >= maxPlays) {
-            return;
-          }
-          autoTriggered = true;
-          slide._autoTriggered = true;
-          beginPlayback();
-        },
-        status: statusEl,
-      },
       onLeave,
-      instructionCountdownSeconds: 15,
     },
   ];
 };
