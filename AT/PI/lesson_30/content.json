@@ -241,7 +241,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "He usually _____ the brake pads, but he _____ them right now.",
+            "sentence": "He usually _____ the brake pads, but right now he _____ them.",
             "options": [
               "repaired/ replaced",
               "is repairing/ is replacing",
@@ -335,7 +335,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "He usually repairs the brake pads, but he is replacing them right now.",
+          "text": "He usually repairs the brake pads, but right now he is replacing them.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
