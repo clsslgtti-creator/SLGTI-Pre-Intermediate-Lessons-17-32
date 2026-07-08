@@ -124,7 +124,7 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "He is not wearing a helmet if he is working at height.",
           "He must wear a helmet if he is working at height.",
@@ -133,7 +133,7 @@
         "answer": "He must wear a helmet if he is working at height."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "I shouldn’t entering the restricted area on the construction site.",
           "I might not entering the restricted area on the construction site.",
@@ -152,7 +152,7 @@
         "answer": "a bag of cement"
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "I am going to inspect the scaffolding tomorrow as it is on the safety schedule.",
           "I will go to inspect the scaffolding tomorrow as it in the safety schedule.",
@@ -193,7 +193,7 @@
         "answer": "Yes, he will fix it this afternoon."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "The steel beam is stronger than the wooden beam.",
           "The steel beam is more than stronger than the wooden beam.",
@@ -202,7 +202,7 @@
         "answer": "The steel beam is stronger than the wooden beam."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Glass panels are more fragile than concrete blocks.",
           "Glass panels are more than fragile than concrete blocks.",
@@ -211,7 +211,7 @@
         "answer": "Glass panels are more fragile than concrete blocks."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Concrete columns are more load-bearing than brick walls.",
           "Concrete columns are more than load-bearing than brick walls.",
@@ -220,7 +220,7 @@
         "answer": "Concrete columns are more load-bearing than brick walls."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Reinforced foundations are the strongest parts of the structure.",
           "Reinforced foundations are the more stronger parts of the structure.",
@@ -229,7 +229,7 @@
         "answer": "Reinforced foundations are the strongest parts of the structure."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Aluminium roof sheets are the brightest materials used on this building.",
           "Aluminium roof sheets are the more than brighter materials used on this building.",
@@ -302,7 +302,11 @@
           "work",
           "?"
         ],
-        "sentence": "Do technicians check tools before starting daily work?"
+        "sentence": "Do technicians check tools before starting daily work?",
+        "alternative_answers": [
+          "Do technicians check tools daily before starting work?",
+          "Do technicians check tools before starting work daily?"
+        ]
       },
       {
         "id": "n_3_a_4",
@@ -348,16 +352,16 @@
           "Students",
           "are",
           "wearing",
-          "helmets",
+          "safety goggles",
           "while",
           "observing",
           "welding",
           "operations",
           "."
         ],
-        "sentence": "Students are wearing helmets while observing welding operations.",
+        "sentence": "Students are wearing safety goggles while observing welding operations.",
         "alternative_answers": [
-          "Students are observing welding operations while wearing helmets."
+          "Students are observing welding operations while wearing safety goggles."
         ]
       },
       {

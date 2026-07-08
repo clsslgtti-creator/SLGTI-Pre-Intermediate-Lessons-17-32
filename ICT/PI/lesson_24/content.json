@@ -124,7 +124,7 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "The user can’t restarts the computer if it freezes.",
           "The user should restart the computer if it freezes.",
@@ -133,7 +133,7 @@
         "answer": "The user should restart the computer if it freezes."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "You shouldn’t unplug the server while it is running.",
           "You might not unplugging the server while it is running.",
@@ -160,7 +160,7 @@
         "answer": "a roll of insulation tape"
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "I am going to update the operating system tonight as it is scheduled.",
           "I will go to update the operating system tonight as it is schedule.",
@@ -205,7 +205,7 @@
         "answer": "Yes, he will reset it today."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Fiber-optic cables are faster than copper cables.",
           "Fiber-optic cables are more than fast than copper cables.",
@@ -214,7 +214,7 @@
         "answer": "Fiber-optic cables are faster than copper cables."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Solid-state drives are more reliable than mechanical hard drives.",
           "Solid-state drives are more than reliable than mechanical hard drives.",
@@ -223,7 +223,7 @@
         "answer": "Solid-state drives are more reliable than mechanical hard drives."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "A wired connection is more stable than a wireless connection.",
           "A wired connection is more than stable than a wireless connection.",
@@ -232,7 +232,7 @@
         "answer": "A wired connection is more stable than a wireless connection."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Cloud storage has the highest storage capacity.",
           "Cloud storage is more than higher storage capacity.",
@@ -241,7 +241,7 @@
         "answer": "Cloud storage has the highest storage capacity."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "A dedicated server is more powerful than a shared server.",
           "A dedicated server is more than powerful than a shared server.",

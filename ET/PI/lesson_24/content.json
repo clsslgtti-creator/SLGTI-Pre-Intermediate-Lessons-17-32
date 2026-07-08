@@ -124,7 +124,7 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "He can’t switching off the power before repair work.",
           "He must switch off the power before repair work.",
@@ -133,7 +133,7 @@
         "answer": "He must switch off the power before repair work."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "I shouldn’t touching live terminals during testing.",
           "I might not touching live terminals during testing.",
@@ -160,7 +160,7 @@
         "answer": "a circuit breaker"
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "I am going to test the distribution board tomorrow as it is on the inspection schedule.",
           "I will go to test the distribution board tomorrow as it in the inspection schedule.",
@@ -205,7 +205,7 @@
         "answer": "Yes, he will replace it sometime today."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Copper conductors are more conductive than aluminium conductors.",
           "Copper conductors are more than conductive than aluminium conductors.",
@@ -214,7 +214,7 @@
         "answer": "Copper conductors are more conductive than aluminium conductors."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Glass fuse cartridges are more fragile than ceramic fuses.",
           "Glass fuse cartridges are more than fragile than ceramic fuses.",
@@ -223,7 +223,7 @@
         "answer": "Glass fuse cartridges are more fragile than ceramic fuses."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Insulated cables are more heat-resistant than bare wires.",
           "Insulated cables are more than heat-resistant than bare wires.",
@@ -232,7 +232,7 @@
         "answer": "Insulated cables are more heat-resistant than bare wires."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Copper busbars are the strongest components in the distribution panel.",
           "Copper busbars are the more than stronger components in the distribution panel.",
@@ -241,7 +241,7 @@
         "answer": "Copper busbars are the strongest components in the distribution panel."
       },
       {
-        "question": "Click on the correct sentence/ answer.",
+        "question": "Click on the correct sentence.",
         "options": [
           "Polished aluminium reflectors are the brightest parts of the lighting system.",
           "Polished aluminium reflectors are the more than brighter parts of the lighting system.",
@@ -314,7 +314,11 @@
           "work",
           "?"
         ],
-        "sentence": "Do technicians check tools before starting daily work?"
+        "sentence": "Do technicians check tools before starting daily work?",
+        "alternative_answers": [
+          "Do technicians check tools daily before starting work?",
+          "Do technicians check tools before starting work daily?"
+        ]
       },
       {
         "id": "n_3_a_4",
@@ -360,16 +364,16 @@
           "Students",
           "are",
           "wearing",
-          "helmets",
+          "safety goggles",
           "while",
           "observing",
           "welding",
           "operations",
           "."
         ],
-        "sentence": "Students are wearing helmets while observing welding operations.",
+        "sentence": "Students are wearing safety goggles while observing welding operations.",
         "alternative_answers": [
-          "Students are observing welding operations while wearing helmets."
+          "Students are observing welding operations while wearing safety goggles."
         ]
       },
       {
