@@ -74,7 +74,7 @@
         "audio": "assets/audio/a_2_i_ex.mp3"
       },
       "activity_2_a": {
-        "text": "Match the words to their definition.\nවචන ඒවායේ අර්ථ දැක්වීම් සමඟ යා කරන්න.\nசொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+        "text": "Match the words to their definition.\nවචන ඒවායේ අර්ථයන් සමඟ ගළපන්න.\nசொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
         "audio": "assets/audio/a_2_i_k.mp3"
       },
       "activity_2_b": {
@@ -94,6 +94,16 @@
         "audio": "assets/audio/a_2_i_j.mp3"
       }
     },
+    "tables": [
+      [
+        ["Demanding", "even more demanding"],
+        ["Inefficient", "even more inefficient"],
+        ["Unpredictable", "even more unpredictable"],
+        ["Outdated", "even more outdated"],
+        ["Disruptive", "even more disruptive"],
+        ["Fragmented", "even more fragmented"]
+      ]
+    ],
     "example_dialogues": [
       {
         "id": "d_1",
@@ -278,7 +288,7 @@
             "sentence": "This glass sheet is more transparent than that plastic sheet because light passes through it easily.",
             "options": [
               "Light passes easily through this glass sheet.",
-              "Light passes more easily through this plastic sheet than glass sheet."
+              "Light passes more easily through this plastic sheet than that glass sheet."
             ],
             "answer": "Light passes easily through this glass sheet."
           },
@@ -305,7 +315,7 @@
             "sentence": "This cover blocks light better than a clear plastic cover because it is more opaque.",
             "options": [
               "Opaque covers block light better.",
-              "Clear plastic cover blocks light better than this cover."
+              "A clear plastic cover blocks light better than this cover."
             ],
             "answer": "Opaque covers block light better."
           },
