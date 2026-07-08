@@ -373,7 +373,7 @@
                 "Start the vehicle’s engine.",
                 "Wait a few seconds for the voltage reading to stabilize.",
                 "Read the alternator output shown on the digital display.",
-                "Compare the voltage with the standard range (13.5V – 14.5V).",
+                "Compare the voltage reading to the standard range (13.5 V–14.5 V) to prevent malfunction.",
                 "Use the “Load Test” button to check alternator performance under load.",
                 "Press “Save” to record the reading or “Reset” to start a new test."
               ]

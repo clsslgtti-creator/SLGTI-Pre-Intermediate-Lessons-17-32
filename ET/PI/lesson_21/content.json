@@ -98,6 +98,16 @@
       [
         ["stiff- stiffer", "heavy- heavier", "flat-flatter"],
         ["smooth- smoother", "dry- drier", "big-bigger"]
+      ],
+      [
+        ["near"],
+        ["This small box", "These smaller boxes"],
+        ["This soft cushion", "These softer cushions"]
+      ],
+      [
+        ["far"],
+        ["That bumpy road", "Those bumpier roads"],
+        ["That new car", "Those newer cars"]
       ]
     ],
     "example_dialogues": [

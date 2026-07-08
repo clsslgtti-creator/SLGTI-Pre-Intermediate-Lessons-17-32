@@ -74,7 +74,7 @@
         "audio": "assets/audio/a_2_i_ex.mp3"
       },
       "activity_2_a": {
-        "text": "Match the words to their definition.\nවචන ඒවායේ අර්ථ දැක්වීම් සමඟ යා කරන්න.\nசொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+        "text": "Match the words to their definition.\nවචන ඒවායේ අර්ථයන් සමඟ ගළපන්න.\nசொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
         "audio": "assets/audio/a_2_i_k.mp3"
       },
       "activity_2_b": {
@@ -94,6 +94,16 @@
         "audio": "assets/audio/a_2_i_j.mp3"
       }
     },
+    "tables": [
+      [
+        ["Demanding", "even more demanding"],
+        ["Inefficient", "even more inefficient"],
+        ["Unpredictable", "even more unpredictable"],
+        ["Outdated", "even more outdated"],
+        ["Disruptive", "even more disruptive"],
+        ["Fragmented", "even more fragmented"]
+      ]
+    ],
     "example_dialogues": [
       {
         "id": "d_1",
@@ -278,7 +288,7 @@
             "sentence": "This glass sheet is more transparent than that plastic sheet because light passes through it easily.",
             "options": [
               "Light passes easily through this glass sheet.",
-              "Light passes more easily through this plastic sheet than glass sheet."
+              "Light passes more easily through this plastic sheet than that glass sheet."
             ],
             "answer": "Light passes easily through this glass sheet."
           },
@@ -305,7 +315,7 @@
             "sentence": "This cover blocks light better than a clear plastic cover because it is more opaque.",
             "options": [
               "Opaque covers block light better.",
-              "Clear plastic cover blocks light better than this cover."
+              "A clear plastic cover blocks light better than this cover."
             ],
             "answer": "Opaque covers block light better."
           },
@@ -450,53 +460,75 @@
         },
         "Questions": [
           {
-            "id": "l_15_1",
-            "question": "Why does the instructor check the oil level before draining it?",
-            "answer": "Because it helps check the oil condition and quantity.",
+            "id": "l_21_1",
+            "question": "What should you check first when preparing the area?",
+            "answer": "Floor is strong and level.",
             "options": [
-              "Because it helps check the draining and quantity.",
-              "Because it helps check the oil condition and quantity.",
-              "Because it helps check the oil condition and engine."
+              "Colour of the posts.",
+              "Floor is strong and level.",
+              "Height of the vehicle."
             ]
           },
           {
-            "id": "l_15_2",
-            "question": "Why is the used oil allowed to drain completely?",
-            "answer": "To avoid problems caused by old oil remaining inside.",
+            "id": "l_21_2",
+            "question": "What is fixed to the floor using anchor bolts?",
+            "answer": "The two posts.",
             "options": [
-              "To avoid problems during servicing by old oil remaining inside.",
-              "To avoid problems caused by old oil remaining inside.",
-              "To avoid problems caused by old oil under the engine."
+              "The hydraulic hoses.",
+              "The two posts.",
+              "The lifting arms."
             ]
           },
           {
-            "id": "l_15_3",
-            "question": "Why is the new oil filter tightened by hand?",
-            "answer": "Because too much force can damage the seal.",
+            "id": "l_21_3",
+            "question": "What is installed between the two posts?",
+            "answer": "The overhead beam or top support.",
             "options": [
-              "Because too many tools can damage the seal.",
-              "Because too much force can damage the seal.",
-              "Because too many filters can damage the seal."
+              "The hydraulic cylinder.",
+              "The overhead beam or top support.",
+              "The control switch."
             ]
           },
           {
-            "id": "l_15_4",
-            "question": "Why is the engine run briefly after refilling oil?",
-            "answer": "To check for leaks after servicing.",
+            "id": "l_21_4",
+            "question": "When should you connect the hydraulic hoses?",
+            "answer": "Before the final step.",
             "options": [
-              "To refill the engine oil after servicing.",
-              "To check for leaks after servicing.",
-              "To increase engine speed after servicing."
+              "Before fixing the posts.",
+              "After filling oil.",
+              "Before the final step."
             ]
           },
           {
-            "id": "l_15_5",
-            "question": "Why does the instructor stress the correct order of brake inspection steps?",
-            "answer": "Because missing steps can cause safety problems.",
+            "id": "l_21_5",
+            "question": "What should you test the lift with first?",
+            "answer": "A light vehicle.",
+            "options": ["A heavy truck.", "No load.", "A light vehicle."]
+          },
+          {
+            "id": "l_21_6",
+            "question": "How often should you check hydraulic oil?",
+            "answer": "Regularly.",
+            "options": ["Regularly.", "Once a year.", "Never."]
+          },
+          {
+            "id": "l_21_7",
+            "question": "What safety equipment rules should you follow?",
+            "answer": "Proper positioning and safe operation.",
             "options": [
-              "Because missing inspections can cause problems.",
-              "Because missing steps can cause safety problems.",
-              "Because missing brakes are safe."
+              "Sunglasses.",
+              "Proper positioning and safe operation.",
+              "Boots when operating the lift."
+            ]
+          },
+          {
+            "id": "l_21_8",
+            "question": "When should the lift be lowered?",
+            "answer": "When no one is under the vehicle.",
+            "options": [
+              "When the area is busy.",
+              "When no one is under the vehicle.",
+              "After turning off the lights."
             ]
           }
         ]
