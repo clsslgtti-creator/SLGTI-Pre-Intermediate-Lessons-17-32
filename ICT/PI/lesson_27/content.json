@@ -49,9 +49,9 @@
       },
       {
         "id": "p_3",
-        "word_text": "ar'ch'itecture",
+        "word_text": "fet'ch'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The ar'ch'itecture supports future scaling effectively.",
+        "sentence_text": "The CPU fet'ch'es instructions from memory.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
