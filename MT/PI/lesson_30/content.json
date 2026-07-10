@@ -220,6 +220,14 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "The supervisor often _____ all safety procedures before practical sessions.",
+            "options": ["explains", "is explaining", "explained"],
+            "answer": "is"
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",
