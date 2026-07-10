@@ -319,6 +319,14 @@
       },
       "activity_b": {
         "bg_image": "assets/img/game/bg-8.jpg",
+        "examples": [
+          {
+            "id": "g_ex",
+            "sentence": "Workers clean the streets every morning. The streets _______________ every morning.",
+            "options": ["is cleaned", "was cleaned", "are cleaned"],
+            "answer": "are cleaned"
+          }
+        ],
         "content": [
           {
             "id": "g_1",
