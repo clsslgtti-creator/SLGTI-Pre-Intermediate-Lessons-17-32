@@ -278,7 +278,7 @@
           {
             "id": "g_b_8",
             "sentence": "You _____ test the grounding system using this device.",
-            "options": ["do", "mustn’t", "can"],
+            "options": ["do", "checks", "can"],
             "answer": "can"
           },
           {
