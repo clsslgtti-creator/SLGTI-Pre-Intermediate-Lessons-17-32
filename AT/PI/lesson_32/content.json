@@ -609,9 +609,9 @@
         "options": [
           "Did they conduct a risk assessment beforehand?",
           "Did they finalised the contract yesterday?",
-          "Did they anticipate the potential delays?"
+          "Did they expect to finish the project before the end of the contract?"
         ],
-        "answer": "Did they anticipate the potential delays?"
+        "answer": "Did they expect to finish the project before the end of the contract?"
       },
       {
         "question": "No, she didn’t. She applied them correctly.",

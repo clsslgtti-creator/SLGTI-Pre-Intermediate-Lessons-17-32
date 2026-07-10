@@ -104,7 +104,7 @@
         "answer": "Do you record the storage temperature every morning?"
       },
       {
-        "question": "No, she doesn’t. She rarely inspects the processing equipment on Monday mornings. She usually evaluates it on Tuesday mornings.",
+        "question": "No, she doesn’t. She rarely inspects the processing equipment on Monday mornings. She usually inspects it on Tuesday mornings.",
         "options": [
           "Does the quality supervisor inspect the processing equipment on Monday mornings?",
           "Do you inspect the processing equipment on Monday mornings?",
@@ -607,9 +607,9 @@
         "options": [
           "Did they conduct a risk assessment beforehand?",
           "Did they finalised the contract yesterday?",
-          "Did they anticipate the potential delays?"
+          "Did they expect to finish the project before the end of the contract?"
         ],
-        "answer": "Did they anticipate the potential delays?"
+        "answer": "Did they expect to finish the project before the end of the contract?"
       },
       {
         "question": "No, she didn’t. She applied them correctly.",
