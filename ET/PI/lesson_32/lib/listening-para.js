@@ -9,7 +9,10 @@ const normalizeId = (raw, index, prefix) => {
   return `${prefix}_${index + 1}`;
 };
 
-const normalizeAnswer = (value) => normalizeText(value).toLowerCase();
+const normalizeAnswer = (value) =>
+  normalizeText(value)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "");
 
 const normalizeAcceptedAnswers = (answer, alternatives = []) => {
   const seen = new Set();
