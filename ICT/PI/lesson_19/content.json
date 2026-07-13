@@ -97,7 +97,7 @@
     "tables": [
       [
         ["Will", "she", "start", "soon?"],
-        [null, "he", "Cook", null],
+        [null, "he", "cook", null],
         [null, "they", "fix the machine", null],
         [null, "I", "set up", null],
         [null, "you", null, null]
