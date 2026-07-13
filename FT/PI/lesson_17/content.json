@@ -96,12 +96,12 @@
     },
     "tables": [
       [
-        ["You", "should", "eat breakfast"],
-        ["He", null, null],
-        ["She", null, "take medicine"],
-        ["It", null, "cook a meal"],
-        ["I", null, "fix the machine"],
-        ["They", null, "work"]
+        ["I", "should", "eat breakfast"],
+        ["You", null, null],
+        ["He", null, "take medicine"],
+        ["She", null, "cook a meal"],
+        ["It", null, "work"],
+        ["They", null, "fix the machine"]
       ]
     ],
     "example_dialogues": [
