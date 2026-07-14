@@ -230,7 +230,7 @@
       {
         "id": "d_9",
         "img": "assets/img/d_9.png",
-        "text_a": "I assessed the new bricklaying method yesterday.",
+        "text_a": "I assessed the new seafood cleaning method yesterday.",
         "text_b": "Good. I thought the old method was labour-intensive.",
         "text_c": "That’s true—but do you know what? The new method is even more labour-intensive.",
         "audio_a": "assets/audio/d_9_a.mp3",
@@ -254,104 +254,119 @@
     },
     "content": {
       "activity_a": {
-        "content": {
-          "title": "Bench Grinder – Instruction Manual",
-          "sections": [
-            {
-              "heading": "Assembly Instructions",
-              "steps": [
-                "First, place the bench grinder on a strong, stable workbench. Ensure the surface is clean and all tools are ready.",
-                "Next, fix the grinder to the bench using bolts and nuts. Tighten them securely to prevent vibration during operation.",
-                "Then, install the grinding wheels on both sides of the machine and tighten the locking nuts properly.",
-                "After that, attach the tool rests and spark guards, and adjust them to the correct position close to the wheels. This will prevent injury.",
-                "Before the final step, connect the power cable and check that the switch is in the off position.",
-                "Finally, switch on the grinder and test it without load to ensure smooth and balanced rotation."
-              ]
-            },
-            {
-              "heading": "Maintenance Tips",
-              "steps": [
-                "Clean the grinder regularly to remove dust and metal particles.",
-                "Check the grinding wheels for cracks or wear before use.",
-                "Adjust tool rests and guards as needed to maintain safety.",
-                "Lubricate moving parts if required according to the manual."
-              ]
-            },
-            {
-              "heading": "Safety Measures",
-              "steps": [
-                "Always wear safety goggles and protective gloves.",
-                "Keep hands away from the rotating grinding wheels.",
-                "Do not use damaged or cracked grinding wheels.",
-                "Switch off the machine before making adjustments or cleaning."
-              ]
-            }
-          ]
-        },
-        "Questions": [
+        "bg_image": "assets/img/game/bg-10.jpg",
+        "examples": [
           {
-            "id": "l_18_1",
-            "question": "What should you check first when preparing the area?",
-            "answer": "Workbench is strong and stable",
+            "id": "g_b_ex",
+            "sentence": "Regular inspections are better than occasional inspections because they detect problems early.",
             "options": [
-              "Colour of the grinder",
-              "Workbench is strong and stable",
-              "Size of the wheels"
-            ]
-          },
+              "POccasional inspections detect problems earlier.",
+              "Regular inspections detect problems early."
+            ],
+            "audio": "assets/audio/g_b_ex.mp3",
+            "answer": "Regular inspections detect problems early."
+          }
+        ],
+        "content": [
           {
-            "id": "l_18_2",
-            "question": "What part performs the grinding action?",
-            "answer": "Grinding wheel",
-            "options": ["Motor", "Switch", "Grinding wheel"]
-          },
-          {
-            "id": "l_18_3",
-            "question": "What will the spark guard help prevent?",
-            "answer": "It will help prevent injury",
+            "id": "g_b_1",
+            "sentence": "Polymer casing is more durable than PVC because it resists cracking.",
             "options": [
-              "It will keep the grinder in a stable position.",
-              "It will help prevent injury",
-              "It will keep away dust and metal particles"
-            ]
+              "PVC resists cracking more than polymer casing.",
+              "Polymer casing resists cracking more than PVC."
+            ],
+            "audio": "assets/audio/g_b_1.mp3",
+            "answer": "Polymer casing resists cracking more than PVC."
           },
           {
-            "id": "l_18_4",
-            "question": "When should you attach the tool rests?",
-            "answer": "After installing the wheels",
+            "id": "g_b_2",
+            "sentence": "Flexible conduits are better than rigid pipes because they bend easily.",
             "options": [
-              "Before fixing the grinder",
-              "After switching on",
-              "After installing the wheels"
-            ]
+              "Rigid pipes are better and bend easily.",
+              "Flexible conduits bend easily and so are better."
+            ],
+            "audio": "assets/audio/g_b_2.mp3",
+            "answer": "Flexible conduits bend easily and so are better."
           },
           {
-            "id": "l_18_5",
-            "question": "What should you test the grinder with first?",
-            "answer": "Without load",
-            "options": ["A metal tool", "A heavy load", "Without load"]
-          },
-          {
-            "id": "l_18_6",
-            "question": "How often should you check the grinding wheels?",
-            "answer": "Before use",
-            "options": ["Never", "Once a year", "Before use"]
-          },
-          {
-            "id": "l_18_7",
-            "question": "What safety equipment should you wear?",
-            "answer": "Safety goggles and gloves",
-            "options": ["Sunglasses", "Safety goggles and gloves", "Sandals"]
-          },
-          {
-            "id": "l_18_8",
-            "question": "When should the grinder be switched off?",
-            "answer": "Before adjustments or cleaning",
+            "id": "g_b_3",
+            "sentence": "Ceramic insulation is better than plastic insulation at preventing melting because it is more heat-resistant.",
             "options": [
-              "During grinding only",
-              "After storing tools",
-              "Before adjustments or cleaning"
-            ]
+              "Plastic doesn’t melt easily.",
+              "Ceramic insulation is better because it prevents melting."
+            ],
+            "audio": "assets/audio/g_b_3.mp3",
+            "answer": "Ceramic insulation is better because it prevents melting."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "This glass sheet is more transparent than that plastic sheet because light passes through it easily.",
+            "options": [
+              "Light passes easily through this glass sheet.",
+              "Light passes more easily through this plastic sheet than that glass sheet."
+            ],
+            "audio": "assets/audio/g_b_4.mp3",
+            "answer": "Light passes easily through this glass sheet."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "The analogue metre is simpler than digital metres because it uses a pointer.",
+            "options": [
+              "The analogue metre is a simpler device.",
+              "A digital metre uses a pointer."
+            ],
+            "audio": "assets/audio/g_b_5.mp3",
+            "answer": "The analogue metre is a simpler device."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "A manual machine is slower than an automatic one at controlling the process safely.",
+            "options": [
+              "A manual machine controls the process safely.",
+              "An automatic machine is faster at controlling the process safely."
+            ],
+            "audio": "assets/audio/g_b_6.mp3",
+            "answer": "A manual machine controls the process safely."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "This cover blocks light better than a clear plastic cover because it is more opaque.",
+            "options": [
+              "Opaque covers block light better.",
+              "A clear plastic cover blocks light better than this cover."
+            ],
+            "audio": "assets/audio/g_b_7.mp3",
+            "answer": "Opaque covers block light better."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Fresh milk is more perishable than dry food because it spoils quickly.",
+            "options": [
+              "Dry food spoils faster than perishables.",
+              "Perishables spoil quickly."
+            ],
+            "audio": "assets/audio/g_b_8.mp3",
+            "answer": "Perishables spoil quickly."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Disposable containers are cheaper than reusable ones because they are single-use.",
+            "options": [
+              "Reusable containers are cheap.",
+              "Disposable containers are single-use."
+            ],
+            "audio": "assets/audio/g_b_9.mp3",
+            "answer": "Disposable containers are single-use."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Biodegradable packaging is better than plastic packaging because it reduces waste.",
+            "options": [
+              "Biodegradable packaging reduces waste.",
+              "Plastic packaging is better at reducing waste."
+            ],
+            "audio": "assets/audio/g_b_10.mp3",
+            "answer": "Biodegradable packaging reduces waste."
           }
         ]
       },
