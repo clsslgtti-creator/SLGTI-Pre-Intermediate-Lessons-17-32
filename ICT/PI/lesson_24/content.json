@@ -318,7 +318,11 @@
         ],
         "sentence": "Do technicians check cables before starting daily network operations?",
         "alternative_answers": [
-          "Do technicians check network cables before starting daily operations?"
+          "Do technicians check network cables before starting daily operations?",
+          "Do technicians check network cables daily before starting operations?",
+          "Do technicians check network cables before starting operations daily?",
+          "Do technicians check cables daily before starting network operations?",
+          "Do technicians check cables before starting network operations daily?"
         ]
       },
       {
