@@ -264,6 +264,14 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "Which loaf of bread developed the __________ unusual texture after yesterday's baking?",
+            "options": ["more", "very", "most"],
+            "answer": "most"
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",

@@ -264,6 +264,14 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-1.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "Which part of the concrete developed the __________ visible crack after yesterday's work?",
+            "options": ["more", "very", "most"],
+            "answer": "most"
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",
