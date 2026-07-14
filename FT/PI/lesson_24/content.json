@@ -310,7 +310,11 @@
           "production",
           "?"
         ],
-        "sentence": "Do technicians check utensils before starting daily production?"
+        "sentence": "Do technicians check utensils before starting daily production?",
+        "alternative_answers": [
+          "Do technicians check utensils daily before starting production?",
+          "Do technicians check utensils before starting production daily?"
+        ]
       },
       {
         "id": "n_3_a_4",
