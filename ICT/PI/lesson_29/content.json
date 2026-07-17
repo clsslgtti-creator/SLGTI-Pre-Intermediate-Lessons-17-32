@@ -186,6 +186,19 @@
     ],
     "dialogues": [
       {
+        "id": "d_9",
+        "img": "assets/img/d_9.jpeg",
+        "text_a": "This is a very high-resolution web camera.",
+        "text_b": "I think so, too.",
+        "text_c": "When was it manufactured?",
+        "text_d": "I am not sure. I think it was manufactured in June 2023.",
+        "audio_a": "assets/audio/d_9_a.mp3",
+        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_c": "assets/audio/d_9_c.mp3",
+        "audio_d": "assets/audio/d_9_d.mp3",
+        "text_d_speaking": "_________________"
+      },
+      {
         "id": "d_4",
         "img": "assets/img/d_4.jpeg",
         "text_a": "This is a very bright touchscreen monitor.",
@@ -248,19 +261,6 @@
         "audio_b": "assets/audio/d_3_b.mp3",
         "audio_c": "assets/audio/d_8_c.mp3",
         "audio_d": "assets/audio/d_8_d.mp3",
-        "text_d_speaking": "_________________"
-      },
-      {
-        "id": "d_9",
-        "img": "assets/img/d_9.jpeg",
-        "text_a": "This is a very high-resolution web camera.",
-        "text_b": "I think so, too.",
-        "text_c": "When was it manufactured?",
-        "text_d": "I am not sure. I think it was manufactured in June 2023.",
-        "audio_a": "assets/audio/d_9_a.mp3",
-        "audio_b": "assets/audio/d_3_b.mp3",
-        "audio_c": "assets/audio/d_9_c.mp3",
-        "audio_d": "assets/audio/d_9_d.mp3",
         "text_d_speaking": "_________________"
       }
     ]
