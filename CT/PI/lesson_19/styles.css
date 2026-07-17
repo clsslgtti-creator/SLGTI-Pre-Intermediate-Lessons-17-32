@@ -1662,21 +1662,6 @@ body {
   margin-top: clamp(1rem, 2.5vw, 1.5rem);
 }
 
-.assessment-result {
-  margin: 0;
-  min-height: 1.35rem;
-  color: var(--color-muted);
-  font-weight: 600;
-}
-
-.assessment-result--success {
-  color: #047857;
-}
-
-.assessment-result--error {
-  color: #b91c1c;
-}
-
 .listening-slide--repeat .dialogue-card,
 .listening-slide--read .dialogue-card {
   border: 1px solid rgba(31, 41, 51, 0.08);

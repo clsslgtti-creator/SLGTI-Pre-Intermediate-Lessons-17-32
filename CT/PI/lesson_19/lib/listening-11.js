@@ -289,6 +289,7 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
   resetBtn.type = "button";
   resetBtn.className = "secondary-btn";
   resetBtn.textContent = "Reset";
+  resetBtn.hidden = true;
 
   const checkBtn = document.createElement("button");
   checkBtn.type = "button";
@@ -300,12 +301,7 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
   scoreEl.className = "listening-feedback listening-feedback--neutral";
   scoreEl.textContent = "";
 
-  const resultEl = document.createElement("p");
-  resultEl.className = "assessment-result";
-  resultEl.setAttribute("role", "status");
-  resultEl.textContent = "";
-
-  actions.append(resetBtn, checkBtn, resultEl, scoreEl);
+  actions.append(resetBtn, checkBtn, scoreEl);
   slide.appendChild(actions);
 
   let playbackController = null;
@@ -324,21 +320,8 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
       isPlaying || !normalized.audio || playbackCount >= 2 || answersChecked;
     playBtn.textContent =
       playbackCount === 0 ? "Start" : playbackCount === 1 ? "Play Again" : "Played Twice";
-    checkBtn.disabled = answersChecked || !entries.length;
-  };
-
-  const setResultMessage = (message = "", tone = "neutral") => {
-    resultEl.textContent = message;
-    resultEl.classList.remove(
-      "assessment-result--error",
-      "assessment-result--success"
-    );
-
-    if (tone === "error") {
-      resultEl.classList.add("assessment-result--error");
-    } else if (tone === "success") {
-      resultEl.classList.add("assessment-result--success");
-    }
+    checkBtn.disabled =
+      answersChecked || isPlaying || playbackCount < 2 || !entries.length;
   };
 
   const clearPlaybackTimers = () => {
@@ -407,21 +390,10 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
   };
 
   const checkAnswers = () => {
-    if (answersChecked) {
+    if (answersChecked || playbackCount < 2 || isPlaying) {
       return;
     }
 
-    if (playbackCount < 2) {
-      setResultMessage("Please listen to the audio twice before submitting.", "error");
-      return;
-    }
-
-    if (!allBlanksFilled()) {
-      setResultMessage("Please fill all to submit.", "error");
-      return;
-    }
-
-    setResultMessage("");
     answersChecked = true;
     let correctCount = 0;
 
@@ -471,7 +443,6 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
     isPlaying = false;
     answersChecked = false;
     status.textContent = "";
-    setResultMessage("");
     scoreEl.textContent = "";
     scoreEl.className = "listening-feedback listening-feedback--neutral";
     entries.forEach((entry) => {
@@ -492,7 +463,6 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
       entry.input.classList.remove("is-correct", "is-incorrect");
       entry.cellEl.classList.remove("is-correct", "is-incorrect");
       entry.feedback.textContent = "";
-      setResultMessage("");
       updateButtonState();
     });
   });
