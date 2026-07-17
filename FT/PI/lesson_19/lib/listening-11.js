@@ -289,6 +289,7 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
   resetBtn.type = "button";
   resetBtn.className = "secondary-btn";
   resetBtn.textContent = "Reset";
+  resetBtn.hidden = true;
 
   const checkBtn = document.createElement("button");
   checkBtn.type = "button";
@@ -319,7 +320,8 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
       isPlaying || !normalized.audio || playbackCount >= 2 || answersChecked;
     playBtn.textContent =
       playbackCount === 0 ? "Start" : playbackCount === 1 ? "Play Again" : "Played Twice";
-    checkBtn.disabled = answersChecked || playbackCount < 2 || !allBlanksFilled();
+    checkBtn.disabled =
+      answersChecked || isPlaying || playbackCount < 2 || !entries.length;
   };
 
   const clearPlaybackTimers = () => {
@@ -388,7 +390,7 @@ const buildFillBlanksSlide = (data = {}, context = {}) => {
   };
 
   const checkAnswers = () => {
-    if (answersChecked || playbackCount < 2 || !allBlanksFilled()) {
+    if (answersChecked || playbackCount < 2 || isPlaying) {
       return;
     }
 

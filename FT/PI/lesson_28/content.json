@@ -205,10 +205,10 @@
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
         "text_a": "Were your parents able to see the registrar in the office yesterday morning?",
-        "text_b": "No, they weren’t able to. She was too busy.",
+        "text_b": "No, they weren’t able to. He was too busy.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
-        "text_b_speaking": "No, ___________________. She ___________________ busy."
+        "text_b_speaking": "No, ___________________. He ___________________ busy."
       },
       {
         "id": "d_9",

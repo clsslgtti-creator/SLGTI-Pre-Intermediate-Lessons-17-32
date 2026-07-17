@@ -524,7 +524,7 @@
           {
             "id": "l_21_5",
             "question": "What should you test the lift with first?",
-            "answer": "A light vehicle.",
+            "answer": "No load.",
             "options": ["A heavy truck.", "No load.", "A light vehicle."]
           },
           {
