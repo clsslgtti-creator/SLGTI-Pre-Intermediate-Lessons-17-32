@@ -481,7 +481,7 @@
             {
               "type": "td",
               "isBlank": true,
-              "answers": ["Urgent"]
+              "answers": ["Urgent", "short of", "urgent"]
             }
           ],
           [
@@ -494,13 +494,13 @@
             {
               "type": "td",
               "isBlank": true,
-              "answers": ["Missing"]
+              "answers": ["Missing", ""]
             }
           ],
           [
             {
               "type": "td",
-              "prefix": "Staples (big)"
+              "prefix": "Staples"
             },
             {
               "type": "td",
@@ -510,15 +510,13 @@
             {
               "type": "td",
               "isBlank": true,
-              "answers": ["Big staples", "big staples"]
+              "answers": ["Big staples", "big staples", "Big", "big"]
             }
           ],
           [
             {
               "type": "td",
-              "prefix": "Clear folders – ",
-              "isBlank": true,
-              "answers": ["brown"]
+              "prefix": "Clear folders – Brown"
             },
             {
               "type": "td",
@@ -528,15 +526,13 @@
             {
               "type": "td",
               "isBlank": true,
-              "answers": ["For manuals"]
+              "answers": ["For manuals", ""]
             }
           ],
           [
             {
               "type": "td",
-              "prefix": "Clear folders – ",
-              "isBlank": true,
-              "answers": ["grey", "gray"]
+              "prefix": "Clear folders – Grey"
             },
             {
               "type": "td",
@@ -546,7 +542,7 @@
             {
               "type": "td",
               "isBlank": true,
-              "answers": ["For manuals"]
+              "answers": ["For manuals", ""]
             }
           ]
         ]

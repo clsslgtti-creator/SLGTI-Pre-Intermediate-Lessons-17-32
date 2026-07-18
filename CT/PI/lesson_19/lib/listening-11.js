@@ -142,9 +142,9 @@ const normalizeBlankTable = (raw = {}) => {
 
           const isBlank = Boolean(cell.isBlank);
           const answers = Array.isArray(cell.answers)
-            ? cell.answers.map((answer) => trimString(answer)).filter(Boolean)
+            ? cell.answers.map((answer) => trimString(answer))
             : [];
-          const normalizedAnswers = answers.map(normalizeAnswer).filter(Boolean);
+          const normalizedAnswers = answers.map(normalizeAnswer);
           const blankId = isBlank ? `blank_${blankIndex + 1}` : "";
           if (isBlank) {
             blankIndex += 1;
